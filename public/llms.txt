@@ -1,6 +1,6 @@
 # Clínica Hispana Nueva Salud La Porte
 
-> Clínica médica hispana en La Porte, TX. Atención profesional 100% en español, sin cita previa, con o sin seguro. Medicina familiar, exámenes de inmigración I-693, laboratorio, ultrasonido, ginecología y más. Lunes a domingo, 9 AM–9 PM.
+> Clínica médica hispana en La Porte, TX (área de Houston). Atención profesional 100% en español, sin cita previa, con o sin seguro. Medicina general, control de enfermedades crónicas, ginecología, laboratorio, ultrasonido, exámenes DOT e inmigración, cirugías menores y más. Lunes a domingo, 9 AM–9 PM.
 
 Datos de contacto:
 - Dirección: 9606 Spencer Hwy Ste D, La Porte, TX 77571
@@ -12,24 +12,35 @@ Datos de contacto:
 
 ## Servicios
 
-- [Medicina Familiar en La Porte](https://www.clinicahispananslaporte.com/services/medicina-familiar)
-- [Examen Médico de Inmigración I-693](https://www.clinicahispananslaporte.com/services/examenes-inmigracion)
-- [Pruebas STD Confidenciales](https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual)
-- [Urología en Español](https://www.clinicahispananslaporte.com/services/urologia)
-- [Control de Diabetes e Hipertensión](https://www.clinicahispananslaporte.com/services/condiciones-cronicas)
-- [Laboratorio Clínico (mismo día)](https://www.clinicahispananslaporte.com/services/laboratorio)
+- [Control de Diabetes, Hipertensión y Colesterol](https://www.clinicahispananslaporte.com/services/condiciones-cronicas)
+- [Exámenes y Tratamiento de la Tiroides](https://www.clinicahispananslaporte.com/services/tiroides)
+- [Exámenes y Tratamiento de Alergias](https://www.clinicahispananslaporte.com/services/alergias)
+- [Pruebas de Flu y COVID y Enfermedades Respiratorias](https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias)
+- [Chequeos Físicos Escolares y Deportivos](https://www.clinicahispananslaporte.com/services/examen-fisico-escolar)
+- [Atención Ginecológica: Papanicolaou y Cultivos](https://www.clinicahispananslaporte.com/services/ginecologia)
+- [Examen y Diagnóstico de Embarazo](https://www.clinicahispananslaporte.com/services/prueba-embarazo)
+- [Tratamientos Anticonceptivos](https://www.clinicahispananslaporte.com/services/anticonceptivos)
+- [Extracción de Implantes Subdérmicos](https://www.clinicahispananslaporte.com/services/extraccion-implantes)
+- [Exámenes del Hombre: PSA y Testosterona](https://www.clinicahispananslaporte.com/services/salud-hombre)
+- [Exámenes de Sangre | Laboratorio](https://www.clinicahispananslaporte.com/services/examenes-sangre)
+- [Examen de Orina y Tratamiento de Infecciones Urinarias](https://www.clinicahispananslaporte.com/services/infecciones-urinarias)
+- [Exámenes de Heces Fecales](https://www.clinicahispananslaporte.com/services/examen-heces)
+- [Prueba de Estreptococo (Strep Test)](https://www.clinicahispananslaporte.com/services/prueba-strep)
+- [Examen de Tuberculosis (TB)](https://www.clinicahispananslaporte.com/services/prueba-tuberculosis)
+- [Pruebas de Enfermedades de Transmisión Sexual (STD)](https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual)
+- [Exámenes de Alcohol y Drogas](https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas)
+- [Electrocardiograma (EKG)](https://www.clinicahispananslaporte.com/services/electrocardiograma)
 - [Ultrasonido y Ecografía](https://www.clinicahispananslaporte.com/services/ultrasonido)
-- [Ginecología y Salud de la Mujer](https://www.clinicahispananslaporte.com/services/ginecologia)
-- [Planificación Familiar](https://www.clinicahispananslaporte.com/services/planificacion-familiar)
-- [Inyección Anticonceptiva](https://www.clinicahispananslaporte.com/services/vacunas-anticonceptivas)
-- [Extracción de Implantes Anticonceptivos](https://www.clinicahispananslaporte.com/services/extraccion-implantes)
-- [Electrocardiograma EKG](https://www.clinicahispananslaporte.com/services/electrocardiograma)
-- [Gripe y Enfermedades Respiratorias](https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias)
-- [Infecciones Urinarias](https://www.clinicahispananslaporte.com/services/infecciones-urinarias)
-- [Infecciones Vaginales](https://www.clinicahispananslaporte.com/services/infecciones-vaginales)
-- [Examen Físico DOT (CDL)](https://www.clinicahispananslaporte.com/services/examen-dot)
-- [Exámenes Físicos (trabajo, escuela, deportes)](https://www.clinicahispananslaporte.com/services/examenes-generales)
-- [Dolor de Espalda y Muscular](https://www.clinicahispananslaporte.com/services/dolores-musculares)
+- [Examen Físico DOT - Licencia CDL](https://www.clinicahispananslaporte.com/services/examen-dot)
+- [Examen Médico de Inmigración I-693](https://www.clinicahispananslaporte.com/services/examenes-inmigracion)
+- [Vacunas contra la Influenza y Toxoide Tetánico](https://www.clinicahispananslaporte.com/services/vacunas)
+- [Sueros Vitaminados (Terapia IV)](https://www.clinicahispananslaporte.com/services/sueros-vitaminados)
+- [Suturas de Heridas](https://www.clinicahispananslaporte.com/services/suturas-heridas)
+- [Cura y Curación de Heridas](https://www.clinicahispananslaporte.com/services/curacion-heridas)
+- [Cirugías Menores](https://www.clinicahispananslaporte.com/services/cirugias-menores)
+- [Drenaje de Abscesos](https://www.clinicahispananslaporte.com/services/drenaje-abscesos)
+- [Extracción de Uñas Encarnadas](https://www.clinicahispananslaporte.com/services/unas-encarnadas)
+- [Farmacia](https://www.clinicahispananslaporte.com/services/farmacia)
 
 ## Páginas
 
@@ -40,12 +51,12 @@ Datos de contacto:
 
 ## Blog
 
-- [Bienvenidos a Clínica Hispana Nueva Salud La Porte](https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud)
-- [Atención médica sin seguro en La Porte](https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte)
-- [Control de diabetes en La Porte](https://www.clinicahispananslaporte.com/blog/control-diabetes-laporte-guia-pacientes)
-- [Examen DOT para camioneros CDL](https://www.clinicahispananslaporte.com/blog/examen-dot-cdl-camioneros-laporte)
-- [Ginecólogos hispanos en La Porte](https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol)
-- [Guía del examen I-693](https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte)
-- [Laboratorio clínico: análisis de sangre](https://www.clinicahispananslaporte.com/blog/laboratorio-clinico-laporte-analisis-sangre)
-- [Médicos autorizados por USCIS (Civil Surgeon)](https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon)
-- [Salud de la mujer en La Porte](https://www.clinicahispananslaporte.com/blog/salud-mujer-laporte-servicios-ginecologia)
+- [atencion-medica-sin-seguro-laporte](https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte)
+- [bienvenidos-clinica-hispana-nueva-salud](https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud)
+- [control-diabetes-laporte-guia-pacientes](https://www.clinicahispananslaporte.com/blog/control-diabetes-laporte-guia-pacientes)
+- [examen-dot-cdl-camioneros-laporte](https://www.clinicahispananslaporte.com/blog/examen-dot-cdl-camioneros-laporte)
+- [ginecologos-hispanos-laporte-hablan-espanol](https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol)
+- [guia-examen-medico-inmigracion-i693-laporte](https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte)
+- [laboratorio-clinico-laporte-analisis-sangre](https://www.clinicahispananslaporte.com/blog/laboratorio-clinico-laporte-analisis-sangre)
+- [medicos-autorizados-uscis-laporte-civil-surgeon](https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon)
+- [salud-mujer-laporte-servicios-ginecologia](https://www.clinicahispananslaporte.com/blog/salud-mujer-laporte-servicios-ginecologia)

@@ -3,7 +3,7 @@ import { setRequestLocale } from "next-intl/server";
 import { Hero } from "@/components/sections/hero";
 import { Services } from "@/components/sections/services";
 import { Gynecology } from "@/components/sections/gynecology";
-import { Urology } from "@/components/sections/urology";
+import { MensHealth } from "@/components/sections/mens-health";
 import { Testimonials } from "@/components/sections/testimonials";
 import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
@@ -42,7 +42,7 @@ export default async function HomePage({
       <Hero />
       <Services />
       <Gynecology />
-      <Urology />
+      <MensHealth />
       <Testimonials />
       <BlogPreview />
       <Faq />

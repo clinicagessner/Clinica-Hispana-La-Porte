@@ -8,8 +8,12 @@ import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import type { Locale, ServiceCardData } from "@/types";
 
-// En el home solo se destacan estos 3; los 18 completos viven en /services.
-const HOME_SERVICE_SLUGS = ["medicina-familiar", "ginecologia", "urologia"];
+// En el home solo se destacan estos 3; el catálogo completo vive en /services.
+const HOME_SERVICE_SLUGS = [
+  "condiciones-cronicas",
+  "ginecologia",
+  "examenes-sangre",
+];
 
 export function Services() {
   const t = useTranslations("Services");

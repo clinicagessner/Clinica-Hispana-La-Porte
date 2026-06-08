@@ -54,16 +54,6 @@
     "point3": "Atención de infecciones y molestias",
     "cta": "Conocer el servicio"
   },
-  "Urology": {
-    "eyebrow": "Tratamientos",
-    "title": "Consulta de Urología en español",
-    "body": "Atendemos los problemas del tracto urinario con respeto y claridad: infecciones urinarias, salud de la próstata, cálculos renales y más, todo en tu idioma.",
-    "cta": "Conocer el servicio",
-    "cond1": "Infecciones urinarias",
-    "cond2": "Salud de la próstata",
-    "cond3": "Cálculos renales",
-    "cond4": "Chequeo urinario"
-  },
   "Testimonials": {
     "eyebrow": "Lo que dicen nuestros pacientes",
     "title": "Una comunidad que confía en nosotros",
@@ -182,5 +172,15 @@
     "title": "Algo salió mal",
     "body": "Ocurrió un error inesperado. Intenta de nuevo.",
     "retry": "Intentar de nuevo"
+  },
+  "MensHealth": {
+    "eyebrow": "Salud del hombre",
+    "title": "Exámenes del Hombre en español",
+    "body": "Cuidamos tu salud con exámenes clave para el hombre: antígeno prostático (PSA), testosterona y chequeo general, con resultados explicados en tu idioma.",
+    "cta": "Conocer el servicio",
+    "cond1": "Antígeno prostático (PSA)",
+    "cond2": "Nivel de testosterona",
+    "cond3": "Chequeo general",
+    "cond4": "Salud de la próstata"
   }
 }

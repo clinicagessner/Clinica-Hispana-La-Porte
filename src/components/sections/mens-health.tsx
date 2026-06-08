@@ -1,23 +1,17 @@
-import {
-  Activity,
-  ArrowRight,
-  Droplet,
-  ShieldCheck,
-  Stethoscope,
-} from "lucide-react";
+import { Activity, ArrowRight, HeartPulse, Mars, ShieldCheck } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 
-export function Urology() {
-  const t = useTranslations("Urology");
+export function MensHealth() {
+  const t = useTranslations("MensHealth");
   const conditions = [
-    { icon: Droplet, label: t("cond1") },
-    { icon: ShieldCheck, label: t("cond2") },
-    { icon: Activity, label: t("cond3") },
-    { icon: Stethoscope, label: t("cond4") },
+    { icon: Mars, label: t("cond1") },
+    { icon: Activity, label: t("cond2") },
+    { icon: HeartPulse, label: t("cond3") },
+    { icon: ShieldCheck, label: t("cond4") },
   ];
 
   return (
@@ -34,7 +28,7 @@ export function Urology() {
             {t("body")}
           </p>
           <Link
-            href="/services/urologia"
+            href="/services/salud-hombre"
             className={cn(ctaButton({ size: "lg" }), "mt-8")}
           >
             {t("cta")}

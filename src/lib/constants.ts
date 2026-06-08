@@ -139,79 +139,80 @@ const AREAS_EN = `## Areas we serve
 
 We care for patients across La Porte, TX and the greater Houston area: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore and surrounding communities.`;
 
+
 export const SERVICES: Service[] = [
   {
-    slug: "medicina-familiar",
+    slug: "condiciones-cronicas",
     order: 1,
     category: "medicina-general",
-    icon: "Stethoscope",
+    icon: "Activity",
     highlighted: true,
-    title: "Medicina Familiar en La Porte",
-    titleEn: "Family Medicine in La Porte",
+    title: "Control de Diabetes, Hipertensión y Colesterol",
+    titleEn: "Diabetes, Hypertension & Cholesterol Care",
     shortDescription:
-      "Atención médica primaria para toda la familia, en español y sin cita previa.",
+      "Exámenes y control de diabetes, presión alta y dislipidemias (colesterol y triglicéridos), con seguimiento cercano.",
     shortDescriptionEn:
-      "Primary medical care for the whole family, in Spanish and walk-ins welcome.",
+      "Testing and management of diabetes, high blood pressure and dyslipidemia (cholesterol and triglycerides), with close follow-up.",
     description:
-      "Medicina familiar en La Porte, TX para niños y adultos. Consultas, chequeos y seguimiento en español, con o sin seguro.",
+      "Control de diabetes, hipertensión y dislipidemias en La Porte, TX. Laboratorio y seguimiento en español, con o sin seguro.",
     descriptionEn:
-      "Family medicine in La Porte, TX for children and adults. Visits, checkups and follow-up in Spanish, with or without insurance.",
+      "Diabetes, hypertension and dyslipidemia management in La Porte, TX. Lab work and follow-up in Spanish, with or without insurance.",
     keywords: [
-      "medicina familiar la porte",
-      "doctor que habla español la porte",
-      "clínica hispana la porte",
-      "consulta médica sin cita la porte",
+      "control de diabetes la porte",
+      "doctor diabetes español la porte",
+      "control de presion alta la porte",
+      "colesterol alto tratamiento la porte",
     ],
     keywordsEn: [
-      "family medicine la porte",
-      "spanish speaking doctor la porte",
-      "hispanic clinic la porte",
-      "walk in clinic la porte",
+      "diabetes management la porte",
+      "high blood pressure doctor la porte",
+      "cholesterol management la porte",
+      "chronic disease clinic la porte",
     ],
     features: [
-      "Consultas para niños y adultos",
-      "Chequeos médicos generales",
-      "Seguimiento de tratamientos",
-      "Recetas y referencias médicas",
+      "Diagnóstico y monitoreo de laboratorio",
+      "Control de glucosa, presión y colesterol",
+      "Ajuste de medicamentos",
+      "Plan de alimentación y hábitos",
     ],
     featuresEn: [
-      "Visits for children and adults",
-      "General medical checkups",
-      "Treatment follow-up",
-      "Prescriptions and referrals",
+      "Diagnosis and lab monitoring",
+      "Glucose, blood pressure and cholesterol control",
+      "Medication adjustment",
+      "Nutrition and lifestyle plan",
     ],
-    longDescription: `La medicina familiar es la base del cuidado de tu salud. En Clínica Hispana Nueva Salud La Porte atendemos a toda la familia —desde los más pequeños hasta los adultos mayores— con un médico que te escucha y te explica todo en español.
+    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Nueva Salud La Porte diseñamos un plan claro y te acompañamos paso a paso, en español.
 
 ## ¿Qué incluye?
 
-- Consulta médica general para niños y adultos
-- Chequeos preventivos y control de salud
-- Diagnóstico y tratamiento de enfermedades comunes
-- Manejo de condiciones crónicas como diabetes e hipertensión
-- Recetas, notas médicas y referencias a especialistas
+- Evaluación inicial y exámenes de laboratorio
+- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
+- Ajuste de medicamentos según tu evolución
+- Plan de alimentación y actividad física
+- Educación sobre tu condición en tu idioma
 
-## Condiciones que atendemos
+## Por qué es importante el control
 
-Gripe y resfriados, infecciones, dolores, presión alta, diabetes, alergias, problemas digestivos y muchas más. Si no estás seguro de a quién acudir, empieza con tu médico de familia.
+Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Family medicine is the foundation of your health care. At Clínica Hispana Nueva Salud La Porte we care for the whole family —from the youngest children to older adults— with a doctor who listens and explains everything in Spanish.
+    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Nueva Salud La Porte we design a clear plan and support you every step of the way, in Spanish.
 
 ## What's included?
 
-- General medical visits for children and adults
-- Preventive checkups and health monitoring
-- Diagnosis and treatment of common illnesses
-- Management of chronic conditions like diabetes and hypertension
-- Prescriptions, medical notes and specialist referrals
+- Initial evaluation and lab work
+- Monitoring of glucose, blood pressure, cholesterol and triglycerides
+- Medication adjustment based on your progress
+- Nutrition and physical-activity plan
+- Education about your condition in your language
 
-## Conditions we treat
+## Why control matters
 
-Flu and colds, infections, aches and pains, high blood pressure, diabetes, allergies, digestive issues and many more. If you're not sure who to see, start with your family doctor.
+Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
 
 ${WHY_EN}
 
@@ -220,77 +221,1087 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "examenes-inmigracion",
+    slug: "tiroides",
     order: 2,
-    category: "examenes",
-    icon: "ClipboardCheck",
-    highlighted: true,
-    title: "Examen Médico de Inmigración I-693 La Porte",
-    titleEn: "Immigration Medical Exam I-693 La Porte",
+    category: "medicina-general",
+    icon: "Thermometer",
+    title: "Exámenes y Tratamiento de la Tiroides",
+    titleEn: "Thyroid Testing & Treatment",
     shortDescription:
-      "Examen médico de inmigración completo con médico autorizado por USCIS y sellado del I-693.",
+      "Diagnóstico y tratamiento de enfermedades de la tiroides (hipotiroidismo e hipertiroidismo) con seguimiento en español.",
     shortDescriptionEn:
-      "Complete immigration medical exam with a USCIS-authorized physician and sealed I-693.",
+      "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Examen médico de inmigración I-693 en La Porte con médico autorizado por USCIS. Vacunas y formulario sellado el mismo día.",
+      "Exámenes y tratamiento de la tiroides en La Porte, TX. Pruebas de laboratorio y control en español, con o sin seguro.",
     descriptionEn:
-      "I-693 immigration medical exam in La Porte with a USCIS-authorized physician. Vaccines and sealed form same day.",
+      "Thyroid testing and treatment in La Porte, TX. Lab tests and follow-up in Spanish, with or without insurance.",
     keywords: [
-      "examen de inmigracion la porte",
-      "examen medico i-693 la porte",
-      "civil surgeon la porte español",
-      "medico autorizado uscis la porte",
+      "tiroides la porte",
+      "examen de tiroides la porte",
+      "hipotiroidismo tratamiento la porte",
+      "doctor tiroides español la porte",
     ],
     keywordsEn: [
-      "immigration medical exam la porte",
-      "i-693 exam la porte",
-      "civil surgeon la porte",
-      "uscis authorized doctor la porte",
+      "thyroid testing la porte",
+      "thyroid doctor la porte",
+      "hypothyroidism treatment la porte",
+      "thyroid clinic la porte",
     ],
     features: [
-      "Médico autorizado (civil surgeon)",
-      "Formulario I-693 sellado",
-      "Vacunas requeridas disponibles",
-      "Proceso explicado en español",
+      "Pruebas de función tiroidea (TSH, T3, T4)",
+      "Diagnóstico de hipo e hipertiroidismo",
+      "Tratamiento y ajuste de medicamentos",
+      "Seguimiento en español",
     ],
     featuresEn: [
-      "Authorized civil surgeon",
-      "Sealed Form I-693",
-      "Required vaccines available",
-      "Process explained in Spanish",
+      "Thyroid function tests (TSH, T3, T4)",
+      "Diagnosis of hypo- and hyperthyroidism",
+      "Treatment and medication adjustment",
+      "Follow-up in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud La Porte lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Nueva Salud La Porte evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
 
 ## ¿Qué incluye?
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+- Evaluación de síntomas
+- Pruebas de función tiroidea (TSH, T3, T4)
+- Diagnóstico de hipotiroidismo o hipertiroidismo
+- Inicio y ajuste del tratamiento
+- Seguimiento periódico
 
-## Qué traer a tu cita
+## Síntomas frecuentes
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud La Porte we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Nueva Salud La Porte we evaluate your thyroid with lab work and provide the right treatment.
 
 ## What's included?
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+- Symptom evaluation
+- Thyroid function tests (TSH, T3, T4)
+- Diagnosis of hypothyroidism or hyperthyroidism
+- Treatment start and adjustment
+- Periodic follow-up
 
-## What to bring
+## Common symptoms
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "alergias",
+    order: 3,
+    category: "medicina-general",
+    icon: "Leaf",
+    title: "Exámenes y Tratamiento de Alergias",
+    titleEn: "Allergy Testing & Treatment",
+    shortDescription:
+      "Evaluación y tratamiento de alergias estacionales, respiratorias y de la piel, con atención en español.",
+    shortDescriptionEn:
+      "Evaluation and treatment of seasonal, respiratory and skin allergies, with care in Spanish.",
+    description:
+      "Exámenes y tratamiento de alergias en La Porte, TX. Diagnóstico y manejo en español, con o sin seguro.",
+    descriptionEn:
+      "Allergy testing and treatment in La Porte, TX. Diagnosis and management in Spanish, with or without insurance.",
+    keywords: [
+      "alergias la porte",
+      "tratamiento de alergias la porte",
+      "doctor de alergias español la porte",
+      "examen de alergias la porte",
+    ],
+    keywordsEn: [
+      "allergy treatment la porte",
+      "allergy testing la porte",
+      "allergy doctor la porte",
+      "allergy clinic la porte",
+    ],
+    features: [
+      "Evaluación de síntomas y desencadenantes",
+      "Tratamiento de alergias respiratorias y de piel",
+      "Manejo de rinitis y congestión",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Evaluation of symptoms and triggers",
+      "Treatment of respiratory and skin allergies",
+      "Management of rhinitis and congestion",
+      "Care in Spanish",
+    ],
+    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Nueva Salud La Porte identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+
+## ¿Qué incluye?
+
+- Evaluación de síntomas y posibles desencadenantes
+- Tratamiento de alergias estacionales y respiratorias
+- Manejo de rinitis, estornudos y congestión
+- Atención de alergias en la piel (ronchas, comezón)
+- Recomendaciones para evitar las crisis
+
+## Cuándo consultar
+
+Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Nueva Salud La Porte we identify what triggers them and help you control them so you feel well again.
+
+## What's included?
+
+- Evaluation of symptoms and possible triggers
+- Treatment of seasonal and respiratory allergies
+- Management of rhinitis, sneezing and congestion
+- Care for skin allergies (hives, itching)
+- Recommendations to avoid flare-ups
+
+## When to seek care
+
+Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "enfermedades-respiratorias",
+    order: 4,
+    category: "medicina-general",
+    icon: "Wind",
+    title: "Pruebas de Flu y COVID y Enfermedades Respiratorias",
+    titleEn: "Flu & COVID Testing and Respiratory Illness Care",
+    shortDescription:
+      "Pruebas de detección de influenza (flu) y COVID, y tratamiento de gripe, tos y enfermedades respiratorias.",
+    shortDescriptionEn:
+      "Influenza (flu) and COVID detection testing, plus treatment of flu, cough and respiratory illnesses.",
+    description:
+      "Pruebas de flu y COVID y tratamiento de enfermedades respiratorias en La Porte, TX. Sin cita previa, en español.",
+    descriptionEn:
+      "Flu and COVID testing and respiratory illness treatment in La Porte, TX. Walk-ins welcome, in Spanish.",
+    keywords: [
+      "prueba de covid la porte",
+      "prueba de flu la porte",
+      "tratamiento gripe la porte",
+      "enfermedades respiratorias la porte",
+    ],
+    keywordsEn: [
+      "covid test la porte",
+      "flu test la porte",
+      "flu treatment la porte",
+      "respiratory illness la porte",
+    ],
+    features: [
+      "Prueba rápida de flu y COVID",
+      "Diagnóstico el mismo día",
+      "Tratamiento de gripe, tos y bronquitis",
+      "Atención sin cita en español",
+    ],
+    featuresEn: [
+      "Rapid flu and COVID testing",
+      "Same-day diagnosis",
+      "Treatment of flu, cough and bronchitis",
+      "Walk-in care in Spanish",
+    ],
+    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud La Porte hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+
+## ¿Qué incluye?
+
+- Prueba rápida de influenza (flu)
+- Prueba de COVID-19
+- Evaluación de síntomas respiratorios
+- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
+- Indicaciones de recuperación y cuidado
+
+## No dejes que avance
+
+Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Nueva Salud La Porte we run rapid tests and provide same-day treatment, no appointment needed.
+
+## What's included?
+
+- Rapid influenza (flu) test
+- COVID-19 test
+- Respiratory symptom evaluation
+- Treatment of flu, cough, bronchitis and throat infections
+- Recovery and care instructions
+
+## Don't let it progress
+
+If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "examen-fisico-escolar",
+    order: 5,
+    category: "examenes",
+    icon: "ClipboardList",
+    title: "Chequeos Físicos Escolares y Deportivos",
+    titleEn: "School & Sports Physical Exams",
+    shortDescription:
+      "Exámenes físicos para la escuela y los deportes, rápidos y con los formularios completados.",
+    shortDescriptionEn:
+      "Physical exams for school and sports, fast and with the forms completed.",
+    description:
+      "Chequeos físicos escolares y deportivos en La Porte, TX. Rápidos, en español y con o sin seguro.",
+    descriptionEn:
+      "School and sports physical exams in La Porte, TX. Fast, in Spanish, with or without insurance.",
+    keywords: [
+      "examen fisico escolar la porte",
+      "physical para la escuela la porte",
+      "examen deportivo la porte",
+      "chequeo escolar la porte",
+    ],
+    keywordsEn: [
+      "school physical la porte",
+      "sports physical la porte",
+      "school physical exam la porte",
+      "kids physical la porte",
+    ],
+    features: [
+      "Examen físico completo",
+      "Revisión de signos vitales",
+      "Formularios escolares y deportivos llenados",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Complete physical exam",
+      "Vital-signs check",
+      "School and sports forms completed",
+      "Care in Spanish",
+    ],
+    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud La Porte lo hacemos de forma rápida y completa, con todos los formularios listos.
+
+## ¿Qué incluye?
+
+- Examen físico general
+- Revisión de signos vitales (peso, talla, presión)
+- Evaluación de visión y audición
+- Llenado de los formularios requeridos
+- Recomendaciones de salud
+
+## Para la escuela y el deporte
+
+Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud La Porte we do it quickly and thoroughly, with all the forms ready.
+
+## What's included?
+
+- General physical exam
+- Vital-signs check (weight, height, blood pressure)
+- Vision and hearing screening
+- Completion of required forms
+- Health recommendations
+
+## For school and sports
+
+Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "ginecologia",
+    order: 6,
+    category: "salud-mujer",
+    icon: "Flower2",
+    highlighted: true,
+    title: "Atención Ginecológica: Papanicolaou y Cultivos",
+    titleEn: "Gynecology Care: Pap Smear & Cultures",
+    shortDescription:
+      "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
+    shortDescriptionEn:
+      "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
+    description:
+      "Atención ginecológica en La Porte, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con o sin seguro.",
+    descriptionEn:
+      "Gynecology care in La Porte, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with or without insurance.",
+    keywords: [
+      "ginecologo la porte español",
+      "papanicolaou la porte",
+      "cultivo vaginal la porte",
+      "infeccion vaginal tratamiento la porte",
+    ],
+    keywordsEn: [
+      "gynecologist la porte spanish",
+      "pap smear la porte",
+      "vaginal culture la porte",
+      "vaginal infection treatment la porte",
+    ],
+    features: [
+      "Papanicolaou y chequeo ginecológico",
+      "Cultivos vaginales",
+      "Tratamiento de infecciones vaginales",
+      "Atención privada en español",
+    ],
+    featuresEn: [
+      "Pap smear and gynecological checkup",
+      "Vaginal cultures",
+      "Treatment of vaginal infections",
+      "Private care in Spanish",
+    ],
+    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud La Porte ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+
+## ¿Qué incluye?
+
+- Papanicolaou y chequeo ginecológico
+- Cultivos vaginales para identificar infecciones
+- Tratamiento de infecciones vaginales (hongos, bacterias)
+- Evaluación de molestias y flujo anormal
+- Referencias cuando se necesita un especialista
+
+## No te quedes con la duda
+
+Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud La Porte we offer gynecology care in Spanish, with the privacy and respect you deserve.
+
+## What's included?
+
+- Pap smear and gynecological checkup
+- Vaginal cultures to identify infections
+- Treatment of vaginal infections (yeast, bacteria)
+- Evaluation of discomfort and abnormal discharge
+- Referrals when a specialist is needed
+
+## Don't stay in doubt
+
+Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "prueba-embarazo",
+    order: 7,
+    category: "salud-mujer",
+    icon: "Baby",
+    title: "Examen y Diagnóstico de Embarazo",
+    titleEn: "Pregnancy Testing & Confirmation",
+    shortDescription:
+      "Pruebas de embarazo confiables y orientación sobre tus siguientes pasos, en español.",
+    shortDescriptionEn:
+      "Reliable pregnancy tests and guidance on your next steps, in Spanish.",
+    description:
+      "Examen y diagnóstico de embarazo en La Porte, TX. Pruebas confiables y orientación en español, con o sin seguro.",
+    descriptionEn:
+      "Pregnancy testing and confirmation in La Porte, TX. Reliable tests and guidance in Spanish, with or without insurance.",
+    keywords: [
+      "prueba de embarazo la porte",
+      "examen de embarazo la porte",
+      "confirmar embarazo la porte",
+      "test de embarazo español la porte",
+    ],
+    keywordsEn: [
+      "pregnancy test la porte",
+      "pregnancy confirmation la porte",
+      "confirm pregnancy la porte",
+      "pregnancy testing la porte",
+    ],
+    features: [
+      "Prueba de embarazo confiable",
+      "Confirmación médica",
+      "Orientación sobre próximos pasos",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Reliable pregnancy test",
+      "Medical confirmation",
+      "Guidance on next steps",
+      "Care in Spanish",
+    ],
+    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Nueva Salud La Porte realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+
+## ¿Qué incluye?
+
+- Prueba de embarazo (orina o sangre)
+- Confirmación médica del resultado
+- Orientación sobre tus siguientes pasos
+- Información sobre control prenatal y referencias
+
+## Con confianza y respeto
+
+Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Nueva Salud La Porte we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+
+## What's included?
+
+- Pregnancy test (urine or blood)
+- Medical confirmation of the result
+- Guidance on your next steps
+- Information on prenatal care and referrals
+
+## With trust and respect
+
+We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "anticonceptivos",
+    order: 8,
+    category: "salud-mujer",
+    icon: "Tablets",
+    title: "Tratamientos Anticonceptivos",
+    titleEn: "Contraceptive Methods",
+    shortDescription:
+      "Orientación y métodos anticonceptivos (pastillas, inyección y más) para decidir con información, en español.",
+    shortDescriptionEn:
+      "Guidance and contraceptive methods (pills, injection and more) to decide with clear information, in Spanish.",
+    description:
+      "Tratamientos anticonceptivos en La Porte, TX: orientación, pastillas e inyección. En español, con o sin seguro.",
+    descriptionEn:
+      "Contraceptive methods in La Porte, TX: guidance, pills and injection. In Spanish, with or without insurance.",
+    keywords: [
+      "anticonceptivos la porte",
+      "metodos anticonceptivos la porte",
+      "inyeccion anticonceptiva la porte",
+      "pastillas anticonceptivas la porte",
+    ],
+    keywordsEn: [
+      "birth control la porte",
+      "contraception clinic la porte",
+      "birth control shot la porte",
+      "birth control pills la porte",
+    ],
+    features: [
+      "Orientación personalizada",
+      "Pastillas e inyección anticonceptiva",
+      "Inicio y seguimiento del método",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Personalized guidance",
+      "Birth control pills and injection",
+      "Method start and follow-up",
+      "Care in Spanish",
+    ],
+    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud La Porte te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+
+## ¿Qué incluye?
+
+- Consulta de orientación personalizada
+- Información sobre los distintos métodos
+- Pastillas anticonceptivas e inyección
+- Inicio y seguimiento del método elegido
+- Resolución de dudas y efectos secundarios
+
+## Una decisión informada
+
+Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud La Porte we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+
+## What's included?
+
+- Personalized guidance visit
+- Information about the different methods
+- Birth control pills and injection
+- Starting and following up on the chosen method
+- Answers to questions and side effects
+
+## An informed decision
+
+Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "extraccion-implantes",
+    order: 9,
+    category: "salud-mujer",
+    icon: "Bandage",
+    title: "Extracción de Implantes Subdérmicos",
+    titleEn: "Subdermal Implant Removal",
+    shortDescription:
+      "Retiro seguro de implantes anticonceptivos subdérmicos del brazo, por personal capacitado.",
+    shortDescriptionEn:
+      "Safe removal of subdermal arm contraceptive implants by trained staff.",
+    description:
+      "Extracción de implantes subdérmicos en La Porte, TX, procedimiento seguro y en español. Con o sin seguro.",
+    descriptionEn:
+      "Subdermal implant removal in La Porte, TX, a safe procedure in Spanish. With or without insurance.",
+    keywords: [
+      "extraccion de implante subdermico la porte",
+      "quitar implante del brazo la porte",
+      "retiro de implante anticonceptivo la porte",
+      "remover implante la porte",
+    ],
+    keywordsEn: [
+      "subdermal implant removal la porte",
+      "arm implant removal la porte",
+      "contraceptive implant removal la porte",
+      "birth control implant removal la porte",
+    ],
+    features: [
+      "Procedimiento ambulatorio",
+      "Anestesia local",
+      "Personal capacitado",
+      "Cuidado posterior explicado",
+    ],
+    featuresEn: [
+      "Outpatient procedure",
+      "Local anesthesia",
+      "Trained staff",
+      "After-care explained",
+    ],
+    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud La Porte lo hacemos de forma segura, rápida y con cuidado.
+
+## ¿Qué incluye?
+
+- Evaluación y localización del implante
+- Extracción ambulatoria con anestesia local
+- Indicaciones claras de cuidado posterior
+- Orientación sobre tus próximos pasos de planificación
+
+## Un procedimiento sencillo
+
+El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud La Porte we do it safely, quickly and with care.
+
+## What's included?
+
+- Evaluation and location of the implant
+- Outpatient removal with local anesthesia
+- Clear after-care instructions
+- Guidance on your next family-planning steps
+
+## A simple procedure
+
+Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "salud-hombre",
+    order: 10,
+    category: "medicina-general",
+    icon: "Mars",
+    highlighted: true,
+    title: "Exámenes del Hombre: PSA y Testosterona",
+    titleEn: "Men's Health Exams: PSA & Testosterone",
+    shortDescription:
+      "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
+    shortDescriptionEn:
+      "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
+    description:
+      "Exámenes del hombre en La Porte, TX: PSA y testosterona. Laboratorio y atención en español, con o sin seguro.",
+    descriptionEn:
+      "Men's health exams in La Porte, TX: PSA and testosterone. Lab work and care in Spanish, with or without insurance.",
+    keywords: [
+      "examen del hombre la porte",
+      "prueba psa la porte",
+      "examen de prostata la porte",
+      "examen de testosterona la porte",
+    ],
+    keywordsEn: [
+      "mens health la porte",
+      "psa test la porte",
+      "prostate exam la porte",
+      "testosterone test la porte",
+    ],
+    features: [
+      "Antígeno prostático (PSA)",
+      "Nivel de testosterona",
+      "Chequeo general del hombre",
+      "Resultados explicados en español",
+    ],
+    featuresEn: [
+      "Prostate antigen (PSA)",
+      "Testosterone level",
+      "General men's checkup",
+      "Results explained in Spanish",
+    ],
+    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Nueva Salud La Porte facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+
+## ¿Qué incluye?
+
+- Examen de antígeno prostático (PSA)
+- Medición del nivel de testosterona
+- Chequeo general y de signos vitales
+- Evaluación de síntomas urinarios o de energía
+- Referencia a especialista si se requiere
+
+## Por qué es importante
+
+El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Nueva Salud La Porte we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+
+## What's included?
+
+- Prostate antigen (PSA) test
+- Testosterone level measurement
+- General checkup and vital signs
+- Evaluation of urinary or energy symptoms
+- Referral to a specialist if needed
+
+## Why it matters
+
+PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "examenes-sangre",
+    order: 11,
+    category: "laboratorio",
+    icon: "FlaskConical",
+    highlighted: true,
+    title: "Exámenes de Sangre | Laboratorio",
+    titleEn: "Blood Tests | Lab",
+    shortDescription:
+      "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
+    shortDescriptionEn:
+      "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
+    description:
+      "Exámenes de sangre en La Porte, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con o sin seguro.",
+    descriptionEn:
+      "Blood tests in La Porte, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with or without insurance.",
+    keywords: [
+      "examenes de sangre la porte",
+      "analisis de sangre la porte",
+      "laboratorio la porte",
+      "laboratorio cerca de mi la porte",
+    ],
+    keywordsEn: [
+      "blood test la porte",
+      "blood work la porte",
+      "lab near me la porte",
+      "clinical lab la porte",
+    ],
+    features: [
+      "Biometría y química sanguínea",
+      "Glucosa, colesterol y triglicéridos",
+      "Pruebas de tiroides, hígado y riñón",
+      "Resultados explicados en español",
+    ],
+    featuresEn: [
+      "CBC and blood chemistry",
+      "Glucose, cholesterol and triglycerides",
+      "Thyroid, liver and kidney tests",
+      "Results explained in Spanish",
+    ],
+    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud La Porte tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+
+## ¿Qué incluye?
+
+- Biometría hemática completa (conteo de células)
+- Química sanguínea (glucosa, colesterol, triglicéridos)
+- Pruebas de tiroides, hígado y riñón
+- Paneles para chequeo general o seguimiento
+- Resultados rápidos en la mayoría de los casos
+
+## Para qué sirven
+
+Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud La Porte we draw your samples on the spot and explain your results in Spanish, without the jargon.
+
+## What's included?
+
+- Complete blood count (CBC)
+- Blood chemistry (glucose, cholesterol, triglycerides)
+- Thyroid, liver and kidney tests
+- Panels for general checkups or follow-up
+- Fast results in most cases
+
+## Why they matter
+
+Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "infecciones-urinarias",
+    order: 12,
+    category: "tratamientos",
+    icon: "Droplet",
+    title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
+    titleEn: "Urinalysis & Urinary Infection Treatment",
+    shortDescription:
+      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+    shortDescriptionEn:
+      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+    description:
+      "Examen de orina y tratamiento de infecciones urinarias en La Porte, TX, el mismo día. En español, con o sin seguro.",
+    descriptionEn:
+      "Urinalysis and urinary infection treatment in La Porte, TX, same day. In Spanish, with or without insurance.",
+    keywords: [
+      "examen de orina la porte",
+      "infeccion urinaria la porte",
+      "tratamiento infeccion urinaria la porte",
+      "doctor infeccion de orina la porte",
+    ],
+    keywordsEn: [
+      "urinalysis la porte",
+      "urinary tract infection la porte",
+      "uti treatment la porte",
+      "uti doctor la porte",
+    ],
+    features: [
+      "Examen de orina en la clínica",
+      "Diagnóstico de infección urinaria",
+      "Tratamiento el mismo día",
+      "Atención sin cita en español",
+    ],
+    featuresEn: [
+      "In-clinic urinalysis",
+      "Diagnosis of urinary infection",
+      "Same-day treatment",
+      "Walk-in care in Spanish",
+    ],
+    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud La Porte te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+
+## ¿Qué incluye?
+
+- Examen general de orina (urianálisis)
+- Evaluación de síntomas
+- Diagnóstico de infección urinaria
+- Tratamiento adecuado el mismo día
+- Indicaciones para evitar que regrese
+
+## Síntomas frecuentes
+
+Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the test and, if there's an infection, we start treatment the same day.
+
+## What's included?
+
+- General urinalysis
+- Symptom evaluation
+- Diagnosis of urinary infection
+- Appropriate same-day treatment
+- Tips to prevent it from coming back
+
+## Common symptoms
+
+Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "examen-heces",
+    order: 13,
+    category: "laboratorio",
+    icon: "TestTubes",
+    title: "Exámenes de Heces Fecales",
+    titleEn: "Stool Tests",
+    shortDescription:
+      "Análisis de heces fecales para detectar infecciones y problemas digestivos, en español.",
+    shortDescriptionEn:
+      "Stool analysis to detect infections and digestive problems, in Spanish.",
+    description:
+      "Exámenes de heces fecales en La Porte, TX. Detección de parásitos e infecciones, en español, con o sin seguro.",
+    descriptionEn:
+      "Stool tests in La Porte, TX. Detection of parasites and infections, in Spanish, with or without insurance.",
+    keywords: [
+      "examen de heces la porte",
+      "analisis de heces fecales la porte",
+      "examen de parasitos la porte",
+      "laboratorio heces la porte",
+    ],
+    keywordsEn: [
+      "stool test la porte",
+      "stool analysis la porte",
+      "parasite test la porte",
+      "stool lab la porte",
+    ],
+    features: [
+      "Análisis de heces fecales",
+      "Detección de parásitos e infecciones",
+      "Evaluación de síntomas digestivos",
+      "Resultados explicados en español",
+    ],
+    featuresEn: [
+      "Stool analysis",
+      "Detection of parasites and infections",
+      "Digestive symptom evaluation",
+      "Results explained in Spanish",
+    ],
+    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Nueva Salud La Porte realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+
+## ¿Qué incluye?
+
+- Análisis general de heces fecales
+- Detección de parásitos
+- Identificación de infecciones intestinales
+- Evaluación de sangre oculta cuando se requiere
+- Resultados explicados en español
+
+## Cuándo es útil
+
+Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Nueva Salud La Porte we perform stool tests to find the source and give you the right treatment.
+
+## What's included?
+
+- General stool analysis
+- Parasite detection
+- Identification of intestinal infections
+- Occult-blood evaluation when needed
+- Results explained in Spanish
+
+## When it helps
+
+Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "prueba-strep",
+    order: 14,
+    category: "laboratorio",
+    icon: "TestTube",
+    title: "Prueba de Estreptococo (Strep Test)",
+    titleEn: "Strep Test",
+    shortDescription:
+      "Prueba rápida de estreptococo (strep) para el dolor de garganta, con resultado el mismo día.",
+    shortDescriptionEn:
+      "Rapid strep test for sore throat, with same-day result.",
+    description:
+      "Prueba de estreptococo (strep test) en La Porte, TX. Resultado rápido y tratamiento en español, con o sin seguro.",
+    descriptionEn:
+      "Strep test in La Porte, TX. Fast result and treatment in Spanish, with or without insurance.",
+    keywords: [
+      "prueba de estreptococo la porte",
+      "strep test la porte",
+      "prueba de garganta la porte",
+      "dolor de garganta doctor la porte",
+    ],
+    keywordsEn: [
+      "strep test la porte",
+      "rapid strep test la porte",
+      "sore throat test la porte",
+      "strep throat doctor la porte",
+    ],
+    features: [
+      "Prueba rápida de estreptococo",
+      "Resultado el mismo día",
+      "Tratamiento si es positivo",
+      "Atención sin cita en español",
+    ],
+    featuresEn: [
+      "Rapid strep test",
+      "Same-day result",
+      "Treatment if positive",
+      "Walk-in care in Spanish",
+    ],
+    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Nueva Salud La Porte hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+
+## ¿Qué incluye?
+
+- Prueba rápida de estreptococo (hisopado de garganta)
+- Resultado en pocos minutos
+- Evaluación del dolor de garganta
+- Tratamiento adecuado si el resultado es positivo
+- Indicaciones de recuperación
+
+## Cuándo hacerla
+
+Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Nueva Salud La Porte we run the rapid strep test and give you the result and treatment the same day.
+
+## What's included?
+
+- Rapid strep test (throat swab)
+- Result in minutes
+- Sore-throat evaluation
+- Appropriate treatment if the result is positive
+- Recovery instructions
+
+## When to get it
+
+Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "prueba-tuberculosis",
+    order: 15,
+    category: "laboratorio",
+    icon: "ShieldPlus",
+    title: "Examen de Tuberculosis (TB)",
+    titleEn: "Tuberculosis (TB) Test",
+    shortDescription:
+      "Prueba de tuberculosis (PPD) para trabajo, escuela o trámites, con lectura en español.",
+    shortDescriptionEn:
+      "Tuberculosis (PPD) test for work, school or paperwork, with reading in Spanish.",
+    description:
+      "Examen de tuberculosis (TB/PPD) en La Porte, TX. Para trabajo y escuela, en español, con o sin seguro.",
+    descriptionEn:
+      "Tuberculosis (TB/PPD) test in La Porte, TX. For work and school, in Spanish, with or without insurance.",
+    keywords: [
+      "examen de tuberculosis la porte",
+      "prueba ppd la porte",
+      "prueba de tb la porte",
+      "tb test español la porte",
+    ],
+    keywordsEn: [
+      "tuberculosis test la porte",
+      "ppd test la porte",
+      "tb test la porte",
+      "tb skin test la porte",
+    ],
+    features: [
+      "Prueba cutánea de tuberculosis (PPD)",
+      "Lectura del resultado",
+      "Útil para trabajo y escuela",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Tuberculosis skin test (PPD)",
+      "Result reading",
+      "Useful for work and school",
+      "Care in Spanish",
+    ],
+    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Nueva Salud La Porte la aplicamos y leemos el resultado, con todo explicado en español.
+
+## ¿Qué incluye?
+
+- Prueba cutánea de tuberculosis (PPD)
+- Cita de lectura del resultado (48–72 horas después)
+- Documentación del resultado para tu trámite
+- Orientación si el resultado requiere seguimiento
+
+## Para qué la piden
+
+Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Nueva Salud La Porte we administer it and read the result, with everything explained in Spanish.
+
+## What's included?
+
+- Tuberculosis skin test (PPD)
+- Result-reading appointment (48–72 hours later)
+- Documentation of the result for your paperwork
+- Guidance if the result needs follow-up
+
+## Why it's required
+
+Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
 
 ${WHY_EN}
 
@@ -300,22 +1311,22 @@ ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-transmision-sexual",
-    order: 3,
+    order: 16,
     category: "laboratorio",
     icon: "ShieldCheck",
-    title: "Pruebas STD Confidenciales La Porte",
-    titleEn: "Confidential STD Testing La Porte",
+    title: "Pruebas de Enfermedades de Transmisión Sexual (STD)",
+    titleEn: "Sexually Transmitted Disease (STD) Testing",
     shortDescription:
-      "Pruebas de enfermedades de transmisión sexual rápidas, confidenciales y sin juicios.",
+      "Pruebas de enfermedades de transmisión sexual confidenciales y sin juicios, con tratamiento.",
     shortDescriptionEn:
-      "Fast, confidential, judgment-free testing for sexually transmitted infections.",
+      "Confidential, judgment-free sexually transmitted disease testing, with treatment.",
     description:
-      "Pruebas de ETS/STD confidenciales en La Porte. Resultados rápidos y tratamiento en español, con o sin seguro.",
+      "Pruebas de ETS/STD confidenciales en La Porte, TX. Resultados y tratamiento en español, con o sin seguro.",
     descriptionEn:
-      "Confidential STD testing in La Porte. Fast results and treatment in Spanish, with or without insurance.",
+      "Confidential STD testing in La Porte, TX. Results and treatment in Spanish, with or without insurance.",
     keywords: [
       "prueba std la porte",
-      "examen enfermedades de transmision sexual la porte",
+      "examen de transmision sexual la porte",
       "prueba ets confidencial la porte",
       "clinica std español la porte",
     ],
@@ -327,17 +1338,17 @@ ${AREAS_EN}`,
     ],
     features: [
       "Pruebas confidenciales y sin juicios",
-      "Resultados rápidos",
+      "Evaluación de síntomas y riesgo",
       "Tratamiento disponible",
       "Atención en español",
     ],
     featuresEn: [
       "Confidential, judgment-free testing",
-      "Fast results",
+      "Symptom and risk assessment",
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud La Porte ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial, respetuosa y sin juicios, con resultados rápidos y tratamiento cuando es necesario.
+    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud La Porte ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
 
 ## ¿Qué incluye?
 
@@ -356,7 +1367,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud La Porte we offer confidential, respectful, judgment-free testing for sexually transmitted infections, with fast results and treatment when needed.
+    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud La Porte we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
 
 ## What's included?
 
@@ -377,155 +1388,74 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "urologia",
-    order: 4,
-    category: "tratamientos",
-    icon: "Droplets",
-    title: "Consulta de Urología",
-    titleEn: "Urology Consultation",
+    slug: "examen-alcohol-drogas",
+    order: 17,
+    category: "examenes",
+    icon: "Beaker",
+    title: "Exámenes de Alcohol y Drogas",
+    titleEn: "Alcohol & Drug Testing",
     shortDescription:
-      "Atención urológica para problemas urinarios, de próstata y del tracto urinario, en español.",
+      "Pruebas de alcohol y drogas para trabajo y trámites, rápidas y con documentación.",
     shortDescriptionEn:
-      "Urology care for urinary, prostate and urinary-tract issues, in Spanish.",
+      "Alcohol and drug testing for work and paperwork, fast and with documentation.",
     description:
-      "Atención urológica en La Porte en español: infecciones urinarias, próstata, cálculos renales y más. Con o sin seguro.",
+      "Exámenes de alcohol y drogas en La Porte, TX. Para empleo y trámites, en español, con o sin seguro.",
     descriptionEn:
-      "Urology care in La Porte in Spanish: urinary infections, prostate, kidney stones and more. With or without insurance.",
+      "Alcohol and drug testing in La Porte, TX. For employment and paperwork, in Spanish, with or without insurance.",
     keywords: [
-      "urologo la porte español",
-      "urologo que habla español la porte",
-      "salud urinaria la porte",
-      "clinica urologia la porte",
+      "examen de drogas la porte",
+      "prueba de alcohol y drogas la porte",
+      "drug test la porte español",
+      "examen de drogas para trabajo la porte",
     ],
     keywordsEn: [
-      "urologist la porte spanish",
-      "spanish speaking urologist la porte",
-      "urinary health la porte",
-      "urology clinic la porte",
+      "drug test la porte",
+      "alcohol and drug test la porte",
+      "employment drug test la porte",
+      "drug screening la porte",
     ],
     features: [
-      "Evaluación de salud urinaria",
-      "Control de próstata",
-      "Manejo de cálculos renales",
-      "Atención en español",
+      "Prueba de drogas para empleo",
+      "Prueba de alcohol",
+      "Proceso rápido",
+      "Documentación del resultado",
     ],
     featuresEn: [
-      "Urinary health evaluation",
-      "Prostate checks",
-      "Kidney stone management",
-      "Care in Spanish",
+      "Drug test for employment",
+      "Alcohol test",
+      "Fast process",
+      "Result documentation",
     ],
-    longDescription: `La salud urológica afecta tanto a hombres como a mujeres y a menudo se posterga por pena o falta de información en español. En Clínica Hispana Nueva Salud La Porte evaluamos y tratamos los problemas del tracto urinario con respeto y claridad.
-
-## ¿Qué atendemos?
-
-- Infecciones urinarias frecuentes
-- Salud y control de la próstata
-- Cálculos renales (piedras en el riñón)
-- Sangre en la orina y otros síntomas urinarios
-- Chequeos preventivos de salud urinaria
-
-## Cuándo consultar
-
-Dolor o ardor al orinar, ganas frecuentes de ir al baño, dolor en la espalda baja o cualquier cambio en la orina son motivos para una evaluación. Atender a tiempo evita complicaciones.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Urological health affects both men and women and is often postponed out of embarrassment or a lack of information in Spanish. At Clínica Hispana Nueva Salud La Porte we evaluate and treat urinary-tract issues with respect and clarity.
-
-## What we treat
-
-- Frequent urinary infections
-- Prostate health and checks
-- Kidney stones
-- Blood in the urine and other urinary symptoms
-- Preventive urinary-health checkups
-
-## When to seek care
-
-Pain or burning when urinating, frequent urge to go, lower-back pain or any change in your urine are reasons for an evaluation. Addressing it early prevents complications.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "condiciones-cronicas",
-    order: 5,
-    category: "medicina-general",
-    icon: "Activity",
-    highlighted: true,
-    title: "Control de Diabetes e Hipertensión La Porte",
-    titleEn: "Diabetes & Hypertension Care La Porte",
-    shortDescription:
-      "Programa de control de diabetes, presión alta y colesterol con seguimiento cercano.",
-    shortDescriptionEn:
-      "Diabetes, high blood pressure and cholesterol management with close follow-up.",
-    description:
-      "Control de diabetes, hipertensión y colesterol en La Porte. Seguimiento y laboratorio en español, con o sin seguro.",
-    descriptionEn:
-      "Diabetes, hypertension and cholesterol management in La Porte. Follow-up and lab work in Spanish, with or without insurance.",
-    keywords: [
-      "control de diabetes la porte",
-      "doctor diabetes español la porte",
-      "control de presion alta la porte",
-      "clinica enfermedades cronicas la porte",
-    ],
-    keywordsEn: [
-      "diabetes management la porte",
-      "high blood pressure doctor la porte",
-      "chronic disease clinic la porte",
-      "cholesterol management la porte",
-    ],
-    features: [
-      "Monitoreo y ajuste de medicamentos",
-      "Laboratorio el mismo día",
-      "Plan de alimentación y hábitos",
-      "Educación en tu idioma",
-    ],
-    featuresEn: [
-      "Medication monitoring and adjustment",
-      "Same-day lab work",
-      "Nutrition and lifestyle plan",
-      "Education in your language",
-    ],
-    longDescription: `Vivir con diabetes, presión alta o colesterol elevado no tiene por qué controlarte a ti. Con el acompañamiento correcto puedes llevar una vida plena. En Clínica Hispana Nueva Salud La Porte diseñamos un plan claro y te seguimos de cerca.
+    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud La Porte la realizamos de forma rápida y te entregamos la documentación que necesitas.
 
 ## ¿Qué incluye?
 
-- Evaluación inicial y análisis de laboratorio
-- Monitoreo de glucosa, presión y colesterol
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en español
+- Prueba de detección de drogas
+- Prueba de alcohol
+- Proceso ágil y discreto
+- Documentación del resultado para tu empleador o trámite
 
-## Por qué es importante el control
+## Para trabajo y trámites
 
-Las condiciones crónicas mal controladas dañan el corazón, los riñones y la vista con el tiempo. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Living with diabetes, high blood pressure or high cholesterol doesn't have to control you. With the right support you can live a full life. At Clínica Hispana Nueva Salud La Porte we design a clear plan and follow you closely.
+    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Nueva Salud La Porte we perform it quickly and give you the documentation you need.
 
 ## What's included?
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure and cholesterol
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in Spanish
+- Drug screening test
+- Alcohol test
+- Quick, discreet process
+- Result documentation for your employer or paperwork
 
-## Why control matters
+## For work and paperwork
 
-Poorly managed chronic conditions damage the heart, kidneys and eyesight over time. Good follow-up prevents complications and improves your quality of life.
+We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
 
 ${WHY_EN}
 
@@ -534,77 +1464,74 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "laboratorio",
-    order: 6,
+    slug: "electrocardiograma",
+    order: 18,
     category: "laboratorio",
-    icon: "FlaskConical",
-    highlighted: true,
-    title: "Laboratorio Clínico Cerca de Mí La Porte | Mismo Día",
-    titleEn: "Clinical Lab Near Me La Porte | Same Day",
+    icon: "HeartPulse",
+    title: "Electrocardiograma (EKG)",
+    titleEn: "Electrocardiogram (EKG)",
     shortDescription:
-      "Análisis de sangre y laboratorio clínico con resultados rápidos, sin cita previa.",
+      "Electrocardiograma (EKG) rápido y sin dolor para evaluar la salud de tu corazón, en español.",
     shortDescriptionEn:
-      "Blood work and clinical lab tests with fast results, no appointment needed.",
+      "Fast, painless electrocardiogram (EKG) to evaluate your heart health, in Spanish.",
     description:
-      "Laboratorio clínico en La Porte: análisis de sangre, orina y más con resultados el mismo día. En español, con o sin seguro.",
+      "Electrocardiograma EKG en La Porte, TX, rápido y sin dolor. Resultados y atención en español, con o sin seguro.",
     descriptionEn:
-      "Clinical lab in La Porte: blood, urine and more with same-day results. In Spanish, with or without insurance.",
+      "Electrocardiogram EKG in La Porte, TX, fast and painless. Results and care in Spanish, with or without insurance.",
     keywords: [
-      "laboratorio clinico la porte",
-      "analisis de sangre la porte",
-      "laboratorio cerca de mi la porte",
-      "examenes de sangre español la porte",
+      "electrocardiograma la porte",
+      "ekg la porte español",
+      "examen del corazon la porte",
+      "ecg la porte",
     ],
     keywordsEn: [
-      "clinical lab la porte",
-      "blood test la porte",
-      "lab near me la porte",
-      "blood work la porte",
+      "electrocardiogram la porte",
+      "ekg la porte",
+      "heart test la porte",
+      "ecg la porte spanish",
     ],
     features: [
-      "Análisis de sangre y orina",
-      "Resultados el mismo día",
-      "Sin cita previa",
-      "Interpretación en español",
+      "Estudio rápido y sin dolor",
+      "Evaluación del ritmo cardiaco",
+      "Útil para exámenes médicos",
+      "Resultados en español",
     ],
     featuresEn: [
-      "Blood and urine analysis",
-      "Same-day results",
-      "Walk-ins welcome",
-      "Results explained in Spanish",
+      "Fast and painless test",
+      "Heart-rhythm evaluation",
+      "Useful for medical exams",
+      "Results in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud La Porte tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud La Porte lo realizamos como parte de chequeos y exámenes médicos.
 
 ## ¿Qué incluye?
 
-- Análisis de sangre completos (biometría, química, etc.)
-- Pruebas de glucosa, colesterol y triglicéridos
-- Pruebas de tiroides, hígado y riñón
-- Examen general de orina
-- Resultados el mismo día en la mayoría de los casos
+- Estudio del ritmo y la actividad del corazón
+- Interpretación por personal médico
+- Útil para exámenes de trabajo, deporte o cirugía
+- Resultados explicados en español
 
-## Para qué sirven
+## Cuándo se recomienda
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de inmigración, trabajo o escuela.
+Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud La Porte we draw your samples on the spot and explain your results in Spanish, without the jargon.
+    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud La Porte we perform it as part of checkups and medical exams.
 
 ## What's included?
 
-- Complete blood work (CBC, chemistry, etc.)
-- Glucose, cholesterol and triglyceride tests
-- Thyroid, liver and kidney tests
-- General urinalysis
-- Same-day results in most cases
+- Study of your heart's rhythm and activity
+- Interpretation by medical staff
+- Useful for work, sports or surgery exams
+- Results explained in Spanish
 
-## Why they matter
+## When it's recommended
 
-Lab tests help detect problems before symptoms appear, follow up on a chronic condition or complete an immigration, work or school exam.
+If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
 
 ${WHY_EN}
 
@@ -614,19 +1541,19 @@ ${AREAS_EN}`,
   },
   {
     slug: "ultrasonido",
-    order: 7,
-    category: "examenes",
+    order: 19,
+    category: "laboratorio",
     icon: "ScanLine",
-    title: "Ultrasonido y Ecografía La Porte TX",
-    titleEn: "Ultrasound & Sonography La Porte TX",
+    title: "Ultrasonido y Ecografía",
+    titleEn: "Ultrasound & Sonography",
     shortDescription:
       "Ultrasonidos diagnósticos y de embarazo con equipo moderno y atención en español.",
     shortDescriptionEn:
       "Diagnostic and pregnancy ultrasounds with modern equipment and care in Spanish.",
     description:
-      "Ultrasonido y ecografía en La Porte: abdominal, pélvico y de embarazo. Atención en español, con o sin seguro.",
+      "Ultrasonido y ecografía en La Porte, TX: abdominal, pélvico y de embarazo. En español, con o sin seguro.",
     descriptionEn:
-      "Ultrasound and sonography in La Porte: abdominal, pelvic and pregnancy. Care in Spanish, with or without insurance.",
+      "Ultrasound and sonography in La Porte, TX: abdominal, pelvic and pregnancy. In Spanish, with or without insurance.",
     keywords: [
       "ultrasonido la porte",
       "ecografia la porte español",
@@ -689,633 +1616,21 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "ginecologia",
-    order: 8,
-    category: "salud-mujer",
-    icon: "Flower2",
-    highlighted: true,
-    title: "Consulta de Ginecología",
-    titleEn: "Gynecology Consultation",
-    shortDescription:
-      "Salud ginecológica integral: papanicolaou, chequeos y atención de la mujer en español.",
-    shortDescriptionEn:
-      "Comprehensive gynecological care: Pap smears, checkups and women's health in Spanish.",
-    description:
-      "Ginecología en La Porte en español: papanicolaou, chequeos y salud de la mujer. Con o sin seguro, sin cita previa.",
-    descriptionEn:
-      "Gynecology in La Porte in Spanish: Pap smears, checkups and women's health. With or without insurance, walk-ins welcome.",
-    keywords: [
-      "ginecologo la porte español",
-      "clinica de la mujer la porte",
-      "papanicolaou la porte",
-      "ginecologia hispana la porte",
-    ],
-    keywordsEn: [
-      "gynecologist la porte spanish",
-      "womens clinic la porte",
-      "pap smear la porte",
-      "hispanic gynecology la porte",
-    ],
-    features: [
-      "Papanicolaou y chequeo anual",
-      "Salud de la mujer integral",
-      "Orientación en planificación",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Pap smear and annual checkup",
-      "Comprehensive women's health",
-      "Family-planning guidance",
-      "Care in Spanish",
-    ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud La Porte ofrecemos atención ginecológica integral en español, con la privacidad y el respeto que mereces en cada etapa de tu vida.
-
-## ¿Qué incluye?
-
-- Papanicolaou y chequeo ginecológico anual
-- Evaluación de salud de la mujer
-- Orientación en métodos de planificación familiar
-- Atención de molestias e infecciones
-- Referencias cuando se necesita un especialista
-
-## Prevención que salva vidas
-
-El chequeo ginecológico regular permite detectar a tiempo cambios importantes. No esperes a tener síntomas: la prevención es tu mejor aliada.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud La Porte we offer comprehensive gynecological care in Spanish, with the privacy and respect you deserve at every stage of life.
-
-## What's included?
-
-- Pap smear and annual gynecological checkup
-- Women's health evaluation
-- Guidance on family-planning methods
-- Care for discomfort and infections
-- Referrals when a specialist is needed
-
-## Prevention that saves lives
-
-Regular gynecological checkups allow important changes to be caught early. Don't wait for symptoms: prevention is your best ally.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "planificacion-familiar",
-    order: 9,
-    category: "salud-mujer",
-    icon: "Users",
-    title: "Planificación Familiar La Porte TX",
-    titleEn: "Family Planning La Porte TX",
-    shortDescription:
-      "Orientación y métodos de planificación familiar para decidir con información, en español.",
-    shortDescriptionEn:
-      "Family-planning guidance and methods to decide with clear information, in Spanish.",
-    description:
-      "Planificación familiar en La Porte: orientación y métodos anticonceptivos en español. Con o sin seguro.",
-    descriptionEn:
-      "Family planning in La Porte: guidance and contraceptive methods in Spanish. With or without insurance.",
-    keywords: [
-      "planificacion familiar la porte",
-      "metodos anticonceptivos la porte",
-      "clinica planificacion español la porte",
-      "anticonceptivos la porte español",
-    ],
-    keywordsEn: [
-      "family planning la porte",
-      "birth control la porte",
-      "contraception clinic la porte",
-      "birth control spanish la porte",
-    ],
-    features: [
-      "Orientación personalizada",
-      "Métodos anticonceptivos",
-      "Seguimiento médico",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Personalized guidance",
-      "Contraceptive methods",
-      "Medical follow-up",
-      "Care in Spanish",
-    ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es un derecho. En Clínica Hispana Nueva Salud La Porte te damos información clara, sin juicios y en español para que elijas el método que mejor se adapta a ti.
-
-## ¿Qué incluye?
-
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
-
-## Una decisión informada
-
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is a right. At Clínica Hispana Nueva Salud La Porte we give you clear, judgment-free information in Spanish so you can choose the method that best fits you.
-
-## What's included?
-
-- Personalized guidance visit
-- Information about the different methods
-- Starting and following up on the chosen method
-- Answers to questions and side effects
-
-## An informed decision
-
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "vacunas-anticonceptivas",
-    order: 10,
-    category: "salud-mujer",
-    icon: "Syringe",
-    title: "Inyección Anticonceptiva La Porte",
-    titleEn: "Contraceptive Injection La Porte",
-    shortDescription:
-      "Aplicación de la inyección anticonceptiva con seguimiento y orientación en español.",
-    shortDescriptionEn:
-      "Contraceptive injection with follow-up and guidance in Spanish.",
-    description:
-      "Inyección anticonceptiva en La Porte con seguimiento médico, en español. Con o sin seguro, sin cita previa.",
-    descriptionEn:
-      "Contraceptive injection in La Porte with medical follow-up, in Spanish. With or without insurance, walk-ins welcome.",
-    keywords: [
-      "inyeccion anticonceptiva la porte",
-      "inyeccion para no quedar embarazada la porte",
-      "anticonceptivo inyectable la porte",
-      "depo provera la porte español",
-    ],
-    keywordsEn: [
-      "contraceptive injection la porte",
-      "birth control shot la porte",
-      "depo shot la porte",
-      "contraceptive shot spanish la porte",
-    ],
-    features: [
-      "Aplicación por personal médico",
-      "Recordatorio de tu próxima dosis",
-      "Orientación sobre el método",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Administered by medical staff",
-      "Reminder for your next dose",
-      "Guidance about the method",
-      "Care in Spanish",
-    ],
-    longDescription: `La inyección anticonceptiva es un método cómodo y eficaz para quienes prefieren no tomar pastillas todos los días. En Clínica Hispana Nueva Salud La Porte te la aplicamos con seguridad y te ayudamos a llevar el control de tus dosis.
-
-## ¿Qué incluye?
-
-- Evaluación breve para confirmar que es adecuada para ti
-- Aplicación por personal médico
-- Orientación sobre cómo actúa y qué esperar
-- Recordatorio de la fecha de tu próxima dosis
-
-## Constancia para que funcione
-
-Para mantener su eficacia, la inyección debe aplicarse en el intervalo indicado. Te ayudamos a no perder tu cita para que estés siempre protegida.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `The contraceptive injection is a convenient, effective method for those who prefer not to take a daily pill. At Clínica Hispana Nueva Salud La Porte we administer it safely and help you keep track of your doses.
-
-## What's included?
-
-- A brief evaluation to confirm it's right for you
-- Administration by medical staff
-- Guidance on how it works and what to expect
-- A reminder for your next dose date
-
-## Consistency for it to work
-
-To stay effective, the injection must be given within the recommended interval. We help you keep your appointment so you're always protected.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "extraccion-implantes",
-    order: 11,
-    category: "salud-mujer",
-    icon: "Bandage",
-    title: "Extracción de Implantes Anticonceptivos La Porte",
-    titleEn: "Contraceptive Implant Removal La Porte",
-    shortDescription:
-      "Retiro seguro de implantes anticonceptivos del brazo, por personal capacitado.",
-    shortDescriptionEn:
-      "Safe removal of arm contraceptive implants by trained staff.",
-    description:
-      "Extracción de implantes anticonceptivos en La Porte, procedimiento seguro y en español. Con o sin seguro.",
-    descriptionEn:
-      "Contraceptive implant removal in La Porte, a safe procedure in Spanish. With or without insurance.",
-    keywords: [
-      "extraccion de implante anticonceptivo la porte",
-      "quitar implante del brazo la porte",
-      "retiro de nexplanon la porte",
-      "remover implante anticonceptivo la porte",
-    ],
-    keywordsEn: [
-      "contraceptive implant removal la porte",
-      "arm implant removal la porte",
-      "nexplanon removal la porte",
-      "birth control implant removal la porte",
-    ],
-    features: [
-      "Procedimiento ambulatorio",
-      "Personal capacitado",
-      "Cuidado posterior explicado",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Outpatient procedure",
-      "Trained staff",
-      "After-care explained",
-      "Care in Spanish",
-    ],
-    longDescription: `Si llegó el momento de retirar tu implante anticonceptivo —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud La Porte lo hacemos de forma segura, rápida y con cuidado.
-
-## ¿Qué incluye?
-
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
-
-## Un procedimiento sencillo
-
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your contraceptive implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud La Porte we do it safely, quickly and with care.
-
-## What's included?
-
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
-
-## A simple procedure
-
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "electrocardiograma",
-    order: 12,
-    category: "examenes",
-    icon: "HeartPulse",
-    title: "Electrocardiograma EKG La Porte TX",
-    titleEn: "Electrocardiogram EKG La Porte TX",
-    shortDescription:
-      "Electrocardiograma (EKG) rápido para evaluar la salud de tu corazón, en español.",
-    shortDescriptionEn:
-      "Fast electrocardiogram (EKG) to evaluate your heart health, in Spanish.",
-    description:
-      "Electrocardiograma EKG en La Porte, rápido y sin dolor. Resultados y atención en español, con o sin seguro.",
-    descriptionEn:
-      "Electrocardiogram EKG in La Porte, fast and painless. Results and care in Spanish, with or without insurance.",
-    keywords: [
-      "electrocardiograma la porte",
-      "ekg la porte español",
-      "examen del corazon la porte",
-      "ecg la porte",
-    ],
-    keywordsEn: [
-      "electrocardiogram la porte",
-      "ekg la porte",
-      "heart test la porte",
-      "ecg la porte spanish",
-    ],
-    features: [
-      "Estudio rápido y sin dolor",
-      "Evaluación del ritmo cardiaco",
-      "Útil para exámenes médicos",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Fast and painless test",
-      "Heart-rhythm evaluation",
-      "Useful for medical exams",
-      "Care in Spanish",
-    ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud La Porte lo realizamos como parte de chequeos y exámenes médicos.
-
-## ¿Qué incluye?
-
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
-
-## Cuándo se recomienda
-
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud La Porte we perform it as part of checkups and medical exams.
-
-## What's included?
-
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
-
-## When it's recommended
-
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "enfermedades-respiratorias",
-    order: 13,
-    category: "tratamientos",
-    icon: "Wind",
-    title: "Tratamiento Gripe y Enfermedades Respiratorias La Porte",
-    titleEn: "Flu & Respiratory Illness Treatment La Porte",
-    shortDescription:
-      "Diagnóstico y tratamiento de gripe, tos, bronquitis y otras enfermedades respiratorias.",
-    shortDescriptionEn:
-      "Diagnosis and treatment of flu, cough, bronchitis and other respiratory illnesses.",
-    description:
-      "Tratamiento de gripe y enfermedades respiratorias en La Porte, en español. Sin cita previa, con o sin seguro.",
-    descriptionEn:
-      "Flu and respiratory illness treatment in La Porte, in Spanish. Walk-ins welcome, with or without insurance.",
-    keywords: [
-      "tratamiento gripe la porte",
-      "doctor para la tos la porte español",
-      "enfermedades respiratorias la porte",
-      "clinica gripe sin cita la porte",
-    ],
-    keywordsEn: [
-      "flu treatment la porte",
-      "cough doctor la porte",
-      "respiratory illness la porte",
-      "walk in flu clinic la porte",
-    ],
-    features: [
-      "Diagnóstico el mismo día",
-      "Tratamiento para gripe y tos",
-      "Manejo de bronquitis y alergias",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Same-day diagnosis",
-      "Treatment for flu and cough",
-      "Bronchitis and allergy care",
-      "Care in Spanish",
-    ],
-    longDescription: `La gripe, la tos persistente y las infecciones respiratorias pueden complicarse si no se atienden a tiempo. En Clínica Hispana Nueva Salud La Porte te recibimos sin cita para diagnosticar y tratar lo antes posible.
-
-## ¿Qué atendemos?
-
-- Gripe y resfriados fuertes
-- Tos persistente y bronquitis
-- Infecciones de garganta y senos nasales
-- Alergias respiratorias
-- Dificultad para respirar leve a moderada
-
-## No dejes que avance
-
-Si los síntomas no mejoran, hay fiebre alta o cuesta respirar, es mejor evaluarte. Un tratamiento oportuno acorta la enfermedad y evita complicaciones.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Flu, a lingering cough and respiratory infections can get worse if not treated in time. At Clínica Hispana Nueva Salud La Porte we see you without an appointment to diagnose and treat as soon as possible.
-
-## What we treat
-
-- Flu and severe colds
-- Persistent cough and bronchitis
-- Throat and sinus infections
-- Respiratory allergies
-- Mild to moderate shortness of breath
-
-## Don't let it progress
-
-If symptoms don't improve, there's a high fever or breathing is hard, it's best to get evaluated. Timely treatment shortens the illness and prevents complications.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "infecciones-urinarias",
-    order: 14,
-    category: "tratamientos",
-    icon: "Droplet",
-    title: "Tratamiento Infecciones Urinarias La Porte",
-    titleEn: "Urinary Infection Treatment La Porte",
-    shortDescription:
-      "Diagnóstico y tratamiento de infecciones urinarias el mismo día, en español.",
-    shortDescriptionEn:
-      "Same-day diagnosis and treatment of urinary infections, in Spanish.",
-    description:
-      "Tratamiento de infecciones urinarias en La Porte, el mismo día y en español. Con o sin seguro, sin cita previa.",
-    descriptionEn:
-      "Urinary infection treatment in La Porte, same day and in Spanish. With or without insurance, walk-ins welcome.",
-    keywords: [
-      "infeccion urinaria la porte",
-      "tratamiento infeccion urinaria la porte español",
-      "doctor infeccion de orina la porte",
-      "clinica infeccion urinaria sin cita la porte",
-    ],
-    keywordsEn: [
-      "urinary tract infection la porte",
-      "uti treatment la porte",
-      "uti doctor la porte spanish",
-      "walk in uti clinic la porte",
-    ],
-    features: [
-      "Diagnóstico con prueba de orina",
-      "Tratamiento el mismo día",
-      "Sin cita previa",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Diagnosis with a urine test",
-      "Same-day treatment",
-      "Walk-ins welcome",
-      "Care in Spanish",
-    ],
-    longDescription: `Las infecciones urinarias son muy comunes y, tratadas a tiempo, se resuelven rápido. En Clínica Hispana Nueva Salud La Porte te diagnosticamos con una prueba sencilla y empezamos el tratamiento el mismo día.
-
-## ¿Qué incluye?
-
-- Evaluación de síntomas
-- Prueba de orina en la clínica
-- Tratamiento adecuado el mismo día
-- Indicaciones para evitar que regrese
-
-## Síntomas frecuentes
-
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. Si los tienes, no esperes: una infección sin tratar puede llegar a los riñones.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Urinary infections are very common and, treated in time, clear up quickly. At Clínica Hispana Nueva Salud La Porte we diagnose you with a simple test and start treatment the same day.
-
-## What's included?
-
-- Symptom evaluation
-- In-clinic urine test
-- Appropriate same-day treatment
-- Tips to prevent it from coming back
-
-## Common symptoms
-
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. If you have them, don't wait: an untreated infection can reach the kidneys.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
-    slug: "infecciones-vaginales",
-    order: 15,
-    category: "salud-mujer",
-    icon: "Flower",
-    title: "Tratamiento Infecciones Vaginales La Porte",
-    titleEn: "Vaginal Infection Treatment La Porte",
-    shortDescription:
-      "Diagnóstico y tratamiento de infecciones vaginales con discreción y en español.",
-    shortDescriptionEn:
-      "Diagnosis and treatment of vaginal infections, discreet and in Spanish.",
-    description:
-      "Tratamiento de infecciones vaginales en La Porte, discreto y en español. Con o sin seguro, sin cita previa.",
-    descriptionEn:
-      "Vaginal infection treatment in La Porte, discreet and in Spanish. With or without insurance, walk-ins welcome.",
-    keywords: [
-      "infeccion vaginal la porte",
-      "tratamiento infeccion vaginal la porte español",
-      "doctor infeccion vaginal la porte",
-      "clinica salud femenina la porte",
-    ],
-    keywordsEn: [
-      "vaginal infection la porte",
-      "yeast infection treatment la porte",
-      "vaginal infection doctor la porte",
-      "womens health clinic la porte",
-    ],
-    features: [
-      "Evaluación discreta",
-      "Diagnóstico preciso",
-      "Tratamiento el mismo día",
-      "Atención en español",
-    ],
-    featuresEn: [
-      "Discreet evaluation",
-      "Accurate diagnosis",
-      "Same-day treatment",
-      "Care in Spanish",
-    ],
-    longDescription: `Las molestias vaginales son frecuentes y tienen solución. En Clínica Hispana Nueva Salud La Porte te atendemos con discreción y respeto para identificar la causa y darte el tratamiento correcto.
-
-## ¿Qué incluye?
-
-- Evaluación de síntomas con privacidad
-- Diagnóstico de la causa (hongos, bacterias, etc.)
-- Tratamiento adecuado el mismo día
-- Recomendaciones para prevenir recaídas
-
-## No te quedes con la duda
-
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un diagnóstico correcto evita tratamientos equivocados y resuelve la molestia más rápido.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Vaginal discomfort is common and treatable. At Clínica Hispana Nueva Salud La Porte we care for you with discretion and respect to identify the cause and give you the right treatment.
-
-## What's included?
-
-- Private symptom evaluation
-- Diagnosis of the cause (yeast, bacteria, etc.)
-- Appropriate same-day treatment
-- Recommendations to prevent recurrence
-
-## Don't stay in doubt
-
-Itching, burning, unusual discharge or odor are signs something needs attention. An accurate diagnosis avoids the wrong treatment and resolves the discomfort faster.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
-  },
-  {
     slug: "examen-dot",
-    order: 16,
+    order: 20,
     category: "examenes",
     icon: "Truck",
-    title: "Examen Físico DOT La Porte - Licencia CDL",
-    titleEn: "DOT Physical Exam La Porte - CDL License",
+    highlighted: true,
+    title: "Examen Físico DOT - Licencia CDL",
+    titleEn: "DOT Physical Exam - CDL License",
     shortDescription:
       "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
     shortDescriptionEn:
       "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
     description:
-      "Examen físico DOT en La Porte para licencia CDL, certificado el mismo día y en español. Con o sin seguro.",
+      "Examen físico DOT en La Porte, TX para licencia CDL, certificado el mismo día y en español. Con o sin seguro.",
     descriptionEn:
-      "DOT physical exam in La Porte for CDL license, same-day certificate, in Spanish. With or without insurance.",
+      "DOT physical exam in La Porte, TX for CDL license, same-day certificate, in Spanish. With or without insurance.",
     keywords: [
       "examen dot la porte",
       "examen fisico dot la porte español",
@@ -1380,78 +1695,76 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "examenes-generales",
-    order: 17,
+    slug: "examenes-inmigracion",
+    order: 21,
     category: "examenes",
-    icon: "ClipboardList",
-    title: "Exámenes Físicos La Porte - Trabajo, Escuela, Deportes",
-    titleEn: "Physical Exams La Porte - Work, School, Sports",
+    icon: "ClipboardCheck",
+    title: "Examen Médico de Inmigración I-693",
+    titleEn: "Immigration Medical Exam I-693",
     shortDescription:
-      "Exámenes físicos para trabajo, escuela y deportes, rápidos y en español.",
+      "Examen médico de inmigración con médico autorizado por USCIS y el Formulario I-693 sellado.",
     shortDescriptionEn:
-      "Physical exams for work, school and sports, fast and in Spanish.",
+      "Immigration medical exam with a USCIS-authorized physician and the sealed Form I-693.",
     description:
-      "Exámenes físicos en La Porte para trabajo, escuela y deportes. Rápidos, en español y con o sin seguro.",
+      "Examen médico de inmigración I-693 en La Porte, TX con médico autorizado por USCIS. Vacunas y formulario sellado.",
     descriptionEn:
-      "Physical exams in La Porte for work, school and sports. Fast, in Spanish, with or without insurance.",
+      "I-693 immigration medical exam in La Porte, TX with a USCIS-authorized physician. Vaccines and sealed form.",
     keywords: [
-      "examen fisico la porte",
-      "examen fisico para trabajo la porte",
-      "examen fisico escolar la porte",
-      "physical exam la porte español",
+      "examen de inmigracion la porte",
+      "examen medico i-693 la porte",
+      "civil surgeon la porte español",
+      "medico autorizado uscis la porte",
     ],
     keywordsEn: [
-      "physical exam la porte",
-      "work physical la porte",
-      "school physical la porte",
-      "sports physical la porte",
+      "immigration medical exam la porte",
+      "i-693 exam la porte",
+      "civil surgeon la porte",
+      "uscis authorized doctor la porte",
     ],
     features: [
-      "Examen para trabajo y escuela",
-      "Examen deportivo",
-      "Formularios completados",
-      "Atención en español",
+      "Médico autorizado (civil surgeon)",
+      "Formulario I-693 sellado",
+      "Vacunas requeridas disponibles",
+      "Proceso explicado en español",
     ],
     featuresEn: [
-      "Work and school exams",
-      "Sports physicals",
-      "Forms completed",
-      "Care in Spanish",
+      "Authorized civil surgeon",
+      "Sealed Form I-693",
+      "Required vaccines available",
+      "Process explained in Spanish",
     ],
-    longDescription: `Cuando necesitas un examen físico para un nuevo trabajo, la escuela o un deporte, en Clínica Hispana Nueva Salud La Porte te lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud La Porte lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
 
 ## ¿Qué incluye?
 
-- Examen físico general
-- Revisión de signos vitales
-- Llenado de formularios requeridos
-- Recomendaciones de salud personalizadas
+- Revisión de historial médico y de vacunas
+- Examen físico completo
+- Pruebas requeridas por USCIS (incluida la de tuberculosis)
+- Aplicación de las vacunas que te falten
+- Formulario I-693 completado y sellado en sobre oficial
 
-## Para cada necesidad
+## Qué traer a tu cita
 
-- **Trabajo:** cumple los requisitos de tu empleador.
-- **Escuela:** examen para inscripción y actividades.
-- **Deportes:** evaluación para practicar con seguridad.
+Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `When you need a physical exam for a new job, school or a sport, at Clínica Hispana Nueva Salud La Porte we do it quickly and thoroughly, with all the forms ready.
+    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud La Porte we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
 
 ## What's included?
 
-- General physical exam
-- Vital-signs check
-- Completion of required forms
-- Personalized health recommendations
+- Review of medical and vaccination history
+- Complete physical exam
+- USCIS-required tests (including tuberculosis)
+- Administration of any missing vaccines
+- Form I-693 completed and sealed in the official envelope
 
-## For every need
+## What to bring
 
-- **Work:** meet your employer's requirements.
-- **School:** exam for enrollment and activities.
-- **Sports:** evaluation to play safely.
+Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
 
 ${WHY_EN}
 
@@ -1460,76 +1773,544 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "dolores-musculares",
-    order: 18,
+    slug: "vacunas",
+    order: 22,
     category: "tratamientos",
-    icon: "Bone",
-    title: "Tratamiento Dolor de Espalda y Muscular La Porte",
-    titleEn: "Back & Muscle Pain Treatment La Porte",
+    icon: "Syringe",
+    title: "Vacunas contra la Influenza y Toxoide Tetánico",
+    titleEn: "Flu and Tetanus (Tdap) Vaccines",
     shortDescription:
-      "Evaluación y tratamiento del dolor de espalda y muscular para que recuperes tu movilidad.",
+      "Vacuna contra la influenza (flu) y toxoide tetánico, aplicadas por personal médico, en español.",
     shortDescriptionEn:
-      "Evaluation and treatment of back and muscle pain so you regain mobility.",
+      "Influenza (flu) vaccine and tetanus toxoid, administered by medical staff, in Spanish.",
     description:
-      "Tratamiento del dolor de espalda y muscular en La Porte, en español. Con o sin seguro, sin cita previa.",
+      "Vacunas de flu y toxoide tetánico en La Porte, TX. Aplicación por personal médico en español, con o sin seguro.",
     descriptionEn:
-      "Back and muscle pain treatment in La Porte, in Spanish. With or without insurance, walk-ins welcome.",
+      "Flu and tetanus vaccines in La Porte, TX. Administered by medical staff in Spanish, with or without insurance.",
     keywords: [
-      "dolor de espalda la porte",
-      "tratamiento dolor muscular la porte español",
-      "doctor dolor de espalda la porte",
-      "clinica dolor la porte",
+      "vacuna de la flu la porte",
+      "vacuna contra la influenza la porte",
+      "toxoide tetanico la porte",
+      "vacuna del tetano la porte",
     ],
     keywordsEn: [
-      "back pain treatment la porte",
-      "muscle pain doctor la porte",
-      "back pain doctor la porte spanish",
-      "pain clinic la porte",
+      "flu shot la porte",
+      "flu vaccine la porte",
+      "tetanus shot la porte",
+      "tdap vaccine la porte",
     ],
     features: [
-      "Evaluación del origen del dolor",
-      "Plan de tratamiento",
-      "Manejo del dolor",
+      "Vacuna contra la influenza (flu)",
+      "Toxoide tetánico",
+      "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Evaluation of the pain's origin",
-      "Treatment plan",
-      "Pain management",
+      "Influenza (flu) vaccine",
+      "Tetanus toxoid",
+      "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `El dolor de espalda y muscular puede afectar tu trabajo y tu vida diaria. En Clínica Hispana Nueva Salud La Porte identificamos la causa y te ofrecemos un plan para aliviarlo y prevenir que regrese.
+    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Nueva Salud La Porte aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
 
 ## ¿Qué incluye?
 
-- Evaluación del origen del dolor
-- Diagnóstico y plan de tratamiento
-- Manejo del dolor y la inflamación
-- Recomendaciones de cuidado y postura
-- Referencia a especialista si se requiere
+- Vacuna anual contra la influenza (flu)
+- Toxoide tetánico (refuerzo del tétanos)
+- Aplicación por personal médico
+- Orientación sobre cuándo aplicar refuerzos
+- Atención en español
 
-## Causas frecuentes
+## Por qué vacunarte
 
-Malas posturas, esfuerzos en el trabajo, golpes o lesiones y tensión acumulada. Atender el dolor a tiempo evita que se vuelva crónico.
+La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Back and muscle pain can affect your work and daily life. At Clínica Hispana Nueva Salud La Porte we identify the cause and offer you a plan to relieve it and prevent it from coming back.
+    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Nueva Salud La Porte we administer the influenza vaccine and tetanus toxoid safely and quickly.
 
 ## What's included?
 
-- Evaluation of the pain's origin
-- Diagnosis and treatment plan
-- Pain and inflammation management
-- Care and posture recommendations
-- Referral to a specialist if needed
+- Annual influenza (flu) vaccine
+- Tetanus toxoid (tetanus booster)
+- Administered by medical staff
+- Guidance on when boosters are due
+- Care in Spanish
 
-## Common causes
+## Why get vaccinated
 
-Poor posture, strain at work, blows or injuries and accumulated tension. Treating the pain early keeps it from becoming chronic.
+The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "sueros-vitaminados",
+    order: 23,
+    category: "tratamientos",
+    icon: "Droplets",
+    title: "Sueros Vitaminados (Terapia IV)",
+    titleEn: "Vitamin IV Therapy",
+    shortDescription:
+      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+    shortDescriptionEn:
+      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+    description:
+      "Sueros vitaminados (terapia IV) en La Porte, TX. Hidratación y vitaminas en español, con o sin seguro.",
+    descriptionEn:
+      "Vitamin IV therapy in La Porte, TX. Hydration and vitamins in Spanish, with or without insurance.",
+    keywords: [
+      "sueros vitaminados la porte",
+      "terapia iv la porte",
+      "suero de vitaminas la porte",
+      "hidratacion intravenosa la porte",
+    ],
+    keywordsEn: [
+      "vitamin iv therapy la porte",
+      "iv drip la porte",
+      "iv hydration la porte",
+      "vitamin drip la porte",
+    ],
+    features: [
+      "Hidratación intravenosa",
+      "Vitaminas y minerales",
+      "Aplicación por personal médico",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Intravenous hydration",
+      "Vitamins and minerals",
+      "Administered by medical staff",
+      "Care in Spanish",
+    ],
+    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Nueva Salud La Porte los aplicamos con personal médico y en un ambiente cómodo y seguro.
+
+## ¿Qué incluye?
+
+- Evaluación breve para elegir el suero adecuado
+- Hidratación intravenosa
+- Vitaminas y minerales
+- Aplicación y monitoreo por personal médico
+- Atención en español
+
+## Cuándo pueden ayudar
+
+Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Nueva Salud La Porte we administer them with medical staff in a comfortable, safe setting.
+
+## What's included?
+
+- A brief evaluation to choose the right drip
+- Intravenous hydration
+- Vitamins and minerals
+- Administration and monitoring by medical staff
+- Care in Spanish
+
+## When they can help
+
+After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "suturas-heridas",
+    order: 24,
+    category: "tratamientos",
+    icon: "Scissors",
+    title: "Suturas de Heridas",
+    titleEn: "Wound Suturing",
+    shortDescription:
+      "Suturas (puntos) para cerrar heridas de forma segura, sin cita previa y en español.",
+    shortDescriptionEn:
+      "Sutures (stitches) to close wounds safely, walk-ins welcome and in Spanish.",
+    description:
+      "Suturas de heridas en La Porte, TX. Cierre de cortes y heridas en español, con o sin seguro.",
+    descriptionEn:
+      "Wound suturing in La Porte, TX. Closing cuts and wounds in Spanish, with or without insurance.",
+    keywords: [
+      "suturas la porte",
+      "puntos para herida la porte",
+      "cerrar herida la porte",
+      "doctor para cortadas la porte",
+    ],
+    keywordsEn: [
+      "wound suturing la porte",
+      "stitches la porte",
+      "laceration repair la porte",
+      "cut treatment la porte",
+    ],
+    features: [
+      "Cierre de heridas con suturas",
+      "Limpieza y desinfección",
+      "Atención sin cita previa",
+      "Indicaciones de cuidado posterior",
+    ],
+    featuresEn: [
+      "Wound closure with sutures",
+      "Cleaning and disinfection",
+      "Walk-ins welcome",
+      "After-care instructions",
+    ],
+    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Nueva Salud La Porte cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+
+## ¿Qué incluye?
+
+- Evaluación y limpieza de la herida
+- Cierre con suturas (puntos)
+- Aplicación de anestesia local
+- Indicaciones de cuidado y signos de alarma
+- Retiro de puntos cuando corresponde
+
+## Cuándo acudir
+
+Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Nueva Salud La Porte we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+
+## What's included?
+
+- Wound evaluation and cleaning
+- Closure with sutures (stitches)
+- Local anesthesia
+- Care instructions and warning signs
+- Suture removal when appropriate
+
+## When to come in
+
+Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "curacion-heridas",
+    order: 25,
+    category: "tratamientos",
+    icon: "Bandage",
+    title: "Cura y Curación de Heridas",
+    titleEn: "Wound Care",
+    shortDescription:
+      "Limpieza, curación y cambio de vendajes de heridas para una buena cicatrización, en español.",
+    shortDescriptionEn:
+      "Cleaning, wound care and dressing changes for proper healing, in Spanish.",
+    description:
+      "Cura y curación de heridas en La Porte, TX. Limpieza y vendajes en español, con o sin seguro.",
+    descriptionEn:
+      "Wound care in La Porte, TX. Cleaning and dressings in Spanish, with or without insurance.",
+    keywords: [
+      "curacion de heridas la porte",
+      "cura de heridas la porte",
+      "cambio de vendaje la porte",
+      "limpieza de herida la porte",
+    ],
+    keywordsEn: [
+      "wound care la porte",
+      "wound dressing la porte",
+      "dressing change la porte",
+      "wound cleaning la porte",
+    ],
+    features: [
+      "Limpieza y desinfección",
+      "Cambio de vendajes",
+      "Seguimiento de la cicatrización",
+      "Atención en español",
+    ],
+    featuresEn: [
+      "Cleaning and disinfection",
+      "Dressing changes",
+      "Healing follow-up",
+      "Care in Spanish",
+    ],
+    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Nueva Salud La Porte limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+
+## ¿Qué incluye?
+
+- Limpieza y desinfección de la herida
+- Aplicación de apósitos y vendajes
+- Cambio periódico de vendajes
+- Vigilancia de signos de infección
+- Indicaciones de cuidado en casa
+
+## Para todo tipo de heridas
+
+Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Nueva Salud La Porte we clean, treat and dress your wounds, and follow you until they heal.
+
+## What's included?
+
+- Wound cleaning and disinfection
+- Application of dressings and bandages
+- Periodic dressing changes
+- Monitoring for signs of infection
+- Home-care instructions
+
+## For all kinds of wounds
+
+Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "cirugias-menores",
+    order: 26,
+    category: "tratamientos",
+    icon: "Stethoscope",
+    title: "Cirugías Menores",
+    titleEn: "Minor Surgery",
+    shortDescription:
+      "Procedimientos de cirugía menor ambulatoria (lunares, quistes, lipomas) con anestesia local.",
+    shortDescriptionEn:
+      "Minor outpatient surgical procedures (moles, cysts, lipomas) with local anesthesia.",
+    description:
+      "Cirugías menores en La Porte, TX: lunares, quistes y lipomas. Procedimiento ambulatorio en español, con o sin seguro.",
+    descriptionEn:
+      "Minor surgery in La Porte, TX: moles, cysts and lipomas. Outpatient procedure in Spanish, with or without insurance.",
+    keywords: [
+      "cirugia menor la porte",
+      "quitar lunar la porte",
+      "extraccion de quiste la porte",
+      "cirugia ambulatoria la porte",
+    ],
+    keywordsEn: [
+      "minor surgery la porte",
+      "mole removal la porte",
+      "cyst removal la porte",
+      "lipoma removal la porte",
+    ],
+    features: [
+      "Procedimientos ambulatorios",
+      "Anestesia local",
+      "Extracción de lunares, quistes y lipomas",
+      "Cuidado posterior explicado",
+    ],
+    featuresEn: [
+      "Outpatient procedures",
+      "Local anesthesia",
+      "Removal of moles, cysts and lipomas",
+      "After-care explained",
+    ],
+    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Nueva Salud La Porte realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+
+## ¿Qué incluye?
+
+- Evaluación del lunar, quiste o lesión
+- Procedimiento ambulatorio con anestesia local
+- Extracción de lunares, quistes y lipomas
+- Indicaciones claras de cuidado posterior
+- Retiro de puntos cuando corresponde
+
+## Rápido y seguro
+
+La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Nueva Salud La Porte we perform minor outpatient surgery with local anesthesia, in a single day.
+
+## What's included?
+
+- Evaluation of the mole, cyst or lesion
+- Outpatient procedure with local anesthesia
+- Removal of moles, cysts and lipomas
+- Clear after-care instructions
+- Suture removal when appropriate
+
+## Fast and safe
+
+Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "drenaje-abscesos",
+    order: 27,
+    category: "tratamientos",
+    icon: "Droplet",
+    title: "Drenaje de Abscesos",
+    titleEn: "Abscess Drainage",
+    shortDescription:
+      "Drenaje de abscesos e infecciones de piel para aliviar el dolor y favorecer la curación.",
+    shortDescriptionEn:
+      "Drainage of abscesses and skin infections to relieve pain and promote healing.",
+    description:
+      "Drenaje de abscesos en La Porte, TX. Tratamiento de infecciones de piel en español, con o sin seguro.",
+    descriptionEn:
+      "Abscess drainage in La Porte, TX. Treatment of skin infections in Spanish, with or without insurance.",
+    keywords: [
+      "drenaje de absceso la porte",
+      "drenar absceso la porte",
+      "infeccion de piel la porte",
+      "tratamiento de absceso la porte",
+    ],
+    keywordsEn: [
+      "abscess drainage la porte",
+      "drain abscess la porte",
+      "skin infection la porte",
+      "boil treatment la porte",
+    ],
+    features: [
+      "Drenaje del absceso",
+      "Limpieza y desinfección",
+      "Anestesia local",
+      "Indicaciones de cuidado posterior",
+    ],
+    featuresEn: [
+      "Abscess drainage",
+      "Cleaning and disinfection",
+      "Local anesthesia",
+      "After-care instructions",
+    ],
+    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Nueva Salud La Porte lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+
+## ¿Qué incluye?
+
+- Evaluación del absceso o infección de piel
+- Drenaje con anestesia local
+- Limpieza y desinfección de la zona
+- Tratamiento de la infección cuando se requiere
+- Indicaciones de cuidado y seguimiento
+
+## No lo dejes pasar
+
+Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Nueva Salud La Porte we treat it safely to relieve the discomfort and prevent the infection from spreading.
+
+## What's included?
+
+- Evaluation of the abscess or skin infection
+- Drainage with local anesthesia
+- Cleaning and disinfection of the area
+- Treatment of the infection when needed
+- Care and follow-up instructions
+
+## Don't let it go
+
+A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "unas-encarnadas",
+    order: 28,
+    category: "tratamientos",
+    icon: "Footprints",
+    title: "Extracción de Uñas Encarnadas",
+    titleEn: "Ingrown Toenail Removal",
+    shortDescription:
+      "Tratamiento de uñas encarnadas para aliviar el dolor y prevenir infecciones, en español.",
+    shortDescriptionEn:
+      "Ingrown toenail treatment to relieve pain and prevent infection, in Spanish.",
+    description:
+      "Extracción de uñas encarnadas en La Porte, TX. Procedimiento con anestesia local en español, con o sin seguro.",
+    descriptionEn:
+      "Ingrown toenail removal in La Porte, TX. Procedure with local anesthesia in Spanish, with or without insurance.",
+    keywords: [
+      "uña encarnada la porte",
+      "extraccion de uña encarnada la porte",
+      "tratamiento uña encarnada la porte",
+      "doctor para uña encarnada la porte",
+    ],
+    keywordsEn: [
+      "ingrown toenail la porte",
+      "ingrown toenail removal la porte",
+      "ingrown nail treatment la porte",
+      "toenail doctor la porte",
+    ],
+    features: [
+      "Tratamiento de la uña encarnada",
+      "Anestesia local",
+      "Alivio del dolor",
+      "Indicaciones de cuidado posterior",
+    ],
+    featuresEn: [
+      "Ingrown toenail treatment",
+      "Local anesthesia",
+      "Pain relief",
+      "After-care instructions",
+    ],
+    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Nueva Salud La Porte la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+
+## ¿Qué incluye?
+
+- Evaluación de la uña y el dedo
+- Procedimiento con anestesia local
+- Extracción de la porción encarnada de la uña
+- Tratamiento de la infección si la hay
+- Indicaciones de cuidado para evitar que regrese
+
+## Cuándo acudir
+
+Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Nueva Salud La Porte we treat it with a simple procedure and local anesthesia to relieve you the same day.
+
+## What's included?
+
+- Evaluation of the nail and toe
+- Procedure with local anesthesia
+- Removal of the ingrown portion of the nail
+- Treatment of the infection if present
+- Care instructions to prevent recurrence
+
+## When to come in
+
+Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
 
 ${WHY_EN}
 
@@ -1539,19 +2320,19 @@ ${AREAS_EN}`,
   },
   {
     slug: "farmacia",
-    order: 19,
+    order: 29,
     category: "tratamientos",
     icon: "Pill",
-    title: "Farmacia en La Porte TX",
-    titleEn: "Pharmacy in La Porte TX",
+    title: "Farmacia",
+    titleEn: "Pharmacy",
     shortDescription:
       "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
     shortDescriptionEn:
       "Pick up your medications right after your visit — no second stop.",
     description:
-      "Farmacia en La Porte, TX dentro de la clínica. Surtimos tu receta al terminar la consulta: medicamentos de marca y genéricos, atención en español.",
+      "Farmacia en La Porte, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
     descriptionEn:
-      "Pharmacy in La Porte, TX inside the clinic. We fill your prescription right after your visit: brand-name and generic medications, service in Spanish.",
+      "Pharmacy in La Porte, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
     keywords: [
       "farmacia en la porte",
       "farmacia hispana la porte",
@@ -1588,7 +2369,7 @@ ${AREAS_EN}`,
 
 ## ¿Por qué usar nuestra farmacia?
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados, para que empieces tu tratamiento con confianza.
+Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
 
 ${WHY_ES}
 
@@ -1607,7 +2388,7 @@ ${AREAS_ES}`,
 
 ## Why use our pharmacy?
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish so you can start your treatment with confidence.
+You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
 
 ${WHY_EN}
 
@@ -1618,13 +2399,12 @@ ${AREAS_EN}`,
 ];
 
 // Testimonios de respaldo para el carrusel cuando no hay data en vivo de Google.
-// La data real se trae con getGooglePlaceData(); estos son representativos.
 export const FALLBACK_TESTIMONIALS: Testimonial[] = [
   {
     author: "María G.",
     rating: 5,
-    text: "Excelente atención y todo en español. Me explicaron cada paso de mi examen de inmigración. Muy recomendados.",
-    textEn: "Excellent care and everything in Spanish. They explained every step of my immigration exam. Highly recommended.",
+    text: "Excelente atención y todo en español. Me explicaron cada paso de mi examen. Muy recomendados.",
+    textEn: "Excellent care and everything in Spanish. They explained every step of my exam. Highly recommended.",
     relativeTime: "Hace 2 semanas",
   },
   {

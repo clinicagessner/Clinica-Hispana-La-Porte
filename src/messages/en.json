@@ -54,16 +54,6 @@
     "point3": "Care for infections and discomfort",
     "cta": "See the service"
   },
-  "Urology": {
-    "eyebrow": "Treatments",
-    "title": "Urology Consultation in Spanish",
-    "body": "We treat urinary-tract issues with respect and clarity: urinary infections, prostate health, kidney stones and more, all in your language.",
-    "cta": "See the service",
-    "cond1": "Urinary infections",
-    "cond2": "Prostate health",
-    "cond3": "Kidney stones",
-    "cond4": "Urinary checkup"
-  },
   "Testimonials": {
     "eyebrow": "What our patients say",
     "title": "A community that trusts us",
@@ -182,5 +172,15 @@
     "title": "Something went wrong",
     "body": "An unexpected error occurred. Please try again.",
     "retry": "Try again"
+  },
+  "MensHealth": {
+    "eyebrow": "Men's health",
+    "title": "Men's Health Exams in Spanish",
+    "body": "We care for your health with key men's exams: prostate antigen (PSA), testosterone and a general checkup, with results explained in your language.",
+    "cta": "See the service",
+    "cond1": "Prostate antigen (PSA)",
+    "cond2": "Testosterone level",
+    "cond3": "General checkup",
+    "cond4": "Prostate health"
   }
 }
