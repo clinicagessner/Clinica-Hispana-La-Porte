@@ -22,7 +22,8 @@
     "walkInsWelcome": "Walk-ins welcome",
     "bilingual": "Care in Spanish and English",
     "withOrWithoutInsurance": "With or without insurance",
-    "ratingSummary": "{count} Google reviews"
+    "ratingSummary": "{count} Google reviews",
+    "affordable": "Affordable prices"
   },
   "Hero": {
     "badge": "Hispanic medical clinic in La Porte, TX",
@@ -36,12 +37,13 @@
     "trustWalkIn": "Walk-ins welcome",
     "trustBilingual": "We speak Spanish",
     "trustInsurance": "With or without insurance",
-    "hoursLine": "Monday to Sunday · 9 AM – 9 PM"
+    "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
+    "callShort": "Call"
   },
   "Services": {
     "eyebrow": "Our services",
     "title": "Everything your family needs, in one place",
-    "subtitle": "18 medical services with professional care in your language.",
+    "subtitle": "A wide range of medical services with professional care in your language.",
     "cta": "View all services",
     "featured": "Featured"
   },

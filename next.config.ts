@@ -7,7 +7,13 @@ const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 // Google Maps, CallRail y Vercel Analytics. Si agregas un script/fetch de
 // tercero nuevo, extiende la directiva correspondiente o se bloqueará en prod.
 // React necesita eval() SOLO en desarrollo (nunca en producción).
-const scriptEval = process.env.NODE_ENV === "development" ? " 'unsafe-eval'" : "";
+const isDev = process.env.NODE_ENV === "development";
+const scriptEval = isDev ? " 'unsafe-eval'" : "";
+// HMR de Turbopack y herramientas locales (Console Ninja) usan WebSockets a
+// localhost SOLO en desarrollo. En producción no se añade nada.
+const connectDev = isDev
+  ? " ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:* http://localhost:*"
+  : "";
 
 const csp = [
   "default-src 'self'",
@@ -15,7 +21,7 @@ const csp = [
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https:",
   "font-src 'self' data:",
-  "connect-src 'self' https://graph.facebook.com https://connect.facebook.net https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://places.googleapis.com https://maps.googleapis.com https://js.callrail.com https://api.callrail.com https://vitals.vercel-insights.com https://va.vercel-scripts.com",
+  `connect-src 'self'${connectDev} https://graph.facebook.com https://connect.facebook.net https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://places.googleapis.com https://maps.googleapis.com https://js.callrail.com https://api.callrail.com https://vitals.vercel-insights.com https://va.vercel-scripts.com`,
   "frame-src 'self' https://www.google.com https://maps.google.com https://td.doubleclick.net https://www.facebook.com",
   "object-src 'none'",
   "base-uri 'self'",

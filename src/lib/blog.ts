@@ -56,12 +56,16 @@ export function getPost(slug: string, locale: Locale): BlogPost | undefined {
   const fm = data as BlogFrontmatter;
   const body = stripLeadingTitle(content);
 
+  const hasCover = BLOG_IMAGE_SLUGS.has(slug);
   return {
     ...fm,
     slug,
     content: body,
     readingMinutes: readingMinutes(body),
-    hasCover: BLOG_IMAGE_SLUGS.has(slug),
+    hasCover,
+    // La portada se deriva del slug para que siempre apunte al archivo real
+    // (/images/blog/<slug>.webp), ignorando el `cover` del frontmatter.
+    cover: hasCover ? `/images/blog/${slug}.webp` : fm.cover,
   };
 }
 

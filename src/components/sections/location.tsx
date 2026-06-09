@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Clock, Mail, MapPin, Navigation, Phone } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import { Reveal } from "@/components/animations/reveal";
@@ -24,7 +25,21 @@ export function Location() {
           <div className="mt-4 h-0.5 w-20 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
         </Reveal>
 
-        <div className="mt-10 grid gap-8 lg:grid-cols-12">
+        {/* Foto del exterior de la clínica */}
+        <Reveal delay={80}>
+          <div className="mt-8 overflow-hidden rounded-3xl border-4 border-white shadow-xl shadow-blue-deep/15">
+            <Image
+              src="/images/clinica-exterior.webp"
+              alt={`Fachada de Clínica Hispana Nueva Salud La Porte en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state}`}
+              width={1360}
+              height={1020}
+              sizes="(max-width: 1024px) 100vw, 1200px"
+              className="h-56 w-full object-cover sm:h-72 lg:h-80"
+            />
+          </div>
+        </Reveal>
+
+        <div className="mt-8 grid gap-8 lg:grid-cols-12">
           {/* Info */}
           <Reveal className="lg:col-span-5">
             <div className="flex h-full flex-col gap-6 rounded-2xl border border-blue-light bg-white p-7 shadow-sm">

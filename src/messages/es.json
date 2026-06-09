@@ -22,7 +22,8 @@
     "walkInsWelcome": "Sin cita previa",
     "bilingual": "Atención en español e inglés",
     "withOrWithoutInsurance": "Con o sin seguro",
-    "ratingSummary": "{count} reseñas en Google"
+    "ratingSummary": "{count} reseñas en Google",
+    "affordable": "Precios accesibles"
   },
   "Hero": {
     "badge": "Clínica médica hispana en La Porte, TX",
@@ -36,12 +37,13 @@
     "trustWalkIn": "Sin cita previa",
     "trustBilingual": "Hablamos español",
     "trustInsurance": "Con o sin seguro",
-    "hoursLine": "Lunes a Domingo · 9 AM – 9 PM"
+    "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
+    "callShort": "Llamar"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
     "title": "Todo lo que tu familia necesita, en un solo lugar",
-    "subtitle": "18 servicios médicos con atención profesional en tu idioma.",
+    "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
   },
