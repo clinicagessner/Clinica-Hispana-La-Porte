@@ -29,7 +29,7 @@ export async function Hero() {
       {/* Degradado inferior: la imagen se funde con la siguiente sección */}
       <div
         aria-hidden
-        className="pointer-events-none absolute inset-x-0 bottom-0 -z-10 h-44 bg-gradient-to-b from-transparent to-cloud"
+        className="pointer-events-none absolute inset-x-0 bottom-0 -z-10 h-44 bg-linear-to-b from-transparent to-cloud"
       />
 
       {/* Píldora flotante: rating (arriba, oculta en móvil) */}
@@ -54,10 +54,10 @@ export async function Hero() {
           {t("openToday")} · {CONTACT_INFO.city}, TX
         </span>
 
-        <h1 className="mt-6 font-heading text-[2.7rem] font-extrabold leading-[1.0] tracking-tight text-white drop-shadow-sm sm:text-7xl">
+        <h1 className="mt-6 font-heading text-[2.7rem] font-extrabold leading-none tracking-tight text-white drop-shadow-sm sm:text-7xl">
           <span className="block">{t("titleLead")}</span>
           <span className="relative mt-1 inline-block">
-            <span className="bg-gradient-to-r from-teal-light via-white to-teal-light bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-teal-light via-white to-teal-light bg-clip-text text-transparent">
               {t("titleHighlight")}
             </span>
             <svg

@@ -28,7 +28,7 @@ export function Services() {
   return (
     <section
       id="servicios"
-      className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-28"
+      className="bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-28"
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Encabezado editorial asimétrico */}
@@ -40,7 +40,7 @@ export function Services() {
             <h2 className="mt-3 max-w-2xl font-heading text-3xl font-extrabold leading-tight tracking-tight text-slate-dark sm:text-4xl">
               {t("title")}
             </h2>
-            <div className="mt-4 h-0.5 w-20 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
+            <div className="mt-4 h-0.5 w-20 rounded-full bg-linear-to-r from-blue-primary to-teal" />
           </Reveal>
           <Reveal delay={120} className="lg:col-span-4">
             <p className="text-base leading-relaxed text-slate-primary lg:text-right">

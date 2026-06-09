@@ -23,7 +23,7 @@ export function MensHealth() {
   ];
 
   return (
-    <section className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-28">
+    <section className="bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-28">
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-red-accent">
@@ -51,7 +51,7 @@ export function MensHealth() {
               return (
                 <div
                   key={c.label}
-                  className="group relative overflow-hidden rounded-3xl border border-white bg-gradient-to-b from-white to-sky-bg/50 p-6 shadow-md shadow-blue-deep/5 ring-1 ring-blue-light/60 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:shadow-blue-deep/15"
+                  className="group relative overflow-hidden rounded-3xl border border-white bg-linear-to-b from-white to-sky-bg/50 p-6 shadow-md shadow-blue-deep/5 ring-1 ring-blue-light/60 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:shadow-blue-deep/15"
                 >
                   {/* número marca de agua */}
                   <span className="pointer-events-none absolute right-4 top-3 font-heading text-4xl font-extrabold text-slate-dark/5">
@@ -60,7 +60,7 @@ export function MensHealth() {
                   {/* badge de icono con gradiente */}
                   <span
                     className={cn(
-                      "relative grid h-14 w-14 place-items-center rounded-2xl bg-gradient-to-br text-white shadow-lg transition-transform duration-300 group-hover:scale-105",
+                      "relative grid h-14 w-14 place-items-center rounded-2xl bg-linear-to-br text-white shadow-lg transition-transform duration-300 group-hover:scale-105",
                       a.grad,
                       a.shadow,
                     )}

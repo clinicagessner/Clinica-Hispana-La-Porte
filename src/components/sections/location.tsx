@@ -13,7 +13,7 @@ export function Location() {
   const en = locale === "en";
 
   return (
-    <section className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-28">
+    <section className="bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-deep">
@@ -22,7 +22,7 @@ export function Location() {
           <h2 className="mt-3 font-heading text-3xl font-extrabold leading-tight tracking-tight text-slate-dark sm:text-4xl">
             {t("title")}
           </h2>
-          <div className="mt-4 h-0.5 w-20 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
+          <div className="mt-4 h-0.5 w-20 rounded-full bg-linear-to-r from-blue-primary to-teal" />
         </Reveal>
 
         {/* Foto del exterior de la clínica */}
