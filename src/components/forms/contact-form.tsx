@@ -54,17 +54,23 @@ export function ContactForm({
     setStatus("idle");
     const eventId = crypto.randomUUID();
 
-    // Pixel cliente (dedup con CAPI server vía eventID)
-    const w = window as FbqWindow;
-    if (typeof w.fbq === "function") {
-      w.fbq("track", "Lead", { content_name: "Contact Form" }, { eventID: eventId });
-    }
+    try {
+      // Pixel cliente (dedup con CAPI server vía eventID)
+      const w = window as FbqWindow;
+      if (typeof w.fbq === "function") {
+        w.fbq("track", "Lead", { content_name: "Contact Form" }, { eventID: eventId });
+      }
 
-    const result = await sendContactEmail(values, eventId);
-    if (result.ok) {
-      setStatus("success");
-      reset();
-    } else {
+      const result = await sendContactEmail(values, eventId);
+      if (result.ok) {
+        reset();
+        setStatus("success");
+      } else {
+        setStatus("error");
+      }
+    } catch {
+      // Cualquier fallo inesperado (red, server action) muestra error en vez
+      // de dejar el formulario sin respuesta.
       setStatus("error");
     }
   }
@@ -132,11 +138,18 @@ export function ContactForm({
           <Input
             id="phone"
             type="tel"
+            inputMode="numeric"
+            maxLength={10}
             autoComplete="tel"
             placeholder={t("phonePlaceholder")}
             aria-invalid={!!errors.phone}
             className="h-11"
-            {...register("phone")}
+            {...register("phone", {
+              onChange: (e) => {
+                // Solo dígitos, máximo 10 (teléfono de EE. UU.).
+                e.target.value = e.target.value.replace(/\D/g, "").slice(0, 10);
+              },
+            })}
           />
         </Field>
 

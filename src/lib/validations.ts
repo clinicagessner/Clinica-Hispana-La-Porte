@@ -6,7 +6,11 @@ const EMAIL_RE = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
 // de entrada y salida de Zod coincidan (evita conflictos con zodResolver).
 export const contactSchema = z.object({
   name: z.string().trim().min(2, { message: "min" }).max(100, { message: "max" }),
-  phone: z.string().trim().min(7, { message: "min" }).max(25, { message: "max" }),
+  // Teléfono de EE. UU.: exactamente 10 dígitos (el input solo deja escribir dígitos).
+  phone: z
+    .string()
+    .trim()
+    .regex(/^\d{10}$/, { message: "invalid" }),
   email: z
     .string()
     .trim()
