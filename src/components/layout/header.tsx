@@ -36,7 +36,19 @@ export function Header() {
       <div className="h-0.5 w-full bg-gradient-to-r from-blue-primary via-teal to-red-accent" />
 
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between gap-4 px-4 py-2.5 sm:px-6 lg:px-8">
-        <Link href="/" aria-label="Clínica Hispana Nueva Salud La Porte" className="shrink-0">
+        <Link
+          href="/"
+          aria-label="Clínica Hispana Nueva Salud La Porte"
+          className="shrink-0"
+          onClick={(e) => {
+            // En la home: ir al inicio (top) con scroll suave aunque estés
+            // scrolleado en cualquier sección. En otras páginas: navega a "/".
+            if (pathname === "/") {
+              e.preventDefault();
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }
+          }}
+        >
           <Logo />
         </Link>
 
