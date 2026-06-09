@@ -5,13 +5,21 @@ import { Reveal } from "@/components/animations/reveal";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 
+// Gradientes/sombra por tarjeta (clases literales para Tailwind).
+const ACCENTS = [
+  { grad: "from-blue-primary to-blue-dark", shadow: "shadow-blue-primary/35" },
+  { grad: "from-teal to-teal-deep", shadow: "shadow-teal/35" },
+  { grad: "from-red-accent to-red-dark", shadow: "shadow-red-accent/35" },
+  { grad: "from-blue-medium to-blue-primary", shadow: "shadow-blue-primary/35" },
+];
+
 export function MensHealth() {
   const t = useTranslations("MensHealth");
   const conditions = [
-    { icon: Mars, label: t("cond1") },
-    { icon: Activity, label: t("cond2") },
-    { icon: HeartPulse, label: t("cond3") },
-    { icon: ShieldCheck, label: t("cond4") },
+    { icon: Mars, label: t("cond1"), desc: t("cond1d") },
+    { icon: Activity, label: t("cond2"), desc: t("cond2d") },
+    { icon: HeartPulse, label: t("cond3"), desc: t("cond3d") },
+    { icon: ShieldCheck, label: t("cond4"), desc: t("cond4d") },
   ];
 
   return (
@@ -37,20 +45,37 @@ export function MensHealth() {
         </Reveal>
 
         <Reveal delay={150}>
-          <div className="grid grid-cols-2 gap-4">
-            {conditions.map((c) => (
-              <div
-                key={c.label}
-                className="rounded-2xl border border-blue-light bg-white p-6 shadow-sm transition-transform duration-200 hover:-translate-y-1"
-              >
-                <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-sky-bg text-blue-primary">
-                  <c.icon className="h-6 w-6" />
-                </span>
-                <p className="mt-3 font-heading text-base font-bold text-slate-dark">
-                  {c.label}
-                </p>
-              </div>
-            ))}
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-5">
+            {conditions.map((c, i) => {
+              const a = ACCENTS[i % ACCENTS.length];
+              return (
+                <div
+                  key={c.label}
+                  className="group relative overflow-hidden rounded-3xl border border-white bg-gradient-to-b from-white to-sky-bg/50 p-6 shadow-md shadow-blue-deep/5 ring-1 ring-blue-light/60 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:shadow-blue-deep/15"
+                >
+                  {/* número marca de agua */}
+                  <span className="pointer-events-none absolute right-4 top-3 font-heading text-4xl font-extrabold text-slate-dark/5">
+                    0{i + 1}
+                  </span>
+                  {/* badge de icono con gradiente */}
+                  <span
+                    className={cn(
+                      "relative grid h-14 w-14 place-items-center rounded-2xl bg-gradient-to-br text-white shadow-lg transition-transform duration-300 group-hover:scale-105",
+                      a.grad,
+                      a.shadow,
+                    )}
+                  >
+                    <c.icon className="h-7 w-7" />
+                  </span>
+                  <p className="relative mt-5 font-heading text-base font-bold leading-snug text-slate-dark">
+                    {c.label}
+                  </p>
+                  <p className="relative mt-1.5 text-sm leading-relaxed text-slate-muted">
+                    {c.desc}
+                  </p>
+                </div>
+              );
+            })}
           </div>
         </Reveal>
       </div>

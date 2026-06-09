@@ -183,6 +183,10 @@
     "cond1": "Prostate antigen (PSA)",
     "cond2": "Testosterone level",
     "cond3": "General checkup",
-    "cond4": "Prostate health"
+    "cond4": "Prostate health",
+    "cond1d": "Early prostate screening",
+    "cond2d": "Energy, mood and vitality",
+    "cond3d": "Vitals and prevention",
+    "cond4d": "Evaluation and follow-up"
   }
 }

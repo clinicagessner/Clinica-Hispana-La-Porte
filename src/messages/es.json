@@ -183,6 +183,10 @@
     "cond1": "Antígeno prostático (PSA)",
     "cond2": "Nivel de testosterona",
     "cond3": "Chequeo general",
-    "cond4": "Salud de la próstata"
+    "cond4": "Salud de la próstata",
+    "cond1d": "Detección temprana de la próstata",
+    "cond2d": "Energía, ánimo y vitalidad",
+    "cond3d": "Signos vitales y prevención",
+    "cond4d": "Evaluación y seguimiento"
   }
 }
