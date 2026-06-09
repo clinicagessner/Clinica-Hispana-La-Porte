@@ -10,7 +10,37 @@ import type {
 // Servicios que YA tienen foto en /public/images/services/<slug>.webp.
 // Vacío por ahora: el cliente entregará las imágenes. Mientras tanto la card
 // usa el fallback de icono/CSS. Agregar el slug aquí cuando exista la foto.
-const SERVICE_IMAGE_SLUGS = new Set<string>([]);
+const SERVICE_IMAGE_SLUGS = new Set<string>([
+  "condiciones-cronicas",
+  "tiroides",
+  "alergias",
+  "enfermedades-respiratorias",
+  "examen-fisico-escolar",
+  "ginecologia",
+  "prueba-embarazo",
+  "anticonceptivos",
+  "extraccion-implantes",
+  "salud-hombre",
+  "examenes-sangre",
+  "infecciones-urinarias",
+  "examen-heces",
+  "prueba-strep",
+  "prueba-tuberculosis",
+  "enfermedades-transmision-sexual",
+  "examen-alcohol-drogas",
+  "electrocardiograma",
+  "ultrasonido",
+  "examen-dot",
+  "examenes-inmigracion",
+  "vacunas",
+  "sueros-vitaminados",
+  "suturas-heridas",
+  "curacion-heridas",
+  "cirugias-menores",
+  "drenaje-abscesos",
+  "unas-encarnadas",
+  "farmacia",
+]);
 
 export function hasServiceImage(slug: string): boolean {
   return SERVICE_IMAGE_SLUGS.has(slug);

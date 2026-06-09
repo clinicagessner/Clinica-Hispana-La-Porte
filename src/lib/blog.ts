@@ -8,7 +8,17 @@ const BLOG_DIR = path.join(process.cwd(), "src/content/blog");
 // Posts que YA tienen portada en /public/images/blog/<slug>.webp.
 // Vacío por ahora: el cliente entregará las portadas. Mientras tanto la card
 // usa el fallback de CSS. Agregar el slug aquí cuando exista la imagen.
-const BLOG_IMAGE_SLUGS = new Set<string>([]);
+const BLOG_IMAGE_SLUGS = new Set<string>([
+  "bienvenidos-clinica-hispana-nueva-salud",
+  "atencion-medica-sin-seguro-laporte",
+  "control-diabetes-laporte-guia-pacientes",
+  "examen-dot-cdl-camioneros-laporte",
+  "ginecologos-hispanos-laporte-hablan-espanol",
+  "guia-examen-medico-inmigracion-i693-laporte",
+  "laboratorio-clinico-laporte-analisis-sangre",
+  "medicos-autorizados-uscis-laporte-civil-surgeon",
+  "salud-mujer-laporte-servicios-ginecologia",
+]);
 
 function readingMinutes(content: string): number {
   const words = content.trim().split(/\s+/).filter(Boolean).length;
