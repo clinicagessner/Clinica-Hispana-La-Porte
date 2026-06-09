@@ -31,9 +31,7 @@ export const SITE_CONFIG = {
     "Hispanic medical clinic in La Porte, TX. Professional care in Spanish, walk-ins welcome, patients with or without insurance. Family medicine, immigration exams, lab work and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
-  // Logo real lo entregará el cliente; por ahora ruta placeholder (el componente
-  // Logo renderiza un wordmark SVG mientras tanto).
-  logoUrl: "/logo-nueva-salud.png",
+  logoUrl: "/logo-nueva-salud.webp",
   ogImage: "/images/og/og-default.png",
 } as const;
 
