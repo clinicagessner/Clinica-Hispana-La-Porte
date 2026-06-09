@@ -44,16 +44,12 @@ export const CONTACT_INFO = {
   phoneFormatted: "+1 (346) 229-1150",
   phoneDisplay: "(346) 229-1150",
   email: "clinicaporte@chnuevasalud.com",
-  // ⏳ Horario por confirmar con el cliente (Google muestra "Abre 9 AM").
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
   hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
-  // ⏳ Place ID pendiente (obtener vía Places API o pedir al cliente).
-  placeId: "",
-  placeIdChIJ: "ChIJTYg9oFCfQIYRpivfyh6yP1Q",
-  // Coordenadas aproximadas de 9606 Spencer Hwy, La Porte TX (confirmar).
-  coordinates: { lat: 29.6585, lng: -95.0588 },
+  // Coordenadas exactas (Google Places API) de 9606 Spencer Hwy Ste D, La Porte TX.
+  coordinates: { lat: 29.6639431, lng: -95.0883054 },
   googleMapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+Nueva+Salud+La+Porte+9606+Spencer+Hwy+La+Porte+TX+77571&query_place_id=ChIJTYg9oFCfQIYRpivfyh6yP1Q",
   // Enlace directo al diálogo de "escribir reseña" de Google (usa el Place ID).

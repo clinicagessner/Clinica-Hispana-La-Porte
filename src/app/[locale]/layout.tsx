@@ -39,7 +39,8 @@ export async function generateMetadata({
     description,
     applicationName: SITE_CONFIG.name,
     authors: [{ name: SITE_CONFIG.name }],
-    // Token real de Search Console vía env (método meta tag HTML). PENDIENTE.
+    // Search Console verificado por DNS (propiedad de Dominio). Este meta tag
+    // es solo un método alternativo opcional; se activa si se define la env.
     ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
       ? {
           verification: {
