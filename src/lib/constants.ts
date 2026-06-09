@@ -51,13 +51,14 @@ export const CONTACT_INFO = {
   hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
   // ⏳ Place ID pendiente (obtener vía Places API o pedir al cliente).
   placeId: "",
-  placeIdChIJ: "",
+  placeIdChIJ: "ChIJTYg9oFCfQIYRpivfyh6yP1Q",
   // Coordenadas aproximadas de 9606 Spencer Hwy, La Porte TX (confirmar).
   coordinates: { lat: 29.6585, lng: -95.0588 },
   googleMapsUrl:
-    "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+Nueva+Salud+La+Porte+9606+Spencer+Hwy+La+Porte+TX+77571",
+    "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+Nueva+Salud+La+Porte+9606+Spencer+Hwy+La+Porte+TX+77571&query_place_id=ChIJTYg9oFCfQIYRpivfyh6yP1Q",
+  // Enlace directo al diálogo de "escribir reseña" de Google (usa el Place ID).
   googleReviewUrl:
-    "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+Nueva+Salud+La+Porte+9606+Spencer+Hwy+La+Porte+TX+77571",
+    "https://search.google.com/local/writereview?placeid=ChIJTYg9oFCfQIYRpivfyh6yP1Q",
   googleMapsEmbed:
     "https://maps.google.com/maps?q=9606+Spencer+Hwy+Ste+D,+La+Porte,+TX+77571&t=m&z=16&ie=UTF8&iwloc=&output=embed",
 } as const;
