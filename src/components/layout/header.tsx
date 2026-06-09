@@ -87,18 +87,38 @@ export function Header() {
             <SheetContent side="right" className="w-80 bg-cloud">
               <SheetHeader>
                 <SheetTitle className="text-left">
-                  <Logo />
+                  <Link
+                    href="/"
+                    aria-label="Inicio"
+                    onClick={(e) => {
+                      if (pathname === "/") {
+                        e.preventDefault();
+                        window.scrollTo({ top: 0, behavior: "smooth" });
+                      }
+                      setOpen(false);
+                    }}
+                  >
+                    <Logo />
+                  </Link>
                 </SheetTitle>
               </SheetHeader>
               <nav
                 className="mt-2 flex flex-col gap-1 px-4"
                 aria-label="Móvil"
               >
-                <MobileItem
+                <Link
                   href="/"
-                  label={t("home")}
-                  onNavigate={() => setOpen(false)}
-                />
+                  onClick={(e) => {
+                    if (pathname === "/") {
+                      e.preventDefault();
+                      window.scrollTo({ top: 0, behavior: "smooth" });
+                    }
+                    setOpen(false);
+                  }}
+                  className="rounded-xl px-3 py-3 font-heading text-lg font-semibold text-slate-dark hover:bg-sky-alt"
+                >
+                  {t("home")}
+                </Link>
                 {NAV_LINKS.map((link) => (
                   <MobileItem
                     key={link.key}
