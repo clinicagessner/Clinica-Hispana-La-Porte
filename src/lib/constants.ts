@@ -43,7 +43,7 @@ export const CONTACT_INFO = {
   phone: "+13462291150",
   phoneFormatted: "+1 (346) 229-1150",
   phoneDisplay: "(346) 229-1150",
-  email: "clinicahispananuevasaludlaport@gmail.com",
+  email: "clinicaporte@chnuevasalud.com",
   // ⏳ Horario por confirmar con el cliente (Google muestra "Abre 9 AM").
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
