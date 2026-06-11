@@ -36,4 +36,4 @@ En nuestra clínica, los pacientes sin seguro pueden acceder a:
 
 ## Estamos para ayudarte
 
-En Clínica Hispana Nueva Salud La Porte atendemos a pacientes **con o sin seguro**, en español y sin cita previa. Si tienes dudas sobre el costo de un servicio, llámanos al **(832) 906-8551** y con gusto te orientamos.
+En Clínica Hispana Nueva Salud La Porte atendemos a pacientes **sin necesidad de seguro**, en español y sin cita previa. Si tienes dudas sobre el costo de un servicio, llámanos al **(832) 906-8551** y con gusto te orientamos.

@@ -20,9 +20,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "tiroides": [
@@ -40,9 +40,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "alergias": [
@@ -60,9 +60,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "enfermedades-respiratorias": [
@@ -80,9 +80,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-fisico-escolar": [
@@ -100,9 +100,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "ginecologia": [
@@ -120,9 +120,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "prueba-embarazo": [
@@ -140,9 +140,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "anticonceptivos": [
@@ -160,9 +160,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "extraccion-implantes": [
@@ -180,9 +180,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "salud-hombre": [
@@ -200,9 +200,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examenes-sangre": [
@@ -220,9 +220,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "infecciones-urinarias": [
@@ -240,9 +240,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-heces": [
@@ -260,9 +260,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "prueba-strep": [
@@ -280,9 +280,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "prueba-tuberculosis": [
@@ -300,9 +300,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "enfermedades-transmision-sexual": [
@@ -320,9 +320,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-alcohol-drogas": [
@@ -340,9 +340,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "electrocardiograma": [
@@ -360,9 +360,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "ultrasonido": [
@@ -380,9 +380,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-dot": [
@@ -400,9 +400,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examenes-inmigracion": [
@@ -420,9 +420,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "vacunas": [
@@ -440,9 +440,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "sueros-vitaminados": [
@@ -460,9 +460,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "suturas-heridas": [
@@ -480,9 +480,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "curacion-heridas": [
@@ -500,9 +500,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "cirugias-menores": [
@@ -520,9 +520,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "drenaje-abscesos": [
@@ -540,9 +540,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "unas-encarnadas": [
@@ -560,9 +560,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "farmacia": [
@@ -580,9 +580,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. Atendemos con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. We see patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
 };

@@ -21,7 +21,7 @@
     "learnMore": "Más información",
     "walkInsWelcome": "Sin cita previa",
     "bilingual": "Atención en español e inglés",
-    "withOrWithoutInsurance": "Con o sin seguro",
+    "withOrWithoutInsurance": "Sin seguro necesario",
     "ratingSummary": "{count} reseñas en Google",
     "affordable": "Precios accesibles"
   },
@@ -31,12 +31,12 @@
     "titleLead": "Atención médica",
     "titleHighlight": "100% en español",
     "titleTail": "para toda la familia",
-    "subtitle": "Medicina familiar, exámenes de inmigración, laboratorio y más. Sin cita previa, con o sin seguro. Te atendemos como a los nuestros.",
+    "subtitle": "Medicina familiar, exámenes de inmigración, laboratorio y más. Sin cita previa y con precios accesibles. Te atendemos como a los nuestros.",
     "ctaCall": "Llamar a la clínica",
     "ctaDirections": "Cómo llegar",
     "trustWalkIn": "Sin cita previa",
     "trustBilingual": "Hablamos español",
-    "trustInsurance": "Con o sin seguro",
+    "trustInsurance": "Sin seguro necesario",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
     "callShort": "Llamar"
   },
@@ -133,7 +133,7 @@
   },
   "ServicesPage": {
     "title": "Servicios médicos en La Porte, TX",
-    "subtitle": "Atención profesional en español, con o sin seguro y sin cita previa.",
+    "subtitle": "Atención profesional en español, con precios accesibles y sin cita previa.",
     "filterAll": "Todos",
     "filtersLabel": "Filtrar por categoría",
     "resultsEmpty": "No hay servicios en esta categoría."
@@ -141,7 +141,7 @@
   "ServiceDetail": {
     "backToServices": "Volver a servicios",
     "ctaTitle": "¿Listo para tu cita?",
-    "ctaBody": "Llámanos o escríbenos. Te atendemos en español, con o sin seguro.",
+    "ctaBody": "Llámanos o escríbenos. Te atendemos en español, con precios accesibles.",
     "ctaCall": "Llamar ahora",
     "ctaContact": "Solicitar información",
     "faqTitle": "Preguntas frecuentes",
