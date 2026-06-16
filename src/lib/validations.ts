@@ -15,7 +15,7 @@ export const contactSchema = z.object({
     .string()
     .trim()
     .max(120)
-    .refine((v) => v === "" || EMAIL_RE.test(v), { message: "invalid" }),
+    .refine((v) => EMAIL_RE.test(v), { message: "invalid" }),
   service: z.string().trim().max(140),
   // Mensaje opcional: puede ir vacío.
   message: z.string().trim().max(2000, { message: "max" }),

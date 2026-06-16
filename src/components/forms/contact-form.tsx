@@ -116,6 +116,7 @@ export function ContactForm({
         <Field
           id="name"
           label={t("nameLabel")}
+          required
           invalid={!!errors.name}
           error={errors.name ? t("errorName") : undefined}
         >
@@ -132,6 +133,7 @@ export function ContactForm({
         <Field
           id="phone"
           label={t("phoneLabel")}
+          required
           invalid={!!errors.phone}
           error={errors.phone ? t("errorPhone") : undefined}
         >
@@ -156,6 +158,7 @@ export function ContactForm({
         <Field
           id="email"
           label={t("emailLabel")}
+          required
           invalid={!!errors.email}
           error={errors.email ? t("errorEmail") : undefined}
         >
@@ -235,12 +238,14 @@ function Field({
   label,
   invalid,
   error,
+  required,
   children,
 }: {
   id: string;
   label: string;
   invalid?: boolean;
   error?: string;
+  required?: boolean;
   children: React.ReactNode;
 }) {
   return (
@@ -250,6 +255,11 @@ function Field({
         className={cn("mb-1.5 text-slate-dark", invalid && "text-red-accent")}
       >
         {label}
+        {required ? (
+          <span className="ml-0.5 text-red-accent" aria-hidden="true">
+            *
+          </span>
+        ) : null}
       </Label>
       {children}
       {error ? (
