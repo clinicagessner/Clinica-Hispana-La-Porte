@@ -47,6 +47,11 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   images: {
+    // Optimizador de Vercel desactivado a propósito: para no depender de la cuota
+    // de Image Optimization (/_next/image → 402 al agotarse) conforme crecen las
+    // imágenes, servimos los originales ya comprimidos a mano (WebP q80, PNG con
+    // pngquant+oxipng). Si algún día se sube el spend limit, se puede revertir.
+    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
       { protocol: "https", hostname: "*.googleusercontent.com" },
