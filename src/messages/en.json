@@ -58,7 +58,9 @@
     "trustInsurance": "No insurance needed",
     "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
     "callShort": "Call",
-    "reviewsBadge": "{count}+ Google reviews"
+    "reviewsBadge": "{count}+ Google reviews",
+    "contactPrompt": "Prefer us to reach out?",
+    "contactLink": "Write to us"
   },
   "Services": {
     "eyebrow": "Our services",

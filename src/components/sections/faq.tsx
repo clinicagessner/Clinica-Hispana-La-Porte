@@ -16,7 +16,10 @@ export function Faq() {
   const faqs = HOME_FAQS.map((f) => getLocalizedFaq(f, locale));
 
   return (
-    <section className="bg-gradient-to-b from-sky-bg to-cloud py-20 lg:py-28">
+    <section
+      id="faq"
+      className="scroll-mt-24 bg-gradient-to-b from-sky-bg to-cloud py-20 lg:py-28"
+    >
       <JsonLdFaqPage faqs={faqs} />
       <div className="mx-auto grid max-w-7xl gap-12 px-4 sm:px-6 lg:grid-cols-12 lg:px-8">
         {/* Encabezado sticky editorial */}

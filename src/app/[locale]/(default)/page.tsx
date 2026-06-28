@@ -10,6 +10,7 @@ import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
+import { ScrollSpy } from "@/components/layout/scroll-spy";
 import { SITE_CONFIG } from "@/lib/constants";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
@@ -50,6 +51,20 @@ export default async function HomePage({
       <Faq />
       <Location />
       <Contact />
+      <ScrollSpy
+        ids={[
+          "inicio",
+          "promociones",
+          "servicios",
+          "ginecologia",
+          "salud-masculina",
+          "testimonios",
+          "blog",
+          "faq",
+          "ubicacion",
+          "contacto",
+        ]}
+      />
     </>
   );
 }

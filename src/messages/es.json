@@ -58,7 +58,9 @@
     "trustInsurance": "Sin seguro necesario",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
     "callShort": "Llamar",
-    "reviewsBadge": "{count}+ reseñas en Google"
+    "reviewsBadge": "{count}+ reseñas en Google",
+    "contactPrompt": "¿Prefieres que te contactemos?",
+    "contactLink": "Escríbenos"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",

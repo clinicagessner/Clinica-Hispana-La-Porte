@@ -10,7 +10,10 @@ export function Gynecology() {
   const points = [t("point1"), t("point2"), t("point3")];
 
   return (
-    <section className="bg-gradient-to-b from-sky-bg to-cloud py-16 lg:py-24">
+    <section
+      id="ginecologia"
+      className="scroll-mt-24 bg-gradient-to-b from-sky-bg to-cloud py-16 lg:py-24"
+    >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Tarjeta oscura flotante: sin línea ni degradado, fondo claro continuo */}
         <Reveal>

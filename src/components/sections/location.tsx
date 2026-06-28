@@ -13,7 +13,10 @@ export function Location() {
   const en = locale === "en";
 
   return (
-    <section className="bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-28">
+    <section
+      id="ubicacion"
+      className="scroll-mt-24 bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-28"
+    >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-deep">
