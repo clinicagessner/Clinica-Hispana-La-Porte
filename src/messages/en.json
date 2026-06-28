@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Home",
     "services": "Services",
+    "promotions": "Promotions",
     "blog": "Blog",
     "walkIn": "Walk-in",
     "contact": "Contact",
@@ -11,6 +12,24 @@
     "languageLabel": "Language",
     "spanish": "Español",
     "english": "English"
+  },
+  "Promotions": {
+    "eyebrow": "This month's offers",
+    "title": "Clinic promotions",
+    "subtitle": "Take advantage of our offers on consultations, lab work and exams. Tap a promotion to see it larger.",
+    "swipeHint": "Swipe to see more promotions",
+    "viewAll": "View all promotions",
+    "viewDetail": "View promotion",
+    "prev": "Previous promotion",
+    "next": "Next promotion",
+    "openAria": "View details for {name}",
+    "limitedTime": "Limited-time offer",
+    "priceLabel": "For only",
+    "includesLabel": "Includes",
+    "ctaCall": "Call now",
+    "ctaDirections": "Get directions",
+    "ctaForm": "Fill out the form",
+    "close": "Close"
   },
   "Common": {
     "openNow": "Open now",
@@ -38,7 +57,8 @@
     "trustBilingual": "We speak Spanish",
     "trustInsurance": "No insurance needed",
     "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
-    "callShort": "Call"
+    "callShort": "Call",
+    "reviewsBadge": "{count}+ Google reviews"
   },
   "Services": {
     "eyebrow": "Our services",

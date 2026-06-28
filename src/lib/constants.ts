@@ -40,9 +40,9 @@ export const CONTACT_INFO = {
   city: "La Porte",
   state: "TX",
   zip: "77571",
-  phone: "+13462291150",
-  phoneFormatted: "+1 (346) 229-1150",
-  phoneDisplay: "(346) 229-1150",
+  phone: "+13462221006",
+  phoneFormatted: "+1 (346) 222-1006",
+  phoneDisplay: "(346) 222-1006",
   email: "clinicaporte@chnuevasalud.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
@@ -85,6 +85,7 @@ export const GOOGLE_REVIEWS_DATA = {
 // Navbar (header): sin "Sin cita".
 export const NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "contact", href: "/#contacto" },
 ];
@@ -92,9 +93,108 @@ export const NAV_LINKS: NavLink[] = [
 // Footer: incluye "Sin cita" (walk-in).
 export const FOOTER_NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "walkIn", href: "/walk-in" },
   { key: "contact", href: "/#contacto" },
+];
+
+// Promociones. El flyer (imagen 4:5, 1080x1350) vive en
+// public/images/promotions/<slug>.webp y el texto descriptivo (title, blurb,
+// includes, price) se renderiza en la página /promociones para SEO y los flyers
+// se muestran en el carrusel de la home. Para agregar una: nuevo objeto aquí +
+// flyer con el mismo slug. `price` = null cuando el flyer no muestra precio.
+export interface Promotion {
+  slug: string;
+  title: string;
+  titleEn: string;
+  price: string | null;
+  blurb: string;
+  blurbEn: string;
+  includes: string[];
+  includesEn: string[];
+  alt: string;
+  altEn: string;
+}
+
+export const PROMOTIONS: Promotion[] = [
+  {
+    slug: "sangre-b12",
+    title: "Examen general de sangre + Vitamina B12",
+    titleEn: "Complete blood panel + Vitamin B12",
+    price: "$99",
+    blurb:
+      "Cuida tu salud con nuestra promoción especial: un examen general de sangre completo más una inyección de vitamina B12 para apoyar tu energía y bienestar. Conoce cómo está tu cuerpo y date un impulso, todo por solo $99.",
+    blurbEn:
+      "Take care of your health with our special promotion: a complete blood panel plus a vitamin B12 shot to support your energy and wellbeing. Find out how your body is doing and give yourself a boost, all for only $99.",
+    includes: [
+      "Examen general de sangre completo",
+      "Inyección de vitamina B12",
+      "Apoyo a tu energía y bienestar",
+      "Atención en español",
+    ],
+    includesEn: [
+      "Complete blood panel",
+      "Vitamin B12 injection",
+      "Support for your energy and wellbeing",
+      "Care in Spanish",
+    ],
+    alt: "Promoción de examen general de sangre con inyección de vitamina B12 por $99 en Clínica Hispana Nueva Salud La Porte, TX",
+    altEn:
+      "Complete blood panel with vitamin B12 injection for $99 promotion at Clínica Hispana Nueva Salud La Porte, TX",
+  },
+  {
+    slug: "salud-intima-femenina",
+    title: "Salud íntima femenina",
+    titleEn: "Women's intimate health",
+    price: "$69",
+    blurb:
+      "¿Picazón, flujo o mal olor? No lo ignores: pueden ser señales de una infección. Nuestra promoción de salud íntima femenina incluye cultivo íntimo, consulta médica y examen de orina gratis, con atención confidencial. Todo por solo $69.",
+    blurbEn:
+      "Itching, discharge or odor? Don't ignore it — these can be signs of an infection. Our women's intimate health promotion includes an intimate culture, a medical consultation and a free urine test, with confidential care. All for only $69.",
+    includes: [
+      "Cultivo íntimo",
+      "Consulta médica",
+      "Examen de orina gratis",
+      "Atención confidencial",
+      "Resultados rápidos",
+    ],
+    includesEn: [
+      "Intimate culture test",
+      "Medical consultation",
+      "Free urine test",
+      "Confidential care",
+      "Fast results",
+    ],
+    alt: "Promoción de salud íntima femenina por $69 en Clínica Hispana Nueva Salud La Porte, TX",
+    altEn:
+      "Women's intimate health promotion for $69 at Clínica Hispana Nueva Salud La Porte, TX",
+  },
+  {
+    slug: "perfil-hormonal-hombres",
+    title: "Perfil hormonal para hombres",
+    titleEn: "Hormone panel for men",
+    price: "$200",
+    blurb:
+      "¿Cansancio, irritabilidad, pérdida de masa muscular o baja libido? Pueden ser señales de un desequilibrio hormonal. Nuestro perfil hormonal masculino evalúa tu salud hormonal con exámenes confiables y resultados precisos, con atención profesional en español. Por solo $200.",
+    blurbEn:
+      "Fatigue, irritability, loss of muscle mass or low libido? These can be signs of a hormonal imbalance. Our male hormone panel evaluates your hormonal health with reliable tests and precise results, with professional care in Spanish. For only $200.",
+    includes: [
+      "Evalúa desequilibrios hormonales",
+      "Energía, sueño y estado de ánimo",
+      "Masa muscular y libido",
+      "Exámenes confiables y resultados precisos",
+    ],
+    includesEn: [
+      "Evaluates hormonal imbalances",
+      "Energy, sleep and mood",
+      "Muscle mass and libido",
+      "Reliable tests and precise results",
+    ],
+    alt: "Promoción de perfil hormonal masculino por $200 en Clínica Hispana Nueva Salud La Porte, TX",
+    altEn:
+      "Male hormone panel promotion for $200 at Clínica Hispana Nueva Salud La Porte, TX",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {

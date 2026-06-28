@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Inicio",
     "services": "Servicios",
+    "promotions": "Promociones",
     "blog": "Blog",
     "walkIn": "Sin cita",
     "contact": "Contacto",
@@ -11,6 +12,24 @@
     "languageLabel": "Idioma",
     "spanish": "Español",
     "english": "English"
+  },
+  "Promotions": {
+    "eyebrow": "Ofertas del mes",
+    "title": "Promociones de la clínica",
+    "subtitle": "Aprovecha nuestras ofertas en consultas, laboratorio y exámenes. Toca una promoción para verla en grande.",
+    "swipeHint": "Desliza para ver más promociones",
+    "viewAll": "Ver todas las promociones",
+    "viewDetail": "Ver promoción",
+    "prev": "Promoción anterior",
+    "next": "Siguiente promoción",
+    "openAria": "Ver detalle de {name}",
+    "limitedTime": "Oferta por tiempo limitado",
+    "priceLabel": "Por solo",
+    "includesLabel": "Incluye",
+    "ctaCall": "Llamar ahora",
+    "ctaDirections": "Cómo llegar",
+    "ctaForm": "Llenar formulario",
+    "close": "Cerrar"
   },
   "Common": {
     "openNow": "Abierto ahora",
@@ -38,7 +57,8 @@
     "trustBilingual": "Hablamos español",
     "trustInsurance": "Sin seguro necesario",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
-    "callShort": "Llamar"
+    "callShort": "Llamar",
+    "reviewsBadge": "{count}+ reseñas en Google"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
