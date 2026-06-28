@@ -18,7 +18,7 @@ export async function BlogPreview() {
   return (
     <section
       id="blog"
-      className="scroll-mt-24 bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-28"
+      className="scroll-mt-24 bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-28"
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid gap-6 lg:grid-cols-12 lg:items-end">
