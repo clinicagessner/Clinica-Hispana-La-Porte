@@ -8,14 +8,21 @@ import {
   ShieldCheck,
   Star,
 } from "lucide-react";
+import { WhatsappLogoIcon } from "@phosphor-icons/react/dist/ssr";
 import { getTranslations } from "next-intl/server";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 
 export async function Hero() {
-  const t = await getTranslations("Hero");
-  const tc = await getTranslations("Common");
-  const place = await getGooglePlaceData();
+  const [t, tc, place] = await Promise.all([
+    getTranslations("Hero"),
+    getTranslations("Common"),
+    getGooglePlaceData(),
+  ]);
+
+  // WhatsApp usa su número dedicado (solo chat) — nunca CONTACT_INFO.phone,
+  // que es el de llamadas y el único que CallRail (swap.js) intercambia.
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
 
   return (
     <section
@@ -37,12 +44,6 @@ export async function Hero() {
         aria-hidden
         className="absolute inset-0 -z-10 bg-[radial-gradient(110%_80%_at_50%_40%,transparent_35%,rgba(11,42,74,0.6)_100%)]"
       />
-      {/* Degradado inferior: la imagen se funde con la siguiente sección */}
-      <div
-        aria-hidden
-        className="pointer-events-none absolute inset-x-0 bottom-0 -z-10 h-44 bg-linear-to-b from-transparent to-cloud"
-      />
-
       {/* Píldora flotante: rating (arriba, oculta en móvil) */}
       <div className="absolute right-5 top-5 hidden items-center gap-2.5 rounded-2xl border border-white/20 bg-white/10 px-4 py-2.5 backdrop-blur-md sm:flex lg:right-8 lg:top-8">
         <span className="flex gap-0.5">
@@ -106,6 +107,19 @@ export async function Hero() {
             <span className="whitespace-nowrap">
               {t("callShort")} · {CONTACT_INFO.phoneDisplay}
             </span>
+          </a>
+          <a
+            href={whatsappHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={tc("whatsapp")}
+            className="group inline-flex h-14 w-full items-center justify-center gap-2.5 rounded-full bg-whatsapp px-7 font-heading text-base font-semibold text-white shadow-xl shadow-whatsapp/30 ring-1 ring-white/10 transition-all duration-200 hover:bg-whatsapp-dark hover:shadow-2xl hover:shadow-whatsapp/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white sm:w-auto"
+          >
+            <WhatsappLogoIcon
+              className="size-5 shrink-0 transition-transform group-hover:scale-110"
+              weight="fill"
+            />
+            {t("ctaWhatsapp")}
           </a>
           <a
             href={CONTACT_INFO.googleMapsUrl}
