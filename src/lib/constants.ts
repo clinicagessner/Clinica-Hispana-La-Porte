@@ -43,6 +43,11 @@ export const CONTACT_INFO = {
   phone: "+13462221006",
   phoneFormatted: "+1 (346) 222-1006",
   phoneDisplay: "(346) 222-1006",
+  // WhatsApp — número EXCLUSIVO para chat (no recibe llamadas). Nunca usarlo
+  // en tel:, NAP, schema ni listados; el teléfono oficial sigue siendo `phone`
+  // y el swap de CallRail solo aplica sobre ese.
+  whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
+  whatsappDisplay: "(832) 831-4016",
   email: "clinicaporte@chnuevasalud.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
