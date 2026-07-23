@@ -18,6 +18,7 @@ const BLOG_IMAGE_SLUGS = new Set<string>([
   "laboratorio-clinico-laporte-analisis-sangre",
   "medicos-autorizados-uscis-laporte-civil-surgeon",
   "salud-mujer-laporte-servicios-ginecologia",
+  "salud-hombre-laporte-chequeos-preventivos",
 ]);
 
 function readingMinutes(content: string): number {
