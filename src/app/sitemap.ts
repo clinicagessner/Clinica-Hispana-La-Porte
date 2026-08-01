@@ -32,7 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry("/promociones", "weekly", 0.8),
     entry("/blog", "weekly", 0.7),
     entry("/walk-in", "monthly", 0.8),
-    entry("/landing/comparacion-clinicas-la porte", "monthly", 0.7),
+    entry("/landing/comparacion-clinicas-laporte", "monthly", 0.7),
     entry("/privacy", "yearly", 0.3),
   ];
 
