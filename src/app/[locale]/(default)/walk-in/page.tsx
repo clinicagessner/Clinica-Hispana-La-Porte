@@ -253,7 +253,7 @@ export default async function WalkInPage({
       </section>
 
       {/* CTA final */}
-      <section className="bg-gradient-to-b from-sky-bg to-blue-deep py-16 text-center">
+      <section className="bg-linear-to-b from-sky-bg to-blue-deep py-16 text-center">
         <div className="mx-auto max-w-3xl rounded-4xl bg-linear-to-br from-blue-deep via-blue-dark to-blue-deep px-6 py-12 text-sky-bg shadow-2xl shadow-blue-deep/20 sm:px-10">
           <h2 className="font-heading text-2xl font-extrabold text-white sm:text-3xl">
             {c.finalTitle}
