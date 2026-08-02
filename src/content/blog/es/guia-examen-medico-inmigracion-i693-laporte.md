@@ -42,4 +42,4 @@ No abras el sobre sellado. Si lo abres, el formulario puede invalidarse y tendr�
 
 ## Te acompañamos en cada paso
 
-En Clínica Hispana Nueva Salud La Porte realizamos el examen I-693 con médico autorizado, todo en español y con el formulario sellado listo para enviar. Llámanos al **(832) 906-8551**.
+En Clínica Hispana Nueva Salud La Porte realizamos el examen I-693 con médico autorizado, todo en español y con el formulario sellado listo para enviar. Llámanos al **(346) 222-1006**.

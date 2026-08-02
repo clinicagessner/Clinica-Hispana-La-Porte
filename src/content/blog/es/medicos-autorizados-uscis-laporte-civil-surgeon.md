@@ -39,4 +39,4 @@ Solo el formulario completado y **sellado por un civil surgeon** es válido para
 
 ## En Clínica Hispana Nueva Salud La Porte
 
-Contamos con médico autorizado por USCIS y realizamos tu examen I-693 completo, en español y con el formulario sellado. Llámanos al **(832) 906-8551** para más información.
+Contamos con médico autorizado por USCIS y realizamos tu examen I-693 completo, en español y con el formulario sellado. Llámanos al **(346) 222-1006** para más información.

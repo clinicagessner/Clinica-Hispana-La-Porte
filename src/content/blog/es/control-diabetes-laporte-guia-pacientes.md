@@ -41,4 +41,4 @@ La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Po
 
 ## Cuenta con nosotros
 
-En Clínica Hispana Nueva Salud La Porte tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(832) 906-8551** y toma el control de tu salud.
+En Clínica Hispana Nueva Salud La Porte tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(346) 222-1006** y toma el control de tu salud.

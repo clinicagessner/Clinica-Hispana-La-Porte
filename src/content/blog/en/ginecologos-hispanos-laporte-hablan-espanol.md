@@ -35,4 +35,4 @@ The frequency depends on your age and history. At your visit we'll advise what's
 
 ## Your health, in your language
 
-At Clínica Hispana Nueva Salud La Porte we offer gynecological care in Spanish, with the trust you deserve. Book your visit by calling **(832) 906-8551**.
+At Clínica Hispana Nueva Salud La Porte we offer gynecological care in Spanish, with the trust you deserve. Book your visit by calling **(346) 222-1006**.

@@ -35,4 +35,4 @@ In most cases we deliver results **the same day** and explain them in Spanish, w
 
 ## Walk in anytime
 
-At Clínica Hispana Nueva Salud La Porte we draw your samples on the spot and guide you on the next steps. Call us at **(832) 906-8551** or visit Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM.
+At Clínica Hispana Nueva Salud La Porte we draw your samples on the spot and guide you on the next steps. Call us at **(346) 222-1006** or visit Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM.

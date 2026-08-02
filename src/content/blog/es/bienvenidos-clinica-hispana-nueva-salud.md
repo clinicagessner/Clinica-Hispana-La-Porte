@@ -36,4 +36,4 @@ Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te re
 
 ## Te esperamos
 
-Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. Ven sin cita o llámanos al **(832) 906-8551**. En Clínica Hispana Nueva Salud La Porte, te atendemos como a los nuestros.
+Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. Ven sin cita o llámanos al **(346) 222-1006**. En Clínica Hispana Nueva Salud La Porte, te atendemos como a los nuestros.

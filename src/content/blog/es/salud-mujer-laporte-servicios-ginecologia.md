@@ -36,4 +36,4 @@ Si presentas comezón, ardor, flujo diferente, mal olor o dolor, no esperes. Una
 
 ## Atención en tu idioma
 
-En Clínica Hispana Nueva Salud La Porte la salud de la mujer es una prioridad. Te atendemos en español, con privacidad y cercanía. Llámanos al **(832) 906-8551** y agenda tu visita.
+En Clínica Hispana Nueva Salud La Porte la salud de la mujer es una prioridad. Te atendemos en español, con privacidad y cercanía. Llámanos al **(346) 222-1006** y agenda tu visita.
