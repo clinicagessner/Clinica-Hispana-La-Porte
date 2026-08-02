@@ -145,7 +145,7 @@ export default async function WalkInPage({
       />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-blue-primary via-blue-dark to-blue-deep py-20 text-sky-bg lg:py-28">
+      <section className="relative overflow-hidden bg-linear-to-br from-blue-primary via-blue-dark to-blue-deep py-20 text-sky-bg lg:py-28">
         <div
           aria-hidden
           className="pointer-events-none absolute -right-20 -top-16 h-96 w-96 rounded-full bg-teal/15 blur-3xl"
@@ -184,7 +184,7 @@ export default async function WalkInPage({
       </section>
 
       {/* Beneficios */}
-      <section className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-24">
+      <section className="bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
             {c.benefitsTitle}
@@ -213,7 +213,7 @@ export default async function WalkInPage({
       </section>
 
       {/* Cómo funciona */}
-      <section className="bg-gradient-to-b from-sky-bg to-cloud py-20 lg:py-24">
+      <section className="bg-linear-to-b from-sky-bg to-cloud py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
             {c.stepsTitle}
@@ -239,7 +239,7 @@ export default async function WalkInPage({
       </section>
 
       {/* FAQ */}
-      <section className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-24">
+      <section className="bg-linear-to-b from-cloud to-sky-bg py-20 lg:py-24">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
             {c.faqTitle}
@@ -254,7 +254,7 @@ export default async function WalkInPage({
 
       {/* CTA final */}
       <section className="bg-gradient-to-b from-sky-bg to-blue-deep py-16 text-center">
-        <div className="mx-auto max-w-3xl rounded-[2rem] bg-gradient-to-br from-blue-deep via-blue-dark to-blue-deep px-6 py-12 text-sky-bg shadow-2xl shadow-blue-deep/20 sm:px-10">
+        <div className="mx-auto max-w-3xl rounded-4xl bg-linear-to-br from-blue-deep via-blue-dark to-blue-deep px-6 py-12 text-sky-bg shadow-2xl shadow-blue-deep/20 sm:px-10">
           <h2 className="font-heading text-2xl font-extrabold text-white sm:text-3xl">
             {c.finalTitle}
           </h2>
