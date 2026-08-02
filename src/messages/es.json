@@ -49,8 +49,8 @@
   "Hero": {
     "badge": "Clínica médica hispana en La Porte, TX",
     "openToday": "Abierto hoy",
-    "titleLead": "Atención médica",
-    "titleHighlight": "100% en español",
+    "titleLead": "Clínica Hispana en La Porte, TX",
+    "titleHighlight": "atención 100% en español",
     "titleTail": "para toda la familia",
     "subtitle": "Medicina familiar, exámenes de inmigración, laboratorio y más. Sin cita previa y con precios accesibles. Te atendemos como a los nuestros.",
     "ctaCall": "Llamar a la clínica",
@@ -67,8 +67,8 @@
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
-    "title": "Todo lo que tu familia necesita, en un solo lugar",
-    "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
+    "title": "Un centro médico con todo lo que tu familia necesita",
+    "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma, en La Porte y el área de Houston.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
   },
@@ -91,11 +91,11 @@
   "Faq": {
     "eyebrow": "Preguntas frecuentes",
     "title": "Resolvemos tus dudas",
-    "subtitle": "Lo que más nos preguntan antes de la primera visita."
+    "subtitle": "Lo que más nos preguntan antes de visitar nuestra clínica hispana en La Porte."
   },
   "Location": {
     "eyebrow": "Visítanos",
-    "title": "Estamos cerca de ti, en La Porte",
+    "title": "Tu clínica hispana cerca de ti, en La Porte",
     "addressLabel": "Dirección",
     "hoursLabel": "Horario",
     "phoneLabel": "Teléfono",
@@ -140,7 +140,7 @@
     "cta": "Ver todo el blog"
   },
   "Footer": {
-    "tagline": "Atención médica profesional 100% en español en La Porte, TX.",
+    "tagline": "Clínica hispana en La Porte, TX: atención médica profesional 100% en español.",
     "servicesTitle": "Servicios",
     "navTitle": "Navegación",
     "contactTitle": "Contacto",
@@ -158,7 +158,7 @@
     "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
-    "title": "Servicios médicos en La Porte, TX",
+    "title": "Servicios de nuestra clínica hispana en La Porte, TX",
     "subtitle": "Atención profesional en español, con precios accesibles y sin cita previa.",
     "filterAll": "Todos",
     "filtersLabel": "Filtrar por categoría",

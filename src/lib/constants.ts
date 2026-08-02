@@ -26,9 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Atención médica profesional 100% en español",
   taglineEn: "Professional healthcare 100% in Spanish",
   description:
-    "Clínica médica hispana en La Porte, TX. Atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica hispana en La Porte, TX, en el área de Houston. Centro médico con atención 100% en español, sin cita previa y precios accesibles. No necesitas seguro médico. Medicina familiar, laboratorio, exámenes de inmigración y más.",
   descriptionEn:
-    "Hispanic medical clinic in La Porte, TX. Professional care in Spanish, walk-ins welcome, no insurance needed. Family medicine, immigration exams, lab work and more.",
+    "Hispanic clinic in La Porte, TX, in the Houston area. Medical center with care 100% in Spanish, walk-ins welcome and affordable pricing. No insurance needed. Family medicine, lab work, immigration exams and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -217,11 +217,11 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Nueva Salud + La Porte).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud La Porte?
 
-En Clínica Hispana Nueva Salud La Porte te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+En Clínica Hispana Nueva Salud La Porte somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud La Porte?
 
-At Clínica Hispana Nueva Salud La Porte we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+At Clínica Hispana Nueva Salud La Porte we are a Hispanic and Latino clinic caring for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 
@@ -233,11 +233,11 @@ You don't need health insurance. We offer affordable, transparent pricing and ac
 
 const AREAS_ES = `## Áreas que servimos
 
-Atendemos a pacientes de La Porte, TX y el área de Houston: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore y comunidades cercanas.`;
+Somos un centro médico cerca de ti en La Porte, TX, y atendemos a pacientes de toda el área de Houston: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore y comunidades cercanas.`;
 
 const AREAS_EN = `## Areas we serve
 
-We care for patients across La Porte, TX and the greater Houston area: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore and surrounding communities.`;
+We are a medical center near you in La Porte, TX, serving patients across the greater Houston area: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore and surrounding communities.`;
 
 
 export const SERVICES: Service[] = [
@@ -686,6 +686,10 @@ ${AREAS_EN}`,
 
 Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
 
+## Ginecología en una clínica hispana cerca de ti
+
+Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita: visita nuestra clínica hispana y te atendemos el mismo día, con precios accesibles y en tu idioma.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -704,6 +708,10 @@ ${AREAS_ES}`,
 ## Don't stay in doubt
 
 Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+## Gynecology at a Hispanic clinic near you
+
+If you're looking for gynecology care in Spanish in La Porte, TX, no appointment is needed: visit our Hispanic clinic and we'll see you the same day, with affordable pricing and in your language.
 
 ${WHY_EN}
 
@@ -1026,14 +1034,14 @@ ${AREAS_EN}`,
     category: "laboratorio",
     icon: "FlaskConical",
     highlighted: true,
-    title: "Exámenes de Sangre | Laboratorio",
-    titleEn: "Blood Tests | Lab",
+    title: "Análisis de Sangre y Laboratorio",
+    titleEn: "Blood Tests & Lab Work",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
       "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
     description:
-      "Exámenes de sangre en La Porte, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
+      "Análisis de sangre en La Porte, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
     descriptionEn:
       "Blood tests in La Porte, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing.",
     keywords: [
@@ -1152,6 +1160,10 @@ ${AREAS_EN}`,
 
 Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
 
+## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
+
+Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y sales con tu tratamiento el mismo día.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1170,6 +1182,10 @@ ${AREAS_ES}`,
 ## Common symptoms
 
 Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+## Urinary infection treatment at a Hispanic clinic near you
+
+If you have urinary infection symptoms in La Porte, TX, walk into our Hispanic clinic with no appointment: we'll run your urine test and you'll leave with treatment the same day.
 
 ${WHY_EN}
 

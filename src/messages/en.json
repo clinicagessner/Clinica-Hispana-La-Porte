@@ -49,8 +49,8 @@
   "Hero": {
     "badge": "Hispanic medical clinic in La Porte, TX",
     "openToday": "Open today",
-    "titleLead": "Healthcare",
-    "titleHighlight": "100% in Spanish",
+    "titleLead": "Hispanic Clinic in La Porte, TX",
+    "titleHighlight": "care 100% in Spanish",
     "titleTail": "for the whole family",
     "subtitle": "Family medicine, immigration exams, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
     "ctaCall": "Call the clinic",
@@ -67,8 +67,8 @@
   },
   "Services": {
     "eyebrow": "Our services",
-    "title": "Everything your family needs, in one place",
-    "subtitle": "A wide range of medical services with professional care in your language.",
+    "title": "A medical center with everything your family needs",
+    "subtitle": "A wide range of medical services with professional care in your language, in La Porte and the Houston area.",
     "cta": "View all services",
     "featured": "Featured"
   },
@@ -91,11 +91,11 @@
   "Faq": {
     "eyebrow": "Frequently asked questions",
     "title": "We answer your questions",
-    "subtitle": "The things patients ask us most before their first visit."
+    "subtitle": "What patients ask us most before visiting our Hispanic clinic in La Porte."
   },
   "Location": {
     "eyebrow": "Visit us",
-    "title": "We are close to you, in La Porte",
+    "title": "Your Hispanic clinic near you in La Porte",
     "addressLabel": "Address",
     "hoursLabel": "Hours",
     "phoneLabel": "Phone",
@@ -140,7 +140,7 @@
     "cta": "View the full blog"
   },
   "Footer": {
-    "tagline": "Professional healthcare 100% in Spanish in La Porte, TX.",
+    "tagline": "Hispanic clinic in La Porte, TX: professional healthcare 100% in Spanish.",
     "servicesTitle": "Services",
     "navTitle": "Navigation",
     "contactTitle": "Contact",
@@ -158,7 +158,7 @@
     "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
-    "title": "Medical services in La Porte, TX",
+    "title": "Services at our Hispanic clinic in La Porte, TX",
     "subtitle": "Professional care in Spanish, with affordable pricing and walk-ins welcome.",
     "filterAll": "All",
     "filtersLabel": "Filter by category",

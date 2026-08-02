@@ -43,6 +43,30 @@ export const HOME_FAQS: ServiceFaq[] = [
       "We are at 9606 Spencer Hwy Ste D, La Porte, TX 77571, serving Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax and the greater Houston area.",
   },
   {
+    question: "¿Hay una clínica hispana cerca de mí en La Porte, TX?",
+    answer:
+      "Sí. Clínica Hispana Nueva Salud La Porte está en 9606 Spencer Hwy Ste D, La Porte, TX 77571. Somos un centro médico cerca de ti si vives en La Porte, Deer Park, Pasadena o el área de Houston.",
+    questionEn: "Is there a Hispanic clinic near me in La Porte, TX?",
+    answerEn:
+      "Yes. Clínica Hispana Nueva Salud La Porte is at 9606 Spencer Hwy Ste D, La Porte, TX 77571. We are a medical center near you if you live in La Porte, Deer Park, Pasadena or the Houston area.",
+  },
+  {
+    question: "Busco un médico primario cerca de mí, ¿me pueden atender?",
+    answer:
+      "Sí. Podemos ser tu médico primario: consultas de medicina familiar, control de condiciones crónicas como diabetes e hipertensión, laboratorio y seguimiento, todo en español y sin cita previa.",
+    questionEn: "I'm looking for a primary care doctor near me — can you see me?",
+    answerEn:
+      "Yes. We can be your primary care provider: family medicine visits, management of chronic conditions like diabetes and hypertension, lab work and follow-up, all in Spanish and with no appointment needed.",
+  },
+  {
+    question: "¿Son una clínica latina? ¿Atienden a toda la comunidad?",
+    answer:
+      "Sí, somos una clínica hispana y latina y atendemos a toda la comunidad. Todo nuestro equipo habla español, y también ofrecemos atención en inglés.",
+    questionEn: "Are you a Latino clinic? Do you serve the whole community?",
+    answerEn:
+      "Yes, we are a Hispanic and Latino clinic and we serve the entire community. Our whole team speaks Spanish, and we also offer care in English.",
+  },
+  {
     question: "¿Realizan el examen médico de inmigración?",
     answer:
       "Sí, realizamos el examen I-693 con médico autorizado por USCIS, incluyendo vacunas y el formulario sellado el mismo día.",

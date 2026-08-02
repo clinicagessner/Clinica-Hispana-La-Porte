@@ -32,7 +32,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
       "Promociones del mes en Clínica Hispana Nueva Salud La Porte: examen general de sangre + Vitamina B12 por $99, salud íntima femenina por $69 y perfil hormonal masculino por $200. En español, sin cita y sin seguro en La Porte, TX.",
     backToHome: "Volver al inicio",
     eyebrow: "Promociones del mes",
-    title: "Promociones de la clínica",
+    title: "Promociones de nuestra clínica hispana",
     subtitle:
       "Ofertas en exámenes y servicios de salud, con atención 100% en español, sin cita previa y sin necesidad de seguro en La Porte, TX. Llámanos para confirmar disponibilidad.",
     limitedTime: "Oferta por tiempo limitado",
@@ -72,7 +72,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
       "This month's promotions at Clínica Hispana Nueva Salud La Porte: complete blood panel + Vitamin B12 for $99, women's intimate health for $69 and a male hormone panel for $200. In Spanish, walk-ins and no insurance needed in La Porte, TX.",
     backToHome: "Back to home",
     eyebrow: "This month's offers",
-    title: "Clinic promotions",
+    title: "Promotions at our Hispanic clinic",
     subtitle:
       "Offers on exams and health services, with care 100% in Spanish, walk-ins welcome and no insurance needed in La Porte, TX. Call us to confirm availability.",
     limitedTime: "Limited-time offer",
