@@ -49,10 +49,10 @@ export const CONTACT_INFO = {
   whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
   whatsappDisplay: "(832) 831-4016",
   email: "clinicaporte@chnuevasalud.com",
-  hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
-  hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
+  hours: "Lunes a Sábado: 9:00 AM - 9:00 PM · Domingo: 9:00 AM - 7:00 PM",
+  hoursEn: "Monday to Saturday: 9:00 AM - 9:00 PM · Sunday: 9:00 AM - 7:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
-  hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
+  hoursWeekend: "Sábado: 9:00 AM - 9:00 PM · Domingo: 9:00 AM - 7:00 PM",
   // Coordenadas exactas (Google Places API) de 9606 Spencer Hwy Ste D, La Porte TX.
   coordinates: { lat: 29.6639431, lng: -95.0883054 },
   googleMapsUrl:
@@ -72,7 +72,7 @@ export const OPENING_HOURS = [
   { day: "Thursday", opens: "09:00", closes: "21:00" },
   { day: "Friday", opens: "09:00", closes: "21:00" },
   { day: "Saturday", opens: "09:00", closes: "21:00" },
-  { day: "Sunday", opens: "09:00", closes: "21:00" },
+  { day: "Sunday", opens: "09:00", closes: "19:00" },
 ] as const;
 
 export const SOCIAL_LINKS = {
@@ -217,11 +217,11 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Nueva Salud + La Porte).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud La Porte?
 
-En Clínica Hispana Nueva Salud La Porte somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+En Clínica Hispana Nueva Salud La Porte somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud La Porte?
 
-At Clínica Hispana Nueva Salud La Porte we are a Hispanic and Latino clinic caring for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+At Clínica Hispana Nueva Salud La Porte we are a Hispanic and Latino clinic caring for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 

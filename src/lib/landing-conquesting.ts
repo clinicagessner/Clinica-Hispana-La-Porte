@@ -47,7 +47,7 @@ const CONTENT: Record<Locale, LandingContent> = {
       { feature: "Atención 100% en español", clinic: true, others: false },
       { feature: "Sin cita previa", clinic: true, others: false },
       { feature: "Sin necesidad de seguro", clinic: true, others: false },
-      { feature: "Abierto todos los días 9 AM–9 PM", clinic: true, others: false },
+      { feature: "Abierto los 7 días de la semana", clinic: true, others: false },
       { feature: "Laboratorio el mismo día", clinic: true, others: false },
       { feature: "Examen de inmigración I-693", clinic: true, others: false },
       { feature: "Precios accesibles y transparentes", clinic: true, others: false },
@@ -71,7 +71,7 @@ const CONTENT: Record<Locale, LandingContent> = {
     faqs: [
       {
         question: "¿Necesito cita para que me atiendan?",
-        answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM.",
+        answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.",
       },
       {
         question: "¿Atienden sin seguro?",
@@ -103,7 +103,7 @@ const CONTENT: Record<Locale, LandingContent> = {
       { feature: "Care 100% in Spanish", clinic: true, others: false },
       { feature: "Walk-ins welcome", clinic: true, others: false },
       { feature: "No insurance required", clinic: true, others: false },
-      { feature: "Open every day 9 AM–9 PM", clinic: true, others: false },
+      { feature: "Open 7 days a week", clinic: true, others: false },
       { feature: "Same-day lab work", clinic: true, others: false },
       { feature: "I-693 immigration exam", clinic: true, others: false },
       { feature: "Affordable, transparent pricing", clinic: true, others: false },
@@ -127,7 +127,7 @@ const CONTENT: Record<Locale, LandingContent> = {
     faqs: [
       {
         question: "Do I need an appointment to be seen?",
-        answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM.",
+        answer: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM.",
       },
       {
         question: "Do you see patients without insurance?",

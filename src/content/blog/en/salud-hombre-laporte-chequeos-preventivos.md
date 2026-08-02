@@ -71,7 +71,7 @@ Come in soon if you notice:
 We know many men put off their checkup because of language, work schedules or cost. At our clinic:
 
 - We care for you **100% in Spanish**, and explain your results clearly
-- **No appointment needed**: come when you can, we are open every day from 9 AM to 9 PM
+- **No appointment needed**: come when you can, we are open every day from 9 AM
 - **No medical insurance required**: we offer affordable pricing
 - We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore and surrounding communities
 
@@ -87,7 +87,7 @@ We know many men put off their checkup because of language, work schedules or co
 
 - On-site lab and results explained in your language
 - A team that treats you with respect and without judgment
-- Wide hours designed for working people: Monday to Sunday, 9 AM to 9 PM
+- Wide hours designed for working people: Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM
 - Affordable pricing with no insurance required
 
 ## Take the first step today
@@ -96,6 +96,6 @@ Your family needs you healthy. A preventive checkup takes less than an hour and 
 
 - **Phone:** (346) 222-1006
 - **Address:** 9606 Spencer Hwy Ste D, La Porte, TX 77571
-- **Hours:** Monday to Sunday, 9:00 AM – 9:00 PM
+- **Hours:** Monday to Saturday, 9:00 AM – 9:00 PM · Sunday, 9:00 AM – 7:00 PM
 
 Call us or walk in with no appointment. We are here to care for you in Spanish.

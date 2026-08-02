@@ -16,7 +16,7 @@ En Clínica Hispana Nueva Salud La Porte creemos que cuidar tu salud no debería
 
 ## Quiénes somos
 
-Somos una clínica médica familiar ubicada en **9606 Spencer Hwy Ste D, La Porte, TX 77571**. Atendemos a niños y adultos, con precios accesibles y sin necesidad de seguro, y sin necesidad de cita previa. Nuestro horario es de **lunes a domingo, de 9:00 AM a 9:00 PM**, porque sabemos que la salud no espera al fin de semana.
+Somos una clínica médica familiar ubicada en **9606 Spencer Hwy Ste D, La Porte, TX 77571**. Atendemos a niños y adultos, con precios accesibles y sin necesidad de seguro, y sin necesidad de cita previa. Nuestro horario es de **lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 7:00 PM**, porque sabemos que la salud no espera al fin de semana.
 
 ## Qué puedes encontrar con nosotros
 

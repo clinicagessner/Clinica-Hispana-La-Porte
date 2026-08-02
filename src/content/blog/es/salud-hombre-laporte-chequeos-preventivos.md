@@ -71,7 +71,7 @@ Acude a consulta pronto si presentas:
 Sabemos que muchos hombres posponen el chequeo por el idioma, el horario de trabajo o el costo. En nuestra clínica:
 
 - Te atendemos **100% en español**, y te explicamos tus resultados con claridad
-- **No necesitas cita**: llega cuando puedas, abrimos todos los días de 9 AM a 9 PM
+- **No necesitas cita**: llega cuando puedas, abrimos todos los días desde las 9 AM
 - **No necesitas seguro médico**: manejamos precios accesibles
 - Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore y comunidades cercanas
 
@@ -87,7 +87,7 @@ Sabemos que muchos hombres posponen el chequeo por el idioma, el horario de trab
 
 - Laboratorio en sitio y resultados explicados en tu idioma
 - Equipo que te trata con respeto y sin juicios
-- Horario amplio pensado para quienes trabajan: lunes a domingo, 9 AM a 9 PM
+- Horario amplio pensado para quienes trabajan: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM
 - Precios accesibles sin necesidad de seguro
 
 ## Da el primer paso hoy
@@ -96,6 +96,6 @@ Tu familia te necesita sano. Un chequeo preventivo toma menos de una hora y te d
 
 - **Teléfono:** (346) 222-1006
 - **Dirección:** 9606 Spencer Hwy Ste D, La Porte, TX 77571
-- **Horario:** Lunes a Domingo, 9:00 AM – 9:00 PM
+- **Horario:** Lunes a Sábado, 9:00 AM – 9:00 PM · Domingo, 9:00 AM – 7:00 PM
 
 Llámanos o visítanos sin cita. Estamos aquí para atenderte en español.

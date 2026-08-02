@@ -5,10 +5,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Necesito cita para que me atiendan?",
     answer:
-      "No. Atendemos sin cita previa de lunes a domingo de 9:00 AM a 9:00 PM. También puedes llamarnos para reservar un horario.",
+      "No. Atendemos sin cita previa de lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 7:00 PM. También puedes llamarnos para reservar un horario.",
     questionEn: "Do I need an appointment to be seen?",
     answerEn:
-      "No. We welcome walk-ins Monday to Sunday from 9:00 AM to 9:00 PM. You can also call us to reserve a time.",
+      "No. We welcome walk-ins Monday to Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM. You can also call us to reserve a time.",
   },
   {
     question: "¿Atienden a pacientes sin seguro médico?",

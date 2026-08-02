@@ -14,9 +14,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -34,9 +34,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -54,9 +54,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -74,9 +74,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -94,9 +94,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -114,9 +114,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -134,9 +134,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -154,9 +154,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -174,9 +174,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -194,9 +194,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -214,9 +214,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -234,9 +234,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -254,9 +254,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -274,9 +274,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -294,9 +294,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -314,9 +314,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -334,9 +334,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -354,9 +354,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -374,9 +374,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -394,9 +394,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -414,9 +414,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -434,9 +434,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -454,9 +454,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -474,9 +474,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -494,9 +494,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -514,9 +514,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -534,9 +534,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -554,9 +554,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",
@@ -574,9 +574,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",

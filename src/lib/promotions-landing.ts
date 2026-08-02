@@ -53,7 +53,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
       {
         question: "¿Necesito cita o seguro para aprovecharlas?",
         answer:
-          "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM y sin necesidad de seguro.",
+          "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM y sin necesidad de seguro.",
       },
       {
         question: "¿Cómo reservo una promoción?",
@@ -93,7 +93,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
       {
         question: "Do I need an appointment or insurance to use them?",
         answer:
-          "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM and no insurance is needed.",
+          "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM and no insurance is needed.",
       },
       {
         question: "How do I book a promotion?",
