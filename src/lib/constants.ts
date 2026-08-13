@@ -77,7 +77,7 @@ export const OPENING_HOURS = [
 
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicahispanaporte",
-  instagram: "https://www.instagram.com/clinicamedicasanjacinto",
+  instagram: "https://www.instagram.com/clinicanuevasaludporte",
 } as const;
 
 // Fallback de build para rating/reseñas. La data en vivo la trae
