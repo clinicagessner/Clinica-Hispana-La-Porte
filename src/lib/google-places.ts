@@ -54,18 +54,34 @@ async function fetchGooglePlaceData(): Promise<GooglePlaceData> {
         originalText?: { text?: string };
         authorAttribution?: { displayName?: string; photoUri?: string };
         relativePublishTimeDescription?: string;
+        publishTime?: string;
       }>;
     };
 
+    // Los avatares generados por Google (usuarios sin foto de perfil) viven en
+    // /a/ACg8oc…; las fotos reales subidas por el usuario viven en /a-/….
+    // Solo usamos las reales; para el resto el sitio muestra iniciales de marca.
+    const hasRealPhoto = (uri?: string) => Boolean(uri && uri.includes("/a-/"));
+
     const reviews: GoogleReview[] = (data.reviews ?? [])
       .filter((r) => (r.rating ?? 0) >= 5)
+      .sort((a, b) => {
+        // Primero autores con foto real; entre iguales, la más reciente.
+        const photoDiff =
+          Number(hasRealPhoto(b.authorAttribution?.photoUri)) -
+          Number(hasRealPhoto(a.authorAttribution?.photoUri));
+        if (photoDiff !== 0) return photoDiff;
+        return (b.publishTime ?? "").localeCompare(a.publishTime ?? "");
+      })
       .slice(0, 5)
       .map((r) => ({
         author: r.authorAttribution?.displayName ?? "Google",
         rating: r.rating ?? 5,
         text: r.text?.text ?? r.originalText?.text ?? "",
         relativeTime: r.relativePublishTimeDescription,
-        photoUrl: r.authorAttribution?.photoUri,
+        photoUrl: hasRealPhoto(r.authorAttribution?.photoUri)
+          ? r.authorAttribution?.photoUri
+          : undefined,
       }))
       .filter((r) => r.text.length > 0);
 
