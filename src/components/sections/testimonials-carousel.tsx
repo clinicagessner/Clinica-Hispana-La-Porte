@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import Image from "next/image";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
@@ -21,6 +22,33 @@ function initials(name: string): string {
     .map((w) => w[0] ?? "")
     .join("")
     .toUpperCase();
+}
+
+function InitialsBadge({ author }: { author: string }) {
+  return (
+    <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-linear-to-br from-blue-primary to-blue-dark font-heading text-sm font-bold text-white">
+      {initials(author)}
+    </span>
+  );
+}
+
+// Avatar de Google con no-referrer (lh3.googleusercontent devuelve 503 si
+// detecta hotlinking con referrer) y fallback a iniciales si aun así falla.
+function ReviewAvatar({ photoUrl, author }: { photoUrl: string; author: string }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) return <InitialsBadge author={author} />;
+  return (
+    <Image
+      src={photoUrl}
+      alt={`Foto de ${author}`}
+      width={44}
+      height={44}
+      unoptimized
+      referrerPolicy="no-referrer"
+      onError={() => setFailed(true)}
+      className="h-11 w-11 shrink-0 rounded-full object-cover ring-2 ring-blue-light"
+    />
+  );
 }
 
 function GoogleG({ className }: { className?: string }) {
@@ -69,18 +97,9 @@ export function TestimonialsCarousel({
               {/* Cabecera: avatar (foto real de Google o iniciales) + nombre */}
               <div className="flex items-center gap-3">
                 {item.photoUrl ? (
-                  <Image
-                    src={item.photoUrl}
-                    alt={`Foto de ${item.author}`}
-                    width={44}
-                    height={44}
-                    unoptimized
-                    className="h-11 w-11 shrink-0 rounded-full object-cover ring-2 ring-blue-light"
-                  />
+                  <ReviewAvatar photoUrl={item.photoUrl} author={item.author} />
                 ) : (
-                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-blue-primary to-blue-dark font-heading text-sm font-bold text-white">
-                    {initials(item.author)}
-                  </span>
+                  <InitialsBadge author={item.author} />
                 )}
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading font-bold text-slate-dark">
