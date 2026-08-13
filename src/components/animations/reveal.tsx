@@ -22,6 +22,14 @@ export function Reveal({
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
+    // Si el elemento ya está dentro del viewport al montar (p. ej. se entró
+    // directo por un ancla #seccion), el observer puede no disparar hasta el
+    // primer scroll y la sección queda invisible. Se revela de inmediato.
+    const rect = el.getBoundingClientRect();
+    if (rect.top < window.innerHeight && rect.bottom > 0) {
+      setVisible(true);
+      return;
+    }
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
