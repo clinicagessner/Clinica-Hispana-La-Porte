@@ -124,6 +124,33 @@ export interface Promotion {
 
 export const PROMOTIONS: Promotion[] = [
   {
+    slug: "chequeo-general-completo",
+    title: "Chequeo general completo",
+    titleEn: "Complete general checkup",
+    price: "$99",
+    blurb:
+      "Cuídate hoy y vive mejor mañana: chequeo general completo con examen general de sangre, A1C (hemoglobina glicosilada), examen general de orina y consulta médica gratis. Valor regular $250, por solo $99.",
+    blurbEn:
+      "Take care of yourself today and live better tomorrow: complete general checkup with a full blood panel, A1C (glycated hemoglobin), general urine test and a free medical consultation. Regular value $250, for only $99.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+      "Resultados rápidos",
+    ],
+    includesEn: [
+      "Complete blood panel",
+      "A1C (glycated hemoglobin)",
+      "General urine test",
+      "Free medical consultation",
+      "Fast results",
+    ],
+    alt: "Promoción de chequeo general completo por $99 (valor regular $250) con examen de sangre, A1C, examen de orina y consulta gratis en Clínica Hispana Nueva Salud La Porte, TX",
+    altEn:
+      "Complete general checkup promotion for $99 (regular value $250) with blood panel, A1C, urine test and free consultation at Clínica Hispana Nueva Salud La Porte, TX",
+  },
+  {
     slug: "sangre-b12",
     title: "Examen general de sangre + Vitamina B12",
     titleEn: "Complete blood panel + Vitamin B12",
