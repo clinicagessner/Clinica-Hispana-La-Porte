@@ -19,6 +19,7 @@ const BLOG_IMAGE_SLUGS = new Set<string>([
   "medicos-autorizados-uscis-laporte-civil-surgeon",
   "salud-mujer-laporte-servicios-ginecologia",
   "salud-hombre-laporte-chequeos-preventivos",
+  "vitamina-b12-beneficios-inyecciones-laporte",
 ]);
 
 function readingMinutes(content: string): number {
