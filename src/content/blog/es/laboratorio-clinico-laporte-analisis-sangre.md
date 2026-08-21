@@ -10,6 +10,10 @@ keywords:
   - "laboratorio clínico la porte"
   - "análisis de sangre la porte"
   - "laboratorio cerca de mí la porte"
+services:
+  - "examenes-sangre"
+  - "tiroides"
+  - "examen-heces"
 ---
 
 Un análisis de sangre puede contar mucho sobre tu salud, incluso antes de que aparezcan síntomas. Saber cuáles existen y para qué sirven te ayuda a cuidarte mejor.

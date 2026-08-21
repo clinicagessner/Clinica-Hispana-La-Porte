@@ -12,6 +12,10 @@ keywords:
   - "examen de prostata la porte"
   - "examen de testosterona la porte"
   - "clinica hispana la porte hombres"
+services:
+  - "salud-hombre"
+  - "perfil-hormonal-hombres"
+  - "examenes-sangre"
 ---
 
 Muchos hombres solo van al médico cuando el dolor ya no los deja trabajar. El problema es que las enfermedades más peligrosas —presión alta, diabetes, colesterol elevado, cambios en la próstata— avanzan en silencio durante años sin dar síntomas. Cuando aparecen las molestias, el daño muchas veces ya está hecho. En La Porte, TX puedes adelantarte con un chequeo preventivo sencillo, en español y sin cita.

@@ -10,6 +10,10 @@ keywords:
   - "examen dot la porte"
   - "examen cdl la porte español"
   - "dot physical la porte"
+services:
+  - "examen-dot"
+  - "examen-alcohol-drogas"
+  - "examenes-sangre"
 ---
 
 Si manejas vehículos comerciales, el examen físico DOT es un requisito que no puedes dejar pasar. Aquí te explicamos en español todo lo que necesitas saber para hacerlo rápido y sin complicaciones.

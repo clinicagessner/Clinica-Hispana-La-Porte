@@ -10,6 +10,10 @@ keywords:
   - "salud de la mujer la porte"
   - "ginecología la porte español"
   - "clínica de la mujer la porte"
+services:
+  - "ginecologia"
+  - "prueba-embarazo"
+  - "anticonceptivos"
 ---
 
 Cuidar tu salud como mujer va más allá de una sola consulta: es un acompañamiento en cada etapa de tu vida. En La Porte puedes acceder a estos servicios en español y con confianza.

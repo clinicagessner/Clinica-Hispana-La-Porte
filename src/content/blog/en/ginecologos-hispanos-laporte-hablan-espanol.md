@@ -10,6 +10,10 @@ keywords:
   - "gynecologist la porte spanish"
   - "womens clinic la porte"
   - "pap smear la porte"
+services:
+  - "ginecologia"
+  - "anticonceptivos"
+  - "ultrasonido"
 ---
 
 For many Hispanic women, talking about their intimate health in another language is uncomfortable and even intimidating. That's why having gynecological care **in Spanish** makes a big difference.

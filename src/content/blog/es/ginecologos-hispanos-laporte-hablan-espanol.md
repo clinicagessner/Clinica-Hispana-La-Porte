@@ -10,6 +10,10 @@ keywords:
   - "ginecólogo la porte español"
   - "clínica de la mujer la porte"
   - "papanicolaou la porte"
+services:
+  - "ginecologia"
+  - "anticonceptivos"
+  - "ultrasonido"
 ---
 
 Para muchas mujeres hispanas, hablar de su salud íntima en otro idioma es incómodo y hasta intimidante. Por eso contar con atención ginecológica **en español** marca una gran diferencia.

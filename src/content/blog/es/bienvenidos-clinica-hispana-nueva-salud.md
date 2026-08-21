@@ -10,6 +10,10 @@ keywords:
   - "clínica hispana la porte"
   - "doctor que habla español la porte"
   - "clínica sin cita la porte"
+services:
+  - "ginecologia"
+  - "examenes-sangre"
+  - "examenes-inmigracion"
 ---
 
 En Clínica Hispana Nueva Salud La Porte creemos que cuidar tu salud no debería ser complicado ni costoso, y mucho menos cuando el idioma se interpone. Por eso abrimos nuestras puertas en La Porte con una idea muy clara: ofrecer atención médica profesional, cercana y **100% en español** para toda la comunidad hispana.

@@ -10,6 +10,10 @@ keywords:
   - "immigration medical exam la porte"
   - "i-693 exam la porte"
   - "civil surgeon la porte"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 ---
 
 The immigration medical exam (Form I-693) is a required step in many adjustment-of-status processes. Understanding how it works helps you arrive prepared and avoid delays.

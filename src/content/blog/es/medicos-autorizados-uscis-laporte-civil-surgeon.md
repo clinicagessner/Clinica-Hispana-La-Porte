@@ -10,6 +10,10 @@ keywords:
   - "médico autorizado uscis la porte"
   - "civil surgeon la porte español"
   - "doctor de inmigración la porte"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "examenes-sangre"
 ---
 
 Cuando inicias un proceso de inmigración que requiere examen médico, escucharás el término *civil surgeon*. Te explicamos qué significa y por qué es tan importante elegir bien.

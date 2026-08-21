@@ -14,6 +14,10 @@ keywords:
   - "sueros vitaminados la porte"
   - "prueba de vitamina b12 la porte"
   - "clinica hispana la porte vitamina b12"
+services:
+  - "sueros-vitaminados"
+  - "examenes-sangre"
+  - "condiciones-cronicas"
 ---
 
 ¿Te sientes cansado todo el tiempo aunque duermas bien? ¿Notas hormigueo en las manos o los pies, se te olvidan las cosas o te falta energía para el trabajo? Antes de acostumbrarte a vivir así, vale la pena revisar algo muy sencillo: tu nivel de **vitamina B12**. La deficiencia de esta vitamina es mucho más común de lo que se piensa — y se corrige fácilmente cuando se detecta a tiempo.

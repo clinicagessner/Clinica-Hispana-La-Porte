@@ -10,6 +10,10 @@ keywords:
   - "healthcare without insurance la porte"
   - "clinic no insurance la porte"
   - "affordable doctor la porte"
+services:
+  - "examenes-sangre"
+  - "condiciones-cronicas"
+  - "vacunas"
 ---
 
 Not having health insurance doesn't mean going without care. In La Porte there are real options to look after your health at a fair price, and Clínica Hispana Nueva Salud La Porte is one of them.

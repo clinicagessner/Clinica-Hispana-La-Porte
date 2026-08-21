@@ -10,6 +10,10 @@ keywords:
   - "atención médica sin seguro la porte"
   - "clínica sin seguro la porte"
   - "doctor barato la porte español"
+services:
+  - "examenes-sangre"
+  - "condiciones-cronicas"
+  - "vacunas"
 ---
 
 No tener seguro médico no significa quedarte sin atención. En La Porte existen opciones reales para cuidar tu salud a un precio justo, y en Clínica Hispana Nueva Salud La Porte somos una de ellas.

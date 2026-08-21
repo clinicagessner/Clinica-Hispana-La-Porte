@@ -10,6 +10,10 @@ keywords:
   - "examen de inmigración la porte"
   - "examen i-693 la porte"
   - "civil surgeon la porte español"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 ---
 
 El examen médico de inmigración (Formulario I-693) es un paso obligatorio en muchos procesos de ajuste de estatus. Conocer cómo funciona te ayuda a llegar preparado y evitar retrasos.

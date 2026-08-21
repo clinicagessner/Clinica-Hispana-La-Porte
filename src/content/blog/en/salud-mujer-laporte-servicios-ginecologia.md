@@ -10,6 +10,10 @@ keywords:
   - "womens health la porte"
   - "gynecology la porte spanish"
   - "womens clinic la porte"
+services:
+  - "ginecologia"
+  - "prueba-embarazo"
+  - "anticonceptivos"
 ---
 
 Caring for your health as a woman goes beyond a single visit: it's support at every stage of your life. In La Porte you can access these services in Spanish and with confidence.

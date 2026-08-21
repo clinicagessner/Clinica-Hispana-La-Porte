@@ -10,6 +10,10 @@ keywords:
   - "uscis authorized doctor la porte"
   - "civil surgeon la porte"
   - "immigration doctor la porte"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "examenes-sangre"
 ---
 
 When you start an immigration process that requires a medical exam, you'll hear the term *civil surgeon*. Here's what it means and why choosing the right one matters.

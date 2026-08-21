@@ -95,6 +95,8 @@ export interface BlogFrontmatter {
   cover: string;
   coverAlt: string;
   keywords?: string[];
+  /** Slugs de servicios relacionados que se muestran al final del post. */
+  services?: string[];
 }
 
 export interface BlogPost extends BlogFrontmatter {

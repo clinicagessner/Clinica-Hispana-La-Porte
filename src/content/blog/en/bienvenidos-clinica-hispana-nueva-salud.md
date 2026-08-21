@@ -10,6 +10,10 @@ keywords:
   - "hispanic clinic la porte"
   - "spanish speaking doctor la porte"
   - "walk in clinic la porte"
+services:
+  - "ginecologia"
+  - "examenes-sangre"
+  - "examenes-inmigracion"
 ---
 
 At Clínica Hispana Nueva Salud La Porte we believe that taking care of your health shouldn't be complicated or expensive—and certainly not held back by language. That's why we opened our doors in La Porte with a clear mission: to offer professional, caring healthcare **100% in Spanish** for the entire Hispanic community.

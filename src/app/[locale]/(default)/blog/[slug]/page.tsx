@@ -7,10 +7,12 @@ import remarkGfm from "remark-gfm";
 import { ArrowLeft, CalendarDays, Clock, Phone, User } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { BlogCard } from "@/components/blog/blog-card";
+import { ServiceCard } from "@/components/services/service-card";
 import { FaqSection } from "@/components/sections/faq-section";
 import { JsonLdBreadcrumb } from "@/components/seo/json-ld";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
+import { getServiceCardData } from "@/lib/services";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { CONTACT_INFO } from "@/lib/constants";
 import { formatDate } from "@/lib/utils";
@@ -68,6 +70,14 @@ export default async function BlogPostPage({
   const related = getAllPosts(loc)
     .filter((p) => p.slug !== slug)
     .slice(0, 3);
+
+  // Servicios que el post menciona (frontmatter `services`), en el orden dado.
+  const serviceBySlug = new Map(
+    getServiceCardData(loc).map((s) => [s.slug, s]),
+  );
+  const relatedServices = (post.services ?? [])
+    .map((s) => serviceBySlug.get(s))
+    .filter((s): s is NonNullable<typeof s> => Boolean(s));
 
   return (
     <>
@@ -163,6 +173,23 @@ export default async function BlogPostPage({
               {post.content}
             </ReactMarkdown>
           </article>
+
+          {/* Servicios relacionados con el tema del post */}
+          {relatedServices.length > 0 && (
+            <section aria-labelledby="post-services" className="mt-10">
+              <h2
+                id="post-services"
+                className="font-heading text-2xl font-bold text-slate-dark"
+              >
+                {t("servicesTitle")}
+              </h2>
+              <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+                {relatedServices.map((s) => (
+                  <ServiceCard key={s.slug} service={s} className="h-full" />
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* CTA */}
           <div className="mt-8 rounded-2xl bg-gradient-to-br from-blue-primary to-blue-dark p-7 text-center text-white shadow-lg">

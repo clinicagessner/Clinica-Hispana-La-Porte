@@ -10,6 +10,10 @@ keywords:
   - "dot physical la porte"
   - "cdl exam la porte"
   - "dot exam la porte"
+services:
+  - "examen-dot"
+  - "examen-alcohol-drogas"
+  - "examenes-sangre"
 ---
 
 If you drive commercial vehicles, the DOT physical exam is a requirement you can't skip. Here we explain everything you need to know to get it done fast and hassle-free.

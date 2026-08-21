@@ -14,6 +14,10 @@ keywords:
   - "vitamin iv therapy la porte"
   - "vitamin b12 test la porte"
   - "hispanic clinic la porte vitamin b12"
+services:
+  - "sueros-vitaminados"
+  - "examenes-sangre"
+  - "condiciones-cronicas"
 ---
 
 Do you feel tired all the time even though you sleep well? Do you notice tingling in your hands or feet, forget things or lack energy for work? Before you get used to living like that, it's worth checking something very simple: your **vitamin B12** level. Deficiency of this vitamin is far more common than people think — and it's easily corrected when caught early.

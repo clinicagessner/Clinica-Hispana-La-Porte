@@ -10,6 +10,10 @@ keywords:
   - "clinical lab la porte"
   - "blood test la porte"
   - "lab near me la porte"
+services:
+  - "examenes-sangre"
+  - "tiroides"
+  - "examen-heces"
 ---
 
 A blood test can reveal a lot about your health—even before symptoms appear. Knowing which tests exist and what they're for helps you take better care of yourself.

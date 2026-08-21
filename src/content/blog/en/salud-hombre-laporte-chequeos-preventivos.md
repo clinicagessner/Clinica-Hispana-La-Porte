@@ -12,6 +12,10 @@ keywords:
   - "prostate exam la porte"
   - "testosterone test la porte"
   - "hispanic clinic la porte men"
+services:
+  - "salud-hombre"
+  - "perfil-hormonal-hombres"
+  - "examenes-sangre"
 ---
 
 Many men only see a doctor when the pain no longer lets them work. The problem is that the most dangerous diseases — high blood pressure, diabetes, high cholesterol, prostate changes — advance silently for years without symptoms. By the time discomfort appears, the damage is often already done. In La Porte, TX you can get ahead of it with a simple preventive checkup, in Spanish and with no appointment.
