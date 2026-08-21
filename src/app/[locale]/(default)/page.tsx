@@ -24,8 +24,8 @@ export async function generateMetadata({
   const isEn = locale === "en";
   return {
     title: isEn
-      ? "Hispanic Clinic in La Porte, TX - Care in Spanish"
-      : "Clínica Hispana en La Porte, TX - Atención en Español",
+      ? "Hispanic Clinic in La Porte, TX | Walk-Ins, No Insurance Needed"
+      : "Clínica Hispana en La Porte, TX | Sin Cita y Sin Seguro",
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
   };
