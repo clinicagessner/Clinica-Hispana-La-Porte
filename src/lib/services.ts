@@ -15,7 +15,6 @@ const SERVICE_IMAGE_SLUGS = new Set<string>([
   "tiroides",
   "alergias",
   "enfermedades-respiratorias",
-  "examen-fisico",
   "examen-fisico-escolar",
   "ginecologia",
   "prueba-embarazo",

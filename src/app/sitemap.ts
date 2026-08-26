@@ -19,11 +19,6 @@ const LASTMOD = {
   privacy: "2026-06-08",
 } as const;
 
-// Servicios con fecha propia (creados o actualizados después de LASTMOD.services).
-const SERVICE_LASTMOD: Record<string, string> = {
-  "examen-fisico": "2026-08-26",
-};
-
 function entry(
   path: string,
   lastModified: string,
@@ -63,12 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   const services: MetadataRoute.Sitemap = getAllServiceSlugs().map((slug) =>
-    entry(
-      `/services/${slug}`,
-      SERVICE_LASTMOD[slug] ?? LASTMOD.services,
-      "monthly",
-      0.8,
-    ),
+    entry(`/services/${slug}`, LASTMOD.services, "monthly", 0.8),
   );
 
   const posts: MetadataRoute.Sitemap = getAllPosts("es").map((post) =>

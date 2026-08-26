@@ -16,7 +16,6 @@ Datos de contacto:
 - [Exámenes y Tratamiento de la Tiroides](https://www.clinicahispananslaporte.com/services/tiroides)
 - [Exámenes y Tratamiento de Alergias](https://www.clinicahispananslaporte.com/services/alergias)
 - [Pruebas de Flu y COVID y Enfermedades Respiratorias](https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias)
-- [Examen Físico General sin Cita](https://www.clinicahispananslaporte.com/services/examen-fisico)
 - [Chequeos Físicos Escolares y Deportivos](https://www.clinicahispananslaporte.com/services/examen-fisico-escolar)
 - [Atención Ginecológica: Papanicolaou y Cultivos](https://www.clinicahispananslaporte.com/services/ginecologia)
 - [Examen y Diagnóstico de Embarazo](https://www.clinicahispananslaporte.com/services/prueba-embarazo)
