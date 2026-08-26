@@ -87,10 +87,28 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examen-fisico-escolar": [
     {
-      question: "¿Llenan el formulario de la escuela o el equipo?",
-      answer: "Sí, trae el formulario de tu escuela o equipo deportivo y lo completamos durante la visita.",
-      questionEn: "Do you fill out the school or team form?",
-      answerEn: "Yes, bring your school or sports-team form and we complete it during the visit.",
+      question: "¿Llenan el formulario de la escuela, el equipo o el trabajo?",
+      answer: "Sí. Trae el formulario de tu escuela, equipo deportivo o empleador y lo completamos durante la visita, el mismo día.",
+      questionEn: "Do you fill out the school, team or employer form?",
+      answerEn: "Yes. Bring your school, sports-team or employer form and we complete it during the visit, the same day.",
+    },
+    {
+      question: "¿Hacen exámenes físicos para adultos?",
+      answer: "Sí. Además de los físicos escolares y deportivos, hacemos exámenes físicos para el trabajo y chequeos anuales para adultos, con análisis de sangre y orina si los necesitas.",
+      questionEn: "Do you do physical exams for adults?",
+      answerEn: "Yes. Besides school and sports physicals, we do work physicals and annual checkups for adults, with blood and urine tests if needed.",
+    },
+    {
+      question: "¿Necesito ir en ayunas?",
+      answer: "Solo si te vas a hacer análisis de sangre como glucosa o colesterol. En ese caso ven con 8 a 10 horas de ayuno; puedes tomar agua. Para el físico escolar o deportivo no hace falta.",
+      questionEn: "Do I need to fast?",
+      answerEn: "Only if you're having blood work such as glucose or cholesterol. In that case, come after fasting 8 to 10 hours; water is fine. School and sports physicals don't require fasting.",
+    },
+    {
+      question: "¿Cuánto cuesta el examen físico?",
+      answer: "Tenemos precios accesibles y sin sorpresas; el costo depende de si necesitas laboratorio. Llámanos y te lo decimos antes de tu visita, o pregunta por el chequeo general completo por $99.",
+      questionEn: "How much does the physical exam cost?",
+      answerEn: "We offer affordable pricing with no surprises; the cost depends on whether you need lab work. Call us and we'll tell you before your visit, or ask about the $99 complete general checkup.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -327,6 +345,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examen-alcohol-drogas": [
     {
+      question: "¿Pueden hacer la prueba de drogas y el examen físico el mismo día?",
+      answer: "Sí. Si tu empleador pide ambos, hacemos la prueba de drogas y el examen físico para el trabajo en una sola visita, sin cita.",
+      questionEn: "Can you do the drug test and the physical exam the same day?",
+      answerEn: "Yes. If your employer requires both, we do the drug test and the work physical in a single walk-in visit.",
+    },
+    {
       question: "¿Entregan documentación para el trabajo?",
       answer: "Sí, te entregamos la documentación del resultado para tu empleador o trámite.",
       questionEn: "Do you provide documentation for work?",
@@ -387,6 +411,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examen-dot": [
     {
+      question: "¿Qué debo traer al examen DOT?",
+      answer: "Tu licencia de conducir vigente, lentes o audífonos si los usas y la lista de tus medicamentos. Si tienes presión alta, diabetes o apnea del sueño, trae tus últimos resultados para agilizar el certificado.",
+      questionEn: "What should I bring to the DOT exam?",
+      answerEn: "Your valid driver's license, glasses or hearing aids if you use them, and your medication list. If you have high blood pressure, diabetes or sleep apnea, bring your latest results to speed up the certificate.",
+    },
+    {
       question: "¿Me entregan el certificado DOT el mismo día?",
       answer: "Sí, al terminar el examen físico DOT te entregamos tu certificado el mismo día.",
       questionEn: "Do I get the DOT certificate the same day?",
@@ -406,6 +436,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
   ],
   "examenes-inmigracion": [
+    {
+      question: "¿El examen de inmigración incluye examen físico?",
+      answer: "Sí. El I-693 incluye un examen físico completo, revisión de vacunas, prueba de tuberculosis y las demás pruebas que exige USCIS. Todo se hace en la clínica.",
+      questionEn: "Does the immigration exam include a physical exam?",
+      answerEn: "Yes. The I-693 includes a complete physical exam, vaccine review, tuberculosis test and the other tests USCIS requires. Everything is done at the clinic.",
+    },
     {
       question: "¿El médico está autorizado por USCIS?",
       answer: "Sí, el examen lo realiza un médico autorizado (civil surgeon) y te entregamos el Formulario I-693 sellado.",

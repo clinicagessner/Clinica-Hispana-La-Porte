@@ -56,7 +56,7 @@ const COPY = {
       {
         question: "¿Qué servicios puedo recibir sin cita?",
         answer:
-          "Consultas de medicina familiar, laboratorio, exámenes, tratamiento de infecciones y más.",
+          "Consultas de medicina familiar, laboratorio y análisis de sangre, exámenes físicos (escolares, deportivos, para el trabajo y DOT), pruebas de drogas, vacunas, tratamiento de infecciones y más.",
       },
     ],
     finalTitle: "Estamos abiertos. Ven cuando nos necesites.",
@@ -98,7 +98,7 @@ const COPY = {
       {
         question: "Which services can I get as a walk-in?",
         answer:
-          "Family medicine visits, lab work, exams, infection treatment and more.",
+          "Family medicine visits, lab and blood work, physical exams (school, sports, work and DOT), drug testing, vaccines, infection treatment and more.",
       },
     ],
     finalTitle: "We're open. Come whenever you need us.",

@@ -586,72 +586,92 @@ ${AREAS_EN}`,
     order: 5,
     category: "examenes",
     icon: "ClipboardList",
-    title: "Chequeos Físicos Escolares y Deportivos",
-    titleEn: "School & Sports Physical Exams",
+    title: "Examen Físico Escolar, Deportivo y General sin Cita",
+    titleEn: "School, Sports & General Physical Exam, Walk-In",
     shortDescription:
-      "Exámenes físicos para la escuela y los deportes, rápidos y con los formularios completados.",
+      "Exámenes físicos para la escuela, deportes, trabajo o chequeo anual. Sin cita, sin seguro, con formularios completados el mismo día.",
     shortDescriptionEn:
-      "Physical exams for school and sports, fast and with the forms completed.",
+      "Physical exams for school, sports, work or your annual checkup. No appointment, no insurance needed, forms completed the same day.",
     description:
-      "Chequeos físicos escolares y deportivos en La Porte, TX. Rápidos, en español y con precios accesibles.",
+      "Examen físico en La Porte, TX sin cita: escolar, deportivo, para el trabajo o chequeo anual con análisis de sangre. En español, sin seguro y con precios accesibles.",
     descriptionEn:
-      "School and sports physical exams in La Porte, TX. Fast, in Spanish, with affordable pricing.",
+      "Walk-in physical exam in La Porte, TX: school, sports, work or annual checkup with blood work. In Spanish, no insurance needed, affordable pricing.",
     keywords: [
+      "examen fisico cerca de mi",
       "examen fisico escolar la porte",
+      "examen fisico para el trabajo la porte",
       "physical para la escuela la porte",
       "examen deportivo la porte",
-      "chequeo escolar la porte",
+      "examen fisico sin cita",
     ],
     keywordsEn: [
+      "physical exam near me walk in",
       "school physical la porte",
       "sports physical la porte",
-      "school physical exam la porte",
+      "annual physical la porte tx",
+      "blood work and physical near me",
       "kids physical la porte",
     ],
     features: [
-      "Examen físico completo",
-      "Revisión de signos vitales",
-      "Formularios escolares y deportivos llenados",
-      "Atención en español",
+      "Examen físico completo para niños y adultos",
+      "Signos vitales: presión, peso, talla, pulso",
+      "Formularios de escuela, equipo o trabajo llenados",
+      "Análisis de sangre y orina el mismo día si los necesitas",
     ],
     featuresEn: [
-      "Complete physical exam",
-      "Vital-signs check",
-      "School and sports forms completed",
-      "Care in Spanish",
+      "Complete physical exam for kids and adults",
+      "Vitals: blood pressure, weight, height, pulse",
+      "School, team or employer forms completed",
+      "Same-day blood and urine tests if needed",
     ],
-    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud La Porte lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `¿Buscas un examen físico cerca de ti sin cita? En Clínica Hispana Nueva Salud La Porte hacemos exámenes físicos para niños, jóvenes y adultos: para la escuela, para practicar deportes, para el trabajo o simplemente como chequeo anual. Rápido, en español y con todos los formularios listos.
 
 ## ¿Qué incluye?
 
-- Examen físico general
-- Revisión de signos vitales (peso, talla, presión)
+- Examen físico general con el médico
+- Revisión de signos vitales (presión, pulso, peso, talla)
 - Evaluación de visión y audición
-- Llenado de los formularios requeridos
-- Recomendaciones de salud
+- Llenado de los formularios requeridos por la escuela, el equipo o el empleador
+- Recomendaciones de salud y, si hace falta, receta o tratamiento
 
 ## Para la escuela y el deporte
 
-Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos durante la visita.
+
+## Examen físico para adultos y para el trabajo
+
+Si tu empleador te pide un chequeo médico o un formulario de aptitud, lo completamos el mismo día. Si tu trabajo también requiere prueba de drogas, revisa nuestro [examen de alcohol y drogas](/services/examen-alcohol-drogas). Los conductores comerciales necesitan el [examen físico DOT](/services/examen-dot), que es un examen certificado aparte.
+
+## Chequeo anual con laboratorio
+
+Un físico anual es la forma más sencilla de detectar a tiempo presión alta, diabetes, colesterol o problemas de tiroides. Podemos completarlo con [análisis de sangre](/services/examenes-sangre) y orina en nuestro propio laboratorio, con resultados rápidos. Pregunta por nuestro [chequeo general completo por $99](/promociones).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud La Porte we do it quickly and thoroughly, with all the forms ready.
+    longDescriptionEn: `Looking for a walk-in physical exam near you? At Clínica Hispana Nueva Salud La Porte we do physical exams for kids, teens and adults: for school, for sports, for work or simply as an annual checkup. Fast, in Spanish, with all the forms ready.
 
 ## What's included?
 
-- General physical exam
-- Vital-signs check (weight, height, blood pressure)
+- General physical exam with the provider
+- Vital-signs check (blood pressure, pulse, weight, height)
 - Vision and hearing screening
-- Completion of required forms
-- Health recommendations
+- Completion of the forms required by the school, team or employer
+- Health recommendations and, if needed, a prescription or treatment
 
 ## For school and sports
 
-Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it during the visit.
+
+## Physical exam for adults and for work
+
+If your employer requires a medical checkup or a fitness form, we complete it the same day. If your job also requires a drug test, see our [alcohol and drug testing](/en/services/examen-alcohol-drogas). Commercial drivers need the [DOT physical exam](/en/services/examen-dot), a separate certified exam.
+
+## Annual checkup with lab work
+
+An annual physical is the simplest way to catch high blood pressure, diabetes, cholesterol or thyroid problems early. We can complete it with [blood work](/en/services/examenes-sangre) and urine tests in our own lab, with fast results. Ask about our [$99 complete general checkup](/en/promociones).
 
 ${WHY_EN}
 
@@ -994,12 +1014,14 @@ ${AREAS_EN}`,
       "Men's health exams in La Porte, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
     keywords: [
       "examen del hombre la porte",
+      "chequeo general del hombre",
       "prueba psa la porte",
       "examen de prostata la porte",
       "examen de testosterona la porte",
     ],
     keywordsEn: [
       "mens health la porte",
+      "annual physical for men la porte",
       "psa test la porte",
       "prostate exam la porte",
       "testosterone test la porte",
@@ -1030,6 +1052,10 @@ ${AREAS_EN}`,
 
 El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
 
+## Combínalo con tu chequeo anual
+
+Aprovecha la visita para hacerte el [examen físico general](/services/examen-fisico-escolar) y los [análisis de sangre](/services/examenes-sangre) de rutina: presión, glucosa, colesterol y tiroides. Todo sin cita y en una sola visita.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1048,6 +1074,10 @@ ${AREAS_ES}`,
 ## Why it matters
 
 PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+
+## Combine it with your annual checkup
+
+Make the most of your visit with a [general physical exam](/en/services/examen-fisico-escolar) and routine [blood work](/en/services/examenes-sangre): blood pressure, glucose, cholesterol and thyroid. All walk-in, in a single visit.
 
 ${WHY_EN}
 
@@ -1548,13 +1578,15 @@ ${AREAS_EN}`,
     keywords: [
       "examen de drogas la porte",
       "prueba de alcohol y drogas la porte",
-      "drug test la porte español",
       "examen de drogas para trabajo la porte",
+      "examen pre empleo la porte",
+      "drug test la porte español",
     ],
     keywordsEn: [
       "drug test la porte",
+      "pre employment drug test la porte",
+      "pre employment physical la porte",
       "alcohol and drug test la porte",
-      "employment drug test la porte",
       "drug screening la porte",
     ],
     features: [
@@ -1582,6 +1614,10 @@ ${AREAS_EN}`,
 
 Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
 
+## Examen pre-empleo completo
+
+Si tu nuevo trabajo pide prueba de drogas y chequeo médico, podemos hacer ambos en la misma visita: la prueba y el [examen físico para el trabajo](/services/examen-fisico-escolar). Los choferes comerciales pueden combinarla con el [examen físico DOT](/services/examen-dot).
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1599,6 +1635,10 @@ ${AREAS_ES}`,
 ## For work and paperwork
 
 We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+
+## Complete pre-employment screening
+
+If your new job requires a drug test and a medical checkup, we can do both in the same visit: the test plus the [work physical exam](/en/services/examen-fisico-escolar). Commercial drivers can combine it with the [DOT physical exam](/en/services/examen-dot).
 
 ${WHY_EN}
 
@@ -1767,36 +1807,38 @@ ${AREAS_EN}`,
     title: "Examen Físico DOT - Licencia CDL",
     titleEn: "DOT Physical Exam - CDL License",
     shortDescription:
-      "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
+      "Examen físico DOT para conductores comerciales (CDL), sin cita y con certificado el mismo día.",
     shortDescriptionEn:
-      "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
+      "DOT physical exam for commercial drivers (CDL), walk-in, with same-day certificate.",
     description:
-      "Examen físico DOT en La Porte, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles.",
+      "Examen físico DOT cerca de ti en La Porte, TX: sin cita, certificado médico CDL el mismo día y en español. Precios accesibles, sin seguro.",
     descriptionEn:
-      "DOT physical exam in La Porte, TX for CDL license, same-day certificate, in Spanish. With affordable pricing.",
+      "DOT physical exam near you in La Porte, TX: walk-in, same-day CDL medical certificate, in Spanish. Affordable pricing, no insurance needed.",
     keywords: [
+      "examen dot near me",
       "examen dot la porte",
       "examen fisico dot la porte español",
       "examen cdl la porte",
-      "dot physical la porte español",
+      "examen dot sin cita",
     ],
     keywordsEn: [
-      "dot physical la porte",
+      "dot physical near me",
+      "dot physical la porte tx",
       "dot exam la porte",
       "cdl physical la porte",
-      "dot medical exam la porte",
+      "dot medical exam walk in",
     ],
     features: [
       "Certificado DOT el mismo día",
-      "Para licencia CDL",
-      "Proceso rápido",
-      "Atención en español",
+      "Sin cita, 7 días a la semana",
+      "Para obtener o renovar la licencia CDL",
+      "Atención en español y precio fijo sin seguro",
     ],
     featuresEn: [
       "Same-day DOT certificate",
-      "For CDL license",
-      "Fast process",
-      "Care in Spanish",
+      "Walk-ins welcome, 7 days a week",
+      "To obtain or renew your CDL license",
+      "Care in Spanish, flat self-pay price",
     ],
     longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Nueva Salud La Porte lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
 
@@ -1810,7 +1852,11 @@ ${AREAS_EN}`,
 
 ## Para conductores comerciales
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.
+El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera. Ven sin cita: atendemos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.
+
+## Qué traer
+
+Licencia de conducir vigente, lentes o audífonos si los usas y la lista de medicamentos que tomas. Si tienes presión alta, diabetes o apnea del sueño, trae tus últimos resultados o notas de tu médico para agilizar el certificado. Si tu empresa también pide [prueba de drogas](/services/examen-alcohol-drogas), la hacemos en la misma visita.
 
 ${WHY_ES}
 
@@ -1829,7 +1875,11 @@ ${AREAS_ES}`,
 
 ## For commercial drivers
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.
+The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon. No appointment needed: we're open Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM.
+
+## What to bring
+
+A valid driver's license, glasses or hearing aids if you use them, and the list of medications you take. If you have high blood pressure, diabetes or sleep apnea, bring your latest results or doctor's notes to speed up the certificate. If your company also requires a [drug test](/en/services/examen-alcohol-drogas), we do it in the same visit.
 
 ${WHY_EN}
 
@@ -1849,17 +1899,19 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Immigration medical exam with a USCIS-authorized physician and the sealed Form I-693.",
     description:
-      "Examen médico de inmigración I-693 en La Porte, TX con médico autorizado por USCIS. Vacunas y formulario sellado.",
+      "Examen médico de inmigración I-693 en La Porte, TX con médico autorizado por USCIS: examen físico, pruebas, vacunas y formulario sellado. En español.",
     descriptionEn:
-      "I-693 immigration medical exam in La Porte, TX with a USCIS-authorized physician. Vaccines and sealed form.",
+      "I-693 immigration medical exam in La Porte, TX with a USCIS-authorized physician: physical exam, tests, vaccines and sealed form. In Spanish.",
     keywords: [
       "examen de inmigracion la porte",
+      "examen fisico para inmigracion",
       "examen medico i-693 la porte",
       "civil surgeon la porte español",
       "medico autorizado uscis la porte",
     ],
     keywordsEn: [
       "immigration medical exam la porte",
+      "immigration physical near me",
       "i-693 exam la porte",
       "civil surgeon la porte",
       "uscis authorized doctor la porte",
