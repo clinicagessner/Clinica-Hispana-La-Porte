@@ -11,7 +11,7 @@ const BASE = SITE_CONFIG.baseUrl;
 const LASTMOD = {
   home: "2026-08-20", // titles/H1 sin cita, sin seguro, 7 días
   walkIn: "2026-08-20",
-  promociones: "2026-08-16", // promo chequeo general $99
+  promociones: "2026-08-26", // title con precios
   landingComparacion: "2026-08-01",
   services: "2026-08-01", // FAQs y horario de domingo
   servicesIndex: "2026-08-01",
@@ -26,6 +26,7 @@ const SERVICE_LASTMOD: Record<string, string> = {
   "examenes-inmigracion": "2026-08-26",
   "examen-alcohol-drogas": "2026-08-26",
   "salud-hombre": "2026-08-26",
+  tiroides: "2026-08-26",
 };
 
 function entry(

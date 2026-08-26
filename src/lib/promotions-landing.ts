@@ -27,7 +27,7 @@ export interface PromotionsLandingContent {
 const CONTENT: Record<Locale, PromotionsLandingContent> = {
   es: {
     metaTitle:
-      "Promociones de la clínica en La Porte | Clínica Hispana Nueva Salud",
+      "Promociones: Chequeo General $99, Sangre + B12 $99 | Clínica Hispana La Porte",
     metaDescription:
       "Promociones del mes en Clínica Hispana Nueva Salud La Porte: chequeo general completo por $99, examen de sangre + Vitamina B12 por $99, salud íntima femenina por $69 y perfil hormonal masculino por $200. En español, sin cita y sin seguro en La Porte, TX.",
     backToHome: "Volver al inicio",
@@ -67,7 +67,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
   },
   en: {
     metaTitle:
-      "Clinic promotions in La Porte | Clínica Hispana Nueva Salud",
+      "Promotions: $99 General Checkup, $99 Blood Panel + B12 | Hispanic Clinic La Porte",
     metaDescription:
       "This month's promotions at Clínica Hispana Nueva Salud La Porte: complete general checkup for $99, blood panel + Vitamin B12 for $99, women's intimate health for $69 and a male hormone panel for $200. In Spanish, walk-ins and no insurance needed in La Porte, TX.",
     backToHome: "Back to home",

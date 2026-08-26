@@ -352,16 +352,16 @@ ${AREAS_EN}`,
     order: 2,
     category: "medicina-general",
     icon: "Thermometer",
-    title: "Exámenes y Tratamiento de la Tiroides",
-    titleEn: "Thyroid Testing & Treatment",
+    title: "Examen de Tiroides (TSH, T3, T4) y Tratamiento sin Cita",
+    titleEn: "Thyroid Test (TSH, T3, T4) & Treatment, Walk-In",
     shortDescription:
       "Diagnóstico y tratamiento de enfermedades de la tiroides (hipotiroidismo e hipertiroidismo) con seguimiento en español.",
     shortDescriptionEn:
       "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Exámenes y tratamiento de la tiroides en La Porte, TX. Pruebas de laboratorio y control en español, con precios accesibles.",
+      "Examen de tiroides en La Porte, TX sin cita: TSH, T3 y T4 en nuestro laboratorio, diagnóstico y tratamiento de hipo e hipertiroidismo. En español, sin seguro y con precios accesibles.",
     descriptionEn:
-      "Thyroid testing and treatment in La Porte, TX. Lab tests and follow-up in Spanish, with affordable pricing.",
+      "Walk-in thyroid test in La Porte, TX: TSH, T3 and T4 in our own lab, diagnosis and treatment of hypo- and hyperthyroidism. In Spanish, no insurance needed, affordable pricing.",
     keywords: [
       "tiroides la porte",
       "examen de tiroides la porte",
