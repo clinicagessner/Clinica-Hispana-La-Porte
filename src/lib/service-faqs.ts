@@ -85,6 +85,38 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
+  "examen-fisico": [
+    {
+      question: "¿Cuánto cuesta el examen físico?",
+      answer: "Tenemos precios accesibles y sin sorpresas. El costo depende de si necesitas análisis de laboratorio; llámanos y te lo decimos antes de tu visita. También puedes aprovechar el chequeo general completo por $99.",
+      questionEn: "How much does the physical exam cost?",
+      answerEn: "We offer affordable pricing with no surprises. The cost depends on whether you need lab work; call us and we'll tell you before your visit. You can also take advantage of the $99 complete general checkup.",
+    },
+    {
+      question: "¿Necesito ir en ayunas?",
+      answer: "Solo si te vas a hacer análisis de sangre como glucosa o colesterol. En ese caso, ven con 8 a 10 horas de ayuno; puedes tomar agua.",
+      questionEn: "Do I need to fast?",
+      answerEn: "Only if you're having blood work such as glucose or cholesterol. In that case, come after fasting 8 to 10 hours; water is fine.",
+    },
+    {
+      question: "¿Llenan el formulario de mi trabajo?",
+      answer: "Sí. Trae el formulario de tu empleador y lo completamos durante la visita. Si necesitas el examen DOT para licencia comercial, ese es un examen certificado aparte que también realizamos.",
+      questionEn: "Do you fill out my employer's form?",
+      answerEn: "Yes. Bring your employer's form and we complete it during the visit. If you need a DOT physical for a commercial license, that's a separate certified exam we also perform.",
+    },
+    {
+      question: "¿Necesito cita previa?",
+      answer: "No. Atendemos sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. También puedes llamarnos para reservar un horario.",
+      questionEn: "Do I need an appointment?",
+      answerEn: "No. We welcome walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can also call us to reserve a time.",
+    },
+    {
+      question: "¿Atienden a pacientes sin seguro?",
+      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      questionEn: "Do you accept patients without insurance?",
+      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
+    },
+  ],
   "examen-fisico-escolar": [
     {
       question: "¿Llenan el formulario de la escuela o el equipo?",

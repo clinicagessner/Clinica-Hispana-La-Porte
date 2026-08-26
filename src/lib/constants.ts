@@ -582,8 +582,103 @@ ${PAYMENT_EN}
 ${AREAS_EN}`,
   },
   {
-    slug: "examen-fisico-escolar",
+    slug: "examen-fisico",
     order: 5,
+    category: "examenes",
+    icon: "Stethoscope",
+    highlighted: true,
+    title: "Examen Físico General sin Cita",
+    titleEn: "General Physical Exam, Walk-In",
+    shortDescription:
+      "Examen físico completo para adultos: chequeo anual, trabajo, deporte o laboratorio. Sin cita, sin seguro y en español.",
+    shortDescriptionEn:
+      "Complete physical exam for adults: annual checkup, work, sports or lab work. No appointment, no insurance needed, in Spanish.",
+    description:
+      "Examen físico en La Porte, TX sin cita: chequeo anual, para el trabajo o deportes, con signos vitales y análisis de sangre. En español, sin seguro y con precios accesibles.",
+    descriptionEn:
+      "Walk-in physical exam in La Porte, TX: annual checkup, work or sports physical, with vitals and blood work. In Spanish, no insurance needed, affordable pricing.",
+    keywords: [
+      "examen fisico cerca de mi",
+      "examen fisico la porte",
+      "chequeo medico general la porte",
+      "examen fisico sin cita",
+      "examen fisico para el trabajo la porte",
+    ],
+    keywordsEn: [
+      "physical exam la porte tx",
+      "walk in physical exam near me",
+      "physical exam near me walk in",
+      "annual physical la porte",
+      "blood work and physical near me",
+    ],
+    features: [
+      "Examen físico completo con el médico",
+      "Signos vitales: presión, peso, talla, pulso",
+      "Análisis de sangre y orina el mismo día",
+      "Sin cita, 7 días a la semana",
+    ],
+    featuresEn: [
+      "Complete physical exam with the provider",
+      "Vitals: blood pressure, weight, height, pulse",
+      "Same-day blood and urine tests",
+      "Walk-ins welcome, 7 days a week",
+    ],
+    longDescription: `Un examen físico general es la forma más sencilla de saber cómo está tu salud antes de que aparezca un problema. En Clínica Hispana Nueva Salud La Porte lo hacemos sin cita, en español y sin necesidad de seguro médico.
+
+## ¿Qué incluye el examen físico?
+
+- Consulta con el médico y revisión de tu historial
+- Signos vitales: presión arterial, pulso, peso, talla y temperatura
+- Examen físico completo (corazón, pulmones, abdomen, oídos, garganta, piel)
+- Análisis de sangre y orina en nuestro laboratorio, con resultados rápidos
+- Recomendaciones personalizadas y, si hace falta, receta o tratamiento
+
+## ¿Para qué sirve?
+
+- **Chequeo anual preventivo**: detectar a tiempo diabetes, presión alta, colesterol o tiroides.
+- **Examen físico para el trabajo**: si tu empleador te pide un chequeo o un formulario, lo completamos durante la visita.
+- **Físico deportivo o escolar**: para niños y jóvenes ofrecemos el [examen físico escolar y deportivo](/services/examen-fisico-escolar).
+- **Examen DOT**: los conductores comerciales necesitan el [examen físico DOT](/services/examen-dot), que es un examen certificado diferente.
+
+## Chequeo general completo por $99
+
+Pregunta por nuestra promoción de [chequeo general completo](/promociones): examen general de sangre, A1C, examen de orina y consulta médica gratis por solo $99.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `A general physical exam is the simplest way to know how your health is doing before a problem shows up. At Clínica Hispana Nueva Salud La Porte we do it with no appointment, in Spanish, and with no insurance required.
+
+## What does the physical exam include?
+
+- Visit with the provider and review of your medical history
+- Vitals: blood pressure, pulse, weight, height and temperature
+- Complete physical exam (heart, lungs, abdomen, ears, throat, skin)
+- Blood and urine tests in our own lab, with fast results
+- Personalized recommendations and, if needed, a prescription or treatment
+
+## What is it for?
+
+- **Annual preventive checkup**: catch diabetes, high blood pressure, cholesterol or thyroid issues early.
+- **Work physical**: if your employer requires a checkup or a form, we complete it during the visit.
+- **Sports or school physical**: for children and teens we offer the [school and sports physical exam](/en/services/examen-fisico-escolar).
+- **DOT physical**: commercial drivers need the [DOT physical exam](/en/services/examen-dot), a different certified exam.
+
+## Complete general checkup for $99
+
+Ask about our [complete general checkup](/en/promociones) promotion: full blood panel, A1C, urine test and a free medical consultation for only $99.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
+  {
+    slug: "examen-fisico-escolar",
+    order: 6,
     category: "examenes",
     icon: "ClipboardList",
     title: "Chequeos Físicos Escolares y Deportivos",
@@ -661,7 +756,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    order: 6,
+    order: 7,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
@@ -748,7 +843,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-embarazo",
-    order: 7,
+    order: 8,
     category: "salud-mujer",
     icon: "Baby",
     title: "Examen y Diagnóstico de Embarazo",
@@ -824,7 +919,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "anticonceptivos",
-    order: 8,
+    order: 9,
     category: "salud-mujer",
     icon: "Tablets",
     title: "Tratamientos Anticonceptivos",
@@ -902,7 +997,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "extraccion-implantes",
-    order: 9,
+    order: 10,
     category: "salud-mujer",
     icon: "Bandage",
     title: "Extracción de Implantes Subdérmicos",
@@ -978,7 +1073,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "salud-hombre",
-    order: 10,
+    order: 11,
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
@@ -1057,7 +1152,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-sangre",
-    order: 11,
+    order: 12,
     category: "laboratorio",
     icon: "FlaskConical",
     highlighted: true,
@@ -1136,7 +1231,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    order: 12,
+    order: 13,
     category: "tratamientos",
     icon: "Droplet",
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
@@ -1222,7 +1317,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-heces",
-    order: 13,
+    order: 14,
     category: "laboratorio",
     icon: "TestTubes",
     title: "Exámenes de Heces Fecales",
@@ -1300,7 +1395,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-strep",
-    order: 14,
+    order: 15,
     category: "laboratorio",
     icon: "TestTube",
     title: "Prueba de Estreptococo (Strep Test)",
@@ -1378,7 +1473,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-tuberculosis",
-    order: 15,
+    order: 16,
     category: "laboratorio",
     icon: "ShieldPlus",
     title: "Examen de Tuberculosis (TB)",
@@ -1454,7 +1549,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-transmision-sexual",
-    order: 16,
+    order: 17,
     category: "laboratorio",
     icon: "ShieldCheck",
     title: "Pruebas de Enfermedades de Transmisión Sexual (STD)",
@@ -1532,7 +1627,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-alcohol-drogas",
-    order: 17,
+    order: 18,
     category: "examenes",
     icon: "Beaker",
     title: "Exámenes de Alcohol y Drogas",
@@ -1608,7 +1703,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "electrocardiograma",
-    order: 18,
+    order: 19,
     category: "laboratorio",
     icon: "HeartPulse",
     title: "Electrocardiograma (EKG)",
@@ -1684,7 +1779,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ultrasonido",
-    order: 19,
+    order: 20,
     category: "laboratorio",
     icon: "ScanLine",
     title: "Ultrasonido y Ecografía",
@@ -1760,7 +1855,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-dot",
-    order: 20,
+    order: 21,
     category: "examenes",
     icon: "Truck",
     highlighted: true,
@@ -1839,7 +1934,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-inmigracion",
-    order: 21,
+    order: 22,
     category: "examenes",
     icon: "ClipboardCheck",
     title: "Examen Médico de Inmigración I-693",
@@ -1917,7 +2012,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "vacunas",
-    order: 22,
+    order: 23,
     category: "tratamientos",
     icon: "Syringe",
     title: "Vacunas contra la Influenza y Toxoide Tetánico",
@@ -1995,7 +2090,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "sueros-vitaminados",
-    order: 23,
+    order: 24,
     category: "tratamientos",
     icon: "Droplets",
     title: "Sueros Vitaminados (Terapia IV)",
@@ -2073,7 +2168,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "suturas-heridas",
-    order: 24,
+    order: 25,
     category: "tratamientos",
     icon: "Scissors",
     title: "Suturas de Heridas",
@@ -2151,7 +2246,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "curacion-heridas",
-    order: 25,
+    order: 26,
     category: "tratamientos",
     icon: "Bandage",
     title: "Cura y Curación de Heridas",
@@ -2229,7 +2324,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "cirugias-menores",
-    order: 26,
+    order: 27,
     category: "tratamientos",
     icon: "Stethoscope",
     title: "Cirugías Menores",
@@ -2307,7 +2402,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "drenaje-abscesos",
-    order: 27,
+    order: 28,
     category: "tratamientos",
     icon: "Droplet",
     title: "Drenaje de Abscesos",
@@ -2385,7 +2480,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "unas-encarnadas",
-    order: 28,
+    order: 29,
     category: "tratamientos",
     icon: "Footprints",
     title: "Extracción de Uñas Encarnadas",
@@ -2463,7 +2558,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "farmacia",
-    order: 29,
+    order: 30,
     category: "tratamientos",
     icon: "Pill",
     title: "Farmacia",
