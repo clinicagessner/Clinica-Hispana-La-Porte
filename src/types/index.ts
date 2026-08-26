@@ -90,6 +90,8 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** Última revisión del contenido (YYYY-MM-DD). Alimenta lastmod del sitemap. */
+  updated?: string;
   author: string;
   category: string;
   cover: string;
