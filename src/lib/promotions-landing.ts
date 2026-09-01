@@ -27,9 +27,9 @@ export interface PromotionsLandingContent {
 const CONTENT: Record<Locale, PromotionsLandingContent> = {
   es: {
     metaTitle:
-      "Promociones: Chequeo General $99, Sangre + B12 $99 | Clínica Hispana La Porte",
+      "Promociones: Testosterona $79, Chequeo de la Mujer $179 | Clínica Hispana La Porte",
     metaDescription:
-      "Promociones del mes en Clínica Hispana Nueva Salud La Porte: chequeo general completo por $99, examen de sangre + Vitamina B12 por $99, salud íntima femenina por $69 y perfil hormonal masculino por $200. En español, sin cita y sin seguro en La Porte, TX.",
+      "Promociones del mes en Clínica Hispana Nueva Salud La Porte: examen de testosterona por $79, chequeo completo de la mujer por $179, chequeo general completo por $99, sangre + Vitamina B12 por $99 y más. En español, sin cita y sin seguro en La Porte, TX.",
     backToHome: "Volver al inicio",
     eyebrow: "Promociones del mes",
     title: "Promociones de nuestra clínica hispana",
@@ -67,9 +67,9 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
   },
   en: {
     metaTitle:
-      "Promotions: $99 General Checkup, $99 Blood Panel + B12 | Hispanic Clinic La Porte",
+      "Promotions: $79 Testosterone Test, $179 Women's Checkup | Hispanic Clinic La Porte",
     metaDescription:
-      "This month's promotions at Clínica Hispana Nueva Salud La Porte: complete general checkup for $99, blood panel + Vitamin B12 for $99, women's intimate health for $69 and a male hormone panel for $200. In Spanish, walk-ins and no insurance needed in La Porte, TX.",
+      "This month's promotions at Clínica Hispana Nueva Salud La Porte: testosterone test for $79, complete women's checkup for $179, complete general checkup for $99, blood panel + Vitamin B12 for $99 and more. In Spanish, walk-ins and no insurance needed in La Porte, TX.",
     backToHome: "Back to home",
     eyebrow: "This month's offers",
     title: "Promotions at our Hispanic clinic",

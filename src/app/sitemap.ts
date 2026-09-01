@@ -9,9 +9,9 @@ const BASE = SITE_CONFIG.baseUrl;
 // volver a rastrear. Las fechas deben reflejar cambios REALES de contenido:
 // actualízalas solo cuando cambie algo visible en esa página.
 const LASTMOD = {
-  home: "2026-08-20", // titles/H1 sin cita, sin seguro, 7 días
+  home: "2026-09-01", // nuevas promos en el carrusel (testosterona y chequeo mujer)
   walkIn: "2026-08-20",
-  promociones: "2026-08-26", // title con precios
+  promociones: "2026-09-01", // promos de testosterona $79 y chequeo de la mujer $179
   landingComparacion: "2026-08-01",
   services: "2026-08-01", // FAQs y horario de domingo
   servicesIndex: "2026-08-01",

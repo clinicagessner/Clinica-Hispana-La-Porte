@@ -227,6 +227,56 @@ export const PROMOTIONS: Promotion[] = [
     altEn:
       "Male hormone panel promotion for $200 at Clínica Hispana Nueva Salud La Porte, TX",
   },
+  {
+    slug: "examen-testosterona",
+    title: "Revisa tu testosterona",
+    titleEn: "Check your testosterone",
+    price: "$79",
+    blurb:
+      "¿Cansancio, poca energía, menos deseo sexual o dificultad con la erección? Pueden ser señales de testosterona baja. Nuestra promoción incluye examen de testosterona, examen de orina y consulta médica gratis. Precio regular $220, ahora por solo $79.",
+    blurbEn:
+      "Fatigue, low energy, less sex drive or trouble with erections? These can be signs of low testosterone. Our promotion includes a testosterone test, a urine test and a free medical consultation. Regular price $220, now for only $79.",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+      "Atención en español",
+    ],
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+      "Care in Spanish",
+    ],
+    alt: "Promoción de examen de testosterona por $79 (precio regular $220) con examen de orina y consulta médica gratis en Clínica Hispana Nueva Salud La Porte, TX",
+    altEn:
+      "Testosterone test promotion for $79 (regular price $220) with urine test and free medical consultation at Clínica Hispana Nueva Salud La Porte, TX",
+  },
+  {
+    slug: "chequeo-completo-mujer",
+    title: "Chequeo completo de la mujer",
+    titleEn: "Complete women's checkup",
+    price: "$179",
+    blurb:
+      "Cuida tu salud con nuestro chequeo completo de la mujer: ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis, con atención privada en español. Precio regular $300, ahora por solo $179.",
+    blurbEn:
+      "Take care of your health with our complete women's checkup: pelvic ultrasound, Pap smear, urine test and a free medical consultation, with private care in Spanish. Regular price $300, now for only $179.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    alt: "Promoción de chequeo completo de la mujer por $179 (precio regular $300) con ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis en Clínica Hispana Nueva Salud La Porte, TX",
+    altEn:
+      "Complete women's checkup promotion for $179 (regular price $300) with pelvic ultrasound, Pap smear, urine test and free medical consultation at Clínica Hispana Nueva Salud La Porte, TX",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {
