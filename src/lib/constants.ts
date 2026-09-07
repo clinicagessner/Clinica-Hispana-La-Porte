@@ -360,7 +360,7 @@ Si tienes más de 35 años, sobrepeso, familiares con diabetes o presión alta, 
 
 ## Control de enfermedades crónicas en La Porte, sin seguro
 
-Muchos de nuestros pacientes perdieron el seguimiento al cambiar de trabajo o de seguro. Aquí no lo necesitas: la consulta y el laboratorio tienen precio fijo que te informamos antes. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir a tu control sin faltar al trabajo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Muchos de nuestros pacientes perdieron el seguimiento al cambiar de trabajo o de seguro. Aquí no lo necesitas: la consulta y el laboratorio tienen precio fijo que te informamos antes. Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir a tu control sin faltar al trabajo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Diabetes, high blood pressure and high cholesterol do not hurt, which is why many people in La Porte go years without knowing they have them or without controlling them. At Clínica Hispana Nueva Salud La Porte we make the diagnosis with our own lab, give you a plan you can actually follow and see you regularly, in Spanish or English and with no appointment.
 
 ## Type 2 diabetes and prediabetes
@@ -389,7 +389,7 @@ If you are over 35, overweight, have relatives with diabetes or high blood press
 
 ## Chronic disease care in La Porte, no insurance needed
 
-Many of our patients lost their follow-up when they changed jobs or insurance. Here you do not need it: the visit and lab work have a flat price we tell you up front. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come for your checkup without missing work. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Many of our patients lost their follow-up when they changed jobs or insurance. Here you do not need it: the visit and lab work have a flat price we tell you up front. Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come for your checkup without missing work. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "tiroides",
@@ -457,7 +457,7 @@ Si notas un bulto en el cuello, dificultad para tragar o el cuello más ancho, a
 
 ## Examen de tiroides en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el perfil tiroideo y la consulta tienen precio fijo que te decimos antes. La [promoción de chequeo completo de la mujer por $179](/promociones) incluye la tiroides. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el perfil tiroideo y la consulta tienen precio fijo que te decimos antes. La [promoción de chequeo completo de la mujer por $179](/promociones) incluye la tiroides. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Tiredness that sleep does not fix, pounds going up or down for no reason, hair loss, feeling cold when everyone else is warm, palpitations or nervousness: very often the answer is in the thyroid. At Clínica Hispana Nueva Salud La Porte we run the thyroid panel in our own lab, with no appointment or doctor's order, and the physician starts or adjusts your treatment in the same clinic, in Spanish or English.
 
 ## The tests: TSH, T3 and T4
@@ -485,7 +485,7 @@ If you notice a lump in your neck, trouble swallowing or a wider neck, in additi
 
 ## Thyroid testing in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the thyroid panel and visit have a flat price we tell you beforehand. The [complete women's checkup promotion for $179](/en/promociones) includes the thyroid. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the thyroid panel and visit have a flat price we tell you beforehand. The [complete women's checkup promotion for $179](/en/promociones) includes the thyroid. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "alergias",
@@ -561,7 +561,7 @@ Hinchazón de labios, lengua o garganta, dificultad para respirar o mareo despu�
 
 ## Tratamiento de alergias en La Porte
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro ni cita; la consulta tiene precio fijo que te decimos antes. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro ni cita; la consulta tiene precio fijo que te decimos antes. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Allergies never let up in the La Porte area: oak and cedar pollen in winter and spring, grass in summer, ragweed in fall, and humidity and mold all year long. At Clínica Hispana Nueva Salud La Porte we identify what is affecting you and give you treatment that lets you breathe and sleep well, in Spanish or English and with no appointment.
 
 ## Respiratory allergies
@@ -597,7 +597,7 @@ Swelling of the lips, tongue or throat, trouble breathing or dizziness after eat
 
 ## Allergy treatment in La Porte
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No insurance or appointment needed; the visit has a flat price we tell you beforehand. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No insurance or appointment needed; the visit has a flat price we tell you beforehand. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "enfermedades-respiratorias",
@@ -671,7 +671,7 @@ Si necesitas justificante de la consulta o del reposo, te lo entregamos en la mi
 
 ## Pruebas de flu y COVID en La Porte, 7 días a la semana
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando la fiebre empieza un sábado por la noche, no tienes que esperar al lunes ni pagar una sala de urgencias. No necesitas seguro; la consulta y las pruebas tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando la fiebre empieza un sábado por la noche, no tienes que esperar al lunes ni pagar una sala de urgencias. No necesitas seguro; la consulta y las pruebas tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Fever, body aches, cough and a sore throat can be influenza, COVID, a bad cold or bronchitis, and each is treated differently. At Clínica Hispana Nueva Salud La Porte we run the rapid tests and give you the diagnosis and treatment during the same visit, no appointment needed, in Spanish or English and on weekends too.
 
 ## Rapid flu and COVID tests
@@ -705,7 +705,7 @@ If you need a note for the visit or for time off, we give it to you during the s
 
 ## Flu and COVID testing in La Porte, 7 days a week
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. When the fever starts on a Saturday night, you do not have to wait until Monday or pay for an emergency room. No insurance needed; the visit and tests have a flat price. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. When the fever starts on a Saturday night, you do not have to wait until Monday or pay for an emergency room. No insurance needed; the visit and tests have a flat price. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "examen-fisico-escolar",
@@ -774,7 +774,7 @@ Un físico anual es la forma más sencilla de detectar a tiempo presión alta, d
 
 ## Exámenes físicos en La Porte, sin cita y sin seguro
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes traer a tus hijos después de la escuela o venir tú al salir del trabajo. No necesitas seguro médico; el examen tiene precio fijo que te decimos por teléfono. Atendemos a familias de La Porte ISD, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes traer a tus hijos después de la escuela o venir tú al salir del trabajo. No necesitas seguro médico; el examen tiene precio fijo que te decimos por teléfono. Atendemos a familias de La Porte ISD, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Looking for a walk-in physical exam near you? At Clínica Hispana Nueva Salud La Porte we do physical exams for kids, teens and adults: for school, for sports, for work or simply as an annual checkup. Fast, in Spanish, with all the forms ready.
 
 ## What's included?
@@ -799,7 +799,7 @@ An annual physical is the simplest way to catch high blood pressure, diabetes, c
 
 ## Physical exams in La Porte, no appointment and no insurance
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can bring your kids after school or come yourself after work. No health insurance needed; the exam has a flat price we can tell you by phone. We serve families from La Porte ISD, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can bring your kids after school or come yourself after work. No health insurance needed; the exam has a flat price we can tell you by phone. We serve families from La Porte ISD, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "ginecologia",
@@ -869,7 +869,7 @@ Te atendemos en un consultorio privado, con puerta cerrada, y el médico te expl
 
 ## Ginecología en una clínica hispana cerca de ti
 
-Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita ni seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir después del trabajo o el fin de semana. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point, con precios accesibles que te informamos antes de la consulta.`,
+Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita ni seguro médico. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir después del trabajo o el fin de semana. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston, con precios accesibles que te informamos antes de la consulta.`,
     longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud La Porte we offer gynecology care in Spanish, with the privacy and respect you deserve.
 
 ## Pap smear: when and how
@@ -898,7 +898,7 @@ You are seen in a private exam room with the door closed, and the physician expl
 
 ## Gynecology at a Hispanic clinic near you
 
-If you are looking for gynecology care in Spanish in La Porte, TX, you need neither an appointment nor health insurance. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point, with affordable prices we tell you before the visit.`,
+If you are looking for gynecology care in Spanish in La Porte, TX, you need neither an appointment nor health insurance. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend. We care for women from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area, with affordable prices we tell you before the visit.`,
   },
   {
     slug: "prueba-embarazo",
@@ -966,7 +966,7 @@ La prueba se hace en un consultorio privado y el resultado solo se comparte cont
 
 ## Prueba de embarazo en La Porte, hoy mismo
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos los 7 días: de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas cita ni seguro médico; el precio de la prueba es accesible y te lo decimos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena y Shoreacres.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos los 7 días: de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas cita ni seguro médico; el precio de la prueba es accesible y te lo decimos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y el área de Houston.`,
     longDescriptionEn: `Is your period late and you want an answer today? At Clínica Hispana Nueva Salud La Porte we perform urine and blood pregnancy tests with no appointment, with the result explained by medical staff in Spanish or English. Whatever the result, we support you with clear information and no judgment.
 
 ## Urine test or blood test
@@ -994,7 +994,7 @@ The test is done in a private exam room and the result is shared only with you. 
 
 ## Pregnancy test in La Porte, today
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open 7 days a week: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No appointment or health insurance needed; the test is affordably priced and we can tell you the cost by phone. We care for women from La Porte, Deer Park, Pasadena and Shoreacres.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open 7 days a week: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No appointment or health insurance needed; the test is affordably priced and we can tell you the cost by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and the greater Houston area.`,
   },
   {
     slug: "anticonceptivos",
@@ -1065,7 +1065,7 @@ Ni las pastillas ni la inyección protegen contra las infecciones de transmisió
 
 ## Anticonceptivos en La Porte, sin seguro y en español
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico ni receta previa: la consulta y el método tienen precio fijo que te confirmamos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico ni receta previa: la consulta y el método tienen precio fijo que te confirmamos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud La Porte we give you clear, judgment-free information so you can choose the birth control method that fits you best, and we start it during the same visit, no appointment needed.
 
 ## Methods we offer at the clinic
@@ -1096,7 +1096,7 @@ Neither the pill nor the shot protects against sexually transmitted infections. 
 
 ## Birth control in La Porte, no insurance needed, in Spanish
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance or prior prescription needed: the visit and the method have a flat price we confirm by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance or prior prescription needed: the visit and the method have a flat price we confirm by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "extraccion-implantes",
@@ -1169,7 +1169,7 @@ Recuerda que la protección anticonceptiva termina el mismo día de la extracci�
 
 ## Extracción de implantes en La Porte, sin seguro
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas cita ni seguro médico; el procedimiento tiene precio fijo que te confirmamos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas cita ni seguro médico; el procedimiento tiene precio fijo que te confirmamos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `The contraceptive arm implant lasts 3 years (in some cases up to 5, per medical guidance) and then has to be removed, whether to place a new one, switch methods or try for a pregnancy. At Clínica Hispana Nueva Salud La Porte we remove it under local anesthesia in a procedure of about 15 minutes, with no appointment, in Spanish or English and at a flat self-pay price.
 
 ## When to have it removed
@@ -1202,7 +1202,7 @@ Remember that contraceptive protection ends the same day the implant is removed.
 
 ## Implant removal in La Porte, no insurance needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No appointment or health insurance needed; the procedure has a flat price we confirm by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No appointment or health insurance needed; the procedure has a flat price we confirm by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "salud-hombre",
@@ -1270,7 +1270,7 @@ Ven entre 9 y 10 de la mañana con 8 horas de ayuno si quieres hacer todo en una
 
 ## Exámenes del hombre en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir antes o después del turno. No necesitas seguro médico; cada prueba y paquete tiene precio fijo que te decimos antes. Atendemos a hombres de La Porte, Deer Park, Pasadena, Baytown, Shoreacres y Morgan's Point.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir antes o después del turno. No necesitas seguro médico; cada prueba y paquete tiene precio fijo que te decimos antes. Atendemos a hombres de La Porte, Deer Park, Pasadena, Baytown, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Most of the men we see in La Porte have gone years without a checkup: they work long shifts at the plants, the port or in construction, and only see a doctor when something hurts. At Clínica Hispana Nueva Salud La Porte we do men's health exams in a single visit, with no appointment, results explained in Spanish or English, and no insurance needed.
 
 ## Testosterone
@@ -1295,7 +1295,7 @@ Come between 9 and 10 in the morning after 8 hours of fasting if you want everyt
 
 ## Men's health exams in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come before or after your shift. No health insurance needed; each test and package has a flat price we tell you beforehand. We serve men from La Porte, Deer Park, Pasadena, Baytown, Shoreacres and Morgan's Point.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come before or after your shift. No health insurance needed; each test and package has a flat price we tell you beforehand. We serve men from La Porte, Deer Park, Pasadena, Baytown, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "examenes-sangre",
@@ -1382,7 +1382,7 @@ Cualquier prueba también se puede hacer por separado. Te decimos el precio exac
 
 ## Laboratorio en La Porte, sin seguro y en español
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a pocos minutos de Deer Park, Pasadena y Shoreacres. Abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir saliendo del trabajo o el fin de semana. No necesitas seguro médico: pagas en efectivo o con tarjeta, con el precio informado por adelantado.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a pocos minutos de Deer Park, Pasadena y Shoreacres, en el área de Houston. Abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir saliendo del trabajo o el fin de semana. No necesitas seguro médico: pagas en efectivo o con tarjeta, con el precio informado por adelantado.`,
     longDescriptionEn: `Need blood work near you without waiting weeks for an appointment? At Clínica Hispana Nueva Salud La Porte we draw your sample the same day you walk in, no appointment needed, and a physician explains your results in Spanish or English. You leave knowing what each value means and what to do next.
 
 ## Lab tests we perform
@@ -1428,7 +1428,7 @@ Any test can also be ordered on its own. We tell you the exact price before draw
 
 ## A lab in La Porte, no insurance needed, in Spanish
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, a few minutes from Deer Park, Pasadena and Shoreacres. We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend. No health insurance needed: pay with cash or card, with the price quoted up front.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, a few minutes from Deer Park, Pasadena and Shoreacres, in the greater Houston area. We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend. No health insurance needed: pay with cash or card, with the price quoted up front.`,
   },
   {
     slug: "infecciones-urinarias",
@@ -1498,7 +1498,7 @@ Si tienes 3 o más infecciones al año, buscamos la causa: relaciones sexuales, 
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y sales con tu tratamiento el mismo día. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y sales con tu tratamiento el mismo día. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the test and, if there's an infection, we start treatment the same day.
 
 ## How to tell if it is a urinary infection
@@ -1528,7 +1528,7 @@ If you have 3 or more infections a year, we look for the cause: sex, low water i
 
 ## Urinary infection treatment at a Hispanic clinic near you
 
-If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and you leave with your treatment the same day. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and you leave with your treatment the same day. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "examen-heces",
@@ -1602,7 +1602,7 @@ Si la diarrea viene con vómito y no puedes retener líquidos, también podemos 
 
 ## Examen de heces en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes pasar por el frasco un día y traer la muestra al siguiente, sin cita. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes pasar por el frasco un día y traer la muestra al siguiente, sin cita. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Diarrhea that will not go away, stomach pain, gas, blood in your stool or a child who is not gaining weight: very often the answer is in a stool test. At Clínica Hispana Nueva Salud La Porte we process it in our lab, explain the result in Spanish or English and give you treatment in the same clinic.
 
 ## Types of stool tests we perform
@@ -1636,7 +1636,7 @@ If the diarrhea comes with vomiting and you cannot keep fluids down, we can also
 
 ## Stool testing in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can pick up the container one day and bring the sample the next, with no appointment. No health insurance needed; the price is flat and we confirm it by phone. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can pick up the container one day and bring the sample the next, with no appointment. No health insurance needed; the price is flat and we confirm it by phone. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "prueba-strep",
@@ -1713,7 +1713,7 @@ Te entregamos el resultado por escrito y un justificante con los días de reposo
 
 ## Prueba de estreptococo en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando el niño amanece con la garganta cerrada un domingo, aquí lo atendemos sin pasar por urgencias. No necesitas seguro médico; la consulta y la prueba tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando el niño amanece con la garganta cerrada un domingo, aquí lo atendemos sin pasar por urgencias. No necesitas seguro médico; la consulta y la prueba tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `A sore throat that comes on suddenly, with fever and no cough, may be strep, and that one does need an antibiotic. At Clínica Hispana Nueva Salud La Porte we run the rapid test during the same visit, give you the result in 10 minutes and, if it is positive, you leave with treatment. No appointment, in Spanish or English, and on weekends too.
 
 ## How to tell if it might be strep
@@ -1750,7 +1750,7 @@ We give you the written result and a note with the recommended days off.
 
 ## Strep testing in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. When your child wakes up on a Sunday with a throat that feels closed, we see them here without a trip to the ER. No health insurance needed; the visit and the test have a flat price. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. When your child wakes up on a Sunday with a throat that feels closed, we see them here without a trip to the ER. No health insurance needed; the visit and the test have a flat price. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "prueba-tuberculosis",
@@ -1822,7 +1822,7 @@ Un resultado positivo no significa que tengas tuberculosis activa. Puede tratars
 
 ## Prueba de TB en La Porte, 7 días a la semana
 
-Como abrimos todos los días, es fácil cuadrar la lectura: si te la aplicas el lunes, la leemos el miércoles o jueves; si vienes el jueves, la leemos el sábado o el domingo. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico y el precio es fijo; pregúntalo por teléfono antes de venir.`,
+Como abrimos todos los días, es fácil cuadrar la lectura: si te la aplicas el lunes, la leemos el miércoles o jueves; si vienes el jueves, la leemos el sábado o el domingo. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico y el precio es fijo; pregúntalo por teléfono antes de venir. Atendemos a trabajadores y estudiantes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Do you need a tuberculosis test for work, school or paperwork? At Clínica Hispana Nueva Salud La Porte we place the PPD skin test with no appointment, read it 48 to 72 hours later and give you the written result, all explained in Spanish or English.
 
 ## How the PPD test works
@@ -1854,7 +1854,7 @@ A positive result does not mean you have active tuberculosis. It may be a latent
 
 ## TB testing in La Porte, 7 days a week
 
-Because we are open every day, the reading is easy to fit in: placed on Monday, read on Wednesday or Thursday; placed on Thursday, read on Saturday or Sunday. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed and the price is flat; call us for it before you come.`,
+Because we are open every day, the reading is easy to fit in: placed on Monday, read on Wednesday or Thursday; placed on Thursday, read on Saturday or Sunday. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed and the price is flat; call us for it before you come. We serve workers and students from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "enfermedades-transmision-sexual",
@@ -1934,7 +1934,7 @@ La consulta es en un consultorio cerrado y solo hablamos del resultado contigo. 
 
 ## Pruebas de ETS en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Vienen pacientes de La Porte, Deer Park, Pasadena, Baytown y Shoreacres porque pueden hacerse la prueba en la tarde o el fin de semana sin faltar al trabajo. Precio fijo, sin seguro; pregúntalo por teléfono.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Vienen pacientes de La Porte, Deer Park, Pasadena, Baytown, Shoreacres y el área de Houston porque pueden hacerse la prueba en la tarde o el fin de semana sin faltar al trabajo. Precio fijo, sin seguro; pregúntalo por teléfono.`,
     longDescriptionEn: `Getting tested for sexually transmitted diseases does not have to be uncomfortable. At Clínica Hispana Nueva Salud La Porte we see you with no appointment, in a private exam room, with staff who speak your language and do not judge. The result is yours alone.
 
 ## Infections we test for
@@ -1974,7 +1974,7 @@ The visit takes place in a closed exam room and we discuss the result only with 
 
 ## STD testing in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Patients come from La Porte, Deer Park, Pasadena, Baytown and Shoreacres because they can get tested in the evening or on the weekend without missing work. Flat price, no insurance; call us for it.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Patients come from La Porte, Deer Park, Pasadena, Baytown, Shoreacres and the greater Houston area because they can get tested in the evening or on the weekend without missing work. Flat price, no insurance; call us for it.`,
   },
   {
     slug: "examen-alcohol-drogas",
@@ -2059,7 +2059,7 @@ El resultado se entrega solo a ti o a quien tú autorices por escrito, como tu e
 
 ## Pruebas de drogas y alcohol en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes cumplir con el plazo que te dio recursos humanos aunque sea fin de semana. No necesitas seguro; la prueba tiene precio fijo según el panel. Atendemos a trabajadores de La Porte, Deer Park, Pasadena, Baytown, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes cumplir con el plazo que te dio recursos humanos aunque sea fin de semana. No necesitas seguro; la prueba tiene precio fijo según el panel. Atendemos a trabajadores de La Porte, Deer Park, Pasadena, Baytown, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Does your new job require a drug test before you start, or does your company do random testing and today is your day? At Clínica Hispana Nueva Salud La Porte we perform urine drug tests and alcohol tests with no appointment, with fast results and documentation ready for your employer, in Spanish or English, 7 days a week.
 
 ## Types of tests
@@ -2102,7 +2102,7 @@ The result is given only to you or to whomever you authorize in writing, such as
 
 ## Drug and alcohol testing in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can meet the deadline HR gave you even on a weekend. No insurance needed; the test has a flat price depending on the panel. We serve workers from La Porte, Deer Park, Pasadena, Baytown, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can meet the deadline HR gave you even on a weekend. No insurance needed; the test has a flat price depending on the panel. We serve workers from La Porte, Deer Park, Pasadena, Baytown, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "electrocardiograma",
@@ -2170,7 +2170,7 @@ El médico lee el trazo en la misma visita y te explica qué significa. Si el EK
 
 ## Electrocardiograma sin seguro en La Porte
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas orden médica ni seguro: el EKG con interpretación tiene precio fijo que te confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas orden médica ni seguro: el EKG con interpretación tiene precio fijo que te confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `An electrocardiogram (EKG or ECG) records the heart's electrical activity in about 5 minutes, with no pain and no radiation. At Clínica Hispana Nueva Salud La Porte we do it with no appointment and the physician interprets it on the spot, so you leave the clinic knowing how your heart rhythm is, in Spanish or English.
 
 ## What it is for
@@ -2198,7 +2198,7 @@ The physician reads the tracing during the same visit and explains what it means
 
 ## EKG without insurance in La Porte
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No doctor's order or insurance needed: the EKG with interpretation has a flat price we confirm by phone. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No doctor's order or insurance needed: the EKG with interpretation has a flat price we confirm by phone. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "ultrasonido",
@@ -2269,7 +2269,7 @@ El médico interpreta el estudio en el momento, te muestra las imágenes y te en
 
 ## Ultrasonido sin seguro en La Porte
 
-No necesitas orden médica ni seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point. Llámanos para conocer el precio del estudio que necesitas antes de venir.`,
+No necesitas orden médica ni seguro. Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston. Llámanos para conocer el precio del estudio que necesitas antes de venir.`,
     longDescriptionEn: `Looking for an ultrasound near you without waiting weeks for an appointment? At Clínica Hispana Nueva Salud La Porte we perform diagnostic and pregnancy ultrasounds right in the clinic, at a flat self-pay price, with a physician who explains what you see on the screen, in Spanish or English.
 
 ## Types of ultrasound we perform
@@ -2300,7 +2300,7 @@ The physician interprets the study on the spot, shows you the images and gives y
 
 ## Ultrasound without insurance in La Porte
 
-No doctor's order or insurance needed. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point. Call us for the price of the exam you need before you come.`,
+No doctor's order or insurance needed. Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area. Call us for the price of the exam you need before you come.`,
   },
   {
     slug: "examen-dot",
@@ -2382,7 +2382,7 @@ Te entregamos el certificado médico (MCSA-5876) y el médico registra el result
 
 ## Examen DOT en La Porte, sin cita y con precio fijo
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a minutos del puerto, de la 225 y de la 146, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes venir entre cargas o después de la ruta. No necesitas seguro; el examen DOT tiene precio fijo que te confirmamos por teléfono. Atendemos a conductores de La Porte, Deer Park, Pasadena, Baytown, Channelview y toda el área de Houston.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a minutos del puerto, de la 225 y de la 146, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes venir entre cargas o después de la ruta. No necesitas seguro; el examen DOT tiene precio fijo que te confirmamos por teléfono. Atendemos a conductores de La Porte, Deer Park, Pasadena, Baytown, Channelview y toda el área de Houston.`,
     longDescriptionEn: `If you drive a semi, dump truck, tanker or any commercial vehicle, you need a current DOT medical certificate to keep your CDL. At Clínica Hispana Nueva Salud La Porte we do the DOT physical exam with no appointment, in Spanish or English, and if you meet the requirements you leave with your certificate the same day, 7 days a week.
 
 ## What the DOT exam checks
@@ -2421,7 +2421,7 @@ We give you the medical certificate (MCSA-5876) and the physician records the re
 
 ## DOT exam in La Porte, no appointment and flat price
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, minutes from the port, Highway 225 and Highway 146, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can come between loads or after your route. No insurance needed; the DOT exam has a flat price we confirm by phone. We serve drivers from La Porte, Deer Park, Pasadena, Baytown, Channelview and the greater Houston area.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, minutes from the port, Highway 225 and Highway 146, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can come between loads or after your route. No insurance needed; the DOT exam has a flat price we confirm by phone. We serve drivers from La Porte, Deer Park, Pasadena, Baytown, Channelview and the greater Houston area.`,
   },
   {
     slug: "examenes-inmigracion",
@@ -2503,7 +2503,7 @@ El examen de inmigración no lo cubre el seguro médico, así que trabajamos con
 
 ## Examen médico de inmigración en La Porte
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes venir sin cita, aunque para el I-693 te recomendamos llamar antes para confirmar la disponibilidad del médico autorizado ese día. Atendemos a solicitantes de La Porte, Deer Park, Pasadena, Baytown, Channelview y toda el área de Houston.`,
+Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes venir sin cita, aunque para el I-693 te recomendamos llamar antes para confirmar la disponibilidad del médico autorizado ese día. Atendemos a solicitantes de La Porte, Deer Park, Pasadena, Baytown, Channelview y toda el área de Houston.`,
     longDescriptionEn: `If you are adjusting your status for permanent residence, USCIS will require Form I-693 completed by an authorized physician, known as a civil surgeon. At Clínica Hispana Nueva Salud La Porte we perform the complete immigration medical exam, with the tests and vaccines in the same place, and hand you the sealed envelope ready for your case, all explained in Spanish or English.
 
 ## What the I-693 exam includes
@@ -2543,7 +2543,7 @@ Health insurance does not cover the immigration exam, so we work with a flat pri
 
 ## Immigration medical exam in La Porte
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can walk in, although for the I-693 we recommend calling ahead to confirm the authorized physician is available that day. We serve applicants from La Porte, Deer Park, Pasadena, Baytown, Channelview and the greater Houston area.`,
+Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can walk in, although for the I-693 we recommend calling ahead to confirm the authorized physician is available that day. We serve applicants from La Porte, Deer Park, Pasadena, Baytown, Channelview and the greater Houston area.`,
   },
   {
     slug: "vacunas",
@@ -2619,7 +2619,7 @@ Una identificación, tu cartilla de vacunación si la tienes y el formulario de 
 
 ## Vacunas sin seguro en La Porte
 
-No necesitas seguro médico ni cita. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas vacunarte al salir del trabajo. Atendemos a familias de La Porte, Deer Park, Pasadena, Morgan's Point y Shoreacres. Pregúntanos el precio por teléfono antes de venir.`,
+No necesitas seguro médico ni cita. Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas vacunarte al salir del trabajo. Atendemos a familias de La Porte, Deer Park, Pasadena, Morgan's Point, Shoreacres y el área de Houston. Pregúntanos el precio por teléfono antes de venir.`,
     longDescriptionEn: `At Clínica Hispana Nueva Salud La Porte we give the influenza vaccine and tetanus toxoid with no appointment, in Spanish or English and at a flat price. You walk in, we check you in a few minutes and you leave protected, with a vaccination record if you need one for work or school.
 
 ## Influenza (flu) vaccine
@@ -2655,7 +2655,7 @@ An ID, your vaccination card if you have one, and your employer or school form i
 
 ## Vaccines without insurance in La Porte
 
-No health insurance or appointment needed. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can get vaccinated after work. We serve families from La Porte, Deer Park, Pasadena, Morgan's Point and Shoreacres. Call us for the price before you come.`,
+No health insurance or appointment needed. Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can get vaccinated after work. We serve families from La Porte, Deer Park, Pasadena, Morgan's Point, Shoreacres and the greater Houston area. Call us for the price before you come.`,
   },
   {
     slug: "sueros-vitaminados",
@@ -2731,7 +2731,7 @@ Si solo necesitas vitamina B12, la inyección intramuscular es rápida y económ
 
 ## Sueros vitaminados en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena y comunidades cercanas.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena y comunidades cercanas del área de Houston.`,
     longDescriptionEn: `Vitamin drips, also called IV therapy, deliver fluids, vitamins and minerals straight into your bloodstream, so your body uses them right away instead of losing part of them in digestion. At Clínica Hispana Nueva Salud La Porte they are administered by medical staff after checking your blood pressure and history, in a comfortable bay and with no appointment.
 
 ## What they are used for
@@ -2767,7 +2767,7 @@ If you only need vitamin B12, an intramuscular injection is quick and inexpensiv
 
 ## Vitamin IV drips in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the price is flat and we confirm it by phone. We serve patients from La Porte, Deer Park, Pasadena and nearby communities.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the price is flat and we confirm it by phone. We serve patients from La Porte, Deer Park, Pasadena and nearby communities in the greater Houston area.`,
   },
   {
     slug: "suturas-heridas",
@@ -2844,7 +2844,7 @@ Si te lastimaste en el trabajo, dínoslo al llegar: documentamos la lesión y te
 
 ## Suturas en La Porte, sin cita y sin seguro
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el procedimiento tiene precio fijo que te decimos antes de empezar. Atendemos a familias y trabajadores de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point. Si la herida es muy profunda, no deja de sangrar a chorro, hay un hueso expuesto o la persona se desmayó, llama al 911.`,
+Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el procedimiento tiene precio fijo que te decimos antes de empezar. Atendemos a familias y trabajadores de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston. Si la herida es muy profunda, no deja de sangrar a chorro, hay un hueso expuesto o la persona se desmayó, llama al 911.`,
     longDescriptionEn: `A kitchen cut, a fall off a bike, a wound from a tool at work: if the edges are open and it will not stop bleeding, it needs stitches, and the sooner the better. At Clínica Hispana Nueva Salud La Porte we suture wounds with no appointment, under local anesthesia and in Spanish or English, 7 days a week, at a fraction of what an emergency room costs.
 
 ## When a wound needs stitches
@@ -2881,7 +2881,7 @@ If you were hurt at work, tell us when you arrive: we document the injury and gi
 
 ## Stitches in La Porte, no appointment and no insurance
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the procedure has a flat price we tell you before starting. We serve families and workers from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point. If the wound is very deep, is spurting blood, bone is exposed or the person fainted, call 911.`,
+Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the procedure has a flat price we tell you before starting. We serve families and workers from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area. If the wound is very deep, is spurting blood, bone is exposed or the person fainted, call 911.`,
   },
   {
     slug: "curacion-heridas",
@@ -2953,7 +2953,7 @@ Fiebre, enrojecimiento que se extiende más allá del borde, líneas rojas que s
 
 ## Curación de heridas en La Porte, sin seguro
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, lo que facilita mantener el ritmo de curaciones sin faltar al trabajo. No necesitas seguro; cada curación tiene precio fijo y te lo decimos antes. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, lo que facilita mantener el ritmo de curaciones sin faltar al trabajo. No necesitas seguro; cada curación tiene precio fijo y te lo decimos antes. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `Some wounds cannot be handled with a bandage: the incision after surgery, a burn from oil or steam, a sore on the foot of someone with diabetes, or a large scrape that got infected. At Clínica Hispana Nueva Salud La Porte we provide professional wound care and follow up until the wound closes, with no appointment and in Spanish or English.
 
 ## Wounds we treat
@@ -2985,7 +2985,7 @@ Fever, redness spreading beyond the edge, red streaks running up the skin, heavy
 
 ## Wound care in La Porte, no insurance needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, which makes it easy to keep up with dressing changes without missing work. No insurance needed; each visit has a flat price we tell you beforehand. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, which makes it easy to keep up with dressing changes without missing work. No insurance needed; each visit has a flat price we tell you beforehand. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "cirugias-menores",
@@ -3056,7 +3056,7 @@ Lesiones grandes o profundas, tumores que requieran estudio de imagen previo, pr
 
 ## Cirugía menor en La Porte, sin seguro
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio depende del procedimiento y te lo confirmamos en la evaluación, antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio depende del procedimiento y te lo confirmamos en la evaluación, antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `That mole that rubs on your belt, the cyst on your back that flares up every so often, or the soft lump on your arm that has been growing for years can be removed in a single visit, under local anesthesia and without a hospital. At Clínica Hispana Nueva Salud La Porte we perform outpatient minor surgery with no appointment, in Spanish or English and at a flat self-pay price.
 
 ## Procedures we perform
@@ -3087,7 +3087,7 @@ Large or deep lesions, tumors that require prior imaging, procedures that need g
 
 ## Minor surgery in La Porte, no insurance needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the price depends on the procedure and we confirm it during the evaluation, before starting. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the price depends on the procedure and we confirm it during the evaluation, before starting. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "drenaje-abscesos",
@@ -3158,7 +3158,7 @@ Cuando los abscesos vuelven una y otra vez, revisamos tu [glucosa](/services/con
 
 ## Drenaje de abscesos en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el drenaje tiene precio fijo que te informamos antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el drenaje tiene precio fijo que te informamos antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `A red, hot, firm and increasingly painful lump, sometimes with a white spot in the center, is almost always an abscess: a pocket of pus the body cannot clear on its own. Antibiotics alone do not cure it; it has to be drained. At Clínica Hispana Nueva Salud La Porte we do it the same day you walk in, under local anesthesia, with no appointment and in Spanish or English.
 
 ## Where they appear and why
@@ -3189,7 +3189,7 @@ When abscesses return again and again, we check your [blood sugar](/en/services/
 
 ## Abscess drainage in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; drainage has a flat price we tell you before starting. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; drainage has a flat price we tell you before starting. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "unas-encarnadas",
@@ -3263,7 +3263,7 @@ Si tienes diabetes, mala circulación o el dedo está muy hinchado, con pus o l�
 
 ## Tratamiento de uñas encarnadas en La Porte, sin cita
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir al salir del turno. No necesitas seguro médico; el procedimiento tiene precio fijo que te informamos antes. Atendemos a trabajadores y familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir al salir del turno. No necesitas seguro médico; el procedimiento tiene precio fijo que te informamos antes. Atendemos a trabajadores y familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `When the edge of your big toenail digs into the skin, every step hurts, your safety boot becomes a punishment and the toe turns red, swollen and sometimes full of pus. At Clínica Hispana Nueva Salud La Porte we treat ingrown toenails under local anesthesia in a single visit, with no appointment and in Spanish or English, so you walk out with relief.
 
 ## Why toenails become ingrown
@@ -3297,7 +3297,7 @@ If you have diabetes, poor circulation, or the toe is very swollen, with pus or 
 
 ## Ingrown toenail treatment in La Porte, no appointment needed
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after your shift. No health insurance needed; the procedure has a flat price we tell you beforehand. We serve workers and families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after your shift. No health insurance needed; the procedure has a flat price we tell you beforehand. We serve workers and families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "farmacia",
@@ -3369,7 +3369,7 @@ No surtimos sustancias controladas ni recetas de médicos externos que no podamo
 
 ## Farmacia en La Porte, dentro de la clínica
 
-Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Es una de las pocas farmacias abiertas hasta las 9 de la noche en La Porte y con atención en español. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Es una de las pocas farmacias abiertas hasta las 9 de la noche en La Porte y con atención en español. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive to another pharmacy, wait in line and find out they do not have your medication. At Clínica Hispana Nueva Salud La Porte we fill your prescription right in the clinic, in minutes, with an explanation in Spanish or English of how to take it and at affordable self-pay prices.
 
 ## What you will find at our pharmacy
@@ -3401,7 +3401,7 @@ We do not dispense controlled substances or prescriptions from outside doctors t
 
 ## Pharmacy in La Porte, inside the clinic
 
-We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, with the same hours as the clinic: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. It is one of the few pharmacies open until 9 at night in La Porte with service in Spanish. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, with the same hours as the clinic: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. It is one of the few pharmacies open until 9 at night in La Porte with service in Spanish. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
 ];
 
