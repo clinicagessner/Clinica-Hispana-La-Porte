@@ -2686,44 +2686,80 @@ We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} $
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Nueva Salud La Porte cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+    longDescription: `Un corte en la cocina, una caída de la bicicleta, una herida con una herramienta en el trabajo: si los bordes están abiertos y no dejan de sangrar, necesita puntos, y cuanto antes mejor. En Clínica Hispana Nueva Salud La Porte suturamos heridas sin cita, con anestesia local y en español, los 7 días de la semana, a una fracción de lo que cuesta una sala de urgencias.
 
-## ¿Qué incluye?
+## Cuándo una herida necesita puntos
 
-- Evaluación y limpieza de la herida
-- Cierre con suturas (puntos)
-- Aplicación de anestesia local
-- Indicaciones de cuidado y signos de alarma
-- Retiro de puntos cuando corresponde
+- Los bordes se separan y se ve la grasa o el tejido de abajo
+- Sigue sangrando después de 10 minutos de presión firme
+- Mide más de 1 o 2 centímetros, sobre todo en cara, manos o articulaciones
+- Está en una zona que se mueve mucho (rodilla, codo, dedos) y se abriría al moverse
+- Es un corte limpio con cuchillo, vidrio o lámina de metal
 
-## Cuándo acudir
+Las heridas deben cerrarse dentro de las primeras 6 a 8 horas; en la cara se puede extender hasta 24 horas. Pasado ese tiempo el riesgo de infección aumenta y quizá no se puedan suturar. Por eso conviene venir el mismo día.
 
-Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+## Cómo es el procedimiento
 
-${WHY_ES}
+1. Revisamos la herida, cuánto sangra y si hay daño en tendones o nervios, y preguntamos cómo pasó y cuándo fue tu última vacuna del tétanos
+2. Aplicamos anestesia local: es el único piquete que sientes
+3. Lavamos la herida a fondo y retiramos tierra, vidrio o restos
+4. Cerramos con puntos; en niños o heridas pequeñas de la cara a veces usamos pegamento quirúrgico o cintas adhesivas, sin aguja
+5. Cubrimos con un vendaje y te explicamos los cuidados
 
-${PAYMENT_ES}
+Todo toma entre 20 y 40 minutos según el tamaño. Si tu última dosis de tétanos fue hace más de 5 años y la herida está sucia, o hace más de 10 años en cualquier caso, te aplicamos el [refuerzo del tétanos](/services/vacunas) en la misma visita. Si la herida fue por mordedura o está muy contaminada, además indicamos antibiótico, disponible en nuestra [farmacia](/services/farmacia).
 
-${AREAS_ES}`,
-    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Nueva Salud La Porte we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+## Cuidados en casa
 
-## What's included?
+Mantén el vendaje seco y limpio las primeras 24 a 48 horas; después puedes ducharte dejando que el agua corra sobre la herida, sin remojarla ni tallarla. Seca con toques suaves y cambia el vendaje una vez al día. No apliques alcohol, agua oxigenada ni remedios caseros. Evita la piscina, la bahía y los baños de tina hasta retirar los puntos. Ven o llámanos si aparece enrojecimiento que se extiende, calor, pus, fiebre o dolor que aumenta en lugar de mejorar.
 
-- Wound evaluation and cleaning
-- Closure with sutures (stitches)
-- Local anesthesia
-- Care instructions and warning signs
-- Suture removal when appropriate
+## Retiro de puntos
 
-## When to come in
+Regresas a que te los quitemos según la zona: cara de 5 a 7 días, cuero cabelludo y tronco de 7 a 10 días, brazos y piernas de 10 a 14 días, y articulaciones hasta 14 días. El retiro dura pocos minutos y está incluido. Después usa protector solar sobre la cicatriz durante varios meses para que se aclare mejor.
 
-Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+## Heridas de trabajo
 
-${WHY_EN}
+Si te lastimaste en el trabajo, dínoslo al llegar: documentamos la lesión y te entregamos la constancia médica para tu empleador. Cuando regreses a tus actividades, protege la zona con un vendaje adecuado.
 
-${PAYMENT_EN}
+## Suturas en La Porte, sin cita y sin seguro
 
-${AREAS_EN}`,
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el procedimiento tiene precio fijo que te decimos antes de empezar. Atendemos a familias y trabajadores de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point. Si la herida es muy profunda, no deja de sangrar a chorro, hay un hueso expuesto o la persona se desmayó, llama al 911.`,
+    longDescriptionEn: `A kitchen cut, a fall off a bike, a wound from a tool at work: if the edges are open and it will not stop bleeding, it needs stitches, and the sooner the better. At Clínica Hispana Nueva Salud La Porte we suture wounds with no appointment, under local anesthesia and in Spanish or English, 7 days a week, at a fraction of what an emergency room costs.
+
+## When a wound needs stitches
+
+- The edges pull apart and you can see fat or tissue underneath
+- It keeps bleeding after 10 minutes of firm pressure
+- It is longer than half an inch, especially on the face, hands or joints
+- It is in an area that moves a lot (knee, elbow, fingers) and would open with movement
+- It is a clean cut from a knife, glass or sheet metal
+
+Wounds should be closed within the first 6 to 8 hours; on the face that can stretch to 24 hours. After that, the risk of infection rises and stitching may no longer be possible. That is why coming in the same day matters.
+
+## What the procedure is like
+
+1. We examine the wound, how much it bleeds and whether tendons or nerves are damaged, and ask how it happened and when your last tetanus shot was
+2. We apply local anesthesia: that is the only poke you feel
+3. We wash the wound thoroughly and remove dirt, glass or debris
+4. We close it with stitches; in children or small facial wounds we sometimes use skin glue or adhesive strips, no needle
+5. We cover it with a dressing and explain the aftercare
+
+The whole thing takes 20 to 40 minutes depending on size. If your last tetanus dose was more than 5 years ago and the wound is dirty, or more than 10 years ago in any case, we give you the [tetanus booster](/en/services/vacunas) during the same visit. If the wound was from a bite or is heavily contaminated, we also prescribe an antibiotic, available at our [pharmacy](/en/services/farmacia).
+
+## Care at home
+
+Keep the dressing dry and clean for the first 24 to 48 hours; after that you can shower letting water run over the wound, without soaking or scrubbing it. Pat dry and change the dressing once a day. Do not apply alcohol, hydrogen peroxide or home remedies. Stay out of pools, the bay and bathtubs until the stitches are out. Come in or call us if you notice spreading redness, warmth, pus, fever or pain that gets worse instead of better.
+
+## Stitch removal
+
+You come back to have them removed depending on the area: face 5 to 7 days, scalp and trunk 7 to 10 days, arms and legs 10 to 14 days, and joints up to 14 days. Removal takes a few minutes and is included. Afterward, use sunscreen on the scar for several months so it fades better.
+
+## Work injuries
+
+If you were hurt at work, tell us when you arrive: we document the injury and give you a medical note for your employer. When you return to your duties, protect the area with a proper dressing.
+
+## Stitches in La Porte, no appointment and no insurance
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the procedure has a flat price we tell you before starting. We serve families and workers from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point. If the wound is very deep, is spurting blood, bone is exposed or the person fainted, call 911.`,
   },
   {
     slug: "curacion-heridas",
@@ -2764,44 +2800,70 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Nueva Salud La Porte limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+    longDescription: `Hay heridas que no se resuelven con una curita: la incisión después de una cirugía, una quemadura con aceite o vapor, una llaga en el pie de una persona con diabetes o un raspón grande que se infectó. En Clínica Hispana Nueva Salud La Porte hacemos curaciones profesionales y damos seguimiento hasta que la herida cierre, sin cita y en español.
 
-## ¿Qué incluye?
+## Heridas que atendemos
 
-- Limpieza y desinfección de la herida
-- Aplicación de apósitos y vendajes
-- Cambio periódico de vendajes
-- Vigilancia de signos de infección
-- Indicaciones de cuidado en casa
+- Heridas postoperatorias: revisión de la incisión, limpieza, cambio de apósito y retiro de puntos o grapas cuando tu cirujano lo indica
+- Quemaduras de primer y segundo grado superficiales por aceite, agua caliente, vapor, plancha o sol; las de la cocina y las de las plantas industriales son las más comunes que vemos
+- Úlceras del pie diabético y heridas que llevan semanas sin cerrar
+- Raspones y heridas por caídas, con o sin infección
+- Heridas infectadas con enrojecimiento, pus o mal olor
+- Ampollas, heridas por fricción y lesiones en trabajadores que usan botas o equipo pesado
 
-## Para todo tipo de heridas
+Si el corte está abierto y es reciente, lo que necesitas son [suturas](/services/suturas-heridas); si el problema es un bulto con pus, revisa el [drenaje de abscesos](/services/drenaje-abscesos).
 
-Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+## Qué hacemos en cada curación
 
-${WHY_ES}
+Retiramos el vendaje anterior, medimos y fotografiamos la herida para comparar su avance, la lavamos con solución estéril, retiramos el tejido muerto si lo hay (desbridamiento) con anestesia local cuando hace falta, aplicamos el apósito adecuado y vendamos. Al final te entregamos un plan por escrito: cada cuántos días volver, qué hacer en casa y qué señales vigilar. Si la herida muestra infección, el médico indica antibiótico que puedes surtir en nuestra [farmacia](/services/farmacia), y revisamos tu [vacuna del tétanos](/services/vacunas).
 
-${PAYMENT_ES}
+## Apósitos según la herida
 
-${AREAS_ES}`,
-    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Nueva Salud La Porte we clean, treat and dress your wounds, and follow you until they heal.
+No todas las heridas se curan igual. Las secas necesitan humedad controlada para que el tejido nuevo crezca; las que supuran necesitan apósitos que absorban; las quemaduras se benefician de apósitos con plata o hidrogel para evitar infección y dolor al cambiarlos. Elegimos el material según cada etapa, y te decimos qué comprar si prefieres hacer algunos cambios en casa entre visitas.
 
-## What's included?
+## Pie diabético: no esperes
 
-- Wound cleaning and disinfection
-- Application of dressings and bandages
-- Periodic dressing changes
-- Monitoring for signs of infection
-- Home-care instructions
+Si tienes diabetes y notas una llaga, una ampolla o un cambio de color en el pie, aunque no duela, ven ese mismo día. La falta de sensibilidad hace que las heridas avancen sin que te des cuenta, y una curación temprana evita hospitalizaciones. Aprovechamos la visita para revisar tu [glucosa y A1C](/services/condiciones-cronicas), porque una herida no cierra bien con el azúcar descontrolada.
 
-## For all kinds of wounds
+## Cuándo volver antes de la fecha
 
-Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+Fiebre, enrojecimiento que se extiende más allá del borde, líneas rojas que suben por la piel, pus abundante, mal olor, dolor que aumenta o un vendaje que se empapa en pocas horas. Ante cualquiera de estas señales, ven sin esperar tu siguiente cita.
 
-${WHY_EN}
+## Curación de heridas en La Porte, sin seguro
 
-${PAYMENT_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, lo que facilita mantener el ritmo de curaciones sin faltar al trabajo. No necesitas seguro; cada curación tiene precio fijo y te lo decimos antes. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Some wounds cannot be handled with a bandage: the incision after surgery, a burn from oil or steam, a sore on the foot of someone with diabetes, or a large scrape that got infected. At Clínica Hispana Nueva Salud La Porte we provide professional wound care and follow up until the wound closes, with no appointment and in Spanish or English.
 
-${AREAS_EN}`,
+## Wounds we treat
+
+- Post-surgical wounds: incision check, cleaning, dressing change and removal of stitches or staples when your surgeon indicates it
+- First-degree and superficial second-degree burns from oil, hot water, steam, an iron or the sun; kitchen and industrial-plant burns are the most common ones we see
+- Diabetic foot ulcers and wounds that have gone weeks without closing
+- Scrapes and wounds from falls, with or without infection
+- Infected wounds with redness, pus or a bad smell
+- Blisters, friction wounds and injuries in workers who wear boots or heavy gear
+
+If the cut is open and recent, what you need is [stitches](/en/services/suturas-heridas); if the problem is a lump filled with pus, see [abscess drainage](/en/services/drenaje-abscesos).
+
+## What we do at each visit
+
+We remove the old dressing, measure and photograph the wound to track progress, wash it with sterile solution, remove dead tissue if present (debridement) under local anesthesia when needed, apply the right dressing and bandage it. At the end you get a written plan: how often to come back, what to do at home and which signs to watch for. If the wound shows infection, the physician prescribes an antibiotic you can fill at our [pharmacy](/en/services/farmacia), and we check your [tetanus vaccine](/en/services/vacunas).
+
+## Dressings matched to the wound
+
+Not all wounds heal the same way. Dry wounds need controlled moisture so new tissue can grow; draining wounds need absorbent dressings; burns benefit from silver or hydrogel dressings to prevent infection and pain at changes. We choose the material for each stage, and tell you what to buy if you prefer to do some changes at home between visits.
+
+## Diabetic foot: do not wait
+
+If you have diabetes and notice a sore, a blister or a color change on your foot, even if it does not hurt, come that same day. Loss of sensation lets wounds progress without you noticing, and early care prevents hospital stays. We use the visit to check your [glucose and A1C](/en/services/condiciones-cronicas), because a wound will not heal well with uncontrolled blood sugar.
+
+## When to come back early
+
+Fever, redness spreading beyond the edge, red streaks running up the skin, heavy pus, bad odor, increasing pain or a dressing that soaks through within hours. With any of these signs, come in without waiting for your next visit.
+
+## Wound care in La Porte, no insurance needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, which makes it easy to keep up with dressing changes without missing work. No insurance needed; each visit has a flat price we tell you beforehand. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "cirugias-menores",
@@ -2842,44 +2904,68 @@ ${AREAS_EN}`,
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Nueva Salud La Porte realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+    longDescription: `Ese lunar que roza con el cinturón, el quiste en la espalda que se inflama cada tanto o la bolita blanda en el brazo que lleva años creciendo se pueden quitar en una sola visita, con anestesia local y sin hospital. En Clínica Hispana Nueva Salud La Porte hacemos cirugías menores ambulatorias sin cita, en español y con precio fijo sin seguro.
 
-## ¿Qué incluye?
+## Procedimientos que realizamos
 
-- Evaluación del lunar, quiste o lesión
-- Procedimiento ambulatorio con anestesia local
-- Extracción de lunares, quistes y lipomas
-- Indicaciones claras de cuidado posterior
-- Retiro de puntos cuando corresponde
+- **Lunares y verrugas:** extirpación por rasurado o con incisión pequeña cuando molestan, sangran o cambiaron de forma o color
+- **Quistes sebáceos y epidérmicos:** extracción completa de la cápsula para que no vuelvan a salir, muy comunes en espalda, cuello y cuero cabelludo
+- **Lipomas:** retiro de las bolitas de grasa bajo la piel, cuando duelen, crecen o molestan estéticamente
+- **Fibromas blandos (acrocordones):** los colgajitos de piel del cuello, axilas e ingles, que se retiran en minutos
+- **Cuerpos extraños:** astillas, vidrios, espinas o anzuelos incrustados en la piel
+- **Biopsias de piel:** toma de una muestra pequeña para analizar una lesión sospechosa
+- Retiro de [uñas encarnadas](/services/unas-encarnadas) y [drenaje de abscesos](/services/drenaje-abscesos), que tienen su propia página
 
-## Rápido y seguro
+## Cómo es la visita
 
-La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+Primero el médico revisa la lesión y te dice si se puede tratar en la clínica o si conviene un especialista, por ejemplo cuando un lunar tiene características que requieren estudio dermatológico. Si procede, hacemos el procedimiento en ese momento o te damos fecha si necesitas prepararte. Se limpia la zona, se aplica anestesia local, se retira la lesión y se cierra con puntos o cintas adhesivas. La mayoría toma entre 15 y 45 minutos. Cuando la lesión lo amerita, enviamos el tejido a patología y te avisamos el resultado.
 
-${WHY_ES}
+## Antes del procedimiento
 
-${PAYMENT_ES}
+Come con normalidad, no hace falta ayuno. Avísanos si tomas anticoagulantes o aspirina, si eres alérgico a la anestesia o al látex, si tienes diabetes o si tienes marcapasos. Ven con ropa cómoda que deje accesible la zona y, si es posible, acompañado si el procedimiento es en una zona que dificulte manejar.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Nueva Salud La Porte we perform minor outpatient surgery with local anesthesia, in a single day.
+## Después
 
-## What's included?
+Puedes volver a casa de inmediato y a la mayoría de los trabajos al día siguiente; evita esfuerzos con la zona operada durante una semana si hubo puntos. Mantén el vendaje seco 24 horas y luego dúchate sin remojar la herida. El [retiro de puntos](/services/suturas-heridas) se hace entre 7 y 14 días después y está incluido. Queda una cicatriz pequeña que se aclara con los meses; usa protector solar para que sea menos visible.
 
-- Evaluation of the mole, cyst or lesion
-- Outpatient procedure with local anesthesia
-- Removal of moles, cysts and lipomas
-- Clear after-care instructions
-- Suture removal when appropriate
+## Lo que no hacemos aquí
 
-## Fast and safe
+Lesiones grandes o profundas, tumores que requieran estudio de imagen previo, procedimientos que necesiten anestesia general o cirugía estética. En esos casos te orientamos y te referimos con el especialista adecuado.
 
-Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+## Cirugía menor en La Porte, sin seguro
 
-${WHY_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio depende del procedimiento y te lo confirmamos en la evaluación, antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `That mole that rubs on your belt, the cyst on your back that flares up every so often, or the soft lump on your arm that has been growing for years can be removed in a single visit, under local anesthesia and without a hospital. At Clínica Hispana Nueva Salud La Porte we perform outpatient minor surgery with no appointment, in Spanish or English and at a flat self-pay price.
 
-${PAYMENT_EN}
+## Procedures we perform
 
-${AREAS_EN}`,
+- **Moles and warts:** removal by shaving or with a small incision when they bother you, bleed or have changed shape or color
+- **Sebaceous and epidermal cysts:** complete removal of the capsule so they do not come back, very common on the back, neck and scalp
+- **Lipomas:** removal of fatty lumps under the skin when they hurt, grow or are cosmetically bothersome
+- **Skin tags:** the small flaps of skin on the neck, armpits and groin, removed in minutes
+- **Foreign bodies:** splinters, glass, thorns or fishhooks embedded in the skin
+- **Skin biopsies:** taking a small sample to analyze a suspicious lesion
+- [Ingrown toenail](/en/services/unas-encarnadas) removal and [abscess drainage](/en/services/drenaje-abscesos), which have their own pages
+
+## What the visit is like
+
+First the physician examines the lesion and tells you whether it can be treated at the clinic or whether a specialist is better, for example when a mole has features that require dermatological study. If appropriate, we do the procedure right then or give you a date if you need to prepare. The area is cleaned, local anesthesia is applied, the lesion is removed and closed with stitches or adhesive strips. Most take 15 to 45 minutes. When the lesion warrants it, we send the tissue to pathology and let you know the result.
+
+## Before the procedure
+
+Eat normally, no fasting needed. Tell us if you take blood thinners or aspirin, if you are allergic to anesthesia or latex, if you have diabetes or a pacemaker. Wear comfortable clothing that leaves the area accessible and, if possible, bring someone with you if the procedure is in an area that would make driving difficult.
+
+## Afterward
+
+You can go home right away and back to most jobs the next day; avoid straining the operated area for a week if there were stitches. Keep the dressing dry for 24 hours and then shower without soaking the wound. [Stitch removal](/en/services/suturas-heridas) happens 7 to 14 days later and is included. A small scar remains and fades over months; use sunscreen so it is less visible.
+
+## What we do not do here
+
+Large or deep lesions, tumors that require prior imaging, procedures that need general anesthesia, or cosmetic surgery. In those cases we guide you and refer you to the right specialist.
+
+## Minor surgery in La Porte, no insurance needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the price depends on the procedure and we confirm it during the evaluation, before starting. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "drenaje-abscesos",
@@ -2920,44 +3006,68 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Nueva Salud La Porte lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+    longDescription: `Un bulto rojo, caliente, duro y cada vez más doloroso, a veces con un punto blanco en el centro, es casi siempre un absceso: una bolsa de pus que el cuerpo no puede eliminar solo. Los antibióticos por sí solos no lo curan; hay que drenarlo. En Clínica Hispana Nueva Salud La Porte lo hacemos el mismo día que llegas, con anestesia local, sin cita y en español.
 
-## ¿Qué incluye?
+## Dónde aparecen y por qué
 
-- Evaluación del absceso o infección de piel
-- Drenaje con anestesia local
-- Limpieza y desinfección de la zona
-- Tratamiento de la infección cuando se requiere
-- Indicaciones de cuidado y seguimiento
+Los abscesos se forman cuando bacterias, casi siempre estafilococo, entran por un folículo, un raspón, una picadura o una zona de roce. Son frecuentes en axilas, ingles, glúteos, muslos, espalda, cuello y cara, y también en la zona del coxis (quiste pilonidal) o en la línea del bikini después de depilarse. El calor y la humedad de La Porte, el sudor bajo la ropa de trabajo y la diabetes aumentan el riesgo. Un forúnculo pequeño puede resolverse con compresas tibias, pero si crece más de 1 centímetro, duele mucho o lleva varios días sin abrir, necesita drenaje.
 
-## No lo dejes pasar
+## Cómo es el procedimiento
 
-Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+1. El médico revisa el absceso, su tamaño y si hay fiebre o signos de que la infección se extiende
+2. Se limpia la piel y se aplica anestesia local alrededor de la zona
+3. Se hace una pequeña incisión y se drena todo el pus; el alivio es inmediato porque baja la presión
+4. Se lava la cavidad y, si es grande, se deja una gasa o mecha para que siga drenando
+5. Se cubre con un vendaje y te explicamos los cuidados
 
-${WHY_ES}
+Todo toma entre 15 y 30 minutos. Si el pus se manda a cultivo, sabremos en unos días qué bacteria es y si necesita un antibiótico específico. Cuando hay celulitis alrededor, fiebre, diabetes o el absceso está en la cara, indicamos antibiótico, disponible en nuestra [farmacia](/services/farmacia).
 
-${PAYMENT_ES}
+## Después del drenaje
 
-${AREAS_ES}`,
-    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Nueva Salud La Porte we treat it safely to relieve the discomfort and prevent the infection from spreading.
+Regresas en 24 a 48 horas para retirar la mecha y revisar la cavidad; a veces hacen falta una o dos [curaciones](/services/curacion-heridas) más. En casa cambia el vendaje una vez al día, puedes ducharte después de 24 horas y toma analgésico si lo necesitas. La herida cierra sola desde adentro en 1 a 2 semanas; no se sutura, porque cerrarla atraparía la infección. Lava las manos antes y después de tocar la zona, no compartas toallas ni rasuradoras y lava la ropa que estuvo en contacto con agua caliente.
 
-## What's included?
+## Cuándo es urgente
 
-- Evaluation of the abscess or skin infection
-- Drainage with local anesthesia
-- Cleaning and disinfection of the area
-- Treatment of the infection when needed
-- Care and follow-up instructions
+Fiebre alta con escalofríos, líneas rojas que se extienden desde el bulto, absceso en la cara cerca de los ojos o la nariz, hinchazón que crece en horas, o si tienes diabetes descontrolada o defensas bajas. Si además te sientes muy mal o confundido, ve a urgencias o llama al 911.
 
-## Don't let it go
+## Si se repiten
 
-A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+Cuando los abscesos vuelven una y otra vez, revisamos tu [glucosa](/services/condiciones-cronicas), evaluamos si eres portador de estafilococo y te indicamos un plan de descolonización con jabones y ungüentos específicos, además de recomendaciones para la piel y la ropa de trabajo.
 
-${WHY_EN}
+## Drenaje de abscesos en La Porte, sin cita
 
-${PAYMENT_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el drenaje tiene precio fijo que te informamos antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `A red, hot, firm and increasingly painful lump, sometimes with a white spot in the center, is almost always an abscess: a pocket of pus the body cannot clear on its own. Antibiotics alone do not cure it; it has to be drained. At Clínica Hispana Nueva Salud La Porte we do it the same day you walk in, under local anesthesia, with no appointment and in Spanish or English.
 
-${AREAS_EN}`,
+## Where they appear and why
+
+Abscesses form when bacteria, almost always staph, enter through a hair follicle, a scrape, a bite or an area of friction. They are common in the armpits, groin, buttocks, thighs, back, neck and face, and also near the tailbone (pilonidal cyst) or along the bikini line after shaving. La Porte's heat and humidity, sweat under work clothes and diabetes all raise the risk. A small boil may resolve with warm compresses, but if it grows past half an inch, hurts a lot or has gone several days without opening, it needs drainage.
+
+## What the procedure is like
+
+1. The physician examines the abscess, its size and whether there is fever or signs that the infection is spreading
+2. The skin is cleaned and local anesthesia is applied around the area
+3. A small incision is made and all the pus is drained; relief is immediate because the pressure drops
+4. The cavity is rinsed and, if it is large, a gauze wick is left in so it keeps draining
+5. It is covered with a dressing and we explain the aftercare
+
+The whole thing takes 15 to 30 minutes. If the pus is sent for culture, in a few days we will know which bacterium it is and whether it needs a specific antibiotic. When there is surrounding cellulitis, fever, diabetes or the abscess is on the face, we prescribe an antibiotic, available at our [pharmacy](/en/services/farmacia).
+
+## After drainage
+
+You come back in 24 to 48 hours to remove the wick and check the cavity; sometimes one or two more [wound-care visits](/en/services/curacion-heridas) are needed. At home, change the dressing once a day, shower after 24 hours and take a pain reliever if needed. The wound closes on its own from the inside in 1 to 2 weeks; it is not stitched, because closing it would trap the infection. Wash your hands before and after touching the area, do not share towels or razors, and wash clothing that touched it in hot water.
+
+## When it is urgent
+
+High fever with chills, red streaks spreading from the lump, an abscess on the face near the eyes or nose, swelling that grows within hours, or if you have uncontrolled diabetes or a weakened immune system. If you also feel very ill or confused, go to the emergency room or call 911.
+
+## If they keep coming back
+
+When abscesses return again and again, we check your [blood sugar](/en/services/condiciones-cronicas), evaluate whether you carry staph and set up a decolonization plan with specific soaps and ointments, plus recommendations for your skin and work clothing.
+
+## Abscess drainage in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; drainage has a flat price we tell you before starting. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "unas-encarnadas",
@@ -2998,44 +3108,74 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Nueva Salud La Porte la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+    longDescription: `Cuando el borde de la uña del dedo gordo se clava en la piel, cada paso duele, el zapato de seguridad se vuelve un castigo y el dedo se pone rojo, hinchado y a veces con pus. En Clínica Hispana Nueva Salud La Porte tratamos la uña encarnada con anestesia local en una sola visita, sin cita y en español, para que salgas caminando con alivio.
 
-## ¿Qué incluye?
+## Por qué se encarna la uña
 
-- Evaluación de la uña y el dedo
-- Procedimiento con anestesia local
-- Extracción de la porción encarnada de la uña
-- Tratamiento de la infección si la hay
-- Indicaciones de cuidado para evitar que regrese
+- Cortar la uña demasiado corta o redondeando las esquinas
+- Zapatos estrechos o botas con puntera de acero que aprietan los dedos durante toda la jornada
+- Golpes repetidos, como en fútbol o al patear
+- Sudor y humedad constantes dentro del calzado
+- Uñas naturalmente curvas o gruesas, por herencia o por hongos
+- Diabetes o mala circulación, que además hacen que se infecte más rápido
 
-## Cuándo acudir
+## Qué hacemos según la etapa
 
-Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+**Inicio (dolor y enrojecimiento leve, sin pus):** levantamos el borde de la uña, colocamos un pequeño separador y te enseñamos baños tibios con sal y cómo cortar la uña. Muchas veces basta con esto.
 
-${WHY_ES}
+**Infección o dolor intenso:** hacemos una **matricectomía parcial**: con anestesia local en la base del dedo, retiramos solo la franja lateral de la uña que se está clavando (2 a 3 milímetros), no la uña completa. Si el problema se ha repetido, aplicamos un producto químico (fenol) sobre la raíz de esa franja para que no vuelva a crecer por ese lado. El procedimiento dura entre 15 y 20 minutos, y la uña conserva un aspecto casi normal.
 
-${PAYMENT_ES}
+**Absceso o pus abundante:** drenamos la infección, retiramos la porción de uña y, si hay celulitis alrededor o tienes diabetes, indicamos antibiótico de nuestra [farmacia](/services/farmacia).
 
-${AREAS_ES}`,
-    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Nueva Salud La Porte we treat it with a simple procedure and local anesthesia to relieve you the same day.
+## Después del procedimiento
 
-## What's included?
+Puedes irte caminando de la clínica; conviene traer una sandalia o un zapato abierto porque el dedo va vendado. La anestesia dura unas 2 horas y después el dolor se controla con paracetamol o ibuprofeno. Al día siguiente empieza con baños de agua tibia y sal durante 10 minutos, dos veces al día, y cambia el vendaje. Puedes volver a la mayoría de los trabajos en 1 o 2 días; si usas bota de seguridad, es mejor esperar 3 a 5 días o usar una protección. La zona cicatriza en 2 a 3 semanas. Te revisamos en una semana para confirmar que todo va bien.
 
-- Evaluation of the nail and toe
-- Procedure with local anesthesia
-- Removal of the ingrown portion of the nail
-- Treatment of the infection if present
-- Care instructions to prevent recurrence
+## Para que no regrese
 
-## When to come in
+Corta la uña recta, sin redondear las esquinas, y no demasiado corta. Usa calzado con espacio para los dedos y calcetines que absorban el sudor; cámbialos si se mojan. Si eres diabético, revisa tus pies todos los días y ven ante el primer signo de enrojecimiento. Si las uñas son gruesas o amarillas por hongos, trata el hongo, porque deforma la uña y favorece que se encarne.
 
-Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
+## Cuándo no esperar
 
-${WHY_EN}
+Si tienes diabetes, mala circulación o el dedo está muy hinchado, con pus o líneas rojas que suben por el pie, ven el mismo día. En estos casos una uña encarnada puede convertirse en una infección seria.
 
-${PAYMENT_EN}
+## Tratamiento de uñas encarnadas en La Porte, sin cita
 
-${AREAS_EN}`,
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir al salir del turno. No necesitas seguro médico; el procedimiento tiene precio fijo que te informamos antes. Atendemos a trabajadores y familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `When the edge of your big toenail digs into the skin, every step hurts, your safety boot becomes a punishment and the toe turns red, swollen and sometimes full of pus. At Clínica Hispana Nueva Salud La Porte we treat ingrown toenails under local anesthesia in a single visit, with no appointment and in Spanish or English, so you walk out with relief.
+
+## Why toenails become ingrown
+
+- Cutting the nail too short or rounding the corners
+- Narrow shoes or steel-toe boots that squeeze the toes all shift long
+- Repeated impact, such as in soccer or from kicking
+- Constant sweat and moisture inside footwear
+- Naturally curved or thick nails, from heredity or fungus
+- Diabetes or poor circulation, which also make infection set in faster
+
+## What we do depending on the stage
+
+**Early (pain and mild redness, no pus):** we lift the nail edge, place a small spacer and teach you warm salt soaks and how to trim the nail. Often that is enough.
+
+**Infection or severe pain:** we perform a **partial matricectomy**: with local anesthesia at the base of the toe, we remove only the side strip of nail that is digging in (2 to 3 millimeters), not the whole nail. If the problem has recurred, we apply a chemical (phenol) to the root of that strip so it does not grow back on that side. The procedure takes 15 to 20 minutes, and the nail keeps an almost normal appearance.
+
+**Abscess or heavy pus:** we drain the infection, remove the nail portion and, if there is surrounding cellulitis or you have diabetes, prescribe an antibiotic from our [pharmacy](/en/services/farmacia).
+
+## After the procedure
+
+You can walk out of the clinic; bring a sandal or open shoe because the toe will be bandaged. The anesthesia lasts about 2 hours and afterward the pain is controlled with acetaminophen or ibuprofen. The next day, start warm salt-water soaks for 10 minutes twice a day and change the dressing. You can return to most jobs in 1 or 2 days; if you wear safety boots, it is better to wait 3 to 5 days or use a protector. The area heals in 2 to 3 weeks. We check you in a week to confirm everything is going well.
+
+## Keeping it from coming back
+
+Cut the nail straight across, without rounding the corners, and not too short. Wear footwear with room for your toes and socks that absorb sweat; change them if they get wet. If you are diabetic, check your feet every day and come at the first sign of redness. If your nails are thick or yellow from fungus, treat the fungus, because it deforms the nail and encourages ingrowth.
+
+## When not to wait
+
+If you have diabetes, poor circulation, or the toe is very swollen, with pus or red streaks running up the foot, come the same day. In these cases an ingrown toenail can turn into a serious infection.
+
+## Ingrown toenail treatment in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after your shift. No health insurance needed; the procedure has a flat price we tell you beforehand. We serve workers and families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "farmacia",
@@ -3076,44 +3216,70 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud La Porte puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Cuando terminas la consulta ya te sientes mal, es tarde o vienes con niños; lo último que quieres es manejar a otra farmacia, hacer fila y descubrir que no tienen tu medicamento. En Clínica Hispana Nueva Salud La Porte surtimos tu receta en la misma clínica, en minutos, con explicación en español de cómo tomarla y a precios accesibles sin seguro.
 
-## ¿Qué incluye?
+## Qué encuentras en nuestra farmacia
 
-- Surtido de tu receta justo al terminar la consulta
-- Medicamentos de marca y genéricos
-- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
-- Asesoría del personal sobre cómo tomar tus medicamentos
-- Resurtido de recetas
+- **Antibióticos** para infecciones de garganta, oído, [orina](/services/infecciones-urinarias), piel y [transmisión sexual](/services/enfermedades-transmision-sexual)
+- **Medicamentos para condiciones crónicas:** metformina, medicamentos para la presión y el colesterol, [levotiroxina](/services/tiroides), con opciones genéricas económicas para tu [control mensual](/services/condiciones-cronicas)
+- **Alivio de síntomas:** antigripales, jarabes para la tos, antihistamínicos para [alergias](/services/alergias), analgésicos y antiinflamatorios
+- **Salud de la mujer:** [pastillas anticonceptivas](/services/anticonceptivos), tratamientos para infecciones vaginales, vitaminas prenatales y ácido fólico
+- **Inyectables y vitaminas:** vitamina B12, complejo B, antiinflamatorios inyectables aplicados en la clínica
+- **Productos de venta libre:** termómetros, sueros orales para deshidratación, material de curación, glucómetros y tiras reactivas
 
-## ¿Por qué usar nuestra farmacia?
+Si algo no está en existencia, te lo conseguimos o te damos la receta impresa para surtirla donde prefieras; nunca te vas sin opciones.
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+## Cómo funciona
 
-${WHY_ES}
+El médico envía la receta directamente a la farmacia mientras terminas la consulta. Cuando pasas a recoger, el personal revisa contigo cada medicamento: para qué es, cuántas veces al día, con o sin comida, cuántos días y qué efectos puedes notar. Todo en español, y por escrito en la etiqueta para que no se te olvide en casa. Si tomas otros medicamentos, revisamos que no haya interacciones.
 
-${PAYMENT_ES}
+## Resurtidos
 
-${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud La Porte you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+Para tratamientos continuos, como diabetes, presión o tiroides, puedes pasar a resurtir tu receta sin volver a pagar consulta mientras esté vigente. Cuando la receta esté por vencer, te avisamos para programar el control con el médico y ajustar la dosis si hace falta.
 
-## What's included?
+## Precios sin seguro
 
-- Your prescription filled right after your visit
-- Brand-name and generic medications
-- Over-the-counter (OTC) medications for colds, pain, allergies and more
-- Staff guidance on how to take your medications
-- Prescription refills
+Trabajamos sobre todo con genéricos, que tienen el mismo principio activo que la marca a una fracción del precio. Te decimos el costo antes de despachar y, si hay una alternativa más económica igual de efectiva, el médico la considera. No necesitas seguro médico; aceptamos efectivo y tarjetas.
 
-## Why use our pharmacy?
+## Lo que la farmacia no puede hacer
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
+No surtimos sustancias controladas ni recetas de médicos externos que no podamos verificar. Si necesitas un medicamento que no manejamos, te orientamos sobre dónde conseguirlo.
 
-${WHY_EN}
+## Farmacia en La Porte, dentro de la clínica
 
-${PAYMENT_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Es una de las pocas farmacias abiertas hasta las 9 de la noche en La Porte y con atención en español. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive to another pharmacy, wait in line and find out they do not have your medication. At Clínica Hispana Nueva Salud La Porte we fill your prescription right in the clinic, in minutes, with an explanation in Spanish or English of how to take it and at affordable self-pay prices.
 
-${AREAS_EN}`,
+## What you will find at our pharmacy
+
+- **Antibiotics** for throat, ear, [urinary](/en/services/infecciones-urinarias), skin and [sexually transmitted](/en/services/enfermedades-transmision-sexual) infections
+- **Medications for chronic conditions:** metformin, blood pressure and cholesterol medications, [levothyroxine](/en/services/tiroides), with low-cost generic options for your [monthly follow-up](/en/services/condiciones-cronicas)
+- **Symptom relief:** cold remedies, cough syrups, antihistamines for [allergies](/en/services/alergias), pain relievers and anti-inflammatories
+- **Women's health:** [birth control pills](/en/services/anticonceptivos), treatments for vaginal infections, prenatal vitamins and folic acid
+- **Injectables and vitamins:** vitamin B12, B-complex, injectable anti-inflammatories administered at the clinic
+- **Over-the-counter products:** thermometers, oral rehydration solutions, wound-care supplies, glucose meters and test strips
+
+If something is out of stock, we get it for you or give you the printed prescription to fill wherever you prefer; you never leave without options.
+
+## How it works
+
+The physician sends the prescription directly to the pharmacy while you finish your visit. When you come to pick it up, the staff goes over each medication with you: what it is for, how many times a day, with or without food, for how many days and what effects you may notice. All in your language, and in writing on the label so you do not forget at home. If you take other medications, we check for interactions.
+
+## Refills
+
+For ongoing treatments, such as diabetes, blood pressure or thyroid, you can come in to refill your prescription without paying for another visit while it is valid. When the prescription is about to expire, we let you know so you can schedule a follow-up with the physician and adjust the dose if needed.
+
+## Self-pay prices
+
+We work mostly with generics, which have the same active ingredient as the brand at a fraction of the price. We tell you the cost before dispensing and, if there is a cheaper alternative that is just as effective, the physician considers it. No health insurance needed; we accept cash and cards.
+
+## What the pharmacy cannot do
+
+We do not dispense controlled substances or prescriptions from outside doctors that we cannot verify. If you need a medication we do not carry, we guide you on where to get it.
+
+## Pharmacy in La Porte, inside the clinic
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, with the same hours as the clinic: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. It is one of the few pharmacies open until 9 at night in La Porte with service in Spanish. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
 ];
 

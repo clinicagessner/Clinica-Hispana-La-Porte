@@ -45,6 +45,13 @@ const SERVICE_LASTMOD: Record<string, string> = {
   "prueba-strep": "2026-09-07",
   "electrocardiograma": "2026-09-07",
   "extraccion-implantes": "2026-09-07",
+  // Tanda 3 de contenido propio (2026-09-07).
+  "suturas-heridas": "2026-09-07",
+  "curacion-heridas": "2026-09-07",
+  "cirugias-menores": "2026-09-07",
+  "drenaje-abscesos": "2026-09-07",
+  "unas-encarnadas": "2026-09-07",
+  "farmacia": "2026-09-07",
 };
 
 function entry(
