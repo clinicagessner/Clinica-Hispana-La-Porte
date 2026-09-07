@@ -291,32 +291,6 @@ export const SERVICE_CATEGORIES: {
   { value: "tratamientos", label: "Tratamientos", labelEn: "Treatments" },
 ];
 
-// Bloques de copy reutilizados (marca Nueva Salud + La Porte).
-const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud La Porte?
-
-En Clínica Hispana Nueva Salud La Porte somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
-
-const WHY_EN = `## Why choose Clínica Hispana Nueva Salud La Porte?
-
-At Clínica Hispana Nueva Salud La Porte we are a Hispanic and Latino clinic caring for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Our team treats every patient with respect, time and clear explanations.`;
-
-const PAYMENT_ES = `## Formas de pago
-
-No es necesario tener seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
-
-const PAYMENT_EN = `## Payment
-
-You don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
-
-const AREAS_ES = `## Áreas que servimos
-
-Somos un centro médico cerca de ti en La Porte, TX, y atendemos a pacientes de toda el área de Houston: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore y comunidades cercanas.`;
-
-const AREAS_EN = `## Areas we serve
-
-We are a medical center near you in La Porte, TX, serving patients across the greater Houston area: Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore and surrounding communities.`;
-
-
 export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",
@@ -456,44 +430,62 @@ Many of our patients lost their follow-up when they changed jobs or insurance. H
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Nueva Salud La Porte evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
+    longDescription: `Cansancio que no se quita con dormir, kilos que suben o bajan sin explicación, caída de cabello, frío cuando los demás tienen calor, palpitaciones o nerviosismo: muchas veces la respuesta está en la tiroides. En Clínica Hispana Nueva Salud La Porte hacemos el perfil tiroideo en nuestro laboratorio, sin cita ni orden médica, y el médico inicia o ajusta tu tratamiento en la misma clínica, en español.
 
-## ¿Qué incluye?
+## Las pruebas: TSH, T3 y T4
 
-- Evaluación de síntomas
-- Pruebas de función tiroidea (TSH, T3, T4)
-- Diagnóstico de hipotiroidismo o hipertiroidismo
-- Inicio y ajuste del tratamiento
-- Seguimiento periódico
+La **TSH** es la hormona que la hipófisis manda para ordenar a la tiroides que trabaje; es la prueba más sensible y con la que empezamos. Si sale alterada, medimos la **T4 libre** y la **T3** para confirmar el diagnóstico y ver la gravedad. Cuando sospechamos una causa autoinmune, agregamos anticuerpos (anti-TPO). No necesitas ayuno para estas pruebas. Si ya tomas levotiroxina, hazte la extracción antes de la dosis de ese día. Resultados en 24 a 48 horas.
 
-## Síntomas frecuentes
+## Hipotiroidismo: tiroides lenta
 
-Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+Es el problema más común, sobre todo en mujeres a partir de los 30 y después de un embarazo. TSH alta con T4 baja. Síntomas: cansancio, aumento de peso, estreñimiento, piel seca, caída de cabello, intolerancia al frío, reglas abundantes, ánimo bajo y dificultad para concentrarse. El tratamiento es levotiroxina una vez al día, en ayunas, 30 a 60 minutos antes del desayuno y separada del calcio, el hierro y los antiácidos. Repetimos la TSH a las 6 u 8 semanas de cada ajuste hasta llegar a la dosis correcta, y después una o dos veces al año. La levotiroxina está disponible en nuestra [farmacia](/services/farmacia) a precio genérico.
 
-${WHY_ES}
+## Hipertiroidismo: tiroides acelerada
 
-${PAYMENT_ES}
+TSH baja con T4 alta. Síntomas: pérdida de peso comiendo igual o más, palpitaciones, temblor de manos, sudoración, calor, ansiedad, insomnio, diarrea y a veces ojos saltones. Iniciamos medicamento antitiroideo y, si hay palpitaciones, un betabloqueador para controlarlas mientras hace efecto, y coordinamos con endocrinología para definir el tratamiento definitivo. Un [electrocardiograma](/services/electrocardiograma) ayuda a valorar el ritmo cardiaco cuando hay taquicardia.
 
-${AREAS_ES}`,
-    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Nueva Salud La Porte we evaluate your thyroid with lab work and provide the right treatment.
+## Nódulos y bocio
 
-## What's included?
+Si notas un bulto en el cuello, dificultad para tragar o el cuello más ancho, además del laboratorio hacemos un [ultrasonido de tiroides](/services/ultrasonido) para medir la glándula y describir los nódulos. La gran mayoría son benignos; según sus características te decimos si solo necesita vigilancia o una biopsia con el especialista.
 
-- Symptom evaluation
-- Thyroid function tests (TSH, T3, T4)
-- Diagnosis of hypothyroidism or hyperthyroidism
-- Treatment start and adjustment
-- Periodic follow-up
+## Tiroides y otras situaciones
 
-## Common symptoms
+- **Embarazo o buscándolo:** la tiroides mal controlada afecta la fertilidad y el desarrollo del bebé; la revisamos como parte del [estudio de embarazo](/services/prueba-embarazo) cuando hay antecedentes
+- **Colesterol alto que no baja:** el hipotiroidismo sube el colesterol; lo revisamos junto con tu [perfil de lípidos](/services/condiciones-cronicas)
+- **Depresión o ansiedad:** antes de atribuir todo al ánimo, conviene descartar la tiroides
+- **Antecedentes familiares:** si tu madre o hermanas tienen problemas de tiroides, un chequeo cada 1 o 2 años tiene sentido
 
-Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+## Examen de tiroides en La Porte, sin cita
 
-${WHY_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el perfil tiroideo y la consulta tienen precio fijo que te decimos antes. La [promoción de chequeo completo de la mujer por $179](/promociones) incluye la tiroides. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Tiredness that sleep does not fix, pounds going up or down for no reason, hair loss, feeling cold when everyone else is warm, palpitations or nervousness: very often the answer is in the thyroid. At Clínica Hispana Nueva Salud La Porte we run the thyroid panel in our own lab, with no appointment or doctor's order, and the physician starts or adjusts your treatment in the same clinic, in Spanish or English.
 
-${PAYMENT_EN}
+## The tests: TSH, T3 and T4
 
-${AREAS_EN}`,
+**TSH** is the hormone the pituitary sends to tell the thyroid to work; it is the most sensitive test and the one we start with. If it is abnormal, we measure **free T4** and **T3** to confirm the diagnosis and gauge severity. When we suspect an autoimmune cause, we add antibodies (anti-TPO). No fasting is needed for these tests. If you already take levothyroxine, have your blood drawn before that day's dose. Results in 24 to 48 hours.
+
+## Hypothyroidism: a slow thyroid
+
+It is the most common problem, especially in women from age 30 on and after pregnancy. High TSH with low T4. Symptoms: fatigue, weight gain, constipation, dry skin, hair loss, cold intolerance, heavy periods, low mood and trouble concentrating. Treatment is levothyroxine once a day, on an empty stomach, 30 to 60 minutes before breakfast and apart from calcium, iron and antacids. We repeat TSH 6 to 8 weeks after each adjustment until we reach the right dose, and then once or twice a year. Levothyroxine is available at our [pharmacy](/en/services/farmacia) at a generic price.
+
+## Hyperthyroidism: an overactive thyroid
+
+Low TSH with high T4. Symptoms: weight loss while eating the same or more, palpitations, hand tremor, sweating, feeling hot, anxiety, insomnia, diarrhea and sometimes bulging eyes. We start antithyroid medication and, if there are palpitations, a beta-blocker to control them while it takes effect, and coordinate with endocrinology to define the definitive treatment. An [electrocardiogram](/en/services/electrocardiograma) helps assess heart rhythm when there is tachycardia.
+
+## Nodules and goiter
+
+If you notice a lump in your neck, trouble swallowing or a wider neck, in addition to lab work we do a [thyroid ultrasound](/en/services/ultrasonido) to measure the gland and describe the nodules. The vast majority are benign; based on their features we tell you whether they only need monitoring or a biopsy with the specialist.
+
+## Thyroid and other situations
+
+- **Pregnant or trying:** a poorly controlled thyroid affects fertility and the baby's development; we check it as part of the [pregnancy workup](/en/services/prueba-embarazo) when there is a history
+- **High cholesterol that will not come down:** hypothyroidism raises cholesterol; we check it together with your [lipid panel](/en/services/condiciones-cronicas)
+- **Depression or anxiety:** before attributing everything to mood, it is worth ruling out the thyroid
+- **Family history:** if your mother or sisters have thyroid problems, a check every 1 or 2 years makes sense
+
+## Thyroid testing in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the thyroid panel and visit have a flat price we tell you beforehand. The [complete women's checkup promotion for $179](/en/promociones) includes the thyroid. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "alergias",
@@ -780,11 +772,9 @@ Si tu empleador te pide un chequeo médico o un formulario de aptitud, lo comple
 
 Un físico anual es la forma más sencilla de detectar a tiempo presión alta, diabetes, colesterol o problemas de tiroides. Podemos completarlo con [análisis de sangre](/services/examenes-sangre) y orina en nuestro propio laboratorio, con resultados rápidos. Pregunta por nuestro [chequeo general completo por $99](/promociones).
 
-${WHY_ES}
+## Exámenes físicos en La Porte, sin cita y sin seguro
 
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes traer a tus hijos después de la escuela o venir tú al salir del trabajo. No necesitas seguro médico; el examen tiene precio fijo que te decimos por teléfono. Atendemos a familias de La Porte ISD, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
     longDescriptionEn: `Looking for a walk-in physical exam near you? At Clínica Hispana Nueva Salud La Porte we do physical exams for kids, teens and adults: for school, for sports, for work or simply as an annual checkup. Fast, in Spanish, with all the forms ready.
 
 ## What's included?
@@ -807,11 +797,9 @@ If your employer requires a medical checkup or a fitness form, we complete it th
 
 An annual physical is the simplest way to catch high blood pressure, diabetes, cholesterol or thyroid problems early. We can complete it with [blood work](/en/services/examenes-sangre) and urine tests in our own lab, with fast results. Ask about our [$99 complete general checkup](/en/promociones).
 
-${WHY_EN}
+## Physical exams in La Porte, no appointment and no insurance
 
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can bring your kids after school or come yourself after work. No health insurance needed; the exam has a flat price we can tell you by phone. We serve families from La Porte ISD, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "ginecologia",
@@ -1258,52 +1246,56 @@ We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} $
       "General men's checkup",
       "Results explained in Spanish",
     ],
-    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Nueva Salud La Porte facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+    longDescription: `La mayoría de los hombres que atendemos en La Porte llevan años sin hacerse un chequeo: trabajan turnos largos en las plantas, el puerto o la construcción, y solo van al médico cuando algo duele. En Clínica Hispana Nueva Salud La Porte hacemos los exámenes del hombre en una sola visita, sin cita, con resultados explicados en español y sin seguro.
 
-## ¿Qué incluye?
+## Testosterona
 
-- Examen de antígeno prostático (PSA)
-- Medición del nivel de testosterona
-- Chequeo general y de signos vitales
-- Evaluación de síntomas urinarios o de energía
-- Referencia a especialista si se requiere
+La testosterona baja gradualmente después de los 30, pero cuando cae por debajo de lo normal aparecen cansancio constante, menos deseo sexual, dificultad para la erección, pérdida de masa muscular, aumento de grasa abdominal, irritabilidad o ánimo bajo. La prueba es un análisis de sangre que conviene hacer entre 8 y 10 de la mañana, cuando el nivel es más alto; si sale bajo, se repite otro día para confirmar antes de hablar de tratamiento. Nuestra promoción [Revisa tu testosterona por $79](/promociones) incluye la prueba, y el [perfil hormonal para hombres por $200](/promociones) agrega las hormonas relacionadas para un cuadro completo. La obesidad, la diabetes, la apnea del sueño y el alcohol bajan la testosterona, así que siempre revisamos esas causas primero.
 
-## Por qué es importante
+## Antígeno prostático (PSA)
 
-El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+El PSA es una proteína de la próstata que sube con la edad, con la inflamación, con el crecimiento benigno y, en algunos casos, con el cáncer. Se recomienda hablar de la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Evita eyacular, andar en bicicleta y hacer ejercicio intenso 48 horas antes, porque elevan el resultado. Un PSA alto no significa cáncer: el médico lo interpreta según tu edad, el tamaño de la próstata y los valores anteriores, y si hace falta te refiere al urólogo con todo documentado.
 
-## Combínalo con tu chequeo anual
+## Síntomas urinarios
 
-Aprovecha la visita para hacerte el [examen físico general](/services/examen-fisico-escolar) y los [análisis de sangre](/services/examenes-sangre) de rutina: presión, glucosa, colesterol y tiroides. Todo sin cita y en una sola visita.
+Levantarse varias veces en la noche a orinar, chorro débil, goteo al terminar o sensación de no vaciar la vejiga son típicos del crecimiento benigno de la próstata a partir de los 50. Con un [examen de orina](/services/infecciones-urinarias) descartamos infección, con el PSA y la exploración valoramos la próstata y, si procede, iniciamos tratamiento que mejora el chorro en pocas semanas. Ardor o secreción por la uretra requieren [pruebas de ETS](/services/enfermedades-transmision-sexual).
 
-${WHY_ES}
+## Chequeo general del hombre
 
-${PAYMENT_ES}
+Aprovechamos la visita para lo que más mata a los hombres hispanos y que casi nunca da síntomas: presión arterial, [glucosa y A1C, colesterol y triglicéridos](/services/condiciones-cronicas), función renal y hepática, y peso y circunferencia abdominal. Si hay presión alta, palpitaciones o antecedentes de infarto en la familia, agregamos un [electrocardiograma](/services/electrocardiograma). El [chequeo general completo por $99](/promociones) incluye sangre, A1C, orina y consulta.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Nueva Salud La Porte we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+## Cómo prepararte
 
-## What's included?
+Ven entre 9 y 10 de la mañana con 8 horas de ayuno si quieres hacer todo en una sola extracción: testosterona, PSA, glucosa y lípidos. Puedes tomar agua. Trae tu lista de medicamentos y resultados anteriores si los tienes. La consulta es privada y puedes hablar con el médico de disfunción eréctil, eyaculación precoz o cualquier tema sin que nadie más se entere.
 
-- Prostate antigen (PSA) test
-- Testosterone level measurement
-- General checkup and vital signs
-- Evaluation of urinary or energy symptoms
-- Referral to a specialist if needed
+## Exámenes del hombre en La Porte, sin cita
 
-## Why it matters
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir antes o después del turno. No necesitas seguro médico; cada prueba y paquete tiene precio fijo que te decimos antes. Atendemos a hombres de La Porte, Deer Park, Pasadena, Baytown, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Most of the men we see in La Porte have gone years without a checkup: they work long shifts at the plants, the port or in construction, and only see a doctor when something hurts. At Clínica Hispana Nueva Salud La Porte we do men's health exams in a single visit, with no appointment, results explained in Spanish or English, and no insurance needed.
 
-PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+## Testosterone
 
-## Combine it with your annual checkup
+Testosterone declines gradually after 30, but when it drops below normal you get constant fatigue, less sex drive, trouble with erections, loss of muscle mass, more belly fat, irritability or low mood. The test is a blood draw best done between 8 and 10 in the morning, when the level is highest; if it is low, it is repeated on another day to confirm before discussing treatment. Our [Check your testosterone for $79](/en/promociones) promotion includes the test, and the [hormone panel for men for $200](/en/promociones) adds the related hormones for a complete picture. Obesity, diabetes, sleep apnea and alcohol lower testosterone, so we always check those causes first.
 
-Make the most of your visit with a [general physical exam](/en/services/examen-fisico-escolar) and routine [blood work](/en/services/examenes-sangre): blood pressure, glucose, cholesterol and thyroid. All walk-in, in a single visit.
+## Prostate-specific antigen (PSA)
 
-${WHY_EN}
+PSA is a prostate protein that rises with age, with inflammation, with benign enlargement and, in some cases, with cancer. It is recommended to discuss the test from age 50, or from 45 if your father or brother had prostate cancer. Avoid ejaculation, cycling and intense exercise for 48 hours before, because they raise the result. A high PSA does not mean cancer: the physician interprets it based on your age, prostate size and previous values, and if needed refers you to a urologist with everything documented.
 
-${PAYMENT_EN}
+## Urinary symptoms
 
-${AREAS_EN}`,
+Getting up several times a night to urinate, a weak stream, dribbling at the end or feeling that the bladder does not empty are typical of benign prostate enlargement after 50. With a [urine test](/en/services/infecciones-urinarias) we rule out infection, with PSA and an exam we assess the prostate and, if appropriate, start treatment that improves the stream within a few weeks. Burning or discharge from the urethra calls for [STD testing](/en/services/enfermedades-transmision-sexual).
+
+## General men's checkup
+
+We use the visit to cover what kills Hispanic men most and almost never causes symptoms: blood pressure, [glucose and A1C, cholesterol and triglycerides](/en/services/condiciones-cronicas), kidney and liver function, and weight and waist circumference. If there is high blood pressure, palpitations or a family history of heart attack, we add an [electrocardiogram](/en/services/electrocardiograma). The [complete general checkup for $99](/en/promociones) includes blood work, A1C, urine test and consultation.
+
+## How to prepare
+
+Come between 9 and 10 in the morning after 8 hours of fasting if you want everything in a single draw: testosterone, PSA, glucose and lipids. Water is fine. Bring your medication list and previous results if you have them. The visit is private and you can talk to the physician about erectile dysfunction, premature ejaculation or anything else without anyone else knowing.
+
+## Men's health exams in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come before or after your shift. No health insurance needed; each test and package has a flat price we tell you beforehand. We serve men from La Porte, Deer Park, Pasadena, Baytown, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "examenes-sangre",
@@ -1479,50 +1471,64 @@ We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} $
     ],
     longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud La Porte te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
 
-## ¿Qué incluye?
+## Cómo saber si es infección urinaria
 
-- Examen general de orina (urianálisis)
-- Evaluación de síntomas
-- Diagnóstico de infección urinaria
-- Tratamiento adecuado el mismo día
-- Indicaciones para evitar que regrese
+Ardor o dolor al orinar, ganas de ir al baño cada rato aunque salga poco, urgencia que no da tiempo de llegar, orina turbia, con mal olor o con sangre, y presión o dolor en la parte baja del vientre. En las mujeres es muy frecuente después de las relaciones sexuales, en el embarazo y en la menopausia; en los hombres es menos común y suele estar relacionada con la próstata. Si además tienes fiebre, escalofríos, náusea o dolor en la espalda a la altura de la cintura, la infección puede haber subido a los riñones y necesitas atención ese mismo día.
 
-## Síntomas frecuentes
+## Qué hacemos en la visita
 
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+1. Recoges una muestra de orina en la clínica; te explicamos cómo tomarla del chorro medio para que no se contamine
+2. Hacemos el **examen general de orina** con tira reactiva y microscopio, con resultado en 15 minutos: leucocitos, nitritos, sangre, proteínas y glucosa
+3. Si la infección se repite, no mejora con antibiótico o eres hombre, enviamos un **urocultivo** que identifica la bacteria y el antibiótico exacto al que responde, en 2 a 3 días
+4. El médico revisa tus síntomas y tu historial, y si hay infección inicias el antibiótico en esa misma visita, disponible en nuestra [farmacia](/services/farmacia)
+
+El examen de orina también detecta otras cosas: glucosa (que puede indicar diabetes), proteínas (riñón), sangre (piedras) o cetonas, y se usa para [chequeos generales](/services/examen-fisico-escolar) y para la [prueba de embarazo](/services/prueba-embarazo).
+
+## Tratamiento y alivio
+
+La mayoría de las cistitis en mujeres se resuelven con 3 a 5 días de antibiótico; los hombres y las infecciones más altas requieren tratamientos más largos. El ardor mejora en 24 a 48 horas; mientras tanto ayuda tomar agua abundante, evitar café y alcohol, y un analgésico si lo necesitas. Termina todo el tratamiento aunque ya te sientas bien. Si en 3 días no hay mejoría, regresa: puede que la bacteria sea resistente y el urocultivo nos diga qué cambiar.
+
+## Cuando no es infección
+
+Ardor con flujo o secreción, sobre todo con una pareja nueva, puede ser una [infección de transmisión sexual](/services/enfermedades-transmision-sexual); comezón y flujo espeso en mujeres apuntan a una [infección vaginal](/services/ginecologia). Por eso valoramos los síntomas completos y no solo la tira de orina.
+
+## Infecciones que se repiten
+
+Si tienes 3 o más infecciones al año, buscamos la causa: relaciones sexuales, poca ingesta de agua, aguantar la orina, diabetes no controlada, menopausia o piedras en el riñón. Según el caso indicamos medidas preventivas, un [ultrasonido renal](/services/ultrasonido) o una revisión de [glucosa](/services/condiciones-cronicas). En hombres con infecciones repetidas revisamos la próstata.
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y sales con tu tratamiento el mismo día.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y sales con tu tratamiento el mismo día. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
     longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the test and, if there's an infection, we start treatment the same day.
 
-## What's included?
+## How to tell if it is a urinary infection
 
-- General urinalysis
-- Symptom evaluation
-- Diagnosis of urinary infection
-- Appropriate same-day treatment
-- Tips to prevent it from coming back
+Burning or pain when urinating, needing to go all the time even if little comes out, urgency that does not give you time to get there, cloudy, foul-smelling or bloody urine, and pressure or pain in the lower belly. In women it is very common after sex, during pregnancy and in menopause; in men it is less common and usually related to the prostate. If you also have fever, chills, nausea or pain in your back at waist level, the infection may have reached the kidneys and you need care that same day.
 
-## Common symptoms
+## What we do during the visit
 
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+1. You provide a urine sample at the clinic; we explain how to collect it midstream so it is not contaminated
+2. We run the **urinalysis** with a test strip and microscope, with results in 15 minutes: white cells, nitrites, blood, protein and glucose
+3. If the infection is recurrent, does not improve with antibiotics or you are a man, we send a **urine culture** that identifies the bacterium and the exact antibiotic it responds to, in 2 to 3 days
+4. The physician reviews your symptoms and history, and if there is an infection you start the antibiotic during that same visit, available at our [pharmacy](/en/services/farmacia)
+
+The urine test also detects other things: glucose (which may indicate diabetes), protein (kidney), blood (stones) or ketones, and is used for [general checkups](/en/services/examen-fisico-escolar) and for [pregnancy testing](/en/services/prueba-embarazo).
+
+## Treatment and relief
+
+Most bladder infections in women clear with 3 to 5 days of antibiotics; men and upper infections need longer courses. Burning improves in 24 to 48 hours; in the meantime, drinking plenty of water, avoiding coffee and alcohol, and a pain reliever if needed all help. Finish the full course even if you already feel well. If there is no improvement in 3 days, come back: the bacterium may be resistant and the culture will tell us what to change.
+
+## When it is not an infection
+
+Burning with discharge, especially with a new partner, may be a [sexually transmitted infection](/en/services/enfermedades-transmision-sexual); itching and thick discharge in women point to a [vaginal infection](/en/services/ginecologia). That is why we assess the full picture and not just the urine strip.
+
+## Recurring infections
+
+If you have 3 or more infections a year, we look for the cause: sex, low water intake, holding urine, uncontrolled diabetes, menopause or kidney stones. Depending on the case we recommend preventive measures, a [kidney ultrasound](/en/services/ultrasonido) or a [glucose](/en/services/condiciones-cronicas) check. In men with recurring infections we examine the prostate.
 
 ## Urinary infection treatment at a Hispanic clinic near you
 
-If you have urinary infection symptoms in La Porte, TX, walk into our Hispanic clinic with no appointment: we'll run your urine test and you'll leave with treatment the same day.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and you leave with your treatment the same day. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "examen-heces",
@@ -2011,50 +2017,92 @@ We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} $
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud La Porte la realizamos de forma rápida y te entregamos la documentación que necesitas.
+    longDescription: `¿Tu nuevo empleo pide una prueba de drogas antes de empezar, o tu empresa hace pruebas aleatorias y te tocó hoy? En Clínica Hispana Nueva Salud La Porte hacemos pruebas de drogas en orina y de alcohol sin cita, con resultado rápido y documentación lista para tu empleador, en español y los 7 días de la semana.
 
-## ¿Qué incluye?
+## Tipos de prueba
 
-- Prueba de detección de drogas
-- Prueba de alcohol
-- Proceso ágil y discreto
-- Documentación del resultado para tu empleador o trámite
+- **Panel de 5 drogas:** marihuana (THC), cocaína, anfetaminas y metanfetaminas, opiáceos y PCP; es el panel básico que piden la mayoría de los empleadores
+- **Panel de 10 drogas:** agrega benzodiacepinas, barbitúricos, metadona, propoxifeno y otros opioides sintéticos; común en plantas, puerto, transporte y construcción
+- **Prueba de alcohol:** en aliento o en orina (etilglucurónido, que detecta consumo de hasta 3 días)
+- **Prueba rápida:** resultado preliminar en la clínica en 10 a 15 minutos
+- **Confirmación de laboratorio:** cuando la prueba rápida sale positiva o tu empleador exige confirmación certificada, la muestra se envía al laboratorio y el resultado tarda 2 a 4 días
 
-## Para trabajo y trámites
+Dinos qué panel pide tu empresa; si traes el formulario o la orden del empleador, seguimos exactamente lo que indica.
 
-Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
+## Cómo es el proceso
 
-## Examen pre-empleo completo
+1. Presentas una identificación con foto y el formulario de tu empleador, si lo hay
+2. Dejas tus pertenencias fuera del baño y te lavas las manos
+3. Recoges la muestra de orina en un baño preparado para la prueba; revisamos temperatura y aspecto para confirmar que es válida
+4. Sellamos el envase con tu firma y llenamos la cadena de custodia cuando aplica
+5. Te entregamos el resultado de la prueba rápida y la documentación, o te avisamos cuando llegue la confirmación
 
-Si tu nuevo trabajo pide prueba de drogas y chequeo médico, podemos hacer ambos en la misma visita: la prueba y el [examen físico para el trabajo](/services/examen-fisico-escolar). Los choferes comerciales pueden combinarla con el [examen físico DOT](/services/examen-dot).
+La visita completa dura entre 20 y 30 minutos. Ven bien hidratado, pero sin exagerar: una orina demasiado diluida puede invalidar la muestra y obligar a repetirla.
 
-${WHY_ES}
+## Para qué se usan
 
-${PAYMENT_ES}
+- Pre-empleo y pruebas aleatorias, periódicas o después de un accidente en el trabajo
+- Requisitos de agencias de empleo y contratistas de las plantas y refinerías del área
+- Choferes comerciales, junto con el [examen físico DOT](/services/examen-dot)
+- Trámites legales, de custodia o programas que requieren constancia
+- Padres que quieren una prueba confidencial para un hijo adolescente
 
-${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Nueva Salud La Porte we perform it quickly and give you the documentation you need.
+Si tu trabajo pide además chequeo médico, hacemos el [examen físico pre-empleo](/services/examen-fisico-escolar) en la misma visita para que entregues todo junto.
 
-## What's included?
+## Medicamentos y falsos positivos
 
-- Drug screening test
-- Alcohol test
-- Quick, discreet process
-- Result documentation for your employer or paperwork
+Algunos medicamentos con receta, como analgésicos opioides, ansiolíticos o ciertos descongestionantes, pueden dar positivo. Trae tus recetas o la lista de medicamentos: la documentación evita malentendidos con tu empleador. Las pruebas de confirmación en laboratorio distinguen entre el medicamento recetado y el consumo de drogas.
 
-## For work and paperwork
+## Confidencialidad
 
-We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+El resultado se entrega solo a ti o a quien tú autorices por escrito, como tu empleador. No lo compartimos con nadie más.
 
-## Complete pre-employment screening
+## Pruebas de drogas y alcohol en La Porte, sin cita
 
-If your new job requires a drug test and a medical checkup, we can do both in the same visit: the test plus the [work physical exam](/en/services/examen-fisico-escolar). Commercial drivers can combine it with the [DOT physical exam](/en/services/examen-dot).
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes cumplir con el plazo que te dio recursos humanos aunque sea fin de semana. No necesitas seguro; la prueba tiene precio fijo según el panel. Atendemos a trabajadores de La Porte, Deer Park, Pasadena, Baytown, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Does your new job require a drug test before you start, or does your company do random testing and today is your day? At Clínica Hispana Nueva Salud La Porte we perform urine drug tests and alcohol tests with no appointment, with fast results and documentation ready for your employer, in Spanish or English, 7 days a week.
 
-${WHY_EN}
+## Types of tests
 
-${PAYMENT_EN}
+- **5-panel drug test:** marijuana (THC), cocaine, amphetamines and methamphetamines, opiates and PCP; the basic panel most employers request
+- **10-panel drug test:** adds benzodiazepines, barbiturates, methadone, propoxyphene and other synthetic opioids; common at plants, the port, transportation and construction
+- **Alcohol test:** breath or urine (ethyl glucuronide, which detects use within the last 3 days)
+- **Rapid test:** preliminary result at the clinic in 10 to 15 minutes
+- **Lab confirmation:** when the rapid test is positive or your employer requires certified confirmation, the sample is sent to the lab and the result takes 2 to 4 days
 
-${AREAS_EN}`,
+Tell us which panel your company requires; if you bring the employer's form or order, we follow exactly what it says.
+
+## How the process works
+
+1. You present a photo ID and your employer's form, if there is one
+2. You leave your belongings outside the restroom and wash your hands
+3. You collect the urine sample in a restroom prepared for testing; we check temperature and appearance to confirm it is valid
+4. We seal the container with your signature and complete the chain of custody when applicable
+5. We give you the rapid test result and documentation, or notify you when the confirmation arrives
+
+The whole visit takes 20 to 30 minutes. Come well hydrated, but do not overdo it: urine that is too diluted can invalidate the sample and force a repeat.
+
+## What they are used for
+
+- Pre-employment and random, periodic or post-accident testing at work
+- Requirements from staffing agencies and contractors at the area's plants and refineries
+- Commercial drivers, together with the [DOT physical exam](/en/services/examen-dot)
+- Legal, custody or program-related paperwork that requires proof
+- Parents who want a confidential test for a teenage child
+
+If your job also requires a medical check, we do the [pre-employment physical](/en/services/examen-fisico-escolar) during the same visit so you can turn everything in together.
+
+## Medications and false positives
+
+Some prescription medications, such as opioid pain relievers, anti-anxiety drugs or certain decongestants, can cause a positive result. Bring your prescriptions or medication list: documentation prevents misunderstandings with your employer. Lab confirmation tests distinguish between a prescribed medication and drug use.
+
+## Confidentiality
+
+The result is given only to you or to whomever you authorize in writing, such as your employer. We do not share it with anyone else.
+
+## Drug and alcohol testing in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can meet the deadline HR gave you even on a weekend. No insurance needed; the test has a flat price depending on the panel. We serve workers from La Porte, Deer Park, Pasadena, Baytown, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "electrocardiograma",
@@ -2296,52 +2344,84 @@ No doctor's order or insurance needed. We are at ${CONTACT_INFO.address}, ${CONT
       "To obtain or renew your CDL license",
       "Care in Spanish, flat self-pay price",
     ],
-    longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Nueva Salud La Porte lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
+    longDescription: `Si manejas tráiler, camión de volteo, pipa o cualquier vehículo comercial, necesitas tu certificado médico DOT vigente para conservar la licencia CDL. En Clínica Hispana Nueva Salud La Porte hacemos el examen físico DOT sin cita, en español, y si cumples los requisitos sales con tu certificado el mismo día, los 7 días de la semana.
 
-## ¿Qué incluye?
+## Qué revisa el examen DOT
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico requerido por el DOT
-- Revisión de historial médico
-- Certificado médico DOT el mismo día
+El examen sigue el formulario oficial de la FMCSA y evalúa que puedas manejar con seguridad:
 
-## Para conductores comerciales
+- **Visión:** al menos 20/40 en cada ojo con o sin lentes, campo visual de 70 grados y distinguir los colores del semáforo
+- **Audición:** escuchar un susurro a 5 pies con o sin audífono
+- **Presión arterial y pulso:** la presión define por cuánto tiempo se emite el certificado
+- **Examen de orina:** glucosa, proteínas y sangre; no es prueba de drogas, aunque muchas empresas la piden aparte
+- **Examen físico:** corazón, pulmones, abdomen, columna, extremidades, hernias y sistema nervioso
+- **Historial médico:** enfermedades, cirugías, medicamentos y hábitos, que tú declaras en el formulario
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera. Ven sin cita: atendemos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.
+## Vigencia del certificado según tu salud
+
+- Sin condiciones: **2 años**
+- Presión entre 140/90 y 159/99: **1 año**
+- Presión entre 160/100 y 179/109: certificado de **3 meses** para que la controles y regreses
+- Presión de 180/110 o más: no se puede certificar hasta controlarla
+- Diabetes con insulina: requiere el formulario MCSA-5870 de tu médico tratante y certificado de hasta **1 año**
+- Apnea del sueño con CPAP: trae el reporte de uso de tu equipo
+
+Si tu presión sale alta el día del examen, no te vas con las manos vacías: podemos iniciar tratamiento ese mismo día para que regreses a recertificar pronto.
 
 ## Qué traer
 
-Licencia de conducir vigente, lentes o audífonos si los usas y la lista de medicamentos que tomas. Si tienes presión alta, diabetes o apnea del sueño, trae tus últimos resultados o notas de tu médico para agilizar el certificado. Si tu empresa también pide [prueba de drogas](/services/examen-alcohol-drogas), la hacemos en la misma visita.
+Licencia de conducir vigente, lentes o audífonos si los usas, la lista de tus medicamentos con dosis y, si tienes presión alta, diabetes, apnea del sueño, problemas del corazón o alguna cirugía reciente, los últimos resultados o una nota de tu médico. Si usas marcapasos, tuviste un infarto o una convulsión, trae la evaluación de tu especialista. Sin esos papeles el examen puede quedar pendiente hasta que los presentes.
 
-${WHY_ES}
+## Cómo prepararte
 
-${PAYMENT_ES}
+Duerme bien la noche anterior y evita café, bebidas energéticas y cigarro dos horas antes, porque suben la presión. No vengas en ayunas: come normal. Toma tus medicamentos como siempre. Llega con la vejiga moderadamente llena para la muestra de orina.
 
-${AREAS_ES}`,
-    longDescriptionEn: `If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Nueva Salud La Porte we perform it quickly and give you your certificate the same day.
+## Al terminar
 
-## What's included?
+Te entregamos el certificado médico (MCSA-5876) y el médico registra el resultado en el Registro Nacional de la FMCSA, que es lo que consulta el DPS de Texas. Lleva una copia a tu empleador y conserva otra en la cabina. Si tu empresa también exige [prueba de drogas y alcohol](/services/examen-alcohol-drogas) o [examen físico general](/services/examen-fisico-escolar), los hacemos en la misma visita.
 
-- Vision and hearing screening
-- Blood-pressure check
-- DOT-required physical exam
-- Medical-history review
-- Same-day DOT medical certificate
+## Examen DOT en La Porte, sin cita y con precio fijo
 
-## For commercial drivers
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a minutos del puerto, de la 225 y de la 146, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes venir entre cargas o después de la ruta. No necesitas seguro; el examen DOT tiene precio fijo que te confirmamos por teléfono. Atendemos a conductores de La Porte, Deer Park, Pasadena, Baytown, Channelview y toda el área de Houston.`,
+    longDescriptionEn: `If you drive a semi, dump truck, tanker or any commercial vehicle, you need a current DOT medical certificate to keep your CDL. At Clínica Hispana Nueva Salud La Porte we do the DOT physical exam with no appointment, in Spanish or English, and if you meet the requirements you leave with your certificate the same day, 7 days a week.
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon. No appointment needed: we're open Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM.
+## What the DOT exam checks
+
+The exam follows the official FMCSA form and evaluates whether you can drive safely:
+
+- **Vision:** at least 20/40 in each eye with or without glasses, 70-degree field of vision and the ability to tell traffic-light colors apart
+- **Hearing:** hearing a forced whisper at 5 feet with or without a hearing aid
+- **Blood pressure and pulse:** blood pressure determines how long the certificate is issued for
+- **Urinalysis:** glucose, protein and blood; it is not a drug test, although many companies require one separately
+- **Physical exam:** heart, lungs, abdomen, spine, extremities, hernias and nervous system
+- **Medical history:** illnesses, surgeries, medications and habits, which you declare on the form
+
+## Certificate length depending on your health
+
+- No conditions: **2 years**
+- Blood pressure 140/90 to 159/99: **1 year**
+- Blood pressure 160/100 to 179/109: a **3-month** certificate so you can get it under control and come back
+- Blood pressure 180/110 or higher: cannot be certified until controlled
+- Insulin-treated diabetes: requires form MCSA-5870 from your treating physician and a certificate of up to **1 year**
+- Sleep apnea on CPAP: bring your device's usage report
+
+If your blood pressure is high on exam day, you do not leave empty-handed: we can start treatment that same day so you can come back to recertify soon.
 
 ## What to bring
 
-A valid driver's license, glasses or hearing aids if you use them, and the list of medications you take. If you have high blood pressure, diabetes or sleep apnea, bring your latest results or doctor's notes to speed up the certificate. If your company also requires a [drug test](/en/services/examen-alcohol-drogas), we do it in the same visit.
+A valid driver's license, glasses or hearing aids if you use them, your medication list with doses and, if you have high blood pressure, diabetes, sleep apnea, heart problems or a recent surgery, your latest results or a note from your doctor. If you have a pacemaker, had a heart attack or a seizure, bring your specialist's evaluation. Without those papers the exam may remain pending until you provide them.
 
-${WHY_EN}
+## How to prepare
 
-${PAYMENT_EN}
+Sleep well the night before and avoid coffee, energy drinks and cigarettes for two hours beforehand, because they raise blood pressure. Do not come fasting: eat normally. Take your medications as usual. Arrive with a moderately full bladder for the urine sample.
 
-${AREAS_EN}`,
+## When you are done
+
+We give you the medical certificate (MCSA-5876) and the physician records the result in the FMCSA National Registry, which is what Texas DPS checks. Give a copy to your employer and keep another in the cab. If your company also requires [drug and alcohol testing](/en/services/examen-alcohol-drogas) or a [general physical](/en/services/examen-fisico-escolar), we do them during the same visit.
+
+## DOT exam in La Porte, no appointment and flat price
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, minutes from the port, Highway 225 and Highway 146, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can come between loads or after your route. No insurance needed; the DOT exam has a flat price we confirm by phone. We serve drivers from La Porte, Deer Park, Pasadena, Baytown, Channelview and the greater Houston area.`,
   },
   {
     slug: "examenes-inmigracion",
@@ -2384,44 +2464,86 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud La Porte lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `Si estás ajustando tu estatus para la residencia permanente, USCIS te pedirá el Formulario I-693 llenado por un médico autorizado, conocido como civil surgeon. En Clínica Hispana Nueva Salud La Porte hacemos el examen médico de inmigración completo, con las pruebas y vacunas en el mismo lugar, y te entregamos el sobre sellado listo para tu trámite, todo explicado en español.
 
-## ¿Qué incluye?
+## Qué incluye el examen I-693
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+- **Revisión del historial médico** y de tu cartilla de vacunación
+- **Examen físico completo:** signos vitales, visión, oído, corazón, pulmones, abdomen, piel y evaluación general
+- **Prueba de tuberculosis en sangre (IGRA)**, obligatoria a partir de los 2 años de edad; si sale positiva, se requiere radiografía de tórax, que coordinamos
+- **Prueba de sífilis** en sangre (de 18 a 44 años) y **prueba de gonorrea** en orina (de 18 a 24 años)
+- **Evaluación de salud mental y de uso de sustancias**, parte del cuestionario oficial
+- **Vacunas requeridas según tu edad:** influenza en temporada, Tdap, sarampión-rubéola-paperas (MMR), varicela, hepatitis B, neumococo y otras que te falten; las aplicamos aquí o registramos las que ya tienes
+- **Formulario I-693 completado y firmado**, en sobre sellado para USCIS, más una copia para ti
 
-## Qué traer a tu cita
+Todo el proceso suele completarse en dos visitas: la primera para el examen, las muestras y las vacunas, y la segunda, 2 a 5 días después, para revisar los resultados de laboratorio y entregarte el sobre.
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+## Qué traer
 
-${WHY_ES}
+- Identificación con foto vigente (pasaporte, licencia o matrícula consular)
+- Tu cartilla o registros de vacunación, en cualquier idioma; te ahorran vacunas y dinero
+- Si tuviste tuberculosis, una prueba positiva previa o tratamiento, los documentos y radiografías
+- Lista de medicamentos y diagnósticos actuales, con reportes si los tienes
+- Si tu abogado o representante te dio instrucciones específicas, tráelas
+- Lentes o audífonos si los usas
 
-${PAYMENT_ES}
+No hace falta ayuno. Si prefieres, puedes llenar con nosotros la sección del solicitante del formulario en la clínica.
 
-${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud La Porte we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+## Vigencia y errores comunes
 
-## What's included?
+El I-693 es válido si se firma dentro de los plazos que USCIS establece en relación con tu solicitud; te orientamos para que la fecha de la firma coincida con el momento en que lo vas a presentar. No abras el sobre sellado: USCIS lo rechaza si está abierto. Verifica que tu nombre y número A coincidan exactamente con tu solicitud. Si te faltan vacunas, aplícalas antes de firmar; un formulario incompleto retrasa el caso.
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+## Si también necesitas otros documentos
+
+Para trámites de trabajo o escuela paralelos, podemos hacer el [examen físico](/services/examen-fisico-escolar) o la [prueba de drogas](/services/examen-alcohol-drogas) en la misma visita. La [prueba de tuberculosis cutánea (PPD)](/services/prueba-tuberculosis) no sirve para el I-693, que exige la prueba de sangre.
+
+## Precio fijo y sin seguro
+
+El examen de inmigración no lo cubre el seguro médico, así que trabajamos con un precio fijo que incluye el examen, el llenado del formulario y las pruebas de laboratorio requeridas; las vacunas que te falten se cotizan por separado, y te decimos el total antes de empezar. Aceptamos efectivo y tarjetas.
+
+## Examen médico de inmigración en La Porte
+
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes venir sin cita, aunque para el I-693 te recomendamos llamar antes para confirmar la disponibilidad del médico autorizado ese día. Atendemos a solicitantes de La Porte, Deer Park, Pasadena, Baytown, Channelview y toda el área de Houston.`,
+    longDescriptionEn: `If you are adjusting your status for permanent residence, USCIS will require Form I-693 completed by an authorized physician, known as a civil surgeon. At Clínica Hispana Nueva Salud La Porte we perform the complete immigration medical exam, with the tests and vaccines in the same place, and hand you the sealed envelope ready for your case, all explained in Spanish or English.
+
+## What the I-693 exam includes
+
+- **Medical history review** and review of your vaccination record
+- **Complete physical exam:** vital signs, vision, hearing, heart, lungs, abdomen, skin and general evaluation
+- **Tuberculosis blood test (IGRA)**, required from age 2; if positive, a chest X-ray is required, which we coordinate
+- **Syphilis blood test** (ages 18 to 44) and **gonorrhea urine test** (ages 18 to 24)
+- **Mental health and substance use evaluation**, part of the official questionnaire
+- **Required vaccines by age:** influenza in season, Tdap, measles-mumps-rubella (MMR), varicella, hepatitis B, pneumococcal and any others you are missing; we give them here or record the ones you already have
+- **Form I-693 completed and signed**, in a sealed envelope for USCIS, plus a copy for you
+
+The whole process is usually completed in two visits: the first for the exam, samples and vaccines, and the second, 2 to 5 days later, to review the lab results and hand you the envelope.
 
 ## What to bring
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+- A valid photo ID (passport, driver's license or consular ID)
+- Your vaccination card or records, in any language; they save you vaccines and money
+- If you had tuberculosis, a previous positive test or treatment, the documents and X-rays
+- A list of current medications and diagnoses, with reports if you have them
+- If your attorney or representative gave you specific instructions, bring them
+- Glasses or hearing aids if you use them
 
-${WHY_EN}
+No fasting needed. If you prefer, you can fill out the applicant section of the form with us at the clinic.
 
-${PAYMENT_EN}
+## Validity and common mistakes
 
-${AREAS_EN}`,
+The I-693 is valid if signed within the time frames USCIS sets in relation to your application; we guide you so the signature date lines up with when you will file it. Do not open the sealed envelope: USCIS rejects it if opened. Check that your name and A-number match your application exactly. If you are missing vaccines, get them before signing; an incomplete form delays the case.
+
+## If you also need other documents
+
+For parallel work or school requirements, we can do the [physical exam](/en/services/examen-fisico-escolar) or the [drug test](/en/services/examen-alcohol-drogas) during the same visit. The [tuberculosis skin test (PPD)](/en/services/prueba-tuberculosis) is not accepted for the I-693, which requires the blood test.
+
+## Flat price, no insurance
+
+Health insurance does not cover the immigration exam, so we work with a flat price that includes the exam, form completion and the required lab tests; any vaccines you are missing are priced separately, and we tell you the total before starting. We accept cash and cards.
+
+## Immigration medical exam in La Porte
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can walk in, although for the I-693 we recommend calling ahead to confirm the authorized physician is available that day. We serve applicants from La Porte, Deer Park, Pasadena, Baytown, Channelview and the greater Houston area.`,
   },
   {
     slug: "vacunas",

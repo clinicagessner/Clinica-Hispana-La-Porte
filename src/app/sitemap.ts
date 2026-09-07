@@ -22,12 +22,7 @@ const LASTMOD = {
 // Servicios actualizados después de LASTMOD.services.
 const SERVICE_LASTMOD: Record<string, string> = {
   "examen-fisico-escolar": "2026-08-26",
-  "examen-dot": "2026-08-26",
-  "examenes-inmigracion": "2026-08-26",
-  "examen-alcohol-drogas": "2026-08-26",
-  "salud-hombre": "2026-08-26",
-  tiroides: "2026-08-26",
-  // Tanda 1 de contenido propio (2026-09-07): texto, secciones y FAQs nuevos.
+  // Contenido propio reescrito el 2026-09-07 (4 tandas), incluidas las 6 de la tanda final.
   "examenes-sangre": "2026-09-07",
   "vacunas": "2026-09-07",
   "prueba-tuberculosis": "2026-09-07",
@@ -36,7 +31,6 @@ const SERVICE_LASTMOD: Record<string, string> = {
   "sueros-vitaminados": "2026-09-07",
   "ginecologia": "2026-09-07",
   "prueba-embarazo": "2026-09-07",
-  // Tanda 2 de contenido propio (2026-09-07).
   "anticonceptivos": "2026-09-07",
   "condiciones-cronicas": "2026-09-07",
   "alergias": "2026-09-07",
@@ -45,13 +39,18 @@ const SERVICE_LASTMOD: Record<string, string> = {
   "prueba-strep": "2026-09-07",
   "electrocardiograma": "2026-09-07",
   "extraccion-implantes": "2026-09-07",
-  // Tanda 3 de contenido propio (2026-09-07).
   "suturas-heridas": "2026-09-07",
   "curacion-heridas": "2026-09-07",
   "cirugias-menores": "2026-09-07",
   "drenaje-abscesos": "2026-09-07",
   "unas-encarnadas": "2026-09-07",
   "farmacia": "2026-09-07",
+  "tiroides": "2026-09-07",
+  "salud-hombre": "2026-09-07",
+  "infecciones-urinarias": "2026-09-07",
+  "examen-alcohol-drogas": "2026-09-07",
+  "examenes-inmigracion": "2026-09-07",
+  "examen-dot": "2026-09-07",
 };
 
 function entry(
