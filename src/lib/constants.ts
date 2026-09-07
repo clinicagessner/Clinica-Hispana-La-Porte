@@ -358,44 +358,64 @@ export const SERVICES: Service[] = [
       "Medication adjustment",
       "Nutrition and lifestyle plan",
     ],
-    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Nueva Salud La Porte diseñamos un plan claro y te acompañamos paso a paso, en español.
+    longDescription: `La diabetes, la presión alta y el colesterol elevado no duelen, y por eso muchas personas en La Porte llevan años sin saber que los tienen o sin controlarlos. En Clínica Hispana Nueva Salud La Porte te hacemos el diagnóstico con laboratorio propio, te damos un plan que puedas cumplir y te vemos con regularidad, en español y sin cita.
 
-## ¿Qué incluye?
+## Diabetes tipo 2 y prediabetes
 
-- Evaluación inicial y exámenes de laboratorio
-- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en tu idioma
+Diagnosticamos con glucosa en ayunas y hemoglobina glicosilada (A1C), que muestra el promedio de azúcar de los últimos 3 meses. Una A1C entre 5.7 y 6.4 indica prediabetes, y desde 6.5 diabetes. Si ya tienes el diagnóstico, buscamos mantener la A1C por debajo de 7 en la mayoría de los casos, con revisión cada 3 meses hasta estabilizar y luego cada 6. Ajustamos metformina u otros medicamentos según tus resultados, revisamos los pies y los riñones una vez al año y te ayudamos a leer tu glucómetro.
 
-## Por qué es importante el control
+## Presión arterial alta
 
-Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+Una presión igual o mayor a 130/80 en varias mediciones ya es hipertensión. Te tomamos la presión correctamente, sentado y en reposo, y si hace falta te pedimos que la midas en casa unos días para confirmar. El tratamiento combina medicamentos, menos sal y actividad física, y revisamos la función renal y los electrolitos antes de ajustar dosis. Si además tienes dolor de pecho o palpitaciones, hacemos un [electrocardiograma](/services/electrocardiograma) en la misma visita.
 
-${WHY_ES}
+## Colesterol y triglicéridos
 
-${PAYMENT_ES}
+El perfil de lípidos mide colesterol total, LDL (el que tapa las arterias), HDL (el protector) y triglicéridos. Las metas dependen de tu riesgo: quien tiene diabetes o ya tuvo un infarto necesita un LDL más bajo que alguien sano. Cuando la dieta no alcanza, iniciamos estatinas y revisamos hígado y lípidos entre 6 y 12 semanas después. Los triglicéridos altos responden mucho a reducir azúcar, refrescos y alcohol.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Nueva Salud La Porte we design a clear plan and support you every step of the way, in Spanish.
+## Qué incluye el seguimiento
 
-## What's included?
+- [Análisis de sangre](/services/examenes-sangre) en la clínica: glucosa, A1C, lípidos, función renal y hepática, con resultados en 24 a 48 horas
+- Revisión de [tiroides](/services/tiroides) cuando el peso o el colesterol no se explican de otra forma
+- Receta y surtido de medicamentos en nuestra [farmacia](/services/farmacia), con opciones económicas
+- Plan de alimentación adaptado a la comida que realmente comes en casa, no una dieta genérica
+- Copia de tus resultados para llevar un registro y compararlo en cada visita
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure, cholesterol and triglycerides
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in your language
+## Cuándo venir aunque te sientas bien
 
-## Why control matters
+Si tienes más de 35 años, sobrepeso, familiares con diabetes o presión alta, o tuviste diabetes en el embarazo, conviene revisarte una vez al año. El [chequeo general completo por $99](/promociones) incluye examen de sangre, A1C, examen de orina y consulta médica, y es la forma más sencilla de saber en qué punto estás.
 
-Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+## Control de enfermedades crónicas en La Porte, sin seguro
 
-${WHY_EN}
+Muchos de nuestros pacientes perdieron el seguimiento al cambiar de trabajo o de seguro. Aquí no lo necesitas: la consulta y el laboratorio tienen precio fijo que te informamos antes. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir a tu control sin faltar al trabajo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Diabetes, high blood pressure and high cholesterol do not hurt, which is why many people in La Porte go years without knowing they have them or without controlling them. At Clínica Hispana Nueva Salud La Porte we make the diagnosis with our own lab, give you a plan you can actually follow and see you regularly, in Spanish or English and with no appointment.
 
-${PAYMENT_EN}
+## Type 2 diabetes and prediabetes
 
-${AREAS_EN}`,
+We diagnose with fasting glucose and hemoglobin A1C, which shows your average blood sugar over the last 3 months. An A1C between 5.7 and 6.4 indicates prediabetes, and 6.5 or higher means diabetes. If you already have the diagnosis, we aim to keep A1C below 7 in most cases, with checks every 3 months until stable and then every 6. We adjust metformin or other medications based on your results, check your feet and kidneys once a year and help you read your glucose meter.
+
+## High blood pressure
+
+A reading of 130/80 or higher on several occasions is already hypertension. We measure your pressure properly, seated and at rest, and if needed ask you to check it at home for a few days to confirm. Treatment combines medication, less salt and physical activity, and we check kidney function and electrolytes before adjusting doses. If you also have chest pain or palpitations, we do an [electrocardiogram](/en/services/electrocardiograma) during the same visit.
+
+## Cholesterol and triglycerides
+
+The lipid panel measures total cholesterol, LDL (the kind that clogs arteries), HDL (the protective kind) and triglycerides. Targets depend on your risk: someone with diabetes or a previous heart attack needs a lower LDL than a healthy person. When diet is not enough, we start statins and recheck liver and lipids 6 to 12 weeks later. High triglycerides respond strongly to cutting sugar, sodas and alcohol.
+
+## What follow-up includes
+
+- [Blood work](/en/services/examenes-sangre) in the clinic: glucose, A1C, lipids, kidney and liver function, with results in 24 to 48 hours
+- [Thyroid](/en/services/tiroides) testing when weight or cholesterol cannot be explained otherwise
+- Prescriptions filled at our [pharmacy](/en/services/farmacia), with low-cost options
+- A meal plan adapted to the food you actually eat at home, not a generic diet
+- A copy of your results so you can keep a record and compare at each visit
+
+## When to come even if you feel fine
+
+If you are over 35, overweight, have relatives with diabetes or high blood pressure, or had diabetes during pregnancy, a yearly check makes sense. The [complete general checkup for $99](/en/promociones) includes a blood panel, A1C, urine test and medical consultation, and is the simplest way to know where you stand.
+
+## Chronic disease care in La Porte, no insurance needed
+
+Many of our patients lost their follow-up when they changed jobs or insurance. Here you do not need it: the visit and lab work have a flat price we tell you up front. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come for your checkup without missing work. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "tiroides",
@@ -514,44 +534,78 @@ ${AREAS_EN}`,
       "Management of rhinitis and congestion",
       "Care in Spanish",
     ],
-    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Nueva Salud La Porte identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+    longDescription: `En la zona de La Porte las alergias no dan tregua: polen de roble y cedro en invierno y primavera, pasto en verano, ambrosía en otoño, y humedad y moho todo el año. En Clínica Hispana Nueva Salud La Porte identificamos qué te está afectando y te damos un tratamiento que te deje respirar y dormir bien, en español y sin cita.
 
-## ¿Qué incluye?
+## Alergias respiratorias
 
-- Evaluación de síntomas y posibles desencadenantes
-- Tratamiento de alergias estacionales y respiratorias
-- Manejo de rinitis, estornudos y congestión
-- Atención de alergias en la piel (ronchas, comezón)
-- Recomendaciones para evitar las crisis
+Estornudos en serie, nariz que gotea o se tapa, comezón en ojos y paladar, ojos rojos y llorosos, y esa sensación de estar resfriado durante semanas sin fiebre. La rinitis alérgica también provoca dolor de cabeza, ronquidos y cansancio por dormir mal. Cuando la inflamación baja al pecho aparecen tos seca, silbidos y falta de aire, sobre todo de noche o al hacer ejercicio; en ese caso evaluamos si hay asma y tratamos las dos cosas.
 
-## Cuándo consultar
+## Alergias en la piel
 
-Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+Ronchas (urticaria) que aparecen y desaparecen, dermatitis con comezón y resequedad en pliegues, reacciones a detergentes, joyería o plantas, y picaduras de insectos que se inflaman más de lo normal. Revisamos la piel, buscamos el desencadenante y te damos tratamiento para cortar la comezón desde el primer día.
 
-${WHY_ES}
+## Cómo hacemos el diagnóstico
 
-${PAYMENT_ES}
+La mayoría de las alergias se identifican con una buena historia clínica: en qué época del año empeoran, si son peores en casa o en el trabajo, si hay mascotas, alfombras o humedad, y qué has probado. Cuando hace falta, complementamos con [análisis de sangre](/services/examenes-sangre) para medir IgE y detectar los alérgenos más frecuentes. Si un síntoma respiratorio viene con fiebre, primero descartamos [flu, COVID o una infección](/services/enfermedades-respiratorias), porque el tratamiento es distinto.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Nueva Salud La Porte we identify what triggers them and help you control them so you feel well again.
+## Tratamiento
 
-## What's included?
+- Antihistamínicos de nueva generación que no dan sueño
+- Spray nasal con corticoide para la congestión persistente, el tratamiento más efectivo para la rinitis
+- Gotas para los ojos con comezón
+- Inhaladores cuando hay tos o silbidos en el pecho
+- Cremas y antihistamínicos para la piel; en crisis intensas, una inyección que alivia en minutos
+- Todo se puede surtir en nuestra [farmacia](/services/farmacia)
 
-- Evaluation of symptoms and possible triggers
-- Treatment of seasonal and respiratory allergies
-- Management of rhinitis, sneezing and congestion
-- Care for skin allergies (hives, itching)
-- Recommendations to avoid flare-ups
+Te explicamos cuáles son de uso diario en temporada y cuáles solo cuando hay síntomas, para que no gastes en medicamentos que no necesitas.
 
-## When to seek care
+## Cómo reducir las crisis en casa
 
-Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+Cierra ventanas en los días de mucho polen, báñate y cambia de ropa al llegar del trabajo, lava las sábanas con agua caliente cada semana, usa deshumidificador si hay moho y mantén a las mascotas fuera del dormitorio. Con estos cambios más el tratamiento correcto, la mayoría de los pacientes nota la diferencia en una o dos semanas.
 
-${WHY_EN}
+## Cuándo es una emergencia
 
-${PAYMENT_EN}
+Hinchazón de labios, lengua o garganta, dificultad para respirar o mareo después de comer algo o de una picadura son señales de una reacción grave: llama al 911. Después de un episodio así, ven a verte para que te indiquemos un plan y un autoinyector de epinefrina si lo necesitas.
 
-${AREAS_EN}`,
+## Tratamiento de alergias en La Porte
+
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro ni cita; la consulta tiene precio fijo que te decimos antes. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Allergies never let up in the La Porte area: oak and cedar pollen in winter and spring, grass in summer, ragweed in fall, and humidity and mold all year long. At Clínica Hispana Nueva Salud La Porte we identify what is affecting you and give you treatment that lets you breathe and sleep well, in Spanish or English and with no appointment.
+
+## Respiratory allergies
+
+Sneezing fits, a runny or stuffy nose, itchy eyes and palate, red watery eyes, and that feeling of having a cold for weeks without a fever. Allergic rhinitis also causes headaches, snoring and tiredness from poor sleep. When the inflammation moves down to the chest you get a dry cough, wheezing and shortness of breath, especially at night or with exercise; in that case we evaluate for asthma and treat both.
+
+## Skin allergies
+
+Hives that come and go, itchy dry dermatitis in skin folds, reactions to detergents, jewelry or plants, and insect bites that swell more than normal. We examine your skin, look for the trigger and give you treatment to stop the itching from day one.
+
+## How we make the diagnosis
+
+Most allergies are identified with a good history: what time of year they get worse, whether they are worse at home or at work, whether there are pets, carpets or dampness, and what you have tried. When needed, we add [blood work](/en/services/examenes-sangre) to measure IgE and detect the most common allergens. If a respiratory symptom comes with fever, we first rule out [flu, COVID or an infection](/en/services/enfermedades-respiratorias), because the treatment is different.
+
+## Treatment
+
+- Newer-generation antihistamines that do not cause drowsiness
+- Steroid nasal spray for persistent congestion, the most effective treatment for rhinitis
+- Eye drops for itchy eyes
+- Inhalers when there is cough or wheezing
+- Creams and antihistamines for the skin; for severe flare-ups, an injection that brings relief in minutes
+- Everything can be filled at our [pharmacy](/en/services/farmacia)
+
+We explain which ones to use daily during the season and which only when symptoms appear, so you do not spend on medication you do not need.
+
+## Reducing flare-ups at home
+
+Keep windows closed on high-pollen days, shower and change clothes when you get home from work, wash sheets in hot water weekly, use a dehumidifier if there is mold and keep pets out of the bedroom. With these changes plus the right treatment, most patients notice the difference within one or two weeks.
+
+## When it is an emergency
+
+Swelling of the lips, tongue or throat, trouble breathing or dizziness after eating something or after a sting are signs of a severe reaction: call 911. After an episode like that, come see us so we can set up a plan and an epinephrine auto-injector if you need one.
+
+## Allergy treatment in La Porte
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No insurance or appointment needed; the visit has a flat price we tell you beforehand. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "enfermedades-respiratorias",
@@ -592,44 +646,74 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud La Porte hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+    longDescription: `Fiebre, dolor de cuerpo, tos y garganta irritada pueden ser influenza, COVID, un resfriado fuerte o una bronquitis, y cada una se trata distinto. En Clínica Hispana Nueva Salud La Porte te hacemos las pruebas rápidas y te damos el diagnóstico y el tratamiento en la misma visita, sin cita, en español y también los fines de semana.
 
-## ¿Qué incluye?
+## Pruebas rápidas de flu y COVID
 
-- Prueba rápida de influenza (flu)
-- Prueba de COVID-19
-- Evaluación de síntomas respiratorios
-- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
-- Indicaciones de recuperación y cuidado
+Con un hisopado nasal obtenemos el resultado de influenza A y B y de COVID-19 en unos 15 minutos. Lo ideal es hacerte la prueba en los primeros 2 a 3 días de síntomas, cuando es más precisa y cuando los antivirales todavía funcionan. Si tu empleador o la escuela de tus hijos pide constancia del resultado, te la entregamos por escrito.
 
-## No dejes que avance
+Si el dolor de garganta es lo principal, con fiebre y sin tos, agregamos la [prueba de estreptococo](/services/prueba-strep) para saber si necesitas antibiótico.
 
-Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+## Qué tratamos
 
-${WHY_ES}
+- Influenza: antivirales cuando estás dentro de las primeras 48 horas o perteneces a un grupo de riesgo, más control de fiebre y tos
+- COVID-19: evaluación de oxigenación, tratamiento de síntomas y, en pacientes de riesgo, orientación sobre antivirales
+- Resfriado común y sinusitis
+- Bronquitis aguda con tos persistente
+- Faringitis y amigdalitis
+- Crisis de asma o de [alergia respiratoria](/services/alergias) que se confunden con infección
 
-${PAYMENT_ES}
+Los antibióticos no sirven para virus. Solo los indicamos cuando la evaluación muestra una infección bacteriana, como sinusitis prolongada, estreptococo o una neumonía inicial, y los puedes surtir en nuestra [farmacia](/services/farmacia).
 
-${AREAS_ES}`,
-    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Nueva Salud La Porte we run rapid tests and provide same-day treatment, no appointment needed.
+## Cuándo no debes esperar
 
-## What's included?
+Ven el mismo día si tienes fiebre de más de 39 °C que no baja, dificultad para respirar, dolor en el pecho, labios morados, confusión o si llevas más de 10 días sin mejorar. También si el enfermo es un bebé, una persona mayor de 65 años, una mujer embarazada o alguien con diabetes, asma, EPOC o problemas del corazón, porque en ellos la gripe se complica más rápido. Si detectamos signos de neumonía o de oxigenación baja, te referimos de inmediato a urgencias.
 
-- Rapid influenza (flu) test
-- COVID-19 test
-- Respiratory symptom evaluation
-- Treatment of flu, cough, bronchitis and throat infections
-- Recovery and care instructions
+## Recuperación en casa
 
-## Don't let it progress
+Líquidos abundantes, reposo, paracetamol o ibuprofeno para la fiebre y el dolor, miel para la tos en mayores de un año y ambiente húmedo por la noche. Quédate en casa hasta llevar 24 horas sin fiebre sin medicamento; en el caso del COVID, usa mascarilla los días siguientes si convives con personas de riesgo. La mejor forma de evitar el próximo episodio es la [vacuna contra la influenza](/services/vacunas) cada otoño.
 
-If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+## Constancias para el trabajo
 
-${WHY_EN}
+Si necesitas justificante de la consulta o del reposo, te lo entregamos en la misma visita con las fechas indicadas por el médico.
 
-${PAYMENT_EN}
+## Pruebas de flu y COVID en La Porte, 7 días a la semana
 
-${AREAS_EN}`,
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando la fiebre empieza un sábado por la noche, no tienes que esperar al lunes ni pagar una sala de urgencias. No necesitas seguro; la consulta y las pruebas tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Fever, body aches, cough and a sore throat can be influenza, COVID, a bad cold or bronchitis, and each is treated differently. At Clínica Hispana Nueva Salud La Porte we run the rapid tests and give you the diagnosis and treatment during the same visit, no appointment needed, in Spanish or English and on weekends too.
+
+## Rapid flu and COVID tests
+
+A nasal swab gives us the result for influenza A and B and for COVID-19 in about 15 minutes. The best time to test is within the first 2 to 3 days of symptoms, when the test is most accurate and antivirals still work. If your employer or your children's school needs proof of the result, we give it to you in writing.
+
+If a sore throat is the main symptom, with fever and no cough, we add a [strep test](/en/services/prueba-strep) to find out whether you need an antibiotic.
+
+## What we treat
+
+- Influenza: antivirals when you are within the first 48 hours or in a risk group, plus fever and cough control
+- COVID-19: oxygen-level check, symptom treatment and, for at-risk patients, guidance on antivirals
+- Common cold and sinusitis
+- Acute bronchitis with a lingering cough
+- Pharyngitis and tonsillitis
+- Asthma or [respiratory allergy](/en/services/alergias) flare-ups that get mistaken for infection
+
+Antibiotics do not work on viruses. We prescribe them only when the evaluation shows a bacterial infection, such as prolonged sinusitis, strep or early pneumonia, and you can fill them at our [pharmacy](/en/services/farmacia).
+
+## When not to wait
+
+Come the same day if you have a fever above 102 °F that will not come down, trouble breathing, chest pain, bluish lips, confusion, or if you have gone more than 10 days without improving. Also if the patient is a baby, an adult over 65, a pregnant woman or someone with diabetes, asthma, COPD or heart disease, because the flu gets complicated faster in them. If we detect signs of pneumonia or low oxygen, we refer you to the emergency room right away.
+
+## Recovering at home
+
+Plenty of fluids, rest, acetaminophen or ibuprofen for fever and pain, honey for cough in children over one year, and a humid room at night. Stay home until you have gone 24 hours fever-free without medication; with COVID, wear a mask for the following days if you live with at-risk people. The best way to avoid the next episode is the [flu vaccine](/en/services/vacunas) every fall.
+
+## Work notes
+
+If you need a note for the visit or for time off, we give it to you during the same visit with the dates indicated by the physician.
+
+## Flu and COVID testing in La Porte, 7 days a week
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. When the fever starts on a Saturday night, you do not have to wait until Monday or pay for an emergency room. No insurance needed; the visit and tests have a flat price. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "examen-fisico-escolar",
@@ -963,44 +1047,68 @@ We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} $
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud La Porte te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud La Porte te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti, y te lo iniciamos en la misma visita, sin cita.
 
-## ¿Qué incluye?
+## Métodos que manejamos en la clínica
 
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Pastillas anticonceptivas e inyección
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
+**Pastillas anticonceptivas.** Se toman todos los días a la misma hora. Hay combinadas (estrógeno y progestina) y de solo progestina, que sirven si estás amamantando, fumas o tienes migrañas con aura. Bien tomadas, su efectividad supera el 99 %; con olvidos frecuentes baja a alrededor del 93 %.
 
-## Una decisión informada
+**Inyección anticonceptiva.** Una aplicación cada 3 meses (12 a 13 semanas). No tienes que acordarte a diario y no contiene estrógeno. Es común que la regla se vuelva escasa o desaparezca mientras la usas. Al suspenderla, la fertilidad puede tardar varios meses en regresar, algo a considerar si planeas embarazarte pronto.
 
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+Si te interesa un método de larga duración como el implante o el DIU, te explicamos cómo funcionan y te orientamos sobre dónde colocarlo. Si ya tienes un implante que caducó, hacemos la [extracción del implante subdérmico](/services/extraccion-implantes) aquí mismo.
 
-${WHY_ES}
+## Cómo es la consulta
 
-${PAYMENT_ES}
+- Revisamos tu historial: presión arterial, migrañas, tabaquismo, coágulos previos, lactancia y medicamentos, porque algunos métodos no se recomiendan en ciertos casos
+- Hacemos una [prueba de embarazo](/services/prueba-embarazo) antes de iniciar cualquier método
+- Comparamos opciones según tu rutina, tu salud y tus planes
+- Iniciamos el método ese mismo día cuando es seguro hacerlo
+- Te explicamos los efectos que puedes notar las primeras semanas y cuándo consultar
 
-${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud La Porte we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+Puedes venir sola o acompañada. Las menores de edad deben venir con su madre, padre o tutor.
 
-## What's included?
+## Seguimiento y cambio de método
 
-- Personalized guidance visit
-- Information about the different methods
-- Birth control pills and injection
-- Starting and following up on the chosen method
-- Answers to questions and side effects
+Con las pastillas, revisamos a los 3 meses cómo te sientes y tu presión arterial. Con la inyección, te damos la fecha exacta de la siguiente dosis; si te pasas de las 13 semanas, usa condón y ven lo antes posible, quizá necesites una prueba de embarazo antes de aplicarla. Si un método no te sienta bien, cambiarlo es normal: no tienes que aguantar sangrados irregulares, dolores de cabeza o cambios de ánimo que te molesten.
 
-## An informed decision
+## Lo que los anticonceptivos no hacen
 
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+Ni las pastillas ni la inyección protegen contra las infecciones de transmisión sexual. Si tienes una pareja nueva o varias parejas, combínalos con condón y hazte [pruebas de ETS](/services/enfermedades-transmision-sexual) periódicamente. Y si tuviste una relación sin protección en los últimos días, pregúntanos por la anticoncepción de emergencia lo antes posible.
 
-${WHY_EN}
+## Anticonceptivos en La Porte, sin seguro y en español
 
-${PAYMENT_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico ni receta previa: la consulta y el método tienen precio fijo que te confirmamos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud La Porte we give you clear, judgment-free information so you can choose the birth control method that fits you best, and we start it during the same visit, no appointment needed.
 
-${AREAS_EN}`,
+## Methods we offer at the clinic
+
+**Birth control pills.** Taken every day at the same time. There are combined pills (estrogen and progestin) and progestin-only pills, which work if you are breastfeeding, smoke or have migraines with aura. Taken correctly, their effectiveness is over 99 %; with frequent missed pills it drops to around 93 %.
+
+**Birth control shot.** One injection every 3 months (12 to 13 weeks). Nothing to remember daily and no estrogen. It is common for periods to become light or stop while you use it. After stopping, fertility can take several months to return, something to consider if you plan to get pregnant soon.
+
+If you are interested in a long-acting method such as the implant or IUD, we explain how they work and guide you on where to get one placed. If you already have an expired implant, we do [subdermal implant removal](/en/services/extraccion-implantes) right here.
+
+## What the visit is like
+
+- We review your history: blood pressure, migraines, smoking, previous blood clots, breastfeeding and medications, because some methods are not recommended in certain cases
+- We run a [pregnancy test](/en/services/prueba-embarazo) before starting any method
+- We compare options based on your routine, your health and your plans
+- We start the method that same day when it is safe to do so
+- We explain the effects you may notice in the first weeks and when to check in
+
+You can come alone or with someone. Minors must come with a parent or legal guardian.
+
+## Follow-up and switching methods
+
+With the pill, we check how you feel and your blood pressure at 3 months. With the shot, we give you the exact date of your next dose; if you go past 13 weeks, use condoms and come as soon as possible, since you may need a pregnancy test before the injection. If a method does not agree with you, switching is normal: you do not have to put up with irregular bleeding, headaches or mood changes that bother you.
+
+## What birth control does not do
+
+Neither the pill nor the shot protects against sexually transmitted infections. If you have a new partner or several partners, combine them with condoms and get [STD testing](/en/services/enfermedades-transmision-sexual) regularly. And if you had unprotected sex in the last few days, ask us about emergency contraception as soon as possible.
+
+## Birth control in La Porte, no insurance needed, in Spanish
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance or prior prescription needed: the visit and the method have a flat price we confirm by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "extraccion-implantes",
@@ -1041,42 +1149,72 @@ ${AREAS_EN}`,
       "Trained staff",
       "After-care explained",
     ],
-    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud La Porte lo hacemos de forma segura, rápida y con cuidado.
+    longDescription: `El implante anticonceptivo del brazo dura 3 años (en algunos casos hasta 5, según indicación médica) y después hay que retirarlo, ya sea para colocar uno nuevo, cambiar de método o buscar un embarazo. En Clínica Hispana Nueva Salud La Porte lo extraemos con anestesia local en un procedimiento de unos 15 minutos, sin cita, en español y a un precio fijo sin seguro.
 
-## ¿Qué incluye?
+## Cuándo retirarlo
 
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
+- Cumplió su tiempo de uso: después de la fecha de caducidad ya no es confiable como anticonceptivo
+- Quieres quedar embarazada: la fertilidad regresa rápido, en la mayoría de los casos el primer mes
+- Efectos que no toleras: sangrado irregular o continuo, dolores de cabeza, cambios de ánimo, acné o aumento de peso
+- Prefieres cambiar a [pastillas o inyección](/services/anticonceptivos), o a otro método
+- Tu médico te lo indicó por alguna condición de salud
 
-## Un procedimiento sencillo
+## Cómo es el procedimiento
 
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+1. Localizamos el implante palpando el brazo y marcamos el extremo más cercano a la piel
+2. Limpiamos la zona y aplicamos anestesia local con una aguja fina; es el único piquete que sientes
+3. Hacemos una incisión de 2 a 3 milímetros sobre el extremo del implante
+4. Lo extraemos con una pinza y te lo mostramos para que confirmes que salió completo
+5. Cerramos con cintas adhesivas, sin puntos, y colocamos un vendaje compresivo
 
-${WHY_ES}
+Todo el proceso toma entre 10 y 20 minutos. Si deseas un nuevo implante, te orientamos sobre dónde colocarlo; si prefieres pastillas o inyección, las iniciamos en la misma visita para que no quedes sin protección.
 
-${PAYMENT_ES}
+## Si el implante no se palpa
 
-${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud La Porte we do it safely, quickly and with care.
+En pocos casos el implante queda más profundo y no se siente bajo la piel. Extraerlo a ciegas puede lesionar nervios o vasos, así que en esa situación no lo intentamos: te hacemos un [ultrasonido](/services/ultrasonido) para ubicarlo y, si está muy profundo, te referimos con un especialista. Trae la tarjeta o el registro de colocación si lo tienes: nos dice el tipo de implante y dónde se puso.
 
-## What's included?
+## Cuidados después
 
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
+Mantén el vendaje compresivo 24 horas para evitar un moretón grande, y las cintas adhesivas de 3 a 5 días hasta que se caigan solas. Puedes bañarte al día siguiente sin remojar la zona. Es normal tener un moretón, algo de dolor y una pequeña cicatriz que se aclara con los meses. Ven o llámanos si hay enrojecimiento que se extiende, pus, fiebre o dolor que aumenta después de 48 horas.
 
-## A simple procedure
+Recuerda que la protección anticonceptiva termina el mismo día de la extracción. Si no quieres un embarazo, usa condón desde ese momento o inicia otro método.
 
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+## Extracción de implantes en La Porte, sin seguro
 
-${WHY_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas cita ni seguro médico; el procedimiento tiene precio fijo que te confirmamos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `The contraceptive arm implant lasts 3 years (in some cases up to 5, per medical guidance) and then has to be removed, whether to place a new one, switch methods or try for a pregnancy. At Clínica Hispana Nueva Salud La Porte we remove it under local anesthesia in a procedure of about 15 minutes, with no appointment, in Spanish or English and at a flat self-pay price.
 
-${PAYMENT_EN}
+## When to have it removed
 
-${AREAS_EN}`,
+- It reached its expiration: after that date it is no longer reliable as birth control
+- You want to get pregnant: fertility returns quickly, in most cases within the first month
+- Side effects you cannot tolerate: irregular or continuous bleeding, headaches, mood changes, acne or weight gain
+- You prefer to switch to the [pill or the shot](/en/services/anticonceptivos), or to another method
+- Your doctor recommended it because of a health condition
+
+## What the procedure is like
+
+1. We locate the implant by feeling your arm and mark the end closest to the skin
+2. We clean the area and apply local anesthesia with a fine needle; that is the only poke you feel
+3. We make a 2 to 3 millimeter incision over the tip of the implant
+4. We remove it with forceps and show it to you so you can confirm it came out whole
+5. We close with adhesive strips, no stitches, and apply a pressure bandage
+
+The whole process takes 10 to 20 minutes. If you want a new implant, we guide you on where to get it placed; if you prefer the pill or the shot, we start them during the same visit so you are not left unprotected.
+
+## If the implant cannot be felt
+
+In a few cases the implant sits deeper and cannot be felt under the skin. Removing it blindly can injure nerves or blood vessels, so in that situation we do not attempt it: we do an [ultrasound](/en/services/ultrasonido) to locate it and, if it is very deep, refer you to a specialist. Bring the card or placement record if you have it: it tells us the type of implant and where it was placed.
+
+## Aftercare
+
+Keep the pressure bandage on for 24 hours to avoid a large bruise, and the adhesive strips for 3 to 5 days until they fall off on their own. You can shower the next day without soaking the area. Some bruising, mild soreness and a small scar that fades over months are normal. Come in or call us if there is spreading redness, pus, fever or pain that gets worse after 48 hours.
+
+Remember that contraceptive protection ends the same day the implant is removed. If you do not want a pregnancy, use condoms from that moment or start another method.
+
+## Implant removal in La Porte, no insurance needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No appointment or health insurance needed; the procedure has a flat price we confirm by phone. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "salud-hombre",
@@ -1425,44 +1563,74 @@ ${AREAS_EN}`,
       "Digestive symptom evaluation",
       "Results explained in Spanish",
     ],
-    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Nueva Salud La Porte realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+    longDescription: `Diarrea que no se quita, dolor de estómago, gases, sangre en las evacuaciones o un niño que no sube de peso: muchas veces la respuesta está en un examen de heces. En Clínica Hispana Nueva Salud La Porte lo procesamos en nuestro laboratorio, te explicamos el resultado en español y te damos el tratamiento en la misma clínica.
 
-## ¿Qué incluye?
+## Tipos de examen que realizamos
 
-- Análisis general de heces fecales
-- Detección de parásitos
-- Identificación de infecciones intestinales
-- Evaluación de sangre oculta cuando se requiere
-- Resultados explicados en español
+- **Coproparasitoscópico:** busca parásitos y sus huevos, como giardia, amebas, áscaris y oxiuros; se recomienda en serie de tres muestras de días distintos para mayor precisión
+- **Coprocultivo:** identifica bacterias que causan diarrea infecciosa, como salmonela, shigella, campylobacter y E. coli
+- **Sangre oculta en heces:** detecta sangrado que no se ve a simple vista, útil ante anemia sin causa clara o como tamizaje a partir de los 45 años
+- **Examen general de heces:** consistencia, moco, restos de alimento sin digerir y grasa, que orientan sobre mala absorción
+- **Antígeno de Helicobacter pylori en heces:** la bacteria relacionada con gastritis y úlceras, sin necesidad de endoscopia
 
-## Cuándo es útil
+## Cómo recoger la muestra
 
-Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+Te entregamos un frasco estéril con las instrucciones. Evacúa sobre papel limpio o un recipiente seco, sin que la muestra toque el agua del inodoro ni la orina, y toma con la cucharilla del frasco una porción del tamaño de una nuez, incluyendo las partes con moco o sangre si las hay. Tráela el mismo día, idealmente en menos de 2 horas; si no puedes, guárdala en el refrigerador, nunca en el congelador. Para el estudio de parásitos en serie, recoge una muestra por día durante tres días.
 
-${WHY_ES}
+Avísanos si tomaste antibióticos, antidiarreicos, laxantes o antiácidos en las últimas dos semanas, porque pueden alterar el resultado.
 
-${PAYMENT_ES}
+## Cuándo pedirlo
 
-${AREAS_ES}`,
-    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Nueva Salud La Porte we perform stool tests to find the source and give you the right treatment.
+- Diarrea de más de 3 días, o de cualquier duración si hay fiebre o sangre
+- Dolor abdominal recurrente, inflamación o gases excesivos
+- Comezón anal por la noche, típica de oxiuros en niños
+- Pérdida de peso o anemia sin explicación
+- Después de un viaje o de comer algo en mal estado
+- Chequeo de parásitos para la familia, sobre todo si hay niños pequeños o mascotas
 
-## What's included?
+## Resultados y tratamiento
 
-- General stool analysis
-- Parasite detection
-- Identification of intestinal infections
-- Occult-blood evaluation when needed
-- Results explained in Spanish
+El examen general y el de parásitos suelen estar listos en 24 a 48 horas; el coprocultivo tarda 2 a 3 días. El médico revisa contigo el resultado y, si hay parásitos o bacterias, te da el tratamiento para ti y, cuando aplica, para toda la familia, disponible en nuestra [farmacia](/services/farmacia). Si la causa parece intolerancia, colon irritable o algo que requiere estudios más amplios, completamos con [análisis de sangre](/services/examenes-sangre) o un [ultrasonido abdominal](/services/ultrasonido) y te referimos si hace falta.
 
-## When it helps
+Si la diarrea viene con vómito y no puedes retener líquidos, también podemos hidratarte con [suero intravenoso](/services/sueros-vitaminados) en la clínica.
 
-Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+## Examen de heces en La Porte, sin cita
 
-${WHY_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Puedes pasar por el frasco un día y traer la muestra al siguiente, sin cita. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `Diarrhea that will not go away, stomach pain, gas, blood in your stool or a child who is not gaining weight: very often the answer is in a stool test. At Clínica Hispana Nueva Salud La Porte we process it in our lab, explain the result in Spanish or English and give you treatment in the same clinic.
 
-${PAYMENT_EN}
+## Types of stool tests we perform
 
-${AREAS_EN}`,
+- **Ova and parasite exam:** looks for parasites and their eggs, such as giardia, amoebas, roundworms and pinworms; a series of three samples from different days is recommended for better accuracy
+- **Stool culture:** identifies bacteria that cause infectious diarrhea, such as salmonella, shigella, campylobacter and E. coli
+- **Fecal occult blood:** detects bleeding not visible to the naked eye, useful with unexplained anemia or as screening from age 45
+- **General stool exam:** consistency, mucus, undigested food and fat, which point to malabsorption
+- **Helicobacter pylori stool antigen:** the bacterium linked to gastritis and ulcers, without needing an endoscopy
+
+## How to collect the sample
+
+We give you a sterile container with instructions. Have the bowel movement onto clean paper or a dry container, without the sample touching toilet water or urine, and use the container's scoop to take a walnut-sized portion, including any parts with mucus or blood. Bring it the same day, ideally within 2 hours; if you cannot, keep it in the refrigerator, never the freezer. For the parasite series, collect one sample per day for three days.
+
+Let us know if you took antibiotics, anti-diarrheals, laxatives or antacids in the last two weeks, because they can affect the result.
+
+## When to request it
+
+- Diarrhea lasting more than 3 days, or of any length if there is fever or blood
+- Recurring abdominal pain, bloating or excessive gas
+- Anal itching at night, typical of pinworms in children
+- Unexplained weight loss or anemia
+- After a trip or after eating something spoiled
+- A parasite check for the family, especially with small children or pets at home
+
+## Results and treatment
+
+The general exam and parasite exam are usually ready in 24 to 48 hours; the stool culture takes 2 to 3 days. The physician reviews the result with you and, if there are parasites or bacteria, gives you treatment for yourself and, when appropriate, for the whole family, available at our [pharmacy](/en/services/farmacia). If the cause looks like an intolerance, irritable bowel or something that needs broader studies, we complete the workup with [blood work](/en/services/examenes-sangre) or an [abdominal ultrasound](/en/services/ultrasonido) and refer you if needed.
+
+If the diarrhea comes with vomiting and you cannot keep fluids down, we can also rehydrate you with an [IV drip](/en/services/sueros-vitaminados) at the clinic.
+
+## Stool testing in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. You can pick up the container one day and bring the sample the next, with no appointment. No health insurance needed; the price is flat and we confirm it by phone. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "prueba-strep",
@@ -1503,44 +1671,80 @@ ${AREAS_EN}`,
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Nueva Salud La Porte hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+    longDescription: `Un dolor de garganta que aparece de golpe, con fiebre y sin tos, puede ser estreptococo, y esa sí necesita antibiótico. En Clínica Hispana Nueva Salud La Porte hacemos la prueba rápida en la misma visita, te damos el resultado en 10 minutos y, si sale positiva, sales con el tratamiento. Sin cita, en español y también los fines de semana.
 
-## ¿Qué incluye?
+## Cómo saber si puede ser estreptococo
 
-- Prueba rápida de estreptococo (hisopado de garganta)
-- Resultado en pocos minutos
-- Evaluación del dolor de garganta
-- Tratamiento adecuado si el resultado es positivo
-- Indicaciones de recuperación
+La faringitis por estreptococo del grupo A es más frecuente en niños de 5 a 15 años, pero también afecta a adultos, sobre todo a padres y maestros. Las señales que la distinguen de una gripe común son:
 
-## Cuándo hacerla
+- Dolor de garganta intenso que empezó en pocas horas
+- Fiebre de 38 °C o más
+- Amígdalas rojas e inflamadas, a veces con placas blancas
+- Puntitos rojos en el paladar
+- Ganglios del cuello inflamados y dolorosos
+- Ausencia de tos, mocos o ronquera, que son más típicos de los virus
+- En niños, dolor de estómago, náusea o un sarpullido áspero en el cuerpo (escarlatina)
 
-Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+Si tu síntoma principal es tos, congestión o dolor de cuerpo, lo más probable es un virus, y entonces conviene la [prueba de flu y COVID](/services/enfermedades-respiratorias).
 
-${WHY_ES}
+## Cómo es la prueba
 
-${PAYMENT_ES}
+Pasamos un hisopo por el fondo de la garganta y las amígdalas durante unos segundos. Es incómodo pero no duele, y en niños lo hacemos rápido y con calma. El resultado de la prueba rápida está en unos 10 minutos. Si sale negativa pero los síntomas son muy sugestivos, sobre todo en niños, podemos enviar un cultivo de garganta que confirma en 24 a 48 horas, porque la prueba rápida a veces no detecta casos leves.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Nueva Salud La Porte we run the rapid strep test and give you the result and treatment the same day.
+## Tratamiento
 
-## What's included?
+Si la prueba es positiva, el médico indica un antibiótico, generalmente penicilina o amoxicilina durante 10 días, que puedes surtir en nuestra [farmacia](/services/farmacia). El dolor y la fiebre mejoran en 24 a 48 horas, pero es importante terminar todo el tratamiento para evitar complicaciones como la fiebre reumática o problemas en los riñones. Para el dolor recomendamos paracetamol o ibuprofeno, líquidos frescos, paletas de hielo y gárgaras con agua tibia y sal.
 
-- Rapid strep test (throat swab)
-- Result in minutes
-- Sore-throat evaluation
-- Appropriate treatment if the result is positive
-- Recovery instructions
+Después de 24 horas de antibiótico ya no contagias y puedes volver a la escuela o al trabajo si te sientes bien. Cambia el cepillo de dientes al terminar el tratamiento.
 
-## When to get it
+## Si se repite mucho
 
-Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+Algunas personas tienen varios episodios al año. En esos casos revisamos si hay portadores en casa, evaluamos la técnica de tratamiento y, si son más de 5 o 6 episodios anuales, te referimos al otorrinolaringólogo para valorar las amígdalas.
 
-${WHY_EN}
+## Constancia para la escuela o el trabajo
 
-${PAYMENT_EN}
+Te entregamos el resultado por escrito y un justificante con los días de reposo indicados.
 
-${AREAS_EN}`,
+## Prueba de estreptococo en La Porte, sin cita
+
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando el niño amanece con la garganta cerrada un domingo, aquí lo atendemos sin pasar por urgencias. No necesitas seguro médico; la consulta y la prueba tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `A sore throat that comes on suddenly, with fever and no cough, may be strep, and that one does need an antibiotic. At Clínica Hispana Nueva Salud La Porte we run the rapid test during the same visit, give you the result in 10 minutes and, if it is positive, you leave with treatment. No appointment, in Spanish or English, and on weekends too.
+
+## How to tell if it might be strep
+
+Group A strep pharyngitis is most common in children ages 5 to 15, but it also affects adults, especially parents and teachers. The signs that set it apart from a common cold are:
+
+- Intense sore throat that started within a few hours
+- Fever of 100.4 °F or higher
+- Red, swollen tonsils, sometimes with white patches
+- Tiny red spots on the roof of the mouth
+- Swollen, tender neck glands
+- No cough, runny nose or hoarseness, which are more typical of viruses
+- In children, stomach pain, nausea or a rough rash on the body (scarlet fever)
+
+If your main symptom is cough, congestion or body aches, a virus is more likely, and then the [flu and COVID test](/en/services/enfermedades-respiratorias) makes more sense.
+
+## What the test is like
+
+We run a swab across the back of the throat and tonsils for a few seconds. It is uncomfortable but not painful, and with children we do it quickly and calmly. The rapid test result is ready in about 10 minutes. If it is negative but symptoms strongly suggest strep, especially in children, we can send a throat culture that confirms in 24 to 48 hours, because the rapid test sometimes misses mild cases.
+
+## Treatment
+
+If the test is positive, the physician prescribes an antibiotic, usually penicillin or amoxicillin for 10 days, which you can fill at our [pharmacy](/en/services/farmacia). Pain and fever improve in 24 to 48 hours, but it is important to finish the full course to avoid complications such as rheumatic fever or kidney problems. For pain we recommend acetaminophen or ibuprofen, cool liquids, ice pops and warm salt-water gargles.
+
+After 24 hours on the antibiotic you are no longer contagious and can return to school or work if you feel well. Replace your toothbrush when you finish treatment.
+
+## If it keeps coming back
+
+Some people have several episodes a year. In those cases we check for carriers at home, review how treatment was taken and, if there are more than 5 or 6 episodes a year, refer you to an ENT specialist to evaluate the tonsils.
+
+## Note for school or work
+
+We give you the written result and a note with the recommended days off.
+
+## Strep testing in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. When your child wakes up on a Sunday with a throat that feels closed, we see them here without a trip to the ER. No health insurance needed; the visit and the test have a flat price. We serve families from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "prueba-tuberculosis",
@@ -1891,42 +2095,62 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud La Porte lo realizamos como parte de chequeos y exámenes médicos.
+    longDescription: `El electrocardiograma (EKG o ECG) registra la actividad eléctrica del corazón en unos 5 minutos, sin dolor y sin radiación. En Clínica Hispana Nueva Salud La Porte lo hacemos sin cita y el médico lo interpreta en el momento, así que sales de la clínica sabiendo cómo está tu ritmo cardiaco, en español.
 
-## ¿Qué incluye?
+## Para qué sirve
 
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
+- Detectar arritmias: latidos irregulares, muy rápidos o muy lentos
+- Identificar señales de un infarto previo o de falta de riego al corazón
+- Ver si la presión alta ya está engrosando el músculo cardiaco
+- Revisar alteraciones por potasio o calcio fuera de rango
+- Evaluar el corazón antes de una cirugía o de empezar ciertos medicamentos
+- Completar exámenes médicos de trabajo, deportivos o de [inmigración](/services/examenes-inmigracion) cuando lo piden
 
-## Cuándo se recomienda
+## Cuándo conviene hacerlo
 
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
+Ven a hacerte un EKG si sientes palpitaciones, el corazón que se salta latidos, mareos o desmayos, falta de aire al hacer esfuerzo, o dolor u opresión en el pecho que va y viene. También si tienes [presión alta, diabetes o colesterol elevado](/services/condiciones-cronicas), si fumas, si en tu familia hubo infartos antes de los 55 años o si tienes más de 40 y nunca te lo has hecho. Para los trabajadores de las plantas y refinerías de la zona, el EKG suele formar parte del examen médico periódico.
 
-${WHY_ES}
+**Importante:** si en este momento tienes dolor fuerte en el pecho, sudor frío, dolor que se va al brazo o la mandíbula, o mucha dificultad para respirar, no vengas a la clínica: llama al 911. Esos síntomas se atienden en un hospital.
 
-${PAYMENT_ES}
+## Cómo es el estudio
 
-${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud La Porte we perform it as part of checkups and medical exams.
+Te recuestas en la camilla y colocamos 10 electrodos adhesivos en el pecho, los brazos y las piernas. El equipo registra la señal durante unos segundos mientras respiras normal y te quedas quieto. No pasa electricidad hacia tu cuerpo; solo la lee. Ven con ropa de dos piezas que sea fácil de subir o quitar, evita cremas o aceites en el pecho ese día y, si tienes mucho vello, quizá sea necesario rasurar pequeñas zonas para que los electrodos peguen bien. Antes del estudio no tomes café ni fumes durante una hora.
 
-## What's included?
+## Resultados y siguientes pasos
 
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
+El médico lee el trazo en la misma visita y te explica qué significa. Si el EKG es normal pero los síntomas continúan, o si muestra una alteración, complementamos con [análisis de sangre](/services/examenes-sangre), como electrolitos, tiroides o perfil de lípidos, y te referimos con un cardiólogo con el trazo impreso para que no tengas que repetirlo. Un EKG normal no descarta todo; por eso siempre lo valoramos junto con tus síntomas y tu historial.
 
-## When it's recommended
+## Electrocardiograma sin seguro en La Porte
 
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas orden médica ni seguro: el EKG con interpretación tiene precio fijo que te confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point.`,
+    longDescriptionEn: `An electrocardiogram (EKG or ECG) records the heart's electrical activity in about 5 minutes, with no pain and no radiation. At Clínica Hispana Nueva Salud La Porte we do it with no appointment and the physician interprets it on the spot, so you leave the clinic knowing how your heart rhythm is, in Spanish or English.
 
-${WHY_EN}
+## What it is for
 
-${PAYMENT_EN}
+- Detecting arrhythmias: irregular, very fast or very slow heartbeats
+- Identifying signs of a previous heart attack or poor blood flow to the heart
+- Seeing whether high blood pressure is already thickening the heart muscle
+- Checking for changes caused by potassium or calcium out of range
+- Evaluating the heart before surgery or before starting certain medications
+- Completing work, sports or [immigration](/en/services/examenes-inmigracion) medical exams when required
 
-${AREAS_EN}`,
+## When it makes sense
+
+Come for an EKG if you feel palpitations, skipped beats, dizziness or fainting, shortness of breath with exertion, or chest pain or pressure that comes and goes. Also if you have [high blood pressure, diabetes or high cholesterol](/en/services/condiciones-cronicas), if you smoke, if there were heart attacks in your family before age 55, or if you are over 40 and have never had one. For workers at the area's plants and refineries, an EKG is often part of the periodic medical exam.
+
+**Important:** if right now you have severe chest pain, cold sweat, pain spreading to your arm or jaw, or serious trouble breathing, do not come to the clinic: call 911. Those symptoms are handled in a hospital.
+
+## What the test is like
+
+You lie down on the exam table and we place 10 adhesive electrodes on your chest, arms and legs. The machine records the signal for a few seconds while you breathe normally and stay still. No electricity goes into your body; it only reads it. Wear two-piece clothing that is easy to lift or remove, avoid creams or oils on your chest that day and, if you have a lot of chest hair, small areas may need to be shaved so the electrodes stick well. Do not drink coffee or smoke for an hour before the test.
+
+## Results and next steps
+
+The physician reads the tracing during the same visit and explains what it means. If the EKG is normal but symptoms continue, or if it shows an abnormality, we complete the workup with [blood work](/en/services/examenes-sangre), such as electrolytes, thyroid or a lipid panel, and refer you to a cardiologist with the printed tracing so you do not have to repeat it. A normal EKG does not rule out everything; that is why we always assess it together with your symptoms and history.
+
+## EKG without insurance in La Porte
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No doctor's order or insurance needed: the EKG with interpretation has a flat price we confirm by phone. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point.`,
   },
   {
     slug: "ultrasonido",
