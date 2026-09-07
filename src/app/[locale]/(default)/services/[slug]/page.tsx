@@ -207,6 +207,7 @@ export default async function ServiceDetailPage({
                 "[&_h3]:mt-6 [&_h3]:font-heading [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:text-slate-dark",
                 "[&_p]:leading-relaxed [&_p]:text-slate-primary",
                 "[&_ul]:list-disc [&_ul]:space-y-1.5 [&_ul]:pl-5 [&_li]:text-slate-primary [&_li]:leading-relaxed",
+                "[&_ol]:list-decimal [&_ol]:space-y-1.5 [&_ol]:pl-5",
                 "[&_strong]:font-semibold [&_strong]:text-slate-dark",
               )}
             >

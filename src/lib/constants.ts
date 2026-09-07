@@ -771,50 +771,62 @@ ${AREAS_EN}`,
     ],
     longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud La Porte ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
 
-## ¿Qué incluye?
+## Papanicolaou: cuándo y cómo
 
-- Papanicolaou y chequeo ginecológico
-- Cultivos vaginales para identificar infecciones
-- Tratamiento de infecciones vaginales (hongos, bacterias)
-- Evaluación de molestias y flujo anormal
-- Referencias cuando se necesita un especialista
+El papanicolaou detecta cambios en el cuello del útero antes de que se conviertan en cáncer. Se recomienda a partir de los 21 años y hasta los 65, cada 3 años si el resultado es normal, o cada 5 años cuando se combina con la prueba de VPH después de los 30. Si nunca te lo has hecho o llevas años sin hacerlo, no pasa nada: lo importante es empezar hoy.
 
-## No te quedes con la duda
+La toma dura menos de 10 minutos. Para un resultado confiable, evita relaciones sexuales, duchas vaginales, óvulos y cremas durante las 48 horas previas, y procura no venir en los días de sangrado abundante. El resultado tarda de 1 a 2 semanas; si sale alterado, te lo explicamos con calma y organizamos el seguimiento o la referencia a colposcopia.
 
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+## Infecciones vaginales: cultivo y tratamiento
+
+Comezón, ardor, flujo con color u olor distinto o molestias al tener relaciones suelen deberse a candidiasis (hongos), vaginosis bacteriana o tricomoniasis. Cada una se trata diferente, y usar óvulos de farmacia una y otra vez sin saber cuál tienes es la razón por la que muchas infecciones regresan. Con el cultivo identificamos la causa y en la mayoría de los casos empiezas el tratamiento el mismo día.
+
+Nuestra promoción de [salud íntima femenina por $69](/promociones) incluye cultivo, consulta médica y examen de orina. Si el síntoma principal es ardor al orinar, puede tratarse de una [infección urinaria](/services/infecciones-urinarias), y si hubo una relación de riesgo conviene agregar [pruebas de ETS](/services/enfermedades-transmision-sexual).
+
+## También en tu visita ginecológica
+
+- Orientación e inicio de [anticonceptivos](/services/anticonceptivos)
+- [Prueba de embarazo](/services/prueba-embarazo) en orina o sangre
+- [Ultrasonido pélvico](/services/ultrasonido) para quistes, miomas o dolor
+- Consulta por sangrado irregular, dolor pélvico, cólicos intensos o síntomas de menopausia
+- [Chequeo completo de la mujer por $179](/promociones), con laboratorio incluido
+
+## Cómo es la consulta
+
+Te atendemos en un consultorio privado, con puerta cerrada, y el médico te explica cada paso antes de hacerlo. Puedes venir acompañada si así lo prefieres. Trae la fecha de tu última regla, la lista de medicamentos o anticonceptivos que usas y, si tienes papanicolaou o estudios anteriores, tráelos para compararlos. Ven con ropa cómoda.
 
 ## Ginecología en una clínica hispana cerca de ti
 
-Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita: visita nuestra clínica hispana y te atendemos el mismo día, con precios accesibles y en tu idioma.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita ni seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir después del trabajo o el fin de semana. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point, con precios accesibles que te informamos antes de la consulta.`,
     longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud La Porte we offer gynecology care in Spanish, with the privacy and respect you deserve.
 
-## What's included?
+## Pap smear: when and how
 
-- Pap smear and gynecological checkup
-- Vaginal cultures to identify infections
-- Treatment of vaginal infections (yeast, bacteria)
-- Evaluation of discomfort and abnormal discharge
-- Referrals when a specialist is needed
+A Pap smear detects changes in the cervix before they turn into cancer. It is recommended from age 21 to 65, every 3 years if the result is normal, or every 5 years when combined with HPV testing after 30. If you have never had one or it has been years, that is fine: what matters is starting today.
 
-## Don't stay in doubt
+The test takes less than 10 minutes. For a reliable result, avoid intercourse, douching, vaginal suppositories and creams for the 48 hours before, and try not to come on heavy bleeding days. Results take 1 to 2 weeks; if something is abnormal, we explain it calmly and arrange follow-up or a colposcopy referral.
 
-Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+## Vaginal infections: culture and treatment
+
+Itching, burning, discharge with an unusual color or odor, or discomfort during sex are usually caused by yeast (candidiasis), bacterial vaginosis or trichomoniasis. Each is treated differently, and using over-the-counter suppositories again and again without knowing which one you have is why many infections keep coming back. A culture identifies the cause, and in most cases you start treatment the same day.
+
+Our [women's intimate health promotion for $69](/en/promociones) includes the culture, a medical consultation and a urine test. If the main symptom is burning when urinating, it may be a [urinary tract infection](/en/services/infecciones-urinarias), and if there was a risky encounter it is worth adding [STD testing](/en/services/enfermedades-transmision-sexual).
+
+## Also during your gynecology visit
+
+- Guidance on and starting [birth control](/en/services/anticonceptivos)
+- [Pregnancy test](/en/services/prueba-embarazo) in urine or blood
+- [Pelvic ultrasound](/en/services/ultrasonido) for cysts, fibroids or pain
+- Consultation for irregular bleeding, pelvic pain, severe cramps or menopause symptoms
+- [Complete women's checkup for $179](/en/promociones), with lab work included
+
+## What the visit is like
+
+You are seen in a private exam room with the door closed, and the physician explains each step before doing it. You are welcome to bring someone with you. Bring the date of your last period, the list of medications or contraceptives you use and, if you have previous Pap smears or studies, bring them for comparison. Wear comfortable clothing.
 
 ## Gynecology at a Hispanic clinic near you
 
-If you're looking for gynecology care in Spanish in La Porte, TX, no appointment is needed: visit our Hispanic clinic and we'll see you the same day, with affordable pricing and in your language.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you are looking for gynecology care in Spanish in La Porte, TX, you need neither an appointment nor health insurance. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend. We care for women from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point, with affordable prices we tell you before the visit.`,
   },
   {
     slug: "prueba-embarazo",
@@ -855,42 +867,62 @@ ${AREAS_EN}`,
       "Guidance on next steps",
       "Care in Spanish",
     ],
-    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Nueva Salud La Porte realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+    longDescription: `¿Tienes un retraso y quieres salir de la duda hoy? En Clínica Hispana Nueva Salud La Porte hacemos pruebas de embarazo en orina y en sangre sin cita, con el resultado explicado por personal médico y en español. Sea cual sea el resultado, te acompañamos con información clara y sin juicios.
 
-## ¿Qué incluye?
+## Prueba de orina o prueba de sangre
 
-- Prueba de embarazo (orina o sangre)
-- Confirmación médica del resultado
-- Orientación sobre tus siguientes pasos
-- Información sobre control prenatal y referencias
+La **prueba de orina** da resultado en minutos y es confiable desde el primer día de retraso; funciona mejor con la primera orina de la mañana, cuando la hormona está más concentrada. La **prueba de sangre** (hCG cuantitativa) detecta el embarazo antes, entre 7 y 10 días después de la concepción, y además mide el nivel exacto de la hormona, lo que sirve para dar seguimiento a un embarazo muy temprano o cuando hay dolor o sangrado que preocupa. El médico te recomienda cuál conviene según tu caso y cuántos días de retraso tienes.
 
-## Con confianza y respeto
+## Confirmación con ultrasonido
 
-Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+Si la prueba es positiva, a partir de la sexta semana un [ultrasonido](/services/ultrasonido) permite ver el saco gestacional, escuchar el latido y calcular la fecha probable de parto. Lo hacemos en la misma clínica, sin tener que ir a otro lugar.
 
-${WHY_ES}
+## Si el resultado es positivo
 
-${PAYMENT_ES}
+- Calculamos las semanas de embarazo y la fecha probable de parto
+- Te explicamos lo básico para empezar bien: ácido fólico, vitaminas prenatales, qué alimentos y medicamentos evitar
+- Podemos hacer los [análisis de sangre](/services/examenes-sangre) iniciales: tipo de sangre y Rh, hemoglobina, glucosa y pruebas de infecciones
+- Te orientamos sobre las opciones de control prenatal en el área y te damos la referencia que necesites
 
-${AREAS_ES}`,
-    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Nueva Salud La Porte we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+## Si el resultado es negativo
 
-## What's included?
+Un retraso no siempre es embarazo. El estrés, los cambios de peso, los problemas de [tiroides](/services/tiroides), el ovario poliquístico o el cambio de anticonceptivo también alteran el ciclo. Si la regla no llega en una semana, repetimos la prueba; si los retrasos se repiten, lo evaluamos en la consulta de [ginecología](/services/ginecologia). Y si no buscas un embarazo, podemos revisar juntas la opción de [anticonceptivos](/services/anticonceptivos) que mejor te funcione.
 
-- Pregnancy test (urine or blood)
-- Medical confirmation of the result
-- Guidance on your next steps
-- Information on prenatal care and referrals
+## Privacidad y respeto
 
-## With trust and respect
+La prueba se hace en un consultorio privado y el resultado solo se comparte contigo. Como pagas directamente, sin seguro, no llega ningún documento a tu casa. Puedes venir sola o acompañada por quien tú decidas.
 
-We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+## Prueba de embarazo en La Porte, hoy mismo
 
-${WHY_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos los 7 días: de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas cita ni seguro médico; el precio de la prueba es accesible y te lo decimos por teléfono. Atendemos a mujeres de La Porte, Deer Park, Pasadena y Shoreacres.`,
+    longDescriptionEn: `Is your period late and you want an answer today? At Clínica Hispana Nueva Salud La Porte we perform urine and blood pregnancy tests with no appointment, with the result explained by medical staff in Spanish or English. Whatever the result, we support you with clear information and no judgment.
 
-${PAYMENT_EN}
+## Urine test or blood test
 
-${AREAS_EN}`,
+The **urine test** gives a result in minutes and is reliable from the first day of a missed period; it works best with the first urine of the morning, when the hormone is most concentrated. The **blood test** (quantitative hCG) detects pregnancy earlier, 7 to 10 days after conception, and also measures the exact hormone level, which is useful for following a very early pregnancy or when there is worrying pain or bleeding. The physician recommends the right one for your situation and how many days late you are.
+
+## Confirmation with ultrasound
+
+If the test is positive, from the sixth week an [ultrasound](/en/services/ultrasonido) shows the gestational sac, lets you hear the heartbeat and calculates your due date. We do it in the same clinic, no need to go anywhere else.
+
+## If the result is positive
+
+- We calculate how many weeks along you are and your due date
+- We explain the basics for a healthy start: folic acid, prenatal vitamins, which foods and medications to avoid
+- We can run the initial [blood work](/en/services/examenes-sangre): blood type and Rh, hemoglobin, glucose and infection screening
+- We guide you on prenatal-care options in the area and provide any referral you need
+
+## If the result is negative
+
+A late period is not always pregnancy. Stress, weight changes, [thyroid](/en/services/tiroides) problems, polycystic ovaries or switching contraceptives can also disrupt your cycle. If your period does not arrive within a week, we repeat the test; if delays keep happening, we evaluate them in a [gynecology](/en/services/ginecologia) visit. And if you are not trying to get pregnant, we can go over the [birth control](/en/services/anticonceptivos) option that works best for you.
+
+## Privacy and respect
+
+The test is done in a private exam room and the result is shared only with you. Because you pay directly, without insurance, no paperwork is mailed to your home. Come alone or with whoever you choose.
+
+## Pregnancy test in La Porte, today
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open 7 days a week: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No appointment or health insurance needed; the test is affordably priced and we can tell you the cost by phone. We care for women from La Porte, Deer Park, Pasadena and Shoreacres.`,
   },
   {
     slug: "anticonceptivos",
@@ -1175,44 +1207,98 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud La Porte tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `¿Necesitas análisis de sangre cerca de ti sin esperar semanas por una cita? En Clínica Hispana Nueva Salud La Porte tomamos la muestra el mismo día que llegas, sin cita, y un médico te explica los resultados en español. Sales sabiendo qué significa cada valor y qué hacer después.
 
-## ¿Qué incluye?
+## Pruebas de laboratorio que realizamos
 
-- Biometría hemática completa (conteo de células)
-- Química sanguínea (glucosa, colesterol, triglicéridos)
-- Pruebas de tiroides, hígado y riñón
-- Paneles para chequeo general o seguimiento
-- Resultados rápidos en la mayoría de los casos
+- Biometría hemática completa (CBC): detecta anemia, infecciones y problemas de plaquetas
+- Química sanguínea y panel metabólico: glucosa, electrolitos, función renal y hepática
+- Perfil de lípidos: colesterol total, HDL, LDL y triglicéridos
+- Hemoglobina glicosilada (A1C) para diagnosticar y controlar la diabetes
+- Perfil tiroideo con [TSH, T3 y T4](/services/tiroides)
+- Pruebas hormonales: testosterona, estrógenos, progesterona y prolactina
+- Vitamina B12, vitamina D, hierro y ferritina
+- [Prueba de embarazo en sangre](/services/prueba-embarazo) (hCG cuantitativa)
+- [Pruebas de infecciones de transmisión sexual](/services/enfermedades-transmision-sexual)
+- Tipo de sangre y factor Rh
 
-## Para qué sirven
+Si tu médico o tu empleador te dio una orden con pruebas específicas, tráela y la seguimos al pie de la letra.
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+## ¿Cuándo conviene hacerse un análisis de sangre?
 
-${WHY_ES}
+- Cansancio constante, mareos, caída de cabello o cambios de peso sin explicación
+- Antecedentes familiares de diabetes, colesterol alto o problemas de tiroides
+- Control de una [condición crónica](/services/condiciones-cronicas) como diabetes o presión alta
+- Chequeo anual aunque te sientas bien: la diabetes y el colesterol alto no dan síntomas al principio
+- Requisito de trabajo, escuela o algún trámite
 
-${PAYMENT_ES}
+## Cómo prepararte
 
-${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud La Porte we draw your samples on the spot and explain your results in Spanish, without the jargon.
+Para glucosa, colesterol y triglicéridos necesitas entre 8 y 12 horas de ayuno; puedes tomar agua. Si solo te vas a hacer A1C, tiroides, B12 o pruebas hormonales, no hace falta ayunar. No suspendas tus medicamentos a menos que un médico te lo indique. Como abrimos a las 9 de la mañana, puedes venir temprano, sacarte la sangre y desayunar después. Trae tu lista de medicamentos y, si tienes resultados de otro laboratorio, tráelos también para compararlos.
 
-## What's included?
+## Resultados explicados, no solo un papel
 
-- Complete blood count (CBC)
-- Blood chemistry (glucose, cholesterol, triglycerides)
-- Thyroid, liver and kidney tests
-- Panels for general checkups or follow-up
-- Fast results in most cases
+La mayoría de las pruebas de rutina están listas en 24 a 48 horas y algunas el mismo día. Cuando llegan, un médico los revisa contigo: qué está bien, qué está fuera de rango y qué significa para ti. Si algo necesita atención, iniciamos tratamiento o seguimiento en esa misma visita, sin mandarte a otro lugar. También te entregamos tu copia impresa para que la lleves a donde la necesites.
 
-## Why they matter
+## Paquetes con precio fijo
 
-Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+- [Chequeo general completo por $99](/promociones): examen general de sangre, A1C, examen de orina y consulta médica incluida
+- Examen general de sangre más inyección de vitamina B12 por $99
+- Revisa tu testosterona por $79
+- Chequeo completo de la mujer por $179
+- Perfil hormonal para hombres por $200
 
-${WHY_EN}
+Cualquier prueba también se puede hacer por separado. Te decimos el precio exacto antes de tomar la muestra.
 
-${PAYMENT_EN}
+## Laboratorio en La Porte, sin seguro y en español
 
-${AREAS_EN}`,
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a pocos minutos de Deer Park, Pasadena y Shoreacres. Abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir saliendo del trabajo o el fin de semana. No necesitas seguro médico: pagas en efectivo o con tarjeta, con el precio informado por adelantado.`,
+    longDescriptionEn: `Need blood work near you without waiting weeks for an appointment? At Clínica Hispana Nueva Salud La Porte we draw your sample the same day you walk in, no appointment needed, and a physician explains your results in Spanish or English. You leave knowing what each value means and what to do next.
+
+## Lab tests we perform
+
+- Complete blood count (CBC): detects anemia, infections and platelet problems
+- Blood chemistry and metabolic panel: glucose, electrolytes, kidney and liver function
+- Lipid panel: total cholesterol, HDL, LDL and triglycerides
+- Hemoglobin A1C to diagnose and monitor diabetes
+- Thyroid panel with [TSH, T3 and T4](/en/services/tiroides)
+- Hormone tests: testosterone, estrogen, progesterone and prolactin
+- Vitamin B12, vitamin D, iron and ferritin
+- [Blood pregnancy test](/en/services/prueba-embarazo) (quantitative hCG)
+- [Sexually transmitted infection testing](/en/services/enfermedades-transmision-sexual)
+- Blood type and Rh factor
+
+If your doctor or employer gave you an order with specific tests, bring it and we follow it exactly.
+
+## When should you get blood work?
+
+- Constant fatigue, dizziness, hair loss or unexplained weight changes
+- Family history of diabetes, high cholesterol or thyroid problems
+- Monitoring a [chronic condition](/en/services/condiciones-cronicas) such as diabetes or high blood pressure
+- An annual checkup even if you feel fine: diabetes and high cholesterol show no symptoms at first
+- A requirement for work, school or paperwork
+
+## How to prepare
+
+Glucose, cholesterol and triglycerides require 8 to 12 hours of fasting; water is fine. If you are only having A1C, thyroid, B12 or hormone tests, no fasting is needed. Do not stop your medications unless a physician tells you to. Since we open at 9 AM, you can come early, get your blood drawn and have breakfast afterward. Bring your medication list and, if you have results from another lab, bring those too so we can compare.
+
+## Results explained, not just a printout
+
+Most routine tests are ready in 24 to 48 hours, and some the same day. When they arrive, a physician goes over them with you: what is normal, what is out of range and what it means for you. If something needs attention, we start treatment or follow-up during that same visit, without sending you somewhere else. You also get a printed copy to take wherever you need it.
+
+## Flat-price packages
+
+- [Complete general checkup for $99](/en/promociones): full blood panel, A1C, urine test and medical consultation included
+- Full blood panel plus a vitamin B12 shot for $99
+- Check your testosterone for $79
+- Complete women's checkup for $179
+- Hormone panel for men for $200
+
+Any test can also be ordered on its own. We tell you the exact price before drawing your sample.
+
+## A lab in La Porte, no insurance needed, in Spanish
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, a few minutes from Deer Park, Pasadena and Shoreacres. We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend. No health insurance needed: pay with cash or card, with the price quoted up front.`,
   },
   {
     slug: "infecciones-urinarias",
@@ -1495,42 +1581,70 @@ ${AREAS_EN}`,
       "Useful for work and school",
       "Care in Spanish",
     ],
-    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Nueva Salud La Porte la aplicamos y leemos el resultado, con todo explicado en español.
+    longDescription: `¿Te piden una prueba de tuberculosis para el trabajo, la escuela o un trámite? En Clínica Hispana Nueva Salud La Porte aplicamos la prueba cutánea PPD sin cita, hacemos la lectura entre 48 y 72 horas después y te entregamos el resultado por escrito, todo explicado en español.
 
-## ¿Qué incluye?
+## Cómo funciona la prueba PPD
 
-- Prueba cutánea de tuberculosis (PPD)
-- Cita de lectura del resultado (48–72 horas después)
-- Documentación del resultado para tu trámite
-- Orientación si el resultado requiere seguimiento
+**Día 1, aplicación.** Colocamos una pequeña cantidad de tuberculina justo debajo de la piel del antebrazo. Tarda menos de cinco minutos y forma una ampollita que desaparece en unas horas. No la tapes con curita, no la rasques y báñate con normalidad.
 
-## Para qué la piden
+**Día 3, lectura.** Regresas entre 48 y 72 horas después. Medimos en milímetros la induración, es decir, la zona endurecida, no el enrojecimiento. Con eso se define el resultado y te lo entregamos firmado, con fecha y número de lote, listo para tu empleador o escuela.
 
-Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+Si no regresas dentro de esa ventana, la prueba pierde validez y hay que repetirla desde el principio. Por eso te damos la fecha exacta de lectura antes de que te vayas.
 
-${WHY_ES}
+## Quién suele necesitarla
 
-${PAYMENT_ES}
+- Personal de salud, cuidadores, asistentes de enfermería (CNA) y trabajadores de guarderías
+- Estudiantes de enfermería, medicina y programas técnicos
+- Maestros y personal escolar
+- Trabajadores de plantas, construcción y alimentos cuando el empleador lo exige
+- Voluntarios en refugios o iglesias
+- Trámites que requieran constancia de no tener tuberculosis activa
 
-${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Nueva Salud La Porte we administer it and read the result, with everything explained in Spanish.
+Para el examen médico de inmigración (I-693) se utiliza una prueba de sangre específica en lugar de la cutánea; la coordinamos como parte de nuestros [exámenes de inmigración](/services/examenes-inmigracion).
 
-## What's included?
+## Prueba de dos pasos
 
-- Tuberculosis skin test (PPD)
-- Result-reading appointment (48–72 hours later)
-- Documentation of the result for your paperwork
-- Guidance if the result needs follow-up
+Muchos hospitales y agencias de cuidado piden una PPD de dos pasos al ingresar: si la primera sale negativa, se repite entre una y tres semanas después. Te programamos las dos aplicaciones y las dos lecturas para que cumplas el requisito sin errores.
 
-## Why it's required
+## ¿Y si sale positiva?
 
-Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
+Un resultado positivo no significa que tengas tuberculosis activa. Puede tratarse de una infección latente, que no contagia, o de una reacción a la vacuna BCG que muchas personas recibieron de niños en México y Centroamérica. En ese caso el médico revisa tus síntomas, te refiere para una radiografía de tórax y te explica qué documento entregar mientras tanto. Si tuviste la vacuna BCG, dínoslo desde el inicio para orientarte mejor.
 
-${WHY_EN}
+## Prueba de TB en La Porte, 7 días a la semana
 
-${PAYMENT_EN}
+Como abrimos todos los días, es fácil cuadrar la lectura: si te la aplicas el lunes, la leemos el miércoles o jueves; si vienes el jueves, la leemos el sábado o el domingo. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico y el precio es fijo; pregúntalo por teléfono antes de venir.`,
+    longDescriptionEn: `Do you need a tuberculosis test for work, school or paperwork? At Clínica Hispana Nueva Salud La Porte we place the PPD skin test with no appointment, read it 48 to 72 hours later and give you the written result, all explained in Spanish or English.
 
-${AREAS_EN}`,
+## How the PPD test works
+
+**Day 1, placement.** We inject a small amount of tuberculin just under the skin of your forearm. It takes less than five minutes and forms a tiny bubble that fades in a few hours. Do not cover it with a bandage, do not scratch it, and shower as usual.
+
+**Day 3, reading.** You come back 48 to 72 hours later. We measure the induration in millimeters, meaning the firm area, not the redness. That determines the result, which we hand you signed, with the date and lot number, ready for your employer or school.
+
+If you do not return within that window, the test is no longer valid and has to be repeated from the start. That is why we give you the exact reading date before you leave.
+
+## Who usually needs it
+
+- Healthcare workers, caregivers, nursing assistants (CNAs) and daycare staff
+- Nursing, medical and technical-program students
+- Teachers and school staff
+- Plant, construction and food-service workers when the employer requires it
+- Volunteers at shelters or churches
+- Paperwork that requires proof you do not have active tuberculosis
+
+The immigration medical exam (I-693) uses a specific blood test instead of the skin test; we coordinate it as part of our [immigration exams](/en/services/examenes-inmigracion).
+
+## Two-step testing
+
+Many hospitals and home-care agencies require a two-step PPD at hiring: if the first test is negative, it is repeated one to three weeks later. We schedule both placements and both readings so you meet the requirement without mistakes.
+
+## What if it comes back positive?
+
+A positive result does not mean you have active tuberculosis. It may be a latent infection, which is not contagious, or a reaction to the BCG vaccine that many people received as children in Mexico and Central America. In that case the physician reviews your symptoms, refers you for a chest X-ray and explains what document to submit in the meantime. If you had the BCG vaccine, tell us at the start so we can guide you better.
+
+## TB testing in La Porte, 7 days a week
+
+Because we are open every day, the reading is easy to fit in: placed on Monday, read on Wednesday or Thursday; placed on Thursday, read on Saturday or Sunday. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed and the price is flat; call us for it before you come.`,
   },
   {
     slug: "enfermedades-transmision-sexual",
@@ -1571,44 +1685,86 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud La Porte ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
+    longDescription: `Hacerte una prueba de enfermedades de transmisión sexual no tiene por qué ser incómodo. En Clínica Hispana Nueva Salud La Porte te atendemos sin cita, en un consultorio privado, con personal que habla tu idioma y no juzga. El resultado es solo tuyo.
 
-## ¿Qué incluye?
+## Qué infecciones detectamos
 
-- Evaluación de síntomas y factores de riesgo
-- Pruebas de las infecciones más comunes
-- Análisis de laboratorio
-- Tratamiento y orientación si el resultado es positivo
-- Total confidencialidad
+- Clamidia y gonorrea, con muestra de orina o hisopado
+- Sífilis, con prueba de sangre
+- VIH, con prueba de sangre
+- Hepatitis B y C, con prueba de sangre
+- Tricomoniasis, vaginosis bacteriana y candidiasis, con cultivo
+- Herpes genital cuando hay lesiones visibles
+
+Puedes pedir el panel completo o solo las pruebas que te preocupan. El médico te ayuda a decidir según tu situación.
 
 ## Cuándo hacerte la prueba
 
-Si tuviste contacto de riesgo, tienes síntomas o simplemente quieres estar tranquilo, hacerte la prueba es la mejor decisión. La detección temprana facilita el tratamiento.
+- Tuviste relaciones sin protección o con una pareja nueva
+- Tienes síntomas: ardor al orinar, flujo o secreción distinta, llagas, verrugas, comezón o dolor pélvico
+- A tu pareja le diagnosticaron una infección
+- Estás embarazada o planeas estarlo
+- Tienes varias parejas y quieres un chequeo periódico, idealmente cada 3 a 6 meses
 
-${WHY_ES}
+Ten en cuenta que la clamidia, la gonorrea y el VIH en su fase inicial muchas veces no dan ningún síntoma. La única forma de saberlo es con la prueba.
 
-${PAYMENT_ES}
+## El periodo ventana
 
-${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud La Porte we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
+Cada infección tarda un tiempo distinto en detectarse después del contacto: clamidia y gonorrea de 1 a 2 semanas, sífilis de 3 a 6 semanas y VIH de 2 a 6 semanas según el tipo de prueba. Si el contacto fue hace pocos días, te hacemos las pruebas que ya son válidas y te decimos exactamente cuándo repetir las demás.
 
-## What's included?
+## Tratamiento el mismo día
 
-- Symptom and risk-factor assessment
-- Testing for the most common infections
-- Laboratory analysis
-- Treatment and guidance if the result is positive
-- Complete confidentiality
+Si una prueba sale positiva, en la mayoría de los casos iniciamos el tratamiento con antibióticos en esa misma visita y te lo puedes llevar de nuestra [farmacia](/services/farmacia). Te explicamos cuánto tiempo evitar relaciones y cómo tratar también a tu pareja para que no se repita la infección. Si se trata de VIH o hepatitis, te referimos con un especialista y te acompañamos en el proceso.
+
+El ardor al orinar también puede deberse a una [infección urinaria](/services/infecciones-urinarias); con el examen de orina lo diferenciamos. Las mujeres con flujo o molestias pueden completar su revisión en [ginecología](/services/ginecologia), y los hombres en [salud del hombre](/services/salud-hombre).
+
+## Privacidad de verdad
+
+La consulta es en un consultorio cerrado y solo hablamos del resultado contigo. Como pagas directamente, sin seguro, no llega ninguna carta de la aseguradora a tu casa explicando qué pruebas te hiciste. Puedes venir solo o acompañado, como te sientas más cómodo.
+
+## Pruebas de ETS en La Porte, sin cita
+
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Vienen pacientes de La Porte, Deer Park, Pasadena, Baytown y Shoreacres porque pueden hacerse la prueba en la tarde o el fin de semana sin faltar al trabajo. Precio fijo, sin seguro; pregúntalo por teléfono.`,
+    longDescriptionEn: `Getting tested for sexually transmitted diseases does not have to be uncomfortable. At Clínica Hispana Nueva Salud La Porte we see you with no appointment, in a private exam room, with staff who speak your language and do not judge. The result is yours alone.
+
+## Infections we test for
+
+- Chlamydia and gonorrhea, with a urine sample or swab
+- Syphilis, with a blood test
+- HIV, with a blood test
+- Hepatitis B and C, with a blood test
+- Trichomoniasis, bacterial vaginosis and yeast infections, with a culture
+- Genital herpes when there are visible lesions
+
+You can request the full panel or only the tests you are concerned about. The physician helps you decide based on your situation.
 
 ## When to get tested
 
-If you had a risky encounter, have symptoms or simply want peace of mind, getting tested is the best decision. Early detection makes treatment easier.
+- You had unprotected sex or a new partner
+- You have symptoms: burning when urinating, unusual discharge, sores, warts, itching or pelvic pain
+- Your partner was diagnosed with an infection
+- You are pregnant or planning to be
+- You have multiple partners and want routine screening, ideally every 3 to 6 months
 
-${WHY_EN}
+Keep in mind that chlamydia, gonorrhea and early-stage HIV often cause no symptoms at all. Testing is the only way to know.
 
-${PAYMENT_EN}
+## The window period
 
-${AREAS_EN}`,
+Each infection takes a different amount of time to become detectable after exposure: chlamydia and gonorrhea 1 to 2 weeks, syphilis 3 to 6 weeks and HIV 2 to 6 weeks depending on the test. If the exposure was only a few days ago, we run the tests that are already valid and tell you exactly when to repeat the others.
+
+## Same-day treatment
+
+If a test is positive, in most cases we start antibiotic treatment during that same visit and you can pick it up from our [pharmacy](/en/services/farmacia). We explain how long to avoid sex and how to treat your partner too so the infection does not come back. For HIV or hepatitis, we refer you to a specialist and support you through the process.
+
+Burning when urinating can also be a [urinary tract infection](/en/services/infecciones-urinarias); the urine test tells them apart. Women with discharge or discomfort can complete their checkup in [gynecology](/en/services/ginecologia), and men in [men's health](/en/services/salud-hombre).
+
+## Real privacy
+
+The visit takes place in a closed exam room and we discuss the result only with you. Because you pay directly, without insurance, no letter from an insurer arrives at your home listing the tests you had. Come alone or with someone, whichever feels more comfortable.
+
+## STD testing in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Patients come from La Porte, Deer Park, Pasadena, Baytown and Shoreacres because they can get tested in the evening or on the weekend without missing work. Flat price, no insurance; call us for it.`,
   },
   {
     slug: "examen-alcohol-drogas",
@@ -1811,42 +1967,68 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud La Porte contamos con equipo moderno y personal que te explica todo en español.
+    longDescription: `¿Buscas un ultrasonido cerca de ti sin esperar semanas por una cita? En Clínica Hispana Nueva Salud La Porte hacemos ultrasonidos diagnósticos y de embarazo en la misma clínica, con precio fijo sin seguro y un médico que te explica lo que se ve en pantalla, en español.
 
-## ¿Qué incluye?
+## Tipos de ultrasonido que realizamos
 
-- Ultrasonido abdominal (hígado, vesícula, riñones)
-- Ultrasonido pélvico
-- Ultrasonido de embarazo (control y seguimiento)
-- Evaluación de tiroides y tejidos blandos
+- **Abdominal:** hígado, vesícula (piedras), páncreas, bazo y riñones; útil ante dolor abdominal, náuseas después de comer o análisis de hígado alterados
+- **Renal y vías urinarias:** cálculos, dilatación o infecciones que se repiten
+- **Pélvico:** útero y ovarios; quistes, miomas, sangrado irregular o dolor pélvico
+- **Obstétrico:** confirmación de embarazo, latido, edad gestacional y seguimiento
+- **Tiroides:** nódulos o crecimiento del cuello, complementando el [perfil tiroideo](/services/tiroides)
+- **Tejidos blandos:** bultos, masas o [abscesos](/services/drenaje-abscesos) para decidir el tratamiento
 
-## Sin radiación y sin dolor
+## Cómo prepararte
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo. El estudio es rápido y no requiere preparación complicada.
+- Ultrasonido abdominal: 6 a 8 horas de ayuno para que la vesícula se vea bien; agua sí
+- Ultrasonido pélvico o de embarazo temprano: vejiga llena; toma 3 o 4 vasos de agua una hora antes y no orines
+- Tiroides y tejidos blandos: sin preparación
+- Ven con ropa cómoda de dos piezas para descubrir solo la zona a revisar
 
-${WHY_ES}
+El estudio dura entre 15 y 30 minutos. Se aplica un gel frío sobre la piel y se desliza el transductor; no duele y no usa radiación, por eso se puede repetir las veces que haga falta y es seguro durante el embarazo.
 
-${PAYMENT_ES}
+## Ultrasonido de embarazo
 
-${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud La Porte we have modern equipment and staff who explain everything in Spanish.
+A partir de la sexta semana suele verse el saco gestacional y poco después el latido. Con la medición del embrión calculamos las semanas y la fecha probable de parto. Si acabas de hacerte una [prueba de embarazo](/services/prueba-embarazo) positiva, el ultrasonido es el siguiente paso para confirmar que todo va bien. También hacemos ultrasonidos de seguimiento durante el embarazo. Puedes venir acompañada y, si lo deseas, te entregamos imágenes impresas. El ultrasonido no sustituye el control prenatal completo; te orientamos para iniciarlo.
 
-## What's included?
+## Resultados en la misma visita
 
-- Abdominal ultrasound (liver, gallbladder, kidneys)
-- Pelvic ultrasound
-- Pregnancy ultrasound (monitoring and follow-up)
-- Thyroid and soft-tissue evaluation
+El médico interpreta el estudio en el momento, te muestra las imágenes y te entrega un reporte escrito. Si el hallazgo requiere un especialista, te damos la referencia con el reporte y las imágenes para que no tengas que repetir el estudio. Si traes ultrasonidos anteriores, los comparamos.
 
-## No radiation, no pain
+## Ultrasonido sin seguro en La Porte
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy. The study is quick and requires little preparation.
+No necesitas orden médica ni seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point. Llámanos para conocer el precio del estudio que necesitas antes de venir.`,
+    longDescriptionEn: `Looking for an ultrasound near you without waiting weeks for an appointment? At Clínica Hispana Nueva Salud La Porte we perform diagnostic and pregnancy ultrasounds right in the clinic, at a flat self-pay price, with a physician who explains what you see on the screen, in Spanish or English.
 
-${WHY_EN}
+## Types of ultrasound we perform
 
-${PAYMENT_EN}
+- **Abdominal:** liver, gallbladder (stones), pancreas, spleen and kidneys; useful for abdominal pain, nausea after meals or abnormal liver tests
+- **Kidney and urinary tract:** stones, dilation or recurring infections
+- **Pelvic:** uterus and ovaries; cysts, fibroids, irregular bleeding or pelvic pain
+- **Obstetric:** pregnancy confirmation, heartbeat, gestational age and follow-up
+- **Thyroid:** nodules or neck swelling, complementing the [thyroid panel](/en/services/tiroides)
+- **Soft tissue:** lumps, masses or [abscesses](/en/services/drenaje-abscesos) to decide on treatment
 
-${AREAS_EN}`,
+## How to prepare
+
+- Abdominal ultrasound: fast 6 to 8 hours so the gallbladder shows clearly; water is fine
+- Pelvic or early-pregnancy ultrasound: full bladder; drink 3 or 4 glasses of water one hour before and do not urinate
+- Thyroid and soft tissue: no preparation
+- Wear comfortable two-piece clothing so only the area being examined is uncovered
+
+The exam takes 15 to 30 minutes. A cool gel is applied to the skin and the probe glides over it; it does not hurt and uses no radiation, so it can be repeated as often as needed and is safe during pregnancy.
+
+## Pregnancy ultrasound
+
+From about the sixth week the gestational sac is usually visible, and the heartbeat shortly after. Measuring the embryo lets us calculate the weeks and the due date. If you just had a positive [pregnancy test](/en/services/prueba-embarazo), an ultrasound is the next step to confirm everything is going well. We also do follow-up ultrasounds during pregnancy. You are welcome to bring someone with you and, if you wish, we give you printed images. An ultrasound does not replace full prenatal care; we help you get it started.
+
+## Results during the same visit
+
+The physician interprets the study on the spot, shows you the images and gives you a written report. If the finding requires a specialist, we provide the referral with the report and images so you do not have to repeat the exam. If you bring previous ultrasounds, we compare them.
+
+## Ultrasound without insurance in La Porte
+
+No doctor's order or insurance needed. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point. Call us for the price of the exam you need before you come.`,
   },
   {
     slug: "examen-dot",
@@ -2056,44 +2238,78 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Nueva Salud La Porte aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
+    longDescription: `En Clínica Hispana Nueva Salud La Porte aplicamos la vacuna contra la influenza y el toxoide tetánico sin cita, en español y con precio fijo. Llegas, te evaluamos en unos minutos y sales protegido, con tu comprobante de vacunación si lo necesitas para el trabajo o la escuela.
 
-## ¿Qué incluye?
+## Vacuna contra la influenza (flu)
 
-- Vacuna anual contra la influenza (flu)
-- Toxoide tetánico (refuerzo del tétanos)
-- Aplicación por personal médico
-- Orientación sobre cuándo aplicar refuerzos
-- Atención en español
+En el área de Houston la temporada de gripe suele empezar en octubre y alcanza su punto más alto entre diciembre y febrero. El mejor momento para vacunarte es septiembre u octubre, pero la vacuna sigue siendo útil hasta la primavera. El cuerpo tarda unas dos semanas en generar protección, y cada año la vacuna se actualiza según las cepas que circulan, por eso hay que repetirla anualmente.
 
-## Por qué vacunarte
+Está recomendada a partir de los 6 meses de edad y es especialmente importante para:
 
-La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
+- Personas mayores de 65 años
+- Mujeres embarazadas
+- Quienes viven con diabetes, asma, EPOC o problemas del corazón
+- Quienes cuidan a bebés o adultos mayores en casa
+- Trabajadores de plantas, refinerías, puerto, escuelas, restaurantes y tiendas, donde el contacto con mucha gente es diario
 
-${WHY_ES}
+## Toxoide tetánico y Tdap
 
-${PAYMENT_ES}
+El refuerzo contra el tétanos se recomienda cada 10 años. Si te cortaste con metal oxidado, un clavo, una herramienta sucia o sufriste una mordedura y han pasado más de 5 años desde tu última dosis, conviene ponerte el refuerzo dentro de las primeras 48 horas. La vacuna Tdap protege además contra difteria y tosferina, y se recomienda en cada embarazo entre las semanas 27 y 36, así como para quienes van a cuidar a un recién nacido.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Nueva Salud La Porte we administer the influenza vaccine and tetanus toxoid safely and quickly.
+Si venimos atendiendo tu herida en la clínica, ya sea con [suturas](/services/suturas-heridas) o [curación](/services/curacion-heridas), revisamos tu estado de vacunación en esa misma visita.
 
-## What's included?
+## Cómo es la visita
 
-- Annual influenza (flu) vaccine
-- Tetanus toxoid (tetanus booster)
-- Administered by medical staff
-- Guidance on when boosters are due
-- Care in Spanish
+- Preguntas breves: alergias, fiebre en este momento, embarazo, reacciones a vacunas anteriores
+- Aplicación en el brazo por personal médico
+- Diez a quince minutos de observación si es tu primera vez con esa vacuna
+- Comprobante de vacunación con fecha y lote
 
-## Why get vaccinated
+Los efectos más comunes son dolor en el brazo, cansancio leve o unas décimas de fiebre durante uno o dos días. La vacuna de la influenza no contiene virus vivo, así que no te puede dar gripe.
 
-The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+## Qué traer
 
-${WHY_EN}
+Una identificación, tu cartilla de vacunación si la tienes y el formulario de tu empleador o escuela si necesitas que lo llenemos. Los menores deben venir acompañados por su padre, madre o tutor.
 
-${PAYMENT_EN}
+## Vacunas sin seguro en La Porte
 
-${AREAS_EN}`,
+No necesitas seguro médico ni cita. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas vacunarte al salir del trabajo. Atendemos a familias de La Porte, Deer Park, Pasadena, Morgan's Point y Shoreacres. Pregúntanos el precio por teléfono antes de venir.`,
+    longDescriptionEn: `At Clínica Hispana Nueva Salud La Porte we give the influenza vaccine and tetanus toxoid with no appointment, in Spanish or English and at a flat price. You walk in, we check you in a few minutes and you leave protected, with a vaccination record if you need one for work or school.
+
+## Influenza (flu) vaccine
+
+In the Houston area, flu season usually starts in October and peaks between December and February. The best time to get vaccinated is September or October, but the shot is still worthwhile through spring. Your body takes about two weeks to build protection, and the vaccine is updated every year for the strains in circulation, which is why it has to be repeated annually.
+
+It is recommended from 6 months of age and is especially important for:
+
+- Adults over 65
+- Pregnant women
+- People living with diabetes, asthma, COPD or heart disease
+- Anyone caring for babies or older adults at home
+- Plant, refinery, port, school, restaurant and retail workers, who are in contact with many people every day
+
+## Tetanus toxoid and Tdap
+
+A tetanus booster is recommended every 10 years. If you cut yourself on rusty metal, a nail or a dirty tool, or were bitten, and more than 5 years have passed since your last dose, you should get the booster within the first 48 hours. The Tdap vaccine also protects against diphtheria and whooping cough, and is recommended during every pregnancy between weeks 27 and 36, as well as for anyone who will care for a newborn.
+
+If we are already treating your wound at the clinic, whether with [stitches](/en/services/suturas-heridas) or [wound care](/en/services/curacion-heridas), we check your vaccination status during that same visit.
+
+## What the visit is like
+
+- A few quick questions: allergies, current fever, pregnancy, reactions to previous vaccines
+- Injection in the arm by medical staff
+- Ten to fifteen minutes of observation if it is your first time with that vaccine
+- Vaccination record with date and lot number
+
+The most common side effects are a sore arm, mild tiredness or a slight fever for a day or two. The flu vaccine contains no live virus, so it cannot give you the flu.
+
+## What to bring
+
+An ID, your vaccination card if you have one, and your employer or school form if you need us to fill it out. Minors must come with a parent or legal guardian.
+
+## Vaccines without insurance in La Porte
+
+No health insurance or appointment needed. We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can get vaccinated after work. We serve families from La Porte, Deer Park, Pasadena, Morgan's Point and Shoreacres. Call us for the price before you come.`,
   },
   {
     slug: "sueros-vitaminados",
@@ -2134,44 +2350,78 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Nueva Salud La Porte los aplicamos con personal médico y en un ambiente cómodo y seguro.
+    longDescription: `Los sueros vitaminados, también llamados terapia IV, llevan líquidos, vitaminas y minerales directamente a la sangre, así que el cuerpo los aprovecha de inmediato en lugar de perder parte en la digestión. En Clínica Hispana Nueva Salud La Porte los aplica personal médico después de revisar tu presión y tu historial, en un cubículo cómodo y sin cita.
 
-## ¿Qué incluye?
+## Para qué se usan
 
-- Evaluación breve para elegir el suero adecuado
-- Hidratación intravenosa
-- Vitaminas y minerales
-- Aplicación y monitoreo por personal médico
-- Atención en español
+- Deshidratación por vómito, diarrea o golpe de calor, algo frecuente en los veranos de La Porte para quienes trabajan al aire libre, en plantas o en la construcción
+- Cansancio acumulado por jornadas largas o turnos rotativos
+- Recuperación después de una gripe o infección viral
+- Malestar por resaca o cruda
+- Refuerzo durante la temporada de gripe
+- Dolores de cabeza relacionados con deshidratación
+- Niveles bajos de vitamina B12 u otras vitaminas, como explicamos en nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-beneficios-inyecciones-laporte)
 
-## Cuándo pueden ayudar
+## Qué contienen
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+La base es una solución salina que rehidrata. Sobre ella el médico ajusta los componentes según tu caso: complejo B para energía, vitamina B12, vitamina C, magnesio y zinc. Si tienes náuseas, se puede agregar medicamento para controlarlas. No usamos fórmulas genéricas iguales para todos: lo que va en tu suero depende de lo que necesitas.
 
-${WHY_ES}
+## Cómo es la sesión
 
-${PAYMENT_ES}
+1. Evaluación breve: presión arterial, pulso y algunas preguntas sobre tu salud y medicamentos
+2. Colocación de un catéter delgado en el brazo, similar a una toma de sangre
+3. Entre 30 y 60 minutos sentado mientras pasa el suero; puedes usar el celular o descansar
+4. Retiro del catéter y unos minutos de observación antes de irte
 
-${AREAS_ES}`,
-    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Nueva Salud La Porte we administer them with medical staff in a comfortable, safe setting.
+Durante la infusión es normal sentir un poco de frío en el brazo o un sabor metálico pasajero. Después puedes seguir con tus actividades normales.
 
-## What's included?
+## Quién debe consultarlo antes
 
-- A brief evaluation to choose the right drip
-- Intravenous hydration
-- Vitamins and minerals
-- Administration and monitoring by medical staff
-- Care in Spanish
+Las personas con insuficiencia renal, insuficiencia cardíaca o alergias a alguna vitamina deben evaluarse con el médico antes de recibir un suero, y las mujeres embarazadas deben comentarlo. Por eso la evaluación previa es parte del servicio. El suero es un apoyo, no un sustituto de una alimentación adecuada ni del tratamiento de una enfermedad.
 
-## When they can help
+## ¿Prefieres una inyección?
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+Si solo necesitas vitamina B12, la inyección intramuscular es rápida y económica. Pregunta por nuestra promoción de [examen general de sangre más inyección de B12 por $99](/promociones), ideal para saber primero cómo están tus niveles.
 
-${WHY_EN}
+## Sueros vitaminados en La Porte, sin cita
 
-${PAYMENT_EN}
+Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena y comunidades cercanas.`,
+    longDescriptionEn: `Vitamin drips, also called IV therapy, deliver fluids, vitamins and minerals straight into your bloodstream, so your body uses them right away instead of losing part of them in digestion. At Clínica Hispana Nueva Salud La Porte they are administered by medical staff after checking your blood pressure and history, in a comfortable bay and with no appointment.
 
-${AREAS_EN}`,
+## What they are used for
+
+- Dehydration from vomiting, diarrhea or heat exhaustion, common in La Porte summers for people who work outdoors, in plants or in construction
+- Built-up fatigue from long days or rotating shifts
+- Recovery after the flu or a viral infection
+- Hangover relief
+- A boost during flu season
+- Headaches linked to dehydration
+- Low vitamin B12 or other vitamin levels, as we explain in our [vitamin B12 guide](/en/blog/vitamina-b12-beneficios-inyecciones-laporte)
+
+## What is in them
+
+The base is a saline solution that rehydrates. On top of it the physician adjusts the ingredients to your case: B-complex for energy, vitamin B12, vitamin C, magnesium and zinc. If you feel nauseous, anti-nausea medication can be added. We do not use one generic formula for everyone: what goes in your drip depends on what you need.
+
+## What the session is like
+
+1. A brief evaluation: blood pressure, pulse and a few questions about your health and medications
+2. A thin catheter is placed in your arm, similar to a blood draw
+3. 30 to 60 minutes seated while the drip runs; you can use your phone or rest
+4. The catheter is removed and you are observed for a few minutes before leaving
+
+During the infusion it is normal to feel a little coolness in the arm or a brief metallic taste. Afterward you can go on with your normal activities.
+
+## Who should check first
+
+People with kidney failure, heart failure or allergies to any vitamin should be evaluated by the physician before receiving a drip, and pregnant women should mention it. That is why the pre-evaluation is part of the service. A drip is a support, not a substitute for proper nutrition or for treating an illness.
+
+## Prefer a shot?
+
+If you only need vitamin B12, an intramuscular injection is quick and inexpensive. Ask about our [complete blood panel plus B12 shot for $99](/en/promociones), a good way to check your levels first.
+
+## Vitamin IV drips in La Porte, no appointment needed
+
+We are at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the price is flat and we confirm it by phone. We serve patients from La Porte, Deer Park, Pasadena and nearby communities.`,
   },
   {
     slug: "suturas-heridas",

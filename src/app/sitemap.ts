@@ -27,6 +27,15 @@ const SERVICE_LASTMOD: Record<string, string> = {
   "examen-alcohol-drogas": "2026-08-26",
   "salud-hombre": "2026-08-26",
   tiroides: "2026-08-26",
+  // Tanda 1 de contenido propio (2026-09-07): texto, secciones y FAQs nuevos.
+  "examenes-sangre": "2026-09-07",
+  "vacunas": "2026-09-07",
+  "prueba-tuberculosis": "2026-09-07",
+  "enfermedades-transmision-sexual": "2026-09-07",
+  "ultrasonido": "2026-09-07",
+  "sueros-vitaminados": "2026-09-07",
+  "ginecologia": "2026-09-07",
+  "prueba-embarazo": "2026-09-07",
 };
 
 function entry(
