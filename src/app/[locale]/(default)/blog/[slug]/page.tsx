@@ -91,7 +91,7 @@ export default async function BlogPostPage({
       <JsonLdBlogPosting post={post} url={url} locale={loc} />
 
       {/* Hero del post (foto de portada si existe + overlay verde) */}
-      <section className="relative isolate overflow-hidden bg-gradient-to-br from-blue-deep via-blue-dark to-blue-deep py-16 text-sky-bg lg:py-20">
+      <section className="relative isolate overflow-hidden bg-linear-to-br from-blue-deep via-blue-dark to-blue-deep py-16 text-sky-bg lg:py-20">
         {post.hasCover ? (
           <>
             <Image
@@ -104,7 +104,7 @@ export default async function BlogPostPage({
             />
             <div
               aria-hidden
-              className="absolute inset-0 -z-10 bg-gradient-to-r from-blue-deep via-blue-deep/85 to-blue-deep/40"
+              className="absolute inset-0 -z-10 bg-linear-to-r from-blue-deep via-blue-deep/85 to-blue-deep/40"
             />
             <div
               aria-hidden
@@ -192,7 +192,7 @@ export default async function BlogPostPage({
           )}
 
           {/* CTA */}
-          <div className="mt-8 rounded-2xl bg-gradient-to-br from-blue-primary to-blue-dark p-7 text-center text-white shadow-lg">
+          <div className="mt-8 rounded-2xl bg-linear-to-br from-blue-primary to-blue-dark p-7 text-center text-white shadow-lg">
             <h2 className="font-heading text-xl font-bold">{t("ctaTitle")}</h2>
             <p className="mt-2 text-sm text-sky-bg/85">{t("ctaBody")}</p>
             <a

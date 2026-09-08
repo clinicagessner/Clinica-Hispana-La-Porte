@@ -57,7 +57,7 @@ export default async function BlogIndexPage({
         }))}
       />
 
-      <section className="relative overflow-hidden bg-gradient-to-b from-cloud to-sky-bg py-16 lg:py-20">
+      <section className="relative overflow-hidden bg-linear-to-b from-cloud to-sky-bg py-16 lg:py-20">
         <div
           aria-hidden
           className="pointer-events-none absolute -left-24 -top-16 h-80 w-80 rounded-full bg-blue-soft/15 blur-3xl"
@@ -73,7 +73,7 @@ export default async function BlogIndexPage({
             <p className="mt-4 max-w-2xl text-lg leading-relaxed text-slate-primary">
               {t("subtitle")}
             </p>
-            <div className="mt-5 h-0.5 w-24 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
+            <div className="mt-5 h-0.5 w-24 rounded-full bg-linear-to-r from-blue-primary to-teal" />
           </Reveal>
         </div>
       </section>
