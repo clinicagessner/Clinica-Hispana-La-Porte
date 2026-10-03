@@ -1212,29 +1212,29 @@ Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONT
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Exámenes del Hombre: PSA y Testosterona",
-    titleEn: "Men's Health Exams: PSA & Testosterone",
+    title: "Exámenes del Hombre: PSA y Chequeo Hormonal",
+    titleEn: "Men's Health Exams: PSA & Hormone Panel",
     shortDescription:
       "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
     shortDescriptionEn:
       "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
     description:
-      "Exámenes del hombre en La Porte, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles.",
+      "Exámenes del hombre en La Porte, TX: PSA, panel hormonal y chequeo general. Laboratorio y atención en español, con precios accesibles.",
     descriptionEn:
-      "Men's health exams in La Porte, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
+      "Men's health exams in La Porte, TX: PSA, hormone panel and general checkup. Lab work and care in Spanish, with affordable pricing.",
     keywords: [
       "examen del hombre la porte",
       "chequeo general del hombre",
       "prueba psa la porte",
       "examen de prostata la porte",
-      "examen de testosterona la porte",
+      "chequeo hormonal del hombre la porte",
     ],
     keywordsEn: [
       "mens health la porte",
       "annual physical for men la porte",
       "psa test la porte",
       "prostate exam la porte",
-      "testosterone test la porte",
+      "mens hormone panel la porte",
     ],
     features: [
       "Antígeno prostático (PSA)",
