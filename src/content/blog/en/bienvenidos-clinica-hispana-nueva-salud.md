@@ -17,28 +17,40 @@ services:
   - "examenes-inmigracion"
 ---
 
-At Clínica Hispana Nueva Salud La Porte we believe that taking care of your health shouldn't be complicated or expensive—and certainly not held back by language. That's why we opened our doors in La Porte with a clear mission: to offer professional, caring healthcare **100% in Spanish** for the entire Hispanic community.
+Seeing a doctor is uncomfortable enough without also struggling to understand what you're being told. Clínica Hispana Nueva Salud La Porte opened on Spencer Highway with that in mind: any Hispanic family in the area should be able to describe their symptoms in Spanish, understand the diagnosis and leave with a plan they can follow at home.
 
-## Who we are
+## Where and when we're open
 
-We are a family medical clinic located at **9606 Spencer Hwy Ste D, La Porte, TX 77571**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM**, because health doesn't wait for the weekend.
+The clinic is at **9606 Spencer Hwy, Suite D, La Porte, TX 77571**, with free parking. We open early and close late so you don't have to miss work: **9 in the morning to 9 at night, Monday through Saturday; 9 to 7 on Sundays**. There's no need to book; you come in, check in and the medical team sees you. If you'd rather speak English, we can help you in English too.
 
-## What you'll find with us
+## Who we see
 
-We offer a wide range of services under one roof:
+We're a general and family medicine clinic: children, teens, adults and older adults all come to us. We don't ask for insurance, and if you want to know what a service costs before you're seen, just ask at the front desk and we'll tell you clearly.
 
-- Family medicine for all ages
-- I-693 immigration medical exam with a USCIS-authorized physician
-- Clinical lab with fast results
-- Ultrasound and electrocardiogram
-- Diabetes, hypertension and cholesterol management
-- Gynecology and women's health
-- DOT physical exam for CDL license
+## What you can take care of here
 
-## Why choose us
+Under one roof we handle what families in La Porte and nearby ask for most:
 
-What sets us apart isn't just what we do, but **how we do it**. We welcome you in your language, explain every step without jargon, and treat you with the respect and time you deserve. You don't need insurance, and we offer affordable, transparent pricing.
+- **Sick visits**: flu, cough, sore throat and other [respiratory infections](/en/services/enfermedades-respiratorias).
+- **Blood work** at our [lab](/en/services/examenes-sangre), with quick results we walk you through in Spanish.
+- **The I-693 exam for your green card case**, signed by a civil surgeon designated by USCIS. Our [immigration exams](/en/services/examenes-inmigracion) page has the details.
+- **DOT physical** for CDL drivers, described on our [DOT exam](/en/services/examen-dot) page.
+- **Women's health**: basic [gynecology](/en/services/ginecologia) visits, Pap tests and [birth control](/en/services/anticonceptivos).
+- **Ongoing care for chronic conditions** such as diabetes, high blood pressure and cholesterol, under [chronic conditions](/en/services/condiciones-cronicas).
+- **Supporting tests**: [EKG](/en/services/electrocardiograma) and [ultrasound](/en/services/ultrasonido).
+- **Vaccines, wound care and minor procedures**.
 
-## We're waiting for you
+## What your first visit looks like
 
-Caring for your health is the best investment you can make for yourself and your family. Walk in or call us at **(346) 222-1006**. At Clínica Hispana Nueva Salud La Porte, we treat you like family.
+1. Come in whenever it suits you during open hours.
+2. At the front desk we take your details and the reason for your visit, in Spanish.
+3. The doctor examines you, asks questions and, if needed, orders lab work or tests.
+4. You hear what's going on, which treatment comes next and when to come back.
+
+## What matters to us
+
+We want you to leave knowing what's wrong and what to do about it. That means taking time to answer your questions, using plain language and treating you with respect, whether you came in for a cold or for an exam for your immigration paperwork.
+
+## Come meet us
+
+If you live in La Porte, Deer Park, Pasadena, Shoreacres or Morgan's Point, we're only minutes away. Walk in without an appointment or call **(346) 222-1006** with any question before your visit.

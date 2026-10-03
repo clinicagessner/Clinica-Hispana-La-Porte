@@ -17,28 +17,40 @@ services:
   - "examenes-inmigracion"
 ---
 
-En Clínica Hispana Nueva Salud La Porte creemos que cuidar tu salud no debería ser complicado ni costoso, y mucho menos cuando el idioma se interpone. Por eso abrimos nuestras puertas en La Porte con una idea muy clara: ofrecer atención médica profesional, cercana y **100% en español** para toda la comunidad hispana.
+Ir al médico ya es bastante incómodo como para, encima, no entender lo que te dicen. Clínica Hispana Nueva Salud La Porte abrió en Spencer Highway con ese punto de partida: que cualquier familia hispana del área pueda contar sus síntomas en español, entender el diagnóstico y salir con un plan que sepa seguir en casa.
 
-## Quiénes somos
+## Dónde y cuándo atendemos
 
-Somos una clínica médica familiar ubicada en **9606 Spencer Hwy Ste D, La Porte, TX 77571**. Atendemos a niños y adultos, con precios accesibles y sin necesidad de seguro, y sin necesidad de cita previa. Nuestro horario es de **lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 7:00 PM**, porque sabemos que la salud no espera al fin de semana.
+La clínica está en el **9606 de Spencer Hwy, Suite D, La Porte, TX 77571**, con estacionamiento gratuito. Abrimos temprano y cerramos tarde para que no tengas que faltar al trabajo: **de lunes a sábado, de 9 de la mañana a 9 de la noche; los domingos, de 9 a 7**. No hace falta sacar cita; llegas, te registras y te atiende el equipo médico. Si prefieres el inglés, también te atendemos en inglés.
 
-## Qué puedes encontrar con nosotros
+## A quién atendemos
 
-Ofrecemos una amplia gama de servicios bajo un mismo techo:
+Somos una clínica de medicina general y familiar: vienen niños, adolescentes, adultos y personas mayores. No pedimos seguro médico, y si quieres saber cuánto cuesta un servicio antes de pasar a consulta, pregúntalo en recepción y te lo decimos con claridad.
 
-- Medicina familiar para todas las edades
-- Examen médico de inmigración I-693 con médico autorizado por USCIS
-- Laboratorio clínico con resultados rápidos
-- Ultrasonido y electrocardiograma
-- Control de diabetes, hipertensión y colesterol
-- Ginecología y salud de la mujer
-- Examen físico DOT para licencia CDL
+## Lo que puedes resolver aquí
 
-## Por qué elegirnos
+En un mismo lugar cubrimos lo que más nos piden las familias de La Porte y alrededores:
 
-Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te recibimos en tu idioma, te explicamos cada paso sin tecnicismos y te tratamos con el respeto y el tiempo que mereces. No necesitas seguro médico y manejamos precios accesibles y transparentes.
+- **Consultas por enfermedad**: gripe, tos, dolor de garganta y otras [infecciones respiratorias](/services/enfermedades-respiratorias).
+- **Análisis de sangre** en nuestro [laboratorio](/services/examenes-sangre), con resultados rápidos que te explicamos en español.
+- **El examen I-693 para tu trámite migratorio**, que firma un Civil Surgeon designado por USCIS. Lo explicamos en la página de [exámenes de inmigración](/services/examenes-inmigracion).
+- **Examen físico DOT** para choferes con licencia CDL, en la página del [examen DOT](/services/examen-dot).
+- **Salud de la mujer**: consultas de [ginecología](/services/ginecologia) básica, Papanicolaou y [métodos anticonceptivos](/services/anticonceptivos).
+- **Seguimiento de enfermedades crónicas** como diabetes, presión alta y colesterol, en [condiciones crónicas](/services/condiciones-cronicas).
+- **Estudios de apoyo**: [electrocardiograma](/services/electrocardiograma) y [ultrasonido](/services/ultrasonido).
+- **Vacunas, curación de heridas y procedimientos menores**.
 
-## Te esperamos
+## Cómo es tu primera visita
 
-Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. Ven sin cita o llámanos al **(346) 222-1006**. En Clínica Hispana Nueva Salud La Porte, te atendemos como a los nuestros.
+1. Llegas a la hora que te quede bien dentro del horario.
+2. En recepción te piden tus datos y el motivo de la consulta, en español.
+3. El médico te revisa, te hace preguntas y, si hace falta, pide análisis o estudios.
+4. Te explica qué tienes, qué tratamiento sigue y cuándo conviene regresar.
+
+## Lo que nos importa
+
+Queremos que salgas sabiendo qué te pasa y qué hacer. Eso significa tomarnos el tiempo de responder tus dudas, usar palabras sencillas y tratarte con respeto, vengas por un resfriado o por un examen para tus papeles de inmigración.
+
+## Ven a conocernos
+
+Si vives en La Porte, Deer Park, Pasadena, Shoreacres o Morgan's Point, estamos a pocos minutos. Pasa sin cita o llama al **(346) 222-1006** para resolver cualquier pregunta antes de venir.
