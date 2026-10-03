@@ -2935,7 +2935,7 @@ Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONT
 - Heridas infectadas con enrojecimiento, pus o mal olor
 - Ampollas, heridas por fricción y lesiones en trabajadores que usan botas o equipo pesado
 
-Si el corte está abierto y es reciente, lo que necesitas son [suturas](/services/suturas-heridas); si el problema es un bulto con pus, revisa el [drenaje de abscesos](/services/drenaje-abscesos).
+Si el corte está abierto y es reciente, lo que necesitas son [suturas](/services/suturas-heridas); si el problema es un bulto con pus, revisa el [drenaje de abscesos](/services/drenaje-abscesos). Si el dolor viene de una uña que se entierra en la piel del dedo, lo que corresponde es el tratamiento de [uñas encarnadas](/services/unas-encarnadas).
 
 ## Qué hacemos en cada curación
 
@@ -2967,7 +2967,7 @@ Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, $
 - Infected wounds with redness, pus or a bad smell
 - Blisters, friction wounds and injuries in workers who wear boots or heavy gear
 
-If the cut is open and recent, what you need is [stitches](/en/services/suturas-heridas); if the problem is a lump filled with pus, see [abscess drainage](/en/services/drenaje-abscesos).
+If the cut is open and recent, what you need is [stitches](/en/services/suturas-heridas); if the problem is a lump filled with pus, see [abscess drainage](/en/services/drenaje-abscesos). If the pain comes from a nail growing into the skin of the toe, what you need is [ingrown toenail](/en/services/unas-encarnadas) treatment.
 
 ## What we do at each visit
 
@@ -3158,6 +3158,8 @@ Fiebre alta con escalofríos, líneas rojas que se extienden desde el bulto, abs
 
 Cuando los abscesos vuelven una y otra vez, revisamos tu [glucosa](/services/condiciones-cronicas), evaluamos si eres portador de estafilococo y te indicamos un plan de descolonización con jabones y ungüentos específicos, además de recomendaciones para la piel y la ropa de trabajo.
 
+Si lo que tienes es un quiste o un lipoma que no está infectado, no hace falta drenarlo: se quita completo, con su cápsula, con [cirugía menor](/services/cirugias-menores).
+
 ## Drenaje de abscesos en La Porte, sin cita
 
 Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el drenaje tiene precio fijo que te informamos antes de empezar. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
@@ -3188,6 +3190,8 @@ High fever with chills, red streaks spreading from the lump, an abscess on the f
 ## If they keep coming back
 
 When abscesses return again and again, we check your [blood sugar](/en/services/condiciones-cronicas), evaluate whether you carry staph and set up a decolonization plan with specific soaps and ointments, plus recommendations for your skin and work clothing.
+
+If what you have is a cyst or lipoma that is not infected, it does not need draining: it is removed whole, capsule included, with [minor surgery](/en/services/cirugias-menores).
 
 ## Abscess drainage in La Porte, no appointment needed
 

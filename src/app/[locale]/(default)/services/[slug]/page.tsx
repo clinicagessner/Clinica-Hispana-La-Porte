@@ -8,6 +8,7 @@ import { ArrowLeft, Check, Phone } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { ScrollLink } from "@/components/shared/scroll-link";
 import { ServiceCard } from "@/components/services/service-card";
+import { BlogCard } from "@/components/blog/blog-card";
 import { ServiceIcon } from "@/components/shared/service-icon";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import {
@@ -24,6 +25,7 @@ import {
   hasServiceImage,
 } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
+import { getAllPosts } from "@/lib/blog";
 import { CONTACT_INFO } from "@/lib/constants";
 import {
   getLocalizedFaq,
@@ -94,6 +96,10 @@ export default async function ServiceDetailPage({
       categoryLabel: getCategoryLabel(rl.category, loc),
     };
   });
+
+  // Posts que declaran este servicio en su frontmatter (`services`): enlace de
+  // contenido servicio → post, para que ningún post dependa solo del blog.
+  const relatedPosts = getAllPosts(loc).filter((p) => p.services?.includes(slug));
 
   const url = absoluteUrl(`/services/${slug}`, loc);
 
@@ -299,6 +305,21 @@ export default async function ServiceDetailPage({
           </div>
         </div>
       </section>
+
+      {relatedPosts.length > 0 && (
+        <section className="bg-white py-16 lg:py-20">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <h2 className="font-heading text-2xl font-bold text-slate-dark">
+              {t("relatedPostsTitle")}
+            </h2>
+            <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+              {relatedPosts.map((p) => (
+                <BlogCard key={p.slug} post={p} className="h-full" />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </>
   );
 }

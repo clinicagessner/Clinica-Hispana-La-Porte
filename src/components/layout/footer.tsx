@@ -10,6 +10,7 @@ import { ScrollLink } from "@/components/shared/scroll-link";
 import {
   CONTACT_INFO,
   FOOTER_NAV_LINKS,
+  SERVICE_CATEGORIES,
   SITE_CONFIG,
   SOCIAL_LINKS,
 } from "@/lib/constants";
@@ -22,16 +23,21 @@ export function Footer() {
   const tNav = useTranslations("Nav");
   const locale = useLocale() as Locale;
   const year = new Date().getFullYear();
-  const services = getAllServices()
-    .slice(0, 6)
-    .map((s) => getLocalizedService(s, locale));
+  // Todos los servicios, agrupados por categoría: cada servicio recibe un enlace
+  // desde todas las páginas del sitio.
+  const services = getAllServices().map((s) => getLocalizedService(s, locale));
+  const groups = SERVICE_CATEGORIES.map((c) => ({
+    value: c.value,
+    label: locale === "en" ? c.labelEn : c.label,
+    items: services.filter((s) => s.category === c.value),
+  })).filter((g) => g.items.length > 0);
 
   return (
     <footer className="bg-blue-deep text-sky-alt">
       <div className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="grid gap-10 lg:grid-cols-12">
           {/* Marca */}
-          <div className="lg:col-span-4">
+          <div className="lg:col-span-5">
             <div className="rounded-2xl bg-white/95 px-4 py-3 w-fit">
               <Logo />
             </div>
@@ -72,7 +78,7 @@ export function Footer() {
           </div>
 
           {/* Navegación */}
-          <nav className="lg:col-span-2" aria-label={t("navTitle")}>
+          <nav className="lg:col-span-3" aria-label={t("navTitle")}>
             <h2 className="font-heading text-sm font-bold uppercase tracking-widest text-white">
               {t("navTitle")}
             </h2>
@@ -95,27 +101,8 @@ export function Footer() {
             </ul>
           </nav>
 
-          {/* Servicios */}
-          <nav className="lg:col-span-3" aria-label={t("servicesTitle")}>
-            <h2 className="font-heading text-sm font-bold uppercase tracking-widest text-white">
-              {t("servicesTitle")}
-            </h2>
-            <ul className="mt-4 space-y-2.5 text-sm">
-              {services.map((s) => (
-                <li key={s.slug}>
-                  <Link
-                    href={`/services/${s.slug}`}
-                    className="text-sky-bg/80 hover:text-teal-light"
-                  >
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </nav>
-
           {/* Contacto */}
-          <div className="lg:col-span-3">
+          <div className="lg:col-span-4">
             <h2 className="font-heading text-sm font-bold uppercase tracking-widest text-white">
               {t("contactTitle")}
             </h2>
@@ -154,6 +141,37 @@ export function Footer() {
             </ul>
           </div>
         </div>
+
+        {/* Servicios, todos, por categoría */}
+        <nav
+          className="mt-12 border-t border-white/10 pt-10"
+          aria-label={t("servicesTitle")}
+        >
+          <h2 className="font-heading text-sm font-bold uppercase tracking-widest text-white">
+            {t("servicesTitle")}
+          </h2>
+          <div className="mt-6 grid gap-8 sm:grid-cols-2 lg:grid-cols-5">
+            {groups.map((g) => (
+              <div key={g.value}>
+                <h3 className="text-xs font-semibold uppercase tracking-widest text-teal-light">
+                  {g.label}
+                </h3>
+                <ul className="mt-3 space-y-2 text-sm">
+                  {g.items.map((s) => (
+                    <li key={s.slug}>
+                      <Link
+                        href={`/services/${s.slug}`}
+                        className="text-sky-bg/80 hover:text-teal-light"
+                      >
+                        {s.title}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </nav>
 
         {/* Disclaimer médico */}
         <p className="mt-12 border-t border-white/10 pt-6 text-xs leading-relaxed text-sky-bg/60">

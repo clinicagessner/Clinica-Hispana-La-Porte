@@ -172,7 +172,8 @@
     "ctaContact": "Solicitar información",
     "faqTitle": "Preguntas frecuentes",
     "relatedTitle": "Otros servicios",
-    "keywordsLabel": "También buscado como"
+    "keywordsLabel": "También buscado como",
+    "relatedPostsTitle": "Artículos sobre este servicio"
   },
   "BlogPage": {
     "title": "Blog de salud de tu clínica hispana en La Porte",
