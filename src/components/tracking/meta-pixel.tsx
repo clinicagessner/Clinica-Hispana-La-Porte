@@ -1,7 +1,9 @@
+import Script from "next/script";
+
 /**
- * Script base del Meta Pixel inyectado como <script> CRUDO (no next/script)
- * para garantizar que corre antes de la hidratación. Dispara un PageView
- * inicial. Los PageView de navegación SPA los maneja MetaPixelSPATracker.
+ * Script base del Meta Pixel con next/script lazyOnload: se ejecuta tras el
+ * evento load para no competir con el LCP. Dispara un PageView inicial. Los
+ * PageView de navegación SPA los maneja MetaPixelSPATracker.
  * No-op si falta NEXT_PUBLIC_META_PIXEL_ID.
  */
 export function MetaPixel() {
@@ -21,11 +23,9 @@ fbq('track', 'PageView');`;
 
   return (
     <>
-      <script
-        id="meta-pixel"
-        // Script crudo intencional: debe ejecutarse antes de la hidratación.
-        dangerouslySetInnerHTML={{ __html: code }}
-      />
+      <Script id="meta-pixel" strategy="lazyOnload">
+        {code}
+      </Script>
       <noscript>
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
