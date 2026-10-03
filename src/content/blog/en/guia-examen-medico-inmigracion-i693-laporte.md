@@ -2,6 +2,7 @@
 title: "Guide to the I-693 immigration medical exam in La Porte"
 description: "The I-693 medical exam in La Porte: what it includes, which vaccines you need and how to get the form sealed by a USCIS-authorized physician."
 date: "2026-03-18"
+updated: "2026-10-03"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Immigration"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-la porte.webp"

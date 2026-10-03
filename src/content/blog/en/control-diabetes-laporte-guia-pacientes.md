@@ -2,6 +2,7 @@
 title: "Diabetes management in La Porte: a patient guide"
 description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in La Porte."
 date: "2026-02-10"
+updated: "2026-10-03"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-la porte-guia-pacientes.webp"

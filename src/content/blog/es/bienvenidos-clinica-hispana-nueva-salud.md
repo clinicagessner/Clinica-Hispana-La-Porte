@@ -2,6 +2,7 @@
 title: "Bienvenidos a Clínica Hispana Nueva Salud La Porte"
 description: "Conoce Clínica Hispana Nueva Salud La Porte: atención médica en español en La Porte, TX, sin cita, sin necesidad de seguro y con precios accesibles."
 date: "2026-01-15"
+updated: "2026-10-03"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Clínica"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"

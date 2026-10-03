@@ -2,6 +2,7 @@
 title: "Clinical lab in La Porte: blood tests explained"
 description: "Learn which blood tests you can get in La Porte, what they're for and how to receive fast results in Spanish."
 date: "2026-03-30"
+updated: "2026-10-03"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Lab"
 cover: "/images/blog/laboratorio-clinico-la porte-analisis-sangre.webp"

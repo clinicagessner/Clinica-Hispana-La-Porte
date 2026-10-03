@@ -2,6 +2,7 @@
 title: "Laboratorio clínico en La Porte: análisis de sangre"
 description: "Conoce qué análisis de sangre puedes hacerte en La Porte, para qué sirven y cómo obtener resultados rápidos en español."
 date: "2026-03-30"
+updated: "2026-10-03"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Laboratorio"
 cover: "/images/blog/laboratorio-clinico-la porte-analisis-sangre.webp"

@@ -9,6 +9,7 @@ import { Link } from "@/i18n/navigation";
 import { BlogCard } from "@/components/blog/blog-card";
 import { ServiceCard } from "@/components/services/service-card";
 import { FaqSection } from "@/components/sections/faq-section";
+import { MedicalReview } from "@/components/shared/medical-review";
 import { JsonLdBreadcrumb, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
@@ -48,6 +49,7 @@ export async function generateMetadata({
       title,
       description: post.description,
       publishedTime: post.date,
+      modifiedTime: post.updated ?? post.date,
       url: absoluteUrl(`/blog/${slug}`, locale as Locale),
       images: [{ url: post.cover, alt: post.coverAlt }],
     },
@@ -182,6 +184,12 @@ export default async function BlogPostPage({
               {post.content}
             </ReactMarkdown>
           </article>
+
+          <MedicalReview
+            locale={loc}
+            published={post.date}
+            reviewed={post.updated ?? post.date}
+          />
 
           {/* Servicios relacionados con el tema del post */}
           {relatedServices.length > 0 && (

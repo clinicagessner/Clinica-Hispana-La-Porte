@@ -2,6 +2,7 @@
 title: "Control de diabetes en La Porte: guía para pacientes"
 description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en La Porte."
 date: "2026-02-10"
+updated: "2026-10-03"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-la porte-guia-pacientes.webp"

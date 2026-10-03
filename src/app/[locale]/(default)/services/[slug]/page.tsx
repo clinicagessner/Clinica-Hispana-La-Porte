@@ -16,7 +16,10 @@ import {
   JsonLdFaqPage,
   JsonLdMedicalClinicRef,
   JsonLdMedicalProcedure,
+  JsonLdMedicalWebPage,
 } from "@/components/seo/json-ld";
+import { MedicalReview } from "@/components/shared/medical-review";
+import { serviceLastReviewed } from "@/lib/content-dates";
 import {
   getAllServiceSlugs,
   getCategoryLabel,
@@ -102,6 +105,7 @@ export default async function ServiceDetailPage({
   const relatedPosts = getAllPosts(loc).filter((p) => p.services?.includes(slug));
 
   const url = absoluteUrl(`/services/${slug}`, loc);
+  const reviewed = serviceLastReviewed(slug);
 
   return (
     <>
@@ -119,6 +123,14 @@ export default async function ServiceDetailPage({
         name={l.title}
         description={l.description}
         url={url}
+      />
+      <JsonLdMedicalWebPage
+        slug={slug}
+        name={l.title}
+        description={l.description}
+        url={url}
+        lastReviewed={reviewed}
+        locale={loc}
       />
       <JsonLdFaqPage faqs={faqs} />
 
@@ -239,6 +251,8 @@ export default async function ServiceDetailPage({
                 </div>
               </div>
             )}
+
+            <MedicalReview locale={loc} reviewed={reviewed} />
           </div>
 
           {/* Sidebar CTA */}

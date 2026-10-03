@@ -2,6 +2,7 @@
 title: "Vitamin B12 in La Porte: benefits and injections"
 description: "What vitamin B12 does, signs of deficiency and when an injection makes sense. B12 testing and shots in La Porte, TX, in Spanish, no appointment needed."
 date: "2026-08-18"
+updated: "2026-10-03"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Health"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-laporte.webp"
