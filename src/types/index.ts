@@ -80,6 +80,8 @@ export interface LocalizedFaq {
 
 export interface BlogFrontmatter {
   title: string;
+  /** Título para <title> y redes si el H1 (`title`) pasa de 60 caracteres. */
+  metaTitle?: string;
   description: string;
   date: string;
   /** Última revisión del contenido (YYYY-MM-DD). Alimenta lastmod del sitemap. */

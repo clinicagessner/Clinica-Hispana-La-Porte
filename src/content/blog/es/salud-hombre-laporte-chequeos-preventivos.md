@@ -1,5 +1,6 @@
 ---
 title: "Salud del hombre en La Porte: chequeos preventivos que pueden salvarte la vida"
+metaTitle: "Salud del hombre en La Porte: chequeos preventivos"
 description: "Guía de chequeos preventivos para hombres en La Porte, TX: PSA, testosterona, presión, glucosa y más, con atención 100% en español y sin cita."
 date: "2026-07-22"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"

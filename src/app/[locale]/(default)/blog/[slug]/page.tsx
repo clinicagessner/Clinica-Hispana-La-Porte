@@ -37,14 +37,15 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const post = getPost(slug, locale as Locale);
   if (!post) return {};
+  const title = post.metaTitle ?? post.title;
   return {
-    title: post.title,
+    title,
     description: post.description,
     keywords: post.keywords,
     alternates: buildAlternates(`/blog/${slug}`, locale as Locale),
     openGraph: {
       type: "article",
-      title: post.title,
+      title,
       description: post.description,
       publishedTime: post.date,
       url: absoluteUrl(`/blog/${slug}`, locale as Locale),
@@ -52,7 +53,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: post.title,
+      title,
       description: post.description,
       images: [post.cover],
     },

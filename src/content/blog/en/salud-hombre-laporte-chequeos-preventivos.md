@@ -1,6 +1,7 @@
 ---
 title: "Men's health in La Porte: preventive checkups that can save your life"
-description: "A guide to preventive checkups for men in La Porte, TX: PSA, testosterone, blood pressure, glucose and more, with care 100% in Spanish and no appointment needed."
+metaTitle: "Men's health in La Porte: preventive checkups"
+description: "Preventive checkups for men in La Porte, TX: PSA, hormone panel, blood pressure, glucose and more. Care in Spanish, no appointment needed."
 date: "2026-07-22"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Men's health"

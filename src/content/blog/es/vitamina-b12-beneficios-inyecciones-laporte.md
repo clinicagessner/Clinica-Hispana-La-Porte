@@ -1,6 +1,6 @@
 ---
 title: "Vitamina B12 en La Porte: beneficios e inyecciones"
-description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y cuándo conviene la inyección. Prueba e inyección de B12 en La Porte, TX, en español y sin cita."
+description: "Para qué sirve la vitamina B12, señales de deficiencia y cuándo conviene la inyección. Prueba e inyección de B12 en La Porte, TX, en español y sin cita."
 date: "2026-08-18"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Salud"

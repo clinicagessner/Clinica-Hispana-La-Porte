@@ -405,9 +405,9 @@ Many of our patients lost their follow-up when they changed jobs or insurance. H
     shortDescriptionEn:
       "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Examen de tiroides en La Porte, TX sin cita: TSH, T3 y T4 en nuestro laboratorio, diagnóstico y tratamiento de hipo e hipertiroidismo. En español, sin seguro y con precios accesibles.",
+      "Examen de tiroides en La Porte, TX sin cita: TSH, T3 y T4, diagnóstico y tratamiento de hipo e hipertiroidismo. En español y sin seguro.",
     descriptionEn:
-      "Walk-in thyroid test in La Porte, TX: TSH, T3 and T4 in our own lab, diagnosis and treatment of hypo- and hyperthyroidism. In Spanish, no insurance needed, affordable pricing.",
+      "Walk-in thyroid test in La Porte, TX: TSH, T3 and T4, diagnosis and treatment of hypo- and hyperthyroidism. In Spanish, no insurance needed.",
     keywords: [
       "tiroides la porte",
       "examen de tiroides la porte",
@@ -721,7 +721,7 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
     shortDescriptionEn:
       "Physical exams for school, sports, work or your annual checkup. No appointment, no insurance needed, forms completed the same day.",
     description:
-      "Examen físico en La Porte, TX sin cita: escolar, deportivo, para el trabajo o chequeo anual con análisis de sangre. En español, sin seguro y con precios accesibles.",
+      "Examen físico en La Porte, TX sin cita: escolar, deportivo, para el trabajo o chequeo anual con análisis de sangre. En español y sin seguro.",
     descriptionEn:
       "Walk-in physical exam in La Porte, TX: school, sports, work or annual checkup with blood work. In Spanish, no insurance needed, affordable pricing.",
     keywords: [
