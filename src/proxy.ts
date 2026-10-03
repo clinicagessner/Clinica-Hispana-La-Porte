@@ -1,5 +1,5 @@
 import createMiddleware from "next-intl/middleware";
-import type { NextRequest } from "next/server";
+import { NextResponse, type NextRequest } from "next/server";
 import { routing } from "@/i18n/routing";
 
 // Next 16 renombró middleware.ts → proxy.ts. next-intl maneja la
@@ -13,8 +13,16 @@ const WP_REMNANTS =
   /^\/(?:hello-world|news-aggregation-app-initech-raises-100-million-from-existing-investors|the-biggest-shifts-and-trends-driving-short-and-long-term-growth-in-the-future|credit-bank-which-offers-loans-to-people-without-credit-score-has-raised-15m|category(?:\/.*)?|tag(?:\/.*)?|author(?:\/.*)?|feed|wp-admin(?:\/.*)?|wp-content(?:\/.*)?|wp-includes(?:\/.*)?|wp-login)\/?$/;
 
 export default function proxy(request: NextRequest) {
-  if (WP_REMNANTS.test(request.nextUrl.pathname)) {
+  const { pathname } = request.nextUrl;
+  if (WP_REMNANTS.test(pathname)) {
     return new Response(null, { status: 410 });
+  }
+  // Todas las rutas del sitio van en minúsculas: /SERVICES servía la misma
+  // página con 200 (contenido duplicado). 308 a la versión en minúsculas.
+  if (pathname !== pathname.toLowerCase()) {
+    const url = request.nextUrl.clone();
+    url.pathname = pathname.toLowerCase();
+    return NextResponse.redirect(url, 308);
   }
   return intl(request);
 }
