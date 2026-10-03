@@ -10,7 +10,7 @@ import {
   PromotionsGrid,
   type PromotionGridItem,
 } from "@/components/sections/promotions-grid";
-import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdFaqPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { CONTACT_INFO, PROMOTIONS } from "@/lib/constants";
 import { getServiceCardData } from "@/lib/services";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -74,9 +74,10 @@ export default async function PromocionesPage({
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBreadcrumb
         items={[
-          { name: "Home", url: absoluteUrl("/", loc) },
+          { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: c.eyebrow, url: absoluteUrl(PATH, loc) },
         ]}
       />

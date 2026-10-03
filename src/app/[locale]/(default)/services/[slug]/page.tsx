@@ -13,6 +13,7 @@ import { FaqAccordion } from "@/components/shared/faq-accordion";
 import {
   JsonLdBreadcrumb,
   JsonLdFaqPage,
+  JsonLdMedicalClinicRef,
   JsonLdMedicalProcedure,
 } from "@/components/seo/json-ld";
 import {
@@ -97,14 +98,17 @@ export default async function ServiceDetailPage({
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBreadcrumb
         items={[
-          { name: "Home", url: absoluteUrl("/", loc) },
-          { name: "Servicios", url: absoluteUrl("/services", loc) },
+          { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
+          { name: loc === "en" ? "Services" : "Servicios", url: absoluteUrl("/services", loc) },
           { name: l.title, url },
         ]}
       />
       <JsonLdMedicalProcedure
+        slug={slug}
+        image={hasServiceImage(slug) ? serviceImagePath(slug) : undefined}
         name={l.title}
         description={l.description}
         url={url}
