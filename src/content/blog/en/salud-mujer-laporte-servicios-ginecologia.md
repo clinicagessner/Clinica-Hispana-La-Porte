@@ -1,7 +1,8 @@
 ---
 title: "Women's health in La Porte: gynecology services"
-description: "A guide to the women's health services available in La Porte in Spanish: checkups, family planning and prevention."
+description: "Women's health services at our La Porte clinic by life stage: Pap smears, birth control, pregnancy tests and infection care."
 date: "2026-04-25"
+updated: "2026-10-03"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Women's health"
 cover: "/images/blog/salud-mujer-la porte-servicios-ginecologia.webp"
@@ -16,28 +17,28 @@ services:
   - "anticonceptivos"
 ---
 
-Caring for your health as a woman goes beyond a single visit: it's support at every stage of your life. In La Porte you can access these services in Spanish and with confidence.
+An 18-year-old has different needs from a 35-year-old mom or a woman heading into menopause. So instead of a flat list, here are the women's health services at Clínica Hispana Nueva Salud La Porte grouped by the stage of life you're in. All of them are provided by the clinic's general medical team, in Spanish or English.
 
-## Essential services for women
+## When you become sexually active
 
-- **Annual gynecological checkup** and Pap smear
-- **Family planning** and guidance on methods
-- **Contraceptive injection** and follow-up
-- **Contraceptive implant removal**
-- **Vaginal infection treatment**
+This is a good time for a first checkup and an honest talk about protection. During a [birth control visit](/en/services/anticonceptivos) we compare pills and the injection, explain how the implant and IUD work and point you to where they can be placed. If you're worried about unprotected contact, [sexually transmitted infection testing](/en/services/enfermedades-transmision-sexual) is available too.
 
-## Prevention: your best ally
+## If you think you might be pregnant
 
-Many women's health issues can be detected and treated early with regular checkups. Prevention avoids complications and gives you peace of mind.
+A clinic [pregnancy test](/en/services/prueba-embarazo) confirms what a drugstore test showed, or settles it when the home result was unclear. With a positive result we walk you through next steps and, if needed, the medical team can order an [ultrasound](/en/services/ultrasonido).
 
-## Family planning without judgment
+## Between pregnancies or when your family is complete
 
-Deciding when and how to build your family is your right. We help you compare options based on your health and your plans, always with clear information and respect.
+Many women switch methods after having a baby. If your arm implant has reached its time limit or is bothering you, we do [subdermal implant removal](/en/services/extraccion-implantes) right here, under local anesthesia.
 
-## When to seek care right away
+## Routine checkups at any age
 
-If you have itching, burning, unusual discharge, odor or pain, don't wait. A timely evaluation ensures the right treatment and resolves the discomfort faster.
+[Pap smears and vaginal cultures](/en/services/ginecologia) are the core of preventive care. How often you need a Pap test depends on your age and past results; the medical team will tell you when your next one is due.
 
-## Care in your language
+## Signs to come in soon
 
-At Clínica Hispana Nueva Salud La Porte, women's health is a priority. We care for you in Spanish, with privacy and warmth. Call us at **(346) 222-1006** and book your visit.
+Don't ignore foul-smelling discharge, itching that won't go away, burning, bleeding outside your period or pain in your lower belly. These problems are common and usually treatable, but they're worth checking instead of putting up with them.
+
+## Where and when
+
+You'll find us on Spencer Highway in La Porte. No appointment is required: walk-ins are seen from 9 AM until 9 PM Monday through Saturday, and until 7 PM on Sunday. No health insurance needed. To ask about prices, call **(346) 222-1006**.
