@@ -50,6 +50,12 @@ export async function generateMetadata({
       url: absoluteUrl(`/blog/${slug}`, locale as Locale),
       images: [{ url: post.cover, alt: post.coverAlt }],
     },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
+      images: [post.cover],
+    },
   };
 }
 

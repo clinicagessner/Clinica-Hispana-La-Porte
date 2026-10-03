@@ -10,7 +10,7 @@ import {
   getCategoryLabel,
   getServiceCardData,
 } from "@/lib/services";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
 
@@ -29,6 +29,12 @@ export async function generateMetadata({
     title: t("title"),
     description: t("subtitle"),
     alternates: buildAlternates("/services", locale as Locale),
+    ...buildSocial({
+      title: t("title"),
+      description: t("subtitle"),
+      path: "/services",
+      locale: locale as Locale,
+    }),
   };
 }
 

@@ -13,7 +13,7 @@ import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
 import { ScrollSpy } from "@/components/layout/scroll-spy";
 import { SITE_CONFIG } from "@/lib/constants";
-import { buildAlternates } from "@/lib/seo";
+import { buildAlternates, buildSocial } from "@/lib/seo";
 import type { Locale } from "@/types";
 
 export async function generateMetadata({
@@ -23,12 +23,15 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const isEn = locale === "en";
+  const title = isEn
+    ? "Hispanic Clinic in La Porte, TX | Walk-Ins, No Insurance Needed"
+    : "Clínica Hispana en La Porte, TX | Sin Cita y Sin Seguro";
+  const description = isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description;
   return {
-    title: isEn
-      ? "Hispanic Clinic in La Porte, TX | Walk-Ins, No Insurance Needed"
-      : "Clínica Hispana en La Porte, TX | Sin Cita y Sin Seguro",
-    description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
+    title,
+    description,
     alternates: buildAlternates("/", locale as Locale),
+    ...buildSocial({ title, description, path: "/", locale: locale as Locale }),
   };
 }
 

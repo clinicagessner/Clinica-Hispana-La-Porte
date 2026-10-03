@@ -15,7 +15,7 @@ import { CONTACT_INFO, PROMOTIONS } from "@/lib/constants";
 import { getServiceCardData } from "@/lib/services";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { getPromotionsLandingContent } from "@/lib/promotions-landing";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -38,6 +38,12 @@ export async function generateMetadata({
     title: c.metaTitle,
     description: c.metaDescription,
     alternates: buildAlternates(PATH, locale as Locale),
+    ...buildSocial({
+      title: c.metaTitle,
+      description: c.metaDescription,
+      path: PATH,
+      locale: locale as Locale,
+    }),
   };
 }
 
