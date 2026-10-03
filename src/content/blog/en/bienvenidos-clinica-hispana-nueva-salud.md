@@ -44,7 +44,7 @@ Under one roof we handle what families in La Porte and nearby ask for most:
 
 1. Come in whenever it suits you during open hours.
 2. At the front desk we take your details and the reason for your visit, in Spanish.
-3. The doctor examines you, asks questions and, if needed, orders lab work or tests.
+3. The clinic's medical team examines you, asks questions and, if needed, orders lab work or tests.
 4. You hear what's going on, which treatment comes next and when to come back.
 
 ## What matters to us

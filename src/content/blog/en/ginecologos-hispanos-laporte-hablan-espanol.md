@@ -1,5 +1,6 @@
 ---
 title: "Spanish-speaking gynecology care in La Porte: getting the most from your visit"
+metaTitle: "Gynecology care in Spanish in La Porte: your visit"
 description: "Women's health visits in Spanish in La Porte: how to prepare, what to say and what gets checked, walk-in and private."
 date: "2026-03-05"
 updated: "2026-10-03"

@@ -60,7 +60,7 @@ Cualquiera puede quedarse corto de B12, pero en estos grupos vale la pena buscar
 
 ## La prueba, sin cita y explicada en español
 
-En nuestro [laboratorio clínico](/services/examenes-sangre) la muestra se toma el mismo día que llegas. Junto con la B12, el médico puede pedir una biometría hemática para ver si ya hay anemia, y otros valores si los síntomas apuntan hacia otro lado, como la [tiroides](/services/tiroides). Los resultados salen rápido y los revisamos contigo con palabras sencillas: qué salió, qué significa y cuál es el siguiente paso.
+En nuestro [laboratorio clínico](/services/examenes-sangre) la muestra se toma en la misma visita. Junto con la B12, el equipo médico de la clínica puede pedir una biometría hemática para ver si ya hay anemia, y otros valores si los síntomas apuntan hacia otro lado, como la [tiroides](/services/tiroides). Los resultados salen rápido y los revisamos contigo con palabras sencillas: qué salió, qué significa y cuál es el siguiente paso.
 
 ## Comida, pastillas o inyección
 
@@ -68,14 +68,14 @@ Si el nivel está apenas bajo y tu estómago absorbe bien, a veces basta con aju
 
 La inyección intramuscular tiene sentido cuando el problema es la absorción: la edad, la metformina, los protectores gástricos o una cirugía digestiva. Al ponerse en el músculo, la vitamina llega a la sangre sin pasar por el intestino. [MedlinePlus](https://medlineplus.gov/spanish/ency/article/000574.htm) describe este tratamiento para la anemia causada por falta de B12.
 
-Cada cuánto aplicarla no es igual para todos: el médico lo decide con tus resultados y lo ajusta en los controles. Si además necesitas hidratarte, también aplicamos [sueros vitaminados](/services/sueros-vitaminados), siempre después de una valoración, y damos seguimiento a [enfermedades crónicas](/services/condiciones-cronicas) que pueden estar detrás del cansancio.
+Cada cuánto aplicarla no es igual para todos: el equipo médico lo decide con tus resultados y lo ajusta en los controles. Si además necesitas hidratarte, también aplicamos [sueros vitaminados](/services/sueros-vitaminados), siempre después de una valoración, y damos seguimiento a [enfermedades crónicas](/services/condiciones-cronicas) que pueden estar detrás del cansancio.
 
 ## Tu visita, paso a paso
 
 1. Llegas sin cita, cualquier día desde las 9 de la mañana.
 2. Le cuentas al equipo médico tus síntomas y los medicamentos que tomas.
 3. Se toma la muestra de sangre.
-4. Con los resultados, decides con el médico entre dieta, pastillas o inyección.
+4. Con los resultados, decides con el equipo médico entre dieta, pastillas o inyección.
 5. Si te corresponde la inyección, se pone en unos minutos.
 
 ## Paquete de laboratorio con B12

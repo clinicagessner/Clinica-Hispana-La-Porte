@@ -17,33 +17,35 @@ services:
   - "electrocardiograma"
 ---
 
-La diabetes es una de las condiciones más comunes en la comunidad hispana, pero con el control adecuado puedes llevar una vida plena y activa. Esta guía te explica lo esencial en palabras simples.
+Si hace poco te dijeron que tienes diabetes tipo 2, o llevas años con ella y sientes que las cifras no ceden, esta guía es para ti. La armamos a partir de las preguntas que más se repiten en la consulta de Spencer Highway: qué quieren decir los análisis, qué cambiar en la cocina sin renunciar a la comida de casa y cada cuánto conviene regresar a consulta.
 
-## Conoce tus números
+## Los análisis que vale la pena entender
 
-El primer paso es saber dónde estás. Tu médico te ayudará a entender:
+Llevar bien la diabetes empieza por saber leer los resultados. En una visita de seguimiento, el equipo médico revisa varios valores a la par:
 
-- **Glucosa en ayunas:** tu nivel de azúcar al despertar.
-- **Hemoglobina A1c:** tu promedio de azúcar en los últimos 3 meses.
-- **Presión arterial y colesterol:** muchas veces van de la mano con la diabetes.
+- **Glucosa en ayunas.** Se toma por la mañana, antes de desayunar, y muestra cómo amaneció tu azúcar ese día concreto.
+- **Hemoglobina A1c.** Resume cómo se ha comportado el azúcar en los dos o tres meses previos; por eso indica si el plan funciona más allá de un día bueno o uno malo.
+- **Presión, colesterol y función de los riñones.** La diabetes casi nunca llega sola, y vigilar estos datos protege el corazón y los riñones.
 
-## La alimentación es tu medicina
+Apunta en una libreta o en el celular las cifras de cada visita. Ver cómo bajan con el tiempo anima más que cualquier sermón.
 
-No se trata de dejar de comer lo que te gusta, sino de equilibrar. Algunos consejos:
+## Ajustes en el plato que sí duran
 
-1. Reduce las bebidas azucaradas y los refrescos.
-2. Prefiere porciones moderadas de tortilla, arroz y pan.
-3. Llena la mitad de tu plato con verduras.
-4. Toma agua en lugar de jugos.
+Las dietas drásticas se abandonan a las dos semanas. Funcionan mejor los cambios chicos que toda la familia puede adoptar:
 
-## Muévete cada día
+1. Sustituye el refresco y el agua fresca endulzada por agua natural, mineral o con limón sin azúcar.
+2. Empieza la comida por las verduras y la proteína (frijoles, pollo, pescado, huevo) y deja para el final una porción menor de tortilla, arroz o pan.
+3. Lee las etiquetas: varios productos "light" o de avena esconden más azúcar de la que aparentan.
+4. Si por el turno de trabajo cenas tarde, que esa sea la comida más ligera de tu día.
 
-Una caminata de 30 minutos al día ayuda a bajar el azúcar y a sentirte mejor. No necesitas un gimnasio: camina, baila o sube escaleras.
+## Moverte a tu ritmo
 
-## El seguimiento marca la diferencia
+No necesitas pagar un gimnasio. Una caminata corta después de comer, aunque sea de diez o quince minutos, ayuda a que el cuerpo aproveche mejor el azúcar. Sirve igual el parque de Sylvan Beach que la cuadra de tu casa. Antes de algo más exigente, coméntalo en la consulta, en especial si te inyectas insulina o tienes molestias en los pies.
 
-La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Por eso el seguimiento regular con tu médico es clave para ajustar el tratamiento a tiempo.
+## Avisos del cuerpo que no conviene ignorar
 
-## Cuenta con nosotros
+Pide consulta pronto si notas una sed o unas ganas de orinar fuera de lo normal, vista nublada, heridas en los pies que no cierran u hormigueo en manos y pies. Detectar una complicación a tiempo permite ajustar el tratamiento antes de que avance. Ante un desmayo, confusión o falta de aire, no esperes: marca al 911.
 
-En Clínica Hispana Nueva Salud La Porte tenemos un programa de control de diabetes en español, con laboratorio rápido y un plan personalizado. Llámanos al **(346) 222-1006** y toma el control de tu salud.
+## Tu seguimiento en La Porte
+
+En Clínica Hispana Nueva Salud La Porte llevamos el control de la diabetes y de otras [condiciones crónicas](/services/condiciones-cronicas) en español y en inglés, sin cita y sin necesidad de seguro. Los [exámenes de sangre](/services/examenes-sangre) se toman en la misma clínica y, cuando el equipo médico lo indica, también realizamos [electrocardiograma](/services/electrocardiograma). Abrimos de lunes a sábado de 9 a. m. a 9 p. m. y el domingo de 9 a. m. a 7 p. m. Si tienes dudas, llámanos al **(346) 222-1006**.

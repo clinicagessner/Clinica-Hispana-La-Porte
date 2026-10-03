@@ -44,7 +44,7 @@ En un mismo lugar cubrimos lo que más nos piden las familias de La Porte y alre
 
 1. Llegas a la hora que te quede bien dentro del horario.
 2. En recepción te piden tus datos y el motivo de la consulta, en español.
-3. El médico te revisa, te hace preguntas y, si hace falta, pide análisis o estudios.
+3. El equipo médico de la clínica te revisa, te hace preguntas y, si hace falta, pide análisis o estudios.
 4. Te explica qué tienes, qué tratamiento sigue y cuándo conviene regresar.
 
 ## Lo que nos importa

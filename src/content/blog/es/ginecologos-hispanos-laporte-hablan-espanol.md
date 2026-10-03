@@ -1,5 +1,6 @@
 ---
 title: "Ginecología en español en La Porte: cómo sacarle provecho a tu consulta"
+metaTitle: "Ginecología en español en La Porte: tu consulta"
 description: "Consulta de salud femenina en español en La Porte: cómo prepararte, qué palabras usar y qué se revisa, sin cita y con privacidad."
 date: "2026-03-05"
 updated: "2026-10-03"

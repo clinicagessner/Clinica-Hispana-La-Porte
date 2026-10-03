@@ -60,7 +60,7 @@ Anyone can come up short on B12, but these groups are worth testing even when sy
 
 ## Testing without an appointment, explained in Spanish
 
-At our [clinical lab](/en/services/examenes-sangre) your sample is drawn on the day you come in. Alongside B12, the doctor may order a complete blood count to check for anemia, plus other values if your symptoms point elsewhere, such as your [thyroid](/en/services/tiroides). Results come back quickly and we go over them with you in plain words: what came out, what it means and what the next step is.
+At our [clinical lab](/en/services/examenes-sangre) your sample is drawn during the same visit. Alongside B12, the clinic's medical team may order a complete blood count to check for anemia, plus other values if your symptoms point elsewhere, such as your [thyroid](/en/services/tiroides). Results come back quickly and we go over them with you in plain words: what came out, what it means and what the next step is.
 
 ## Food, pills or a shot
 
@@ -68,14 +68,14 @@ If your level is only slightly low and your stomach absorbs normally, adjusting 
 
 An intramuscular shot makes sense when absorption is the problem: age, metformin, acid reducers or digestive surgery. Because it goes into the muscle, the vitamin reaches the bloodstream without relying on the gut. [MedlinePlus](https://medlineplus.gov/ency/article/000574.htm) describes this treatment for anemia caused by low B12.
 
-How often you need it varies from person to person: the doctor sets the schedule from your results and adjusts it at follow-up visits. If you also need fluids, we offer [vitamin IV therapy](/en/services/sueros-vitaminados) after an evaluation, and we follow up on [chronic conditions](/en/services/condiciones-cronicas) that may be behind the fatigue.
+How often you need it varies from person to person: the medical team sets the schedule from your results and adjusts it at follow-up visits. If you also need fluids, we offer [vitamin IV therapy](/en/services/sueros-vitaminados) after an evaluation, and we follow up on [chronic conditions](/en/services/condiciones-cronicas) that may be behind the fatigue.
 
 ## Your visit, step by step
 
 1. Walk in any day from 9 in the morning, no appointment.
 2. Tell the medical team about your symptoms and the medications you take.
 3. Your blood sample is drawn.
-4. With the results, you and the doctor choose between diet, pills or a shot.
+4. With the results, you and the medical team choose between diet, pills or a shot.
 5. If a shot is the right fit, it takes just a few minutes.
 
 ## Lab package with B12
