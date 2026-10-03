@@ -5,7 +5,7 @@ import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
 import { StarRating } from "@/components/shared/star-rating";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { ContactForm } from "@/components/forms/contact-form";
+import { LazyContactForm } from "@/components/forms/lazy-contact-form";
 import {
   PromotionsGrid,
   type PromotionGridItem,
@@ -179,7 +179,7 @@ export default async function PromocionesPage({
               {CONTACT_INFO.phoneFormatted}
             </a>
           </div>
-          <ContactForm services={services} />
+          <LazyContactForm services={services} />
         </div>
       </section>
     </>
