@@ -215,5 +215,11 @@
     "cond2d": "Energía, ánimo y vitalidad",
     "cond3d": "Signos vitales y prevención",
     "cond4d": "Evaluación y seguimiento"
+  },
+  "About": {
+    "title": "¿Qué es Clínica Hispana Nueva Salud La Porte?",
+    "p1": "Clínica Hispana Nueva Salud La Porte es una clínica de medicina general y familiar ubicada en <address></address>. Abre de lunes a sábado de 9:00 a. m. a 9:00 p. m. y el domingo de 9:00 a. m. a 7:00 p. m. Atiende sin cita y sin necesidad de seguro médico, en español y en inglés.",
+    "p2": "Ofrece {count} <services>servicios médicos</services>: consultas de medicina general, <lab>laboratorio clínico</lab>, ginecología y salud de la mujer, exámenes del hombre, <dot>examen DOT</dot> para conductores comerciales, <immigration>examen médico de inmigración I-693</immigration>, vacunas, electrocardiograma, ultrasonido y <minor>procedimientos menores</minor>. El equipo médico de la clínica también da seguimiento a enfermedades crónicas como la diabetes, la presión alta y la tiroides.",
+    "p3": "Para consultas, llame al <phone></phone> o escriba por WhatsApp al <whatsapp></whatsapp>. Recibe pacientes de La Porte, Deer Park, Pasadena, Shoreacres y Morgan's Point."
   }
 }

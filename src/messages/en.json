@@ -215,5 +215,11 @@
     "cond2d": "Energy, mood and vitality",
     "cond3d": "Vitals and prevention",
     "cond4d": "Evaluation and follow-up"
+  },
+  "About": {
+    "title": "What is Clínica Hispana Nueva Salud La Porte?",
+    "p1": "Clínica Hispana Nueva Salud La Porte is a general and family medicine clinic located at <address></address>. It is open Monday through Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM. It sees patients without an appointment and without health insurance, in Spanish and English.",
+    "p2": "It offers {count} <services>medical services</services>: general medicine visits, a <lab>clinical lab</lab>, gynecology and women's health, men's health exams, the <dot>DOT physical</dot> for commercial drivers, the <immigration>I-693 immigration medical exam</immigration>, vaccines, electrocardiograms, ultrasound and <minor>minor procedures</minor>. The clinic's medical team also follows up on chronic conditions such as diabetes, high blood pressure and thyroid disease.",
+    "p3": "For questions, call <phone></phone> or send a WhatsApp message to <whatsapp></whatsapp>. It serves patients from La Porte, Deer Park, Pasadena, Shoreacres and Morgan's Point."
   }
 }
