@@ -131,9 +131,9 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Complete general checkup",
     price: "$99",
     blurb:
-      "Cuídate hoy y vive mejor mañana: chequeo general completo con examen general de sangre, A1C (hemoglobina glicosilada), examen general de orina y consulta médica gratis. Valor regular $250, por solo $99.",
+      "Un solo paquete para saber cómo andas por dentro: examen general de sangre, A1C (el promedio de tu azúcar de los últimos tres meses), examen general de orina y la consulta con el equipo médico sin costo extra. Valor regular $250; con la promoción pagas $99.",
     blurbEn:
-      "Take care of yourself today and live better tomorrow: complete general checkup with a full blood panel, A1C (glycated hemoglobin), general urine test and a free medical consultation. Regular value $250, for only $99.",
+      "One package to see how you are doing inside: a complete blood panel, an A1C (your average blood sugar over the last three months), a general urine test and the visit with the medical team at no extra cost. Regular value $250; with the promotion you pay $99.",
     includes: [
       "Examen general de sangre",
       "A1C (hemoglobina glicosilada)",
@@ -158,9 +158,9 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Complete blood panel + Vitamin B12",
     price: "$99",
     blurb:
-      "Cuida tu salud con nuestra promoción especial: un examen general de sangre completo más una inyección de vitamina B12 para apoyar tu energía y bienestar. Conoce cómo está tu cuerpo y date un impulso, todo por solo $99.",
+      "Pensada para quien anda sin energía y quiere salir de dudas: te tomamos el examen general de sangre completo y, en la misma visita, te aplicamos una inyección de vitamina B12. Los dos servicios juntos cuestan $99.",
     blurbEn:
-      "Take care of your health with our special promotion: a complete blood panel plus a vitamin B12 shot to support your energy and wellbeing. Find out how your body is doing and give yourself a boost, all for only $99.",
+      "Made for anyone running low on energy who wants answers: we draw a complete blood panel and, during the same visit, give you a vitamin B12 shot. Both services together cost $99.",
     includes: [
       "Examen general de sangre completo",
       "Inyección de vitamina B12",
@@ -183,9 +183,9 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Women's intimate health",
     price: "$69",
     blurb:
-      "¿Picazón, flujo o mal olor? No lo ignores: pueden ser señales de una infección. Nuestra promoción de salud íntima femenina incluye cultivo íntimo, consulta médica y examen de orina gratis, con atención confidencial. Todo por solo $69.",
+      "Si notas comezón, un flujo distinto o un olor que no es normal, conviene revisarlo antes de que avance. El paquete de salud íntima incluye el cultivo íntimo, la consulta con el equipo médico y un examen de orina sin costo, en un espacio privado y confidencial. Precio de la promoción: $69.",
     blurbEn:
-      "Itching, discharge or odor? Don't ignore it — these can be signs of an infection. Our women's intimate health promotion includes an intimate culture, a medical consultation and a free urine test, with confidential care. All for only $69.",
+      "If you notice itching, unusual discharge or an odor that isn't normal, it's worth getting checked before it gets worse. The intimate health package includes the intimate culture, the visit with the medical team and a urine test at no charge, in a private, confidential setting. Promotion price: $69.",
     includes: [
       "Cultivo íntimo",
       "Consulta médica",
@@ -210,20 +210,20 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Hormone panel for men",
     price: "$200",
     blurb:
-      "¿Cansancio, irritabilidad, pérdida de masa muscular o baja libido? Pueden ser señales de un desequilibrio hormonal. Nuestro perfil hormonal masculino evalúa tu salud hormonal con exámenes confiables y resultados precisos, con atención profesional en español. Por solo $200.",
+      "Cuando el cansancio no se va, el humor cambia sin razón, cuesta mantener el músculo o baja el deseo sexual, a veces las hormonas tienen algo que ver. El perfil hormonal masculino mide esos valores en sangre para que el equipo médico de la clínica te explique, en español, qué está pasando. Precio de la promoción: $200.",
     blurbEn:
-      "Fatigue, irritability, loss of muscle mass or low libido? These can be signs of a hormonal imbalance. Our male hormone panel evaluates your hormonal health with reliable tests and precise results, with professional care in Spanish. For only $200.",
+      "When fatigue won't go away, your mood shifts for no reason, muscle is harder to keep or sex drive drops, hormones are sometimes part of the story. The male hormone panel measures those levels in your blood so the clinic's medical team can explain, in Spanish, what is going on. Promotion price: $200.",
     includes: [
       "Evalúa desequilibrios hormonales",
       "Energía, sueño y estado de ánimo",
       "Masa muscular y libido",
-      "Exámenes confiables y resultados precisos",
+      "Resultados explicados en español",
     ],
     includesEn: [
       "Evaluates hormonal imbalances",
       "Energy, sleep and mood",
       "Muscle mass and libido",
-      "Reliable tests and precise results",
+      "Results explained in Spanish",
     ],
     alt: "Promoción de perfil hormonal masculino por $200 en Clínica Hispana Nueva Salud La Porte, TX",
     altEn:
@@ -432,7 +432,7 @@ Many of our patients lost their follow-up when they changed jobs or insurance. H
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `Cansancio que no se quita con dormir, kilos que suben o bajan sin explicación, caída de cabello, frío cuando los demás tienen calor, palpitaciones o nerviosismo: muchas veces la respuesta está en la tiroides. En Clínica Hispana Nueva Salud La Porte hacemos el perfil tiroideo en nuestro laboratorio, sin cita ni orden médica, y el médico inicia o ajusta tu tratamiento en la misma clínica, en español.
+    longDescription: `Cansancio que no se quita con dormir, kilos que suben o bajan sin explicación, caída de cabello, frío cuando los demás tienen calor, palpitaciones o nerviosismo: muchas veces la respuesta está en la tiroides. En Clínica Hispana Nueva Salud La Porte hacemos el perfil tiroideo en nuestro laboratorio, sin cita ni orden médica, y el equipo médico inicia o ajusta tu tratamiento en la misma clínica, en español.
 
 ## Las pruebas: TSH, T3 y T4
 
@@ -459,8 +459,8 @@ Si notas un bulto en el cuello, dificultad para tragar o el cuello más ancho, a
 
 ## Examen de tiroides en La Porte, sin cita
 
-Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el perfil tiroideo y la consulta tienen precio fijo que te decimos antes. La [promoción de chequeo completo de la mujer por $179](/promociones) incluye la tiroides. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `Tiredness that sleep does not fix, pounds going up or down for no reason, hair loss, feeling cold when everyone else is warm, palpitations or nervousness: very often the answer is in the thyroid. At Clínica Hispana Nueva Salud La Porte we run the thyroid panel in our own lab, with no appointment or doctor's order, and the physician starts or adjusts your treatment in the same clinic, in Spanish or English.
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el perfil tiroideo y la consulta tienen precio fijo que te decimos antes. Consulta también las [promociones vigentes](/promociones). Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
+    longDescriptionEn: `Tiredness that sleep does not fix, pounds going up or down for no reason, hair loss, feeling cold when everyone else is warm, palpitations or nervousness: very often the answer is in the thyroid. At Clínica Hispana Nueva Salud La Porte we run the thyroid panel in our own lab, with no appointment or doctor's order, and the medical team starts or adjusts your treatment in the same clinic, in Spanish or English.
 
 ## The tests: TSH, T3 and T4
 
@@ -487,7 +487,7 @@ If you notice a lump in your neck, trouble swallowing or a wider neck, in additi
 
 ## Thyroid testing in La Porte, no appointment needed
 
-We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the thyroid panel and visit have a flat price we tell you beforehand. The [complete women's checkup promotion for $179](/en/promociones) includes the thyroid. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the thyroid panel and visit have a flat price we tell you beforehand. Check our [current promotions](/en/promociones) too. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "alergias",
@@ -669,7 +669,7 @@ Líquidos abundantes, reposo, paracetamol o ibuprofeno para la fiebre y el dolor
 
 ## Constancias para el trabajo
 
-Si necesitas justificante de la consulta o del reposo, te lo entregamos en la misma visita con las fechas indicadas por el médico.
+Si necesitas justificante de la consulta o del reposo, te lo entregamos en la misma visita con las fechas indicadas por el equipo médico.
 
 ## Pruebas de flu y COVID en La Porte, 7 días a la semana
 
@@ -703,7 +703,7 @@ Plenty of fluids, rest, acetaminophen or ibuprofen for fever and pain, honey for
 
 ## Work notes
 
-If you need a note for the visit or for time off, we give it to you during the same visit with the dates indicated by the physician.
+If you need a note for the visit or for time off, we give it to you during the same visit with the dates indicated by the medical team.
 
 ## Flu and COVID testing in La Porte, 7 days a week
 
@@ -756,7 +756,7 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
 
 ## ¿Qué incluye?
 
-- Examen físico general con el médico
+- Examen físico general con el equipo médico
 - Revisión de signos vitales (presión, pulso, peso, talla)
 - Evaluación de visión y audición
 - Llenado de los formularios requeridos por la escuela, el equipo o el empleador
@@ -867,7 +867,7 @@ Nuestra promoción de [salud íntima femenina por $69](/promociones) incluye cul
 
 ## Cómo es la consulta
 
-Te atendemos en un consultorio privado, con puerta cerrada, y el médico te explica cada paso antes de hacerlo. Puedes venir acompañada si así lo prefieres. Trae la fecha de tu última regla, la lista de medicamentos o anticonceptivos que usas y, si tienes papanicolaou o estudios anteriores, tráelos para compararlos. Ven con ropa cómoda.
+Te atendemos en un consultorio privado, con puerta cerrada, y el equipo médico te explica cada paso antes de hacerlo. Puedes venir acompañada si así lo prefieres. Trae la fecha de tu última regla, la lista de medicamentos o anticonceptivos que usas y, si tienes papanicolaou o estudios anteriores, tráelos para compararlos. Ven con ropa cómoda.
 
 ## Ginecología en una clínica hispana cerca de ti
 
@@ -896,7 +896,7 @@ Our [women's intimate health promotion for $69](/en/promociones) includes the cu
 
 ## What the visit is like
 
-You are seen in a private exam room with the door closed, and the physician explains each step before doing it. You are welcome to bring someone with you. Bring the date of your last period, the list of medications or contraceptives you use and, if you have previous Pap smears or studies, bring them for comparison. Wear comfortable clothing.
+You are seen in a private exam room with the door closed, and the medical team explains each step before doing it. You are welcome to bring someone with you. Bring the date of your last period, the list of medications or contraceptives you use and, if you have previous Pap smears or studies, bring them for comparison. Wear comfortable clothing.
 
 ## Gynecology at a Hispanic clinic near you
 
@@ -945,7 +945,7 @@ If you are looking for gynecology care in Spanish in La Porte, TX, you need neit
 
 ## Prueba de orina o prueba de sangre
 
-La **prueba de orina** da resultado en minutos y es confiable desde el primer día de retraso; funciona mejor con la primera orina de la mañana, cuando la hormona está más concentrada. La **prueba de sangre** (hCG cuantitativa) detecta el embarazo antes, entre 7 y 10 días después de la concepción, y además mide el nivel exacto de la hormona, lo que sirve para dar seguimiento a un embarazo muy temprano o cuando hay dolor o sangrado que preocupa. El médico te recomienda cuál conviene según tu caso y cuántos días de retraso tienes.
+La **prueba de orina** da resultado en minutos y es confiable desde el primer día de retraso; funciona mejor con la primera orina de la mañana, cuando la hormona está más concentrada. La **prueba de sangre** (hCG cuantitativa) detecta el embarazo antes, entre 7 y 10 días después de la concepción, y además mide el nivel exacto de la hormona, lo que sirve para dar seguimiento a un embarazo muy temprano o cuando hay dolor o sangrado que preocupa. El equipo médico te recomienda cuál conviene según tu caso y cuántos días de retraso tienes.
 
 ## Confirmación con ultrasonido
 
@@ -973,7 +973,7 @@ Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, $
 
 ## Urine test or blood test
 
-The **urine test** gives a result in minutes and is reliable from the first day of a missed period; it works best with the first urine of the morning, when the hormone is most concentrated. The **blood test** (quantitative hCG) detects pregnancy earlier, 7 to 10 days after conception, and also measures the exact hormone level, which is useful for following a very early pregnancy or when there is worrying pain or bleeding. The physician recommends the right one for your situation and how many days late you are.
+The **urine test** gives a result in minutes and is reliable from the first day of a missed period; it works best with the first urine of the morning, when the hormone is most concentrated. The **blood test** (quantitative hCG) detects pregnancy earlier, 7 to 10 days after conception, and also measures the exact hormone level, which is useful for following a very early pregnancy or when there is worrying pain or bleeding. The medical team recommends the right one for your situation and how many days late you are.
 
 ## Confirmation with ultrasound
 
@@ -1256,7 +1256,7 @@ La testosterona baja gradualmente después de los 30, pero cuando cae por debajo
 
 ## Antígeno prostático (PSA)
 
-El PSA es una proteína de la próstata que sube con la edad, con la inflamación, con el crecimiento benigno y, en algunos casos, con el cáncer. Se recomienda hablar de la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Evita eyacular, andar en bicicleta y hacer ejercicio intenso 48 horas antes, porque elevan el resultado. Un PSA alto no significa cáncer: el médico lo interpreta según tu edad, el tamaño de la próstata y los valores anteriores, y si hace falta te refiere al urólogo con todo documentado.
+El PSA es una proteína de la próstata que sube con la edad, con la inflamación, con el crecimiento benigno y, en algunos casos, con el cáncer. Se recomienda hablar de la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Evita eyacular, andar en bicicleta y hacer ejercicio intenso 48 horas antes, porque elevan el resultado. Un PSA alto no significa cáncer: el equipo médico lo interpreta según tu edad, el tamaño de la próstata y los valores anteriores, y si hace falta te refiere al urólogo con todo documentado.
 
 ## Síntomas urinarios
 
@@ -1268,7 +1268,7 @@ Aprovechamos la visita para lo que más mata a los hombres hispanos y que casi n
 
 ## Cómo prepararte
 
-Ven entre 9 y 10 de la mañana con 8 horas de ayuno si quieres hacer todo en una sola extracción: testosterona, PSA, glucosa y lípidos. Puedes tomar agua. Trae tu lista de medicamentos y resultados anteriores si los tienes. La consulta es privada y puedes hablar con el médico de disfunción eréctil, eyaculación precoz o cualquier tema sin que nadie más se entere.
+Ven entre 9 y 10 de la mañana con 8 horas de ayuno si quieres hacer todo en una sola extracción: testosterona, PSA, glucosa y lípidos. Puedes tomar agua. Trae tu lista de medicamentos y resultados anteriores si los tienes. La consulta es privada y puedes hablar con el equipo médico sobre disfunción eréctil, eyaculación precoz o cualquier tema sin que nadie más se entere.
 
 ## Exámenes del hombre en La Porte, sin cita
 
@@ -1281,7 +1281,7 @@ Testosterone declines gradually after 30, but when it drops below normal you get
 
 ## Prostate-specific antigen (PSA)
 
-PSA is a prostate protein that rises with age, with inflammation, with benign enlargement and, in some cases, with cancer. It is recommended to discuss the test from age 50, or from 45 if your father or brother had prostate cancer. Avoid ejaculation, cycling and intense exercise for 48 hours before, because they raise the result. A high PSA does not mean cancer: the physician interprets it based on your age, prostate size and previous values, and if needed refers you to a urologist with everything documented.
+PSA is a prostate protein that rises with age, with inflammation, with benign enlargement and, in some cases, with cancer. It is recommended to discuss the test from age 50, or from 45 if your father or brother had prostate cancer. Avoid ejaculation, cycling and intense exercise for 48 hours before, because they raise the result. A high PSA does not mean cancer: the medical team interprets it based on your age, prostate size and previous values, and if needed refers you to a urologist with everything documented.
 
 ## Urinary symptoms
 
@@ -1293,7 +1293,7 @@ We use the visit to cover what kills Hispanic men most and almost never causes s
 
 ## How to prepare
 
-Come between 9 and 10 in the morning after 8 hours of fasting if you want everything in a single draw: testosterone, PSA, glucose and lipids. Water is fine. Bring your medication list and previous results if you have them. The visit is private and you can talk to the physician about erectile dysfunction, premature ejaculation or anything else without anyone else knowing.
+Come between 9 and 10 in the morning after 8 hours of fasting if you want everything in a single draw: testosterone, PSA, glucose and lipids. Water is fine. Bring your medication list and previous results if you have them. The visit is private and you can talk to the medical team about erectile dysfunction, premature ejaculation or anything else without anyone else knowing.
 
 ## Men's health exams in La Porte, no appointment needed
 
@@ -1482,7 +1482,7 @@ Ardor o dolor al orinar, ganas de ir al baño cada rato aunque salga poco, urgen
 1. Recoges una muestra de orina en la clínica; te explicamos cómo tomarla del chorro medio para que no se contamine
 2. Hacemos el **examen general de orina** con tira reactiva y microscopio, con resultado en 15 minutos: leucocitos, nitritos, sangre, proteínas y glucosa
 3. Si la infección se repite, no mejora con antibiótico o eres hombre, enviamos un **urocultivo** que identifica la bacteria y el antibiótico exacto al que responde, en 2 a 3 días
-4. El médico revisa tus síntomas y tu historial, y si hay infección inicias el antibiótico en esa misma visita, disponible en nuestra [farmacia](/services/farmacia)
+4. El equipo médico revisa tus síntomas y tu historial, y si hay infección inicias el antibiótico en esa misma visita, disponible en nuestra [farmacia](/services/farmacia)
 
 El examen de orina también detecta otras cosas: glucosa (que puede indicar diabetes), proteínas (riñón), sangre (piedras) o cetonas, y se usa para [chequeos generales](/services/examen-fisico-escolar) y para la [prueba de embarazo](/services/prueba-embarazo).
 
@@ -1512,7 +1512,7 @@ Burning or pain when urinating, needing to go all the time even if little comes 
 1. You provide a urine sample at the clinic; we explain how to collect it midstream so it is not contaminated
 2. We run the **urinalysis** with a test strip and microscope, with results in 15 minutes: white cells, nitrites, blood, protein and glucose
 3. If the infection is recurrent, does not improve with antibiotics or you are a man, we send a **urine culture** that identifies the bacterium and the exact antibiotic it responds to, in 2 to 3 days
-4. The physician reviews your symptoms and history, and if there is an infection you start the antibiotic during that same visit, available at our [pharmacy](/en/services/farmacia)
+4. The medical team reviews your symptoms and history, and if there is an infection you start the antibiotic during that same visit, available at our [pharmacy](/en/services/farmacia)
 
 The urine test also detects other things: glucose (which may indicate diabetes), protein (kidney), blood (stones) or ketones, and is used for [general checkups](/en/services/examen-fisico-escolar) and for [pregnancy testing](/en/services/prueba-embarazo).
 
@@ -1598,7 +1598,7 @@ Avísanos si tomaste antibióticos, antidiarreicos, laxantes o antiácidos en la
 
 ## Resultados y tratamiento
 
-El examen general, el de parásitos y el coprocultivo salen rápido; te avisamos en cuanto estén. El médico revisa contigo el resultado y, si hay parásitos o bacterias, te da el tratamiento para ti y, cuando aplica, para toda la familia, disponible en nuestra [farmacia](/services/farmacia). Si la causa parece intolerancia, colon irritable o algo que requiere estudios más amplios, completamos con [análisis de sangre](/services/examenes-sangre) o un [ultrasonido abdominal](/services/ultrasonido) y te referimos si hace falta.
+El examen general, el de parásitos y el coprocultivo salen rápido; te avisamos en cuanto estén. El equipo médico revisa contigo el resultado y, si hay parásitos o bacterias, te da el tratamiento para ti y, cuando aplica, para toda la familia, disponible en nuestra [farmacia](/services/farmacia). Si la causa parece intolerancia, colon irritable o algo que requiere estudios más amplios, completamos con [análisis de sangre](/services/examenes-sangre) o un [ultrasonido abdominal](/services/ultrasonido) y te referimos si hace falta.
 
 Si la diarrea viene con vómito y no puedes retener líquidos, también podemos hidratarte con [suero intravenoso](/services/sueros-vitaminados) en la clínica.
 
@@ -1632,7 +1632,7 @@ Let us know if you took antibiotics, anti-diarrheals, laxatives or antacids in t
 
 ## Results and treatment
 
-The general exam, the parasite exam and the stool culture come back quickly; we let you know as soon as they are ready. The physician reviews the result with you and, if there are parasites or bacteria, gives you treatment for yourself and, when appropriate, for the whole family, available at our [pharmacy](/en/services/farmacia). If the cause looks like an intolerance, irritable bowel or something that needs broader studies, we complete the workup with [blood work](/en/services/examenes-sangre) or an [abdominal ultrasound](/en/services/ultrasonido) and refer you if needed.
+The general exam, the parasite exam and the stool culture come back quickly; we let you know as soon as they are ready. The medical team reviews the result with you and, if there are parasites or bacteria, gives you treatment for yourself and, when appropriate, for the whole family, available at our [pharmacy](/en/services/farmacia). If the cause looks like an intolerance, irritable bowel or something that needs broader studies, we complete the workup with [blood work](/en/services/examenes-sangre) or an [abdominal ultrasound](/en/services/ultrasonido) and refer you if needed.
 
 If the diarrhea comes with vomiting and you cannot keep fluids down, we can also rehydrate you with an [IV drip](/en/services/sueros-vitaminados) at the clinic.
 
@@ -1701,7 +1701,7 @@ Pasamos un hisopo por el fondo de la garganta y las amígdalas durante unos segu
 
 ## Tratamiento
 
-Si la prueba es positiva, el médico indica un antibiótico, generalmente penicilina o amoxicilina durante 10 días, que te entregamos en nuestra [farmacia](/services/farmacia). El dolor y la fiebre mejoran en 24 a 48 horas, pero es importante terminar todo el tratamiento para evitar complicaciones como la fiebre reumática o problemas en los riñones. Para el dolor recomendamos paracetamol o ibuprofeno, líquidos frescos, paletas de hielo y gárgaras con agua tibia y sal.
+Si la prueba es positiva, el equipo médico indica un antibiótico, generalmente penicilina o amoxicilina durante 10 días, que te entregamos en nuestra [farmacia](/services/farmacia). El dolor y la fiebre mejoran en 24 a 48 horas, pero es importante terminar todo el tratamiento para evitar complicaciones como la fiebre reumática o problemas en los riñones. Para el dolor recomendamos paracetamol o ibuprofeno, líquidos frescos, paletas de hielo y gárgaras con agua tibia y sal.
 
 Después de 24 horas de antibiótico ya no contagias y puedes volver a la escuela o al trabajo si te sientes bien. Cambia el cepillo de dientes al terminar el tratamiento.
 
@@ -1738,7 +1738,7 @@ We run a swab across the back of the throat and tonsils for a few seconds. It is
 
 ## Treatment
 
-If the test is positive, the physician prescribes an antibiotic, usually penicillin or amoxicillin for 10 days, which we hand to you at our [pharmacy](/en/services/farmacia). Pain and fever improve in 24 to 48 hours, but it is important to finish the full course to avoid complications such as rheumatic fever or kidney problems. For pain we recommend acetaminophen or ibuprofen, cool liquids, ice pops and warm salt-water gargles.
+If the test is positive, the medical team prescribes an antibiotic, usually penicillin or amoxicillin for 10 days, which we hand to you at our [pharmacy](/en/services/farmacia). Pain and fever improve in 24 to 48 hours, but it is important to finish the full course to avoid complications such as rheumatic fever or kidney problems. For pain we recommend acetaminophen or ibuprofen, cool liquids, ice pops and warm salt-water gargles.
 
 After 24 hours on the antibiotic you are no longer contagious and can return to school or work if you feel well. Replace your toothbrush when you finish treatment.
 
@@ -1820,7 +1820,7 @@ Muchos hospitales y agencias de cuidado piden una PPD de dos pasos al ingresar: 
 
 ## ¿Y si sale positiva?
 
-Un resultado positivo no significa que tengas tuberculosis activa. Puede tratarse de una infección latente, que no contagia, o de una reacción a la vacuna BCG que muchas personas recibieron de niños en México y Centroamérica. En ese caso el médico revisa tus síntomas, te refiere para una radiografía de tórax y te explica qué documento entregar mientras tanto. Si tuviste la vacuna BCG, dínoslo desde el inicio para orientarte mejor.
+Un resultado positivo no significa que tengas tuberculosis activa. Puede tratarse de una infección latente, que no contagia, o de una reacción a la vacuna BCG que muchas personas recibieron de niños en México y Centroamérica. En ese caso el equipo médico revisa tus síntomas, te refiere para una radiografía de tórax y te explica qué documento entregar mientras tanto. Si tuviste la vacuna BCG, dínoslo desde el inicio para orientarte mejor.
 
 ## Prueba de TB en La Porte, 7 días a la semana
 
@@ -1852,7 +1852,7 @@ Many hospitals and home-care agencies require a two-step PPD at hiring: if the f
 
 ## What if it comes back positive?
 
-A positive result does not mean you have active tuberculosis. It may be a latent infection, which is not contagious, or a reaction to the BCG vaccine that many people received as children in Mexico and Central America. In that case the physician reviews your symptoms, refers you for a chest X-ray and explains what document to submit in the meantime. If you had the BCG vaccine, tell us at the start so we can guide you better.
+A positive result does not mean you have active tuberculosis. It may be a latent infection, which is not contagious, or a reaction to the BCG vaccine that many people received as children in Mexico and Central America. In that case the medical team reviews your symptoms, refers you for a chest X-ray and explains what document to submit in the meantime. If you had the BCG vaccine, tell us at the start so we can guide you better.
 
 ## TB testing in La Porte, 7 days a week
 
@@ -1908,7 +1908,7 @@ Because we are open every day, the reading is easy to fit in: placed on Monday, 
 - Tricomoniasis, vaginosis bacteriana y candidiasis, con cultivo
 - Herpes genital cuando hay lesiones visibles
 
-Puedes pedir el panel completo o solo las pruebas que te preocupan. El médico te ayuda a decidir según tu situación.
+Puedes pedir el panel completo o solo las pruebas que te preocupan. El equipo médico te ayuda a decidir según tu situación.
 
 ## Cuándo hacerte la prueba
 
@@ -1948,7 +1948,7 @@ Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, $
 - Trichomoniasis, bacterial vaginosis and yeast infections, with a culture
 - Genital herpes when there are visible lesions
 
-You can request the full panel or only the tests you are concerned about. The physician helps you decide based on your situation.
+You can request the full panel or only the tests you are concerned about. The medical team helps you decide based on your situation.
 
 ## When to get tested
 
@@ -2145,7 +2145,7 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG o ECG) registra la actividad eléctrica del corazón en unos 5 minutos, sin dolor y sin radiación. En Clínica Hispana Nueva Salud La Porte lo hacemos sin cita y el médico lo interpreta en el momento, así que sales de la clínica sabiendo cómo está tu ritmo cardiaco, en español.
+    longDescription: `El electrocardiograma (EKG o ECG) registra la actividad eléctrica del corazón en unos 5 minutos, sin dolor y sin radiación. En Clínica Hispana Nueva Salud La Porte lo hacemos sin cita y el equipo médico lo interpreta en el momento, así que sales de la clínica sabiendo cómo está tu ritmo cardiaco, en español.
 
 ## Para qué sirve
 
@@ -2168,12 +2168,12 @@ Te recuestas en la camilla y colocamos 10 electrodos adhesivos en el pecho, los 
 
 ## Resultados y siguientes pasos
 
-El médico lee el trazo en la misma visita y te explica qué significa. Si el EKG es normal pero los síntomas continúan, o si muestra una alteración, complementamos con [análisis de sangre](/services/examenes-sangre), como electrolitos, tiroides o perfil de lípidos, y te referimos con un cardiólogo con el trazo impreso para que no tengas que repetirlo. Un EKG normal no descarta todo; por eso siempre lo valoramos junto con tus síntomas y tu historial.
+El equipo médico lee el trazo en la misma visita y te explica qué significa. Si el EKG es normal pero los síntomas continúan, o si muestra una alteración, complementamos con [análisis de sangre](/services/examenes-sangre), como electrolitos, tiroides o perfil de lípidos, y te referimos con un cardiólogo con el trazo impreso para que no tengas que repetirlo. Un EKG normal no descarta todo; por eso siempre lo valoramos junto con tus síntomas y tu historial.
 
 ## Electrocardiograma sin seguro en La Porte
 
 Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas orden médica ni seguro: el EKG con interpretación tiene precio fijo que te confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `An electrocardiogram (EKG or ECG) records the heart's electrical activity in about 5 minutes, with no pain and no radiation. At Clínica Hispana Nueva Salud La Porte we do it with no appointment and the physician interprets it on the spot, so you leave the clinic knowing how your heart rhythm is, in Spanish or English.
+    longDescriptionEn: `An electrocardiogram (EKG or ECG) records the heart's electrical activity in about 5 minutes, with no pain and no radiation. At Clínica Hispana Nueva Salud La Porte we do it with no appointment and the medical team interprets it on the spot, so you leave the clinic knowing how your heart rhythm is, in Spanish or English.
 
 ## What it is for
 
@@ -2196,7 +2196,7 @@ You lie down on the exam table and we place 10 adhesive electrodes on your chest
 
 ## Results and next steps
 
-The physician reads the tracing during the same visit and explains what it means. If the EKG is normal but symptoms continue, or if it shows an abnormality, we complete the workup with [blood work](/en/services/examenes-sangre), such as electrolytes, thyroid or a lipid panel, and refer you to a cardiologist with the printed tracing so you do not have to repeat it. A normal EKG does not rule out everything; that is why we always assess it together with your symptoms and history.
+The medical team reads the tracing during the same visit and explains what it means. If the EKG is normal but symptoms continue, or if it shows an abnormality, we complete the workup with [blood work](/en/services/examenes-sangre), such as electrolytes, thyroid or a lipid panel, and refer you to a cardiologist with the printed tracing so you do not have to repeat it. A normal EKG does not rule out everything; that is why we always assess it together with your symptoms and history.
 
 ## EKG without insurance in La Porte
 
@@ -2267,7 +2267,7 @@ A partir de la sexta semana suele verse el saco gestacional y poco después el l
 
 ## Resultados en la misma visita
 
-El médico interpreta el estudio en el momento, te muestra las imágenes y te entrega un reporte escrito. Si el hallazgo requiere un especialista, te damos la referencia con el reporte y las imágenes para que no tengas que repetir el estudio. Si traes ultrasonidos anteriores, los comparamos.
+El equipo médico interpreta el estudio en el momento, te muestra las imágenes y te entrega un reporte escrito. Si el hallazgo requiere un especialista, te damos la referencia con el reporte y las imágenes para que no tengas que repetir el estudio. Si traes ultrasonidos anteriores, los comparamos.
 
 ## Ultrasonido sin seguro en La Porte
 
@@ -2298,7 +2298,7 @@ From about the sixth week the gestational sac is usually visible, and the heartb
 
 ## Results during the same visit
 
-The physician interprets the study on the spot, shows you the images and gives you a written report. If the finding requires a specialist, we provide the referral with the report and images so you do not have to repeat the exam. If you bring previous ultrasounds, we compare them.
+The medical team interprets the study on the spot, shows you the images and gives you a written report. If the finding requires a specialist, we provide the referral with the report and images so you do not have to repeat the exam. If you bring previous ultrasounds, we compare them.
 
 ## Ultrasound without insurance in La Porte
 
@@ -2380,7 +2380,7 @@ Duerme bien la noche anterior y evita café, bebidas energéticas y cigarro dos 
 
 ## Al terminar
 
-Te entregamos el certificado médico (MCSA-5876) y el médico registra el resultado en el Registro Nacional de la FMCSA, que es lo que consulta el DPS de Texas. Lleva una copia a tu empleador y conserva otra en la cabina. Si tu empresa también exige [prueba de drogas y alcohol](/services/examen-alcohol-drogas) o [examen físico general](/services/examen-fisico-escolar), los hacemos en la misma visita.
+Te entregamos el certificado médico (MCSA-5876) para que lo presentes donde te lo pidan. Lleva una copia a tu empleador y conserva otra en la cabina. Si tu empresa también exige [prueba de drogas y alcohol](/services/examen-alcohol-drogas) o [examen físico general](/services/examen-fisico-escolar), los hacemos en la misma visita.
 
 ## Examen DOT en La Porte, sin cita y con precio fijo
 
@@ -2419,7 +2419,7 @@ Sleep well the night before and avoid coffee, energy drinks and cigarettes for t
 
 ## When you are done
 
-We give you the medical certificate (MCSA-5876) and the physician records the result in the FMCSA National Registry, which is what Texas DPS checks. Give a copy to your employer and keep another in the cab. If your company also requires [drug and alcohol testing](/en/services/examen-alcohol-drogas) or a [general physical](/en/services/examen-fisico-escolar), we do them during the same visit.
+We give you the medical certificate (MCSA-5876) so you can present it wherever it is required. Give a copy to your employer and keep another in the cab. If your company also requires [drug and alcohol testing](/en/services/examen-alcohol-drogas) or a [general physical](/en/services/examen-fisico-escolar), we do them during the same visit.
 
 ## DOT exam in La Porte, no appointment and flat price
 
@@ -2712,7 +2712,7 @@ No health insurance or appointment needed. Our medical center is at ${CONTACT_IN
 
 ## Qué contienen
 
-La base es una solución salina que rehidrata. Sobre ella el médico ajusta los componentes según tu caso: complejo B para energía, vitamina B12, vitamina C, magnesio y zinc. Si tienes náuseas, se puede agregar medicamento para controlarlas. No usamos fórmulas genéricas iguales para todos: lo que va en tu suero depende de lo que necesitas.
+La base es una solución salina que rehidrata. Sobre ella el equipo médico ajusta los componentes según tu caso: complejo B para energía, vitamina B12, vitamina C, magnesio y zinc. Si tienes náuseas, se puede agregar medicamento para controlarlas. No usamos fórmulas genéricas iguales para todos: lo que va en tu suero depende de lo que necesitas.
 
 ## Cómo es la sesión
 
@@ -2725,7 +2725,7 @@ Durante la infusión es normal sentir un poco de frío en el brazo o un sabor me
 
 ## Quién debe consultarlo antes
 
-Las personas con insuficiencia renal, insuficiencia cardíaca o alergias a alguna vitamina deben evaluarse con el médico antes de recibir un suero, y las mujeres embarazadas deben comentarlo. Por eso la evaluación previa es parte del servicio. El suero es un apoyo, no un sustituto de una alimentación adecuada ni del tratamiento de una enfermedad.
+Las personas con insuficiencia renal, insuficiencia cardíaca o alergias a alguna vitamina deben evaluarse con el equipo médico antes de recibir un suero, y las mujeres embarazadas deben comentarlo. Por eso la evaluación previa es parte del servicio. El suero es un apoyo, no un sustituto de una alimentación adecuada ni del tratamiento de una enfermedad.
 
 ## ¿Prefieres una inyección?
 
@@ -2748,7 +2748,7 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 
 ## What is in them
 
-The base is a saline solution that rehydrates. On top of it the physician adjusts the ingredients to your case: B-complex for energy, vitamin B12, vitamin C, magnesium and zinc. If you feel nauseous, anti-nausea medication can be added. We do not use one generic formula for everyone: what goes in your drip depends on what you need.
+The base is a saline solution that rehydrates. On top of it the medical team adjusts the ingredients to your case: B-complex for energy, vitamin B12, vitamin C, magnesium and zinc. If you feel nauseous, anti-nausea medication can be added. We do not use one generic formula for everyone: what goes in your drip depends on what you need.
 
 ## What the session is like
 
@@ -2761,7 +2761,7 @@ During the infusion it is normal to feel a little coolness in the arm or a brief
 
 ## Who should check first
 
-People with kidney failure, heart failure or allergies to any vitamin should be evaluated by the physician before receiving a drip, and pregnant women should mention it. That is why the pre-evaluation is part of the service. A drip is a support, not a substitute for proper nutrition or for treating an illness.
+People with kidney failure, heart failure or allergies to any vitamin should be evaluated by the medical team before receiving a drip, and pregnant women should mention it. That is why the pre-evaluation is part of the service. A drip is a support, not a substitute for proper nutrition or for treating an illness.
 
 ## Prefer a shot?
 
@@ -3042,7 +3042,7 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
 
 ## Cómo es la visita
 
-Primero el médico revisa la lesión y te dice si se puede tratar en la clínica o si conviene un especialista, por ejemplo cuando un lunar tiene características que requieren estudio dermatológico. Si procede, hacemos el procedimiento en ese momento o te damos fecha si necesitas prepararte. Se limpia la zona, se aplica anestesia local, se retira la lesión y se cierra con puntos o cintas adhesivas. La mayoría toma entre 15 y 45 minutos. Cuando la lesión lo amerita, enviamos el tejido a patología y te avisamos el resultado.
+Primero el equipo médico revisa la lesión y te dice si se puede tratar en la clínica o si conviene un especialista, por ejemplo cuando un lunar tiene características que requieren estudio dermatológico. Si procede, hacemos el procedimiento en ese momento o te damos fecha si necesitas prepararte. Se limpia la zona, se aplica anestesia local, se retira la lesión y se cierra con puntos o cintas adhesivas. La mayoría toma entre 15 y 45 minutos. Cuando la lesión lo amerita, enviamos el tejido a patología y te avisamos el resultado.
 
 ## Antes del procedimiento
 
@@ -3073,7 +3073,7 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 
 ## What the visit is like
 
-First the physician examines the lesion and tells you whether it can be treated at the clinic or whether a specialist is better, for example when a mole has features that require dermatological study. If appropriate, we do the procedure right then or give you a date if you need to prepare. The area is cleaned, local anesthesia is applied, the lesion is removed and closed with stitches or adhesive strips. Most take 15 to 45 minutes. When the lesion warrants it, we send the tissue to pathology and let you know the result.
+First the medical team examines the lesion and tells you whether it can be treated at the clinic or whether a specialist is better, for example when a mole has features that require dermatological study. If appropriate, we do the procedure right then or give you a date if you need to prepare. The area is cleaned, local anesthesia is applied, the lesion is removed and closed with stitches or adhesive strips. Most take 15 to 45 minutes. When the lesion warrants it, we send the tissue to pathology and let you know the result.
 
 ## Before the procedure
 
@@ -3138,7 +3138,7 @@ Los abscesos se forman cuando bacterias, casi siempre estafilococo, entran por u
 
 ## Cómo es el procedimiento
 
-1. El médico revisa el absceso, su tamaño y si hay fiebre o signos de que la infección se extiende
+1. El equipo médico revisa el absceso, su tamaño y si hay fiebre o signos de que la infección se extiende
 2. Se limpia la piel y se aplica anestesia local alrededor de la zona
 3. Se hace una pequeña incisión y se drena todo el pus; el alivio es inmediato porque baja la presión
 4. Se lava la cavidad y, si es grande, se deja una gasa o mecha para que siga drenando
@@ -3171,7 +3171,7 @@ Abscesses form when bacteria, almost always staph, enter through a hair follicle
 
 ## What the procedure is like
 
-1. The physician examines the abscess, its size and whether there is fever or signs that the infection is spreading
+1. The medical team examines the abscess, its size and whether there is fever or signs that the infection is spreading
 2. The skin is cleaned and local anesthesia is applied around the area
 3. A small incision is made and all the pus is drained; relief is immediate because the pressure drops
 4. The cavity is rinsed and, if it is large, a gauze wick is left in so it keeps draining
@@ -3367,7 +3367,7 @@ Para diabetes, presión o tiroides, los medicamentos se entregan en cada control
 
 ## Precios sin seguro
 
-Trabajamos sobre todo con genéricos, que tienen el mismo principio activo que la marca a una fracción del precio. Te decimos el costo antes de despachar y, si hay una alternativa más económica igual de efectiva, el médico la considera. No necesitas seguro médico; aceptamos efectivo y tarjetas.
+Trabajamos sobre todo con genéricos, que tienen el mismo principio activo que la marca a una fracción del precio. Te decimos el costo antes de despachar y, si hay una alternativa más económica igual de efectiva, el equipo médico la considera. No necesitas seguro médico; aceptamos efectivo y tarjetas.
 
 ## Lo que la farmacia no puede hacer
 
@@ -3399,7 +3399,7 @@ For diabetes, blood pressure or thyroid, medications are handed to you at each f
 
 ## Self-pay prices
 
-We work mostly with generics, which have the same active ingredient as the brand at a fraction of the price. We tell you the cost before dispensing and, if there is a cheaper alternative that is just as effective, the physician considers it. No health insurance needed; we accept cash and cards.
+We work mostly with generics, which have the same active ingredient as the brand at a fraction of the price. We tell you the cost before dispensing and, if there is a cheaper alternative that is just as effective, the medical team considers it. No health insurance needed; we accept cash and cards.
 
 ## What the pharmacy cannot do
 

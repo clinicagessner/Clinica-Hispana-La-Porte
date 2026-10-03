@@ -13,9 +13,9 @@ const BASE = SITE_CONFIG.baseUrl;
 // salen de `content-dates.ts` (misma fecha que su caja de revisión médica) y
 // los posts de `updated` / `date` de su frontmatter, por idioma.
 const LASTMOD = {
-  home: "2026-10-03", // B1: bloque "¿Qué es…?", WhatsApp de la ficha y meta propia
+  home: "2026-10-03", // B1: bloque "¿Qué es…?", WhatsApp y meta; B3: FAQ propias
   walkIn: "2026-10-03", // B1: título y descripción
-  promociones: "2026-10-03", // B1: título y descripción sin precios
+  promociones: "2026-10-03", // B1: título y descripción; B3: textos propios de las promos
   landingComparacion: "2026-10-03", // B0: reseñas reales y canonical; B1: plazos
   servicesIndex: "2026-08-01",
   blogIndex: "2026-08-18", // último post publicado

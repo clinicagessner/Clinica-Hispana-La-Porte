@@ -14,9 +14,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué valor de A1C significa diabetes?",
-      answer: "Entre 5.7 y 6.4 es prediabetes; 6.5 o más es diabetes. Si ya tienes diabetes, la meta habitual es mantenerla por debajo de 7, aunque el médico la ajusta a tu caso.",
+      answer: "Entre 5.7 y 6.4 es prediabetes; 6.5 o más es diabetes. Si ya tienes diabetes, la meta habitual es mantenerla por debajo de 7, aunque el equipo médico la ajusta a tu caso.",
       questionEn: "What A1C level means diabetes?",
-      answerEn: "5.7 to 6.4 is prediabetes; 6.5 or higher is diabetes. If you already have diabetes, the usual goal is to keep it below 7, though the physician adjusts it to your case.",
+      answerEn: "5.7 to 6.4 is prediabetes; 6.5 or higher is diabetes. If you already have diabetes, the usual goal is to keep it below 7, though the medical team adjusts it to your case.",
     },
     {
       question: "¿Pueden recetarme y darme mis medicamentos?",
@@ -58,9 +58,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Pueden iniciar o ajustar mi levotiroxina aquí?",
-      answer: "Sí. El médico inicia o ajusta la dosis según tu TSH, repite la prueba a las 6 u 8 semanas y la levotiroxina está en nuestra farmacia a precio genérico.",
+      answer: "Sí. El equipo médico inicia o ajusta la dosis según tu TSH, repite la prueba a las 6 u 8 semanas y la levotiroxina está en nuestra farmacia a precio genérico.",
       questionEn: "Can you start or adjust my levothyroxine here?",
-      answerEn: "Yes. The physician starts or adjusts the dose based on your TSH, repeats the test in 6 to 8 weeks, and levothyroxine is available at our pharmacy at a generic price.",
+      answerEn: "Yes. The medical team starts or adjusts the dose based on your TSH, repeats the test in 6 to 8 weeks, and levothyroxine is available at our pharmacy at a generic price.",
     },
     {
       question: "Tengo un bulto en el cuello, ¿qué hacen?",
@@ -76,9 +76,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita o seguro para el examen de tiroides?",
-      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; el perfil tiroideo tiene precio fijo y también está incluido en el chequeo completo de la mujer por $179.",
+      answer: "Ninguna de las dos: basta con llegar dentro de nuestro horario, cualquier día de la semana. Si pagas por tu cuenta, el perfil tiroideo tiene una tarifa fija que te confirmamos por teléfono antes de venir.",
       questionEn: "Do I need an appointment or insurance for a thyroid test?",
-      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the thyroid panel has a flat price and is also included in the $179 complete women's checkup.",
+      answerEn: "Neither: just come in during our hours, any day of the week. If you pay out of pocket, the thyroid panel has a set fee we can confirm by phone before you come.",
     },
   ],
   "alergias": [
@@ -242,9 +242,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Es mejor la prueba de orina o la de sangre?",
-      answer: "Las dos son confiables. La de orina es rápida y suficiente en la mayoría de los casos; la de sangre detecta antes y mide el nivel exacto de la hormona, útil en embarazos muy tempranos o si hay dolor o sangrado. El médico te orienta.",
+      answer: "Las dos son confiables. La de orina es rápida y suficiente en la mayoría de los casos; la de sangre detecta antes y mide el nivel exacto de la hormona, útil en embarazos muy tempranos o si hay dolor o sangrado. El equipo médico te orienta.",
       questionEn: "Is the urine or blood test better?",
-      answerEn: "Both are reliable. The urine test is quick and enough in most cases; the blood test detects earlier and measures the exact hormone level, useful in very early pregnancies or if there is pain or bleeding. The physician guides you.",
+      answerEn: "Both are reliable. The urine test is quick and enough in most cases; the blood test detects earlier and measures the exact hormone level, useful in very early pregnancies or if there is pain or bleeding. The medical team guides you.",
     },
     {
       question: "¿Me dan el resultado el mismo día?",
@@ -350,9 +350,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "salud-hombre": [
     {
       question: "¿Qué incluye el examen del hombre?",
-      answer: "Testosterona, antígeno prostático (PSA), presión arterial, glucosa y A1C, colesterol y triglicéridos, función renal y hepática, y consulta con el médico. Si hay síntomas del corazón agregamos electrocardiograma. Todo en una sola visita.",
+      answer: "Testosterona, antígeno prostático (PSA), presión arterial, glucosa y A1C, colesterol y triglicéridos, función renal y hepática, y consulta con el equipo médico. Si hay síntomas del corazón agregamos electrocardiograma. Todo en una sola visita.",
       questionEn: "What does the men's health exam include?",
-      answerEn: "Testosterone, prostate-specific antigen (PSA), blood pressure, glucose and A1C, cholesterol and triglycerides, kidney and liver function, and a visit with the physician. If there are heart symptoms we add an electrocardiogram. All in a single visit.",
+      answerEn: "Testosterone, prostate-specific antigen (PSA), blood pressure, glucose and A1C, cholesterol and triglycerides, kidney and liver function, and a visit with the medical team. If there are heart symptoms we add an electrocardiogram. All in a single visit.",
     },
     {
       question: "¿A qué hora debo hacerme la prueba de testosterona?",
@@ -368,9 +368,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Un PSA alto significa cáncer?",
-      answer: "No necesariamente. Sube con la edad, la inflamación y el crecimiento benigno de la próstata. El médico lo interpreta según tu edad y valores anteriores, y si hace falta te refiere al urólogo.",
+      answer: "No necesariamente. Sube con la edad, la inflamación y el crecimiento benigno de la próstata. El equipo médico lo interpreta según tu edad y valores anteriores, y si hace falta te refiere al urólogo.",
       questionEn: "Does a high PSA mean cancer?",
-      answerEn: "Not necessarily. It rises with age, inflammation and benign prostate enlargement. The physician interprets it based on your age and previous values, and refers you to a urologist if needed.",
+      answerEn: "Not necessarily. It rises with age, inflammation and benign prostate enlargement. The medical team interprets it based on your age and previous values, and refers you to a urologist if needed.",
     },
     {
       question: "¿Cuánto cuestan los exámenes del hombre?",
@@ -380,9 +380,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Puedo hablar de disfunción eréctil en la consulta?",
-      answer: "Sí. La consulta es privada y el médico evalúa causas como testosterona baja, diabetes, presión alta o medicamentos, y te indica tratamiento. Nadie más se entera.",
+      answer: "Sí. La consulta es privada y el equipo médico evalúa causas como testosterona baja, diabetes, presión alta o medicamentos, y te indica tratamiento. Nadie más se entera.",
       questionEn: "Can I talk about erectile dysfunction during the visit?",
-      answerEn: "Yes. The visit is private and the physician evaluates causes such as low testosterone, diabetes, high blood pressure or medications, and recommends treatment. No one else finds out.",
+      answerEn: "Yes. The visit is private and the medical team evaluates causes such as low testosterone, diabetes, high blood pressure or medications, and recommends treatment. No one else finds out.",
     },
   ],
   "examenes-sangre": [
@@ -418,9 +418,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Me explican los resultados aunque no tenga seguro?",
-      answer: "Sí. La explicación con el médico es parte del servicio. Si algo sale fuera de rango, iniciamos el tratamiento o el seguimiento en la misma visita.",
+      answer: "Sí. La explicación con el equipo médico es parte del servicio. Si algo sale fuera de rango, iniciamos el tratamiento o el seguimiento en la misma visita.",
       questionEn: "Will someone explain my results even if I have no insurance?",
-      answerEn: "Yes. The review with the physician is part of the service. If something is out of range, we start treatment or follow-up during the same visit.",
+      answerEn: "Yes. The review with the medical team is part of the service. If something is out of range, we start treatment or follow-up during the same visit.",
     },
   ],
   "infecciones-urinarias": [
@@ -476,9 +476,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿En cuánto tiempo están los resultados del examen de heces?",
-      answer: "Salen rápido, y te avisamos en cuanto están. El médico te los explica y, si hay infección, te da el tratamiento en la misma clínica.",
+      answer: "Salen rápido, y te avisamos en cuanto están. El equipo médico te los explica y, si hay infección, te da el tratamiento en la misma clínica.",
       questionEn: "How soon are stool test results ready?",
-      answerEn: "They come back quickly, and we let you know as soon as they are ready. The physician explains them and, if there is an infection, gives you treatment in the same clinic.",
+      answerEn: "They come back quickly, and we let you know as soon as they are ready. The medical team explains them and, if there is an infection, gives you treatment in the same clinic.",
     },
     {
       question: "¿Puedo traer la muestra de mi hijo?",
@@ -520,9 +520,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuándo puedo volver a la escuela o al trabajo?",
-      answer: "Después de 24 horas tomando el antibiótico y sin fiebre ya no contagias. Te damos un justificante con los días de reposo indicados por el médico.",
+      answer: "Después de 24 horas tomando el antibiótico y sin fiebre ya no contagias. Te damos un justificante con los días de reposo indicados por el equipo médico.",
       questionEn: "When can I go back to school or work?",
-      answerEn: "After 24 hours on the antibiotic and without fever you are no longer contagious. We give you a note with the days off recommended by the physician.",
+      answerEn: "After 24 hours on the antibiotic and without fever you are no longer contagious. We give you a note with the days off recommended by the medical team.",
     },
     {
       question: "¿Qué pasa si no trato el estreptococo?",
@@ -558,9 +558,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "Tuve la vacuna BCG de niño, ¿la prueba me saldrá positiva?",
-      answer: "Puede dar una reacción positiva aunque no tengas la infección. Dínoslo desde el inicio: el médico interpreta el resultado con ese dato y te orienta sobre los pasos a seguir, incluida una radiografía de tórax si hace falta.",
+      answer: "Puede dar una reacción positiva aunque no tengas la infección. Dínoslo desde el inicio: el equipo médico interpreta el resultado con ese dato y te orienta sobre los pasos a seguir, incluida una radiografía de tórax si hace falta.",
       questionEn: "I had the BCG vaccine as a child. Will my test be positive?",
-      answerEn: "It can cause a positive reaction even without infection. Tell us at the start: the physician interprets the result with that in mind and guides you on next steps, including a chest X-ray if needed.",
+      answerEn: "It can cause a positive reaction even without infection. Tell us at the start: the medical team interprets the result with that in mind and guides you on next steps, including a chest X-ray if needed.",
     },
     {
       question: "¿Hacen la prueba de TB de dos pasos?",
@@ -660,9 +660,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuánto tarda el EKG y cuándo me dan el resultado?",
-      answer: "El estudio dura unos 5 minutos y el médico lo interpreta en la misma visita. Sales con el trazo impreso y la explicación.",
+      answer: "El estudio dura unos 5 minutos y el equipo médico lo interpreta en la misma visita. Sales con el trazo impreso y la explicación.",
       questionEn: "How long does the EKG take and when do I get the result?",
-      answerEn: "The test takes about 5 minutes and the physician interprets it during the same visit. You leave with the printed tracing and the explanation.",
+      answerEn: "The test takes about 5 minutes and the medical team interprets it during the same visit. You leave with the printed tracing and the explanation.",
     },
     {
       question: "¿Cómo me preparo para el electrocardiograma?",
@@ -672,15 +672,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito orden médica para hacerme un EKG?",
-      answer: "No. Puedes venir directamente; el médico de la clínica evalúa tus síntomas, hace el estudio y lo interpreta. Si traes una orden de otro doctor, le enviamos el trazo.",
+      answer: "No. Puedes venir directamente; el equipo médico de la clínica evalúa tus síntomas, hace el estudio y lo interpreta. Si traes una orden de otro doctor, le enviamos el trazo.",
       questionEn: "Do I need a doctor's order for an EKG?",
       answerEn: "No. You can come directly; the clinic physician evaluates your symptoms, performs the test and interprets it. If you bring an order from another doctor, we send them the tracing.",
     },
     {
       question: "Si el EKG sale alterado, ¿qué sigue?",
-      answer: "El médico te explica el hallazgo, completa con análisis de sangre si hace falta y te refiere con un cardiólogo con el trazo impreso. Si el resultado sugiere algo urgente, te indicamos ir a un hospital de inmediato.",
+      answer: "El equipo médico te explica el hallazgo, completa con análisis de sangre si hace falta y te refiere con un cardiólogo con el trazo impreso. Si el resultado sugiere algo urgente, te indicamos ir a un hospital de inmediato.",
       questionEn: "If the EKG is abnormal, what happens next?",
-      answerEn: "The physician explains the finding, adds blood work if needed and refers you to a cardiologist with the printed tracing. If the result suggests something urgent, we direct you to a hospital right away.",
+      answerEn: "The medical team explains the finding, adds blood work if needed and refers you to a cardiologist with the printed tracing. If the result suggests something urgent, we direct you to a hospital right away.",
     },
     {
       question: "¿Necesito cita o seguro para el electrocardiograma?",
@@ -692,15 +692,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "ultrasonido": [
     {
       question: "¿Necesito orden médica para hacerme un ultrasonido?",
-      answer: "No. Puedes venir directamente y el médico de la clínica evalúa qué estudio necesitas. Si traes una orden de otro doctor, la seguimos y le enviamos el reporte.",
+      answer: "No. Puedes venir directamente y el equipo médico de la clínica evalúa qué estudio necesitas. Si traes una orden de otro doctor, la seguimos y le enviamos el reporte.",
       questionEn: "Do I need a doctor's order for an ultrasound?",
       answerEn: "No. You can come directly and the clinic physician determines which exam you need. If you bring an order from another doctor, we follow it and send them the report.",
     },
     {
       question: "¿Cuándo me dan los resultados del ultrasonido?",
-      answer: "En la misma visita. El médico interpreta el estudio en el momento, te muestra las imágenes y te entrega el reporte escrito.",
+      answer: "En la misma visita. El equipo médico interpreta el estudio en el momento, te muestra las imágenes y te entrega el reporte escrito.",
       questionEn: "When do I get the ultrasound results?",
-      answerEn: "During the same visit. The physician interprets the study on the spot, shows you the images and gives you the written report.",
+      answerEn: "During the same visit. The medical team interprets the study on the spot, shows you the images and gives you the written report.",
     },
     {
       question: "¿Desde qué semana se ve el embarazo en el ultrasonido?",
@@ -722,23 +722,23 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuánto cuesta un ultrasonido sin seguro?",
-      answer: "El precio es fijo y depende del tipo de estudio. Llámanos y te lo decimos antes de tu visita; no necesitas seguro ni cita, atendemos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.",
+      answer: "Depende de qué zona se estudie: cada tipo de ultrasonido tiene su propia tarifa fija. Llama y te damos la cifra exacta antes de venir; no pedimos seguro ni cita, y abrimos los siete días de la semana.",
       questionEn: "How much does an ultrasound cost without insurance?",
-      answerEn: "The price is flat and depends on the type of exam. Call us and we tell you before your visit; no insurance or appointment needed, we are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM.",
+      answerEn: "It depends on which area is scanned: each type of ultrasound has its own set fee. Call and we'll give you the exact amount before you come; we don't ask for insurance or an appointment, and we're open seven days a week.",
     },
   ],
   "examen-dot": [
     {
       question: "¿Qué debo traer al examen DOT?",
-      answer: "Licencia vigente, lentes o audífonos si los usas, tu lista de medicamentos y, si tienes presión alta, diabetes, apnea del sueño o problemas del corazón, tus últimos resultados o una nota de tu médico. Con insulina, el formulario MCSA-5870.",
+      answer: "Tu licencia de conducir vigente, los lentes o aparatos auditivos que uses al manejar y la lista de tus medicamentos con sus dosis. Si te tratan presión alta, diabetes, apnea del sueño o algo del corazón, trae resultados recientes o una carta de quien te atiende. Si usas insulina, también el formulario MCSA-5870 llenado por quien te la receta.",
       questionEn: "What should I bring to the DOT exam?",
-      answerEn: "A valid license, glasses or hearing aids if you use them, your medication list and, if you have high blood pressure, diabetes, sleep apnea or heart problems, your latest results or a note from your doctor. If on insulin, form MCSA-5870.",
+      answerEn: "Your current driver's license, the glasses or hearing aids you wear behind the wheel and a list of your medications with doses. If you're treated for high blood pressure, diabetes, sleep apnea or a heart condition, bring recent results or a letter from the provider who follows you. On insulin? Also bring form MCSA-5870 completed by the prescriber.",
     },
     {
       question: "¿Me entregan el certificado DOT el mismo día?",
-      answer: "Sí, si cumples los requisitos sales con el certificado MCSA-5876 el mismo día y el médico lo registra en el Registro Nacional de la FMCSA.",
+      answer: "Sí, si cumples los requisitos sales con el certificado MCSA-5876 el mismo día.",
       questionEn: "Do I get the DOT certificate the same day?",
-      answerEn: "Yes, if you meet the requirements you leave with the MCSA-5876 certificate the same day and the physician records it in the FMCSA National Registry.",
+      answerEn: "Yes, if you meet the requirements you leave with the MCSA-5876 certificate the same day.",
     },
     {
       question: "¿Por cuánto tiempo es válido el certificado?",
@@ -767,9 +767,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examenes-inmigracion": [
     {
-      question: "¿El médico está autorizado por USCIS?",
+      question: "¿El equipo médico está autorizado por USCIS?",
       answer: "Sí. El examen I-693 lo realiza y firma un médico autorizado por USCIS (civil surgeon), como exige el trámite. Te recomendamos llamar antes para confirmar su disponibilidad el día que vengas.",
-      questionEn: "Is the physician authorized by USCIS?",
+      questionEn: "Is the medical team authorized by USCIS?",
       answerEn: "Yes. The I-693 exam is performed and signed by a USCIS-authorized physician (civil surgeon), as the process requires. We recommend calling ahead to confirm availability on the day you come.",
     },
     {
@@ -850,9 +850,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cada cuánto puedo ponerme un suero?",
-      answer: "Depende de tu objetivo. Para deshidratación o malestar puntual basta con una sesión; como apoyo de energía algunas personas lo repiten cada 2 a 4 semanas. El médico te recomienda la frecuencia adecuada en la evaluación.",
+      answer: "Depende de tu objetivo. Para deshidratación o malestar puntual basta con una sesión; como apoyo de energía algunas personas lo repiten cada 2 a 4 semanas. El equipo médico te recomienda la frecuencia adecuada en la evaluación.",
       questionEn: "How often can I get a drip?",
-      answerEn: "It depends on your goal. For dehydration or a one-time slump a single session is enough; as an energy support some people repeat it every 2 to 4 weeks. The physician recommends the right frequency during the evaluation.",
+      answerEn: "It depends on your goal. For dehydration or a one-time slump a single session is enough; as an energy support some people repeat it every 2 to 4 weeks. The medical team recommends the right frequency during the evaluation.",
     },
     {
       question: "¿Duele la aplicación del suero?",
@@ -868,9 +868,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Puedo ponerme un suero si estoy embarazada o tengo problemas de riñón?",
-      answer: "Debes comentarlo antes. El médico evalúa tu caso y decide si es seguro y qué componentes usar; en insuficiencia renal o cardíaca puede no ser recomendable.",
+      answer: "Debes comentarlo antes. El equipo médico evalúa tu caso y decide si es seguro y qué componentes usar; en insuficiencia renal o cardíaca puede no ser recomendable.",
       questionEn: "Can I get a drip if I am pregnant or have kidney problems?",
-      answerEn: "You must mention it first. The physician evaluates your case and decides whether it is safe and which ingredients to use; with kidney or heart failure it may not be advisable.",
+      answerEn: "You must mention it first. The medical team evaluates your case and decides whether it is safe and which ingredients to use; with kidney or heart failure it may not be advisable.",
     },
     {
       question: "¿Necesito cita y cuánto cuesta?",
@@ -970,9 +970,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Lo hacen el mismo día de la consulta?",
-      answer: "En la mayoría de los casos sí: el médico evalúa la lesión y, si procede, la retira en esa misma visita. Si tomas anticoagulantes o la lesión requiere preparación, te damos fecha.",
+      answer: "En la mayoría de los casos sí: el equipo médico evalúa la lesión y, si procede, la retira en esa misma visita. Si tomas anticoagulantes o la lesión requiere preparación, te damos fecha.",
       questionEn: "Do you do it the same day as the consultation?",
-      answerEn: "In most cases yes: the physician evaluates the lesion and, if appropriate, removes it during that same visit. If you take blood thinners or the lesion requires preparation, we give you a date.",
+      answerEn: "In most cases yes: the medical team evaluates the lesion and, if appropriate, removes it during that same visit. If you take blood thinners or the lesion requires preparation, we give you a date.",
     },
     {
       question: "¿Analizan el lunar o el quiste que me quitan?",

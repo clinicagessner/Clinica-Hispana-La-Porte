@@ -8,16 +8,16 @@
 export const SERVICES_LAST_REVIEWED = "2026-08-01"; // FAQs y horario de domingo
 
 const B3_TANDAS = "2026-09-07"; // contenido propio reescrito en 4 tandas
-const B1_RED = "2026-10-03"; // B1: farmacia (§9), plazos de resultados, metas y enlaces
+const B1_RED = "2026-10-03"; // B1 y B3: farmacia y plazos (§9), firma "equipo médico", FAQ y promos propias
 
 export const SERVICE_DATES: Record<string, string> = {
   "examen-fisico-escolar": B1_RED,
   "examenes-sangre": B1_RED,
   vacunas: B3_TANDAS,
-  "prueba-tuberculosis": B3_TANDAS,
+  "prueba-tuberculosis": B1_RED,
   "enfermedades-transmision-sexual": B1_RED,
-  ultrasonido: B3_TANDAS,
-  "sueros-vitaminados": B3_TANDAS,
+  ultrasonido: B1_RED,
+  "sueros-vitaminados": B1_RED,
   ginecologia: B1_RED,
   "prueba-embarazo": B1_RED,
   anticonceptivos: B1_RED,
@@ -26,11 +26,11 @@ export const SERVICE_DATES: Record<string, string> = {
   "enfermedades-respiratorias": B1_RED,
   "examen-heces": B1_RED,
   "prueba-strep": B1_RED,
-  electrocardiograma: B3_TANDAS,
+  electrocardiograma: B1_RED,
   "extraccion-implantes": B3_TANDAS,
   "suturas-heridas": B3_TANDAS,
   "curacion-heridas": B1_RED,
-  "cirugias-menores": B3_TANDAS,
+  "cirugias-menores": B1_RED,
   "drenaje-abscesos": B1_RED,
   "unas-encarnadas": B3_TANDAS,
   farmacia: B1_RED,
@@ -39,7 +39,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "infecciones-urinarias": B1_RED,
   "examen-alcohol-drogas": B3_TANDAS,
   "examenes-inmigracion": B1_RED,
-  "examen-dot": B3_TANDAS,
+  "examen-dot": B1_RED,
 };
 
 export function serviceLastReviewed(slug: string): string {
