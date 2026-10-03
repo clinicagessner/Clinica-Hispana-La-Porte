@@ -21,120 +21,67 @@ services:
   - "condiciones-cronicas"
 ---
 
-Do you feel tired all the time even though you sleep well? Do you notice tingling in your hands or feet, forget things or lack energy for work? Before you get used to living like that, it's worth checking something very simple: your **vitamin B12** level. Deficiency of this vitamin is far more common than people think — and it's easily corrected when caught early.
+Many people walk into our Spencer Highway office with the same complaint: "I'm worn out and I don't know why." Sometimes the explanation is a long work shift, the Gulf Coast heat or too little sleep. Other times the body is running low on **vitamin B12**, something a blood sample can measure and a doctor can fix. Here is a short guide to what this vitamin does, how a shortage shows up and which options exist to replace it.
 
-In this guide we explain what vitamin B12 is for, how to recognize a deficiency, who is most at risk and when an injection makes more sense than pills. All with care **100% in Spanish, no appointment needed and no insurance required**, right here in La Porte, TX.
+## A vitamin your body can't make
 
-## What is vitamin B12 and what is it for?
+B12, chemically known as cobalamin, only enters the body through animal foods, fortified products or supplements. Whatever you absorb is stored in the liver for a long time, which is why a shortage can take years to surface. According to the [NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/), the body relies on it for three core jobs:
 
-Vitamin B12 (cobalamin) is an essential nutrient your body **cannot produce on its own** — it only comes from animal-based foods or supplements. It's involved in functions so basic that when it's missing, your whole body feels it:
+- building red blood cells that carry oxygen to your tissues;
+- keeping nerve cells healthy;
+- making the DNA inside every new cell.
 
-- **Red blood cell production:** without enough B12, red blood cells come out defective and anemia appears
-- **Nervous system:** it maintains the protective coating of your nerves (myelin); that's why deficiency causes tingling and numbness
-- **Energy:** it helps convert food into usable energy — constant fatigue is the most common symptom of low B12
-- **Memory and focus:** your brain needs it to work clearly
-- **DNA formation:** it's involved in the renewal of every cell in your body
+When levels drop, all three jobs suffer together, which explains why the complaints are so varied.
 
-## Benefits of keeping a healthy B12 level
+## How a shortage shows up
 
-When your vitamin B12 level is adequate — or a deficiency is corrected — patients usually notice:
+There's no single tell-tale sign. At the clinic we usually hear some combination of these:
 
-1. **More energy and less fatigue:** the change you feel the fastest
-2. **Better mood:** B12 is involved in serotonin production; low levels are linked to low mood
-3. **A clearer mind:** better focus and memory
-4. **Anemia prevention:** healthy red blood cells that carry oxygen well
-5. **Protected nerves:** it prevents or stops tingling and numbness in hands and feet
-6. **Metabolism support:** your body makes better use of the food you eat
+- exhaustion that sleep or a free weekend doesn't fix;
+- pale or slightly yellow-toned skin;
+- pins and needles or numbness in the hands and feet;
+- a red, smooth or sore tongue;
+- forgetfulness, poor focus or a low mood;
+- getting winded or dizzy on the stairs;
+- feeling unsteady when you walk.
 
-Important: B12 is **not a magic energy booster** for someone whose levels are already normal. Its real benefit is correcting and preventing deficiency — which is why the first step is always measuring it with a blood test.
+None of them proves on its own that B12 is low: thyroid problems, iron-deficiency anemia and uncontrolled blood sugar cause very similar complaints. The NIH also points out that B12 gives no extra energy to people whose levels are already normal. That's why we don't suggest getting a shot "just in case": we measure first.
 
-## Vitamin B12 deficiency symptoms
+## Who should get checked
 
-Deficiency develops slowly, sometimes over years, and its symptoms get mistaken for stress or "just age." Watch for:
+Anyone can come up short on B12, but these groups are worth testing even when symptoms are mild:
 
-- Tiredness and weakness that don't improve with rest
-- Tingling or numbness in hands and feet
-- Pale or slightly yellowish skin
-- A swollen, smooth or burning tongue
-- Memory problems and trouble concentrating
-- Mood changes, irritability or low mood
-- Dizziness or shortness of breath with exertion
-- Balance problems when walking
+- **Adults over 50**: stomach acid declines with age, so the vitamin in food is harder to release.
+- **Long-term metformin users** with diabetes. If that's you, our [diabetes management guide](/en/blog/control-diabetes-laporte-guia-pacientes) covers which labs to ask about.
+- **People on omeprazole** or other acid reducers for months or years.
+- **Anyone who has had stomach surgery**, including weight-loss surgery, or who lives with celiac or Crohn's disease.
+- **Vegetarians and vegans** who skip fortified foods.
+- People who drink alcohol often.
 
-If you have several of these symptoms, a simple [blood test](/services/examenes-sangre) confirms or rules out the deficiency. At our clinic we draw your sample on the spot and, deliver results **quickly**, explained in Spanish.
+## Testing without an appointment, explained in Spanish
 
-## Who is most at risk of deficiency?
+At our [clinical lab](/en/services/examenes-sangre) your sample is drawn on the day you come in. Alongside B12, the doctor may order a complete blood count to check for anemia, plus other values if your symptoms point elsewhere, such as your [thyroid](/en/services/tiroides). Results come back quickly and we go over them with you in plain words: what came out, what it means and what the next step is.
 
-Anyone can develop B12 deficiency, but the risk is higher if you:
+## Food, pills or a shot
 
-- **Are over 50:** with age the stomach produces less acid, and without acid the B12 in food isn't absorbed well
-- **Take acid reflux or heartburn medication** (omeprazole and similar) long term
-- **Take metformin for diabetes:** this medication reduces B12 absorption — very relevant in our community, where [diabetes](/blog/control-diabetes-laporte-guia-pacientes) is so common
-- **Follow a vegetarian or vegan diet:** B12 is only naturally present in animal-based foods
-- **Had stomach or intestinal surgery** (including bariatric surgery)
-- **Have digestive conditions** such as chronic gastritis, celiac disease or Crohn's disease
-- **Drink alcohol in excess**
+If your level is only slightly low and your stomach absorbs normally, adjusting your meals (liver, sardines, salmon, beef, eggs, dairy or fortified cereal) or taking an oral supplement is sometimes enough.
 
-## Which foods provide vitamin B12?
+An intramuscular shot makes sense when absorption is the problem: age, metformin, acid reducers or digestive surgery. Because it goes into the muscle, the vitamin reaches the bloodstream without relying on the gut. [MedlinePlus](https://medlineplus.gov/ency/article/000574.htm) describes this treatment for anemia caused by low B12.
 
-Food is always the first source. The richest foods in B12 are:
+How often you need it varies from person to person: the doctor sets the schedule from your results and adjusts it at follow-up visits. If you also need fluids, we offer [vitamin IV therapy](/en/services/sueros-vitaminados) after an evaluation, and we follow up on [chronic conditions](/en/services/condiciones-cronicas) that may be behind the fatigue.
 
-- **Beef liver:** very high
-- **Fish (salmon, tuna, sardines):** high
-- **Beef and chicken:** moderate to high
-- **Eggs:** moderate
-- **Milk, cheese and yogurt:** moderate
-- **Fortified cereals:** varies (check the label)
+## Your visit, step by step
 
-The problem is that **eating well isn't always enough**: if your stomach doesn't absorb the vitamin — because of age, medications or surgery — you can be deficient even with a good diet. That's where supplements and injections come in.
+1. Walk in any day from 9 in the morning, no appointment.
+2. Tell the medical team about your symptoms and the medications you take.
+3. Your blood sample is drawn.
+4. With the results, you and the doctor choose between diet, pills or a shot.
+5. If a shot is the right fit, it takes just a few minutes.
 
-## B12 injection vs. pills: which one is right?
+## Lab package with B12
 
-**Pills or sublingual drops** work well for mild deficiencies and for maintenance, as long as your intestine absorbs normally.
+For **$99** we run a general blood panel and give you a B12 shot during the same visit. Make sure it's still running on our [promotions page](/en/promociones) before you come.
 
-**The vitamin B12 injection** goes into the muscle and passes directly into the blood, **without depending on digestive absorption**. It's recommended when:
+## Where to find us
 
-- The deficiency is moderate or severe, or there are already neurological symptoms (tingling, numbness)
-- There are absorption problems: age, metformin, acid reflux medication, bariatric surgery, digestive conditions
-- You want to restore your levels quickly — the effect is faster and more complete than with pills
-
-At [Clínica Hispana Nueva Salud La Porte](/services/sueros-vitaminados) we administer vitamin B12 injections and also offer intravenous [vitamin IV therapy](/services/sueros-vitaminados) that combines vitamins with full hydration, administered by medical staff, depending on what your body needs.
-
-## How often is the B12 injection given?
-
-It depends on your starting level and the cause of the deficiency. A common schedule is:
-
-1. **Correction phase:** weekly injections for the first few weeks, until your reserves are replenished
-2. **Maintenance phase:** one injection per month, or as your evaluation indicates
-
-At your visit we define the right schedule for you based on your lab results — we don't give doses "blindly." And if the underlying cause is something else ([thyroid](/services/tiroides), iron-deficiency anemia, [diabetes](/services/condiciones-cronicas)), the same blood test lets us detect it.
-
-## What to expect at your visit
-
-1. **Walk in with no appointment:** Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM
-2. **Consultation in Spanish:** we review your symptoms, medications and history
-3. **Blood test** with your sample drawn on the spot and results explained without jargon
-4. **A clear plan:** if there's a deficiency, we explain whether an injection, a vitamin IV or an oral supplement is best for you, and how often
-5. **Immediate administration:** the injection takes less than five minutes
-
-## Promotion: blood panel + B12 injection
-
-Ask about our promotion: a **complete blood panel plus a vitamin B12 injection for $99** — find out how your body is doing and give yourself an energy boost in a single visit. Check our [current promotions](/promociones) before you come.
-
-## Why choose Clínica Hispana Nueva Salud La Porte?
-
-- Care **100% in Spanish**, from front desk to consultation
-- **No appointment needed:** come when you can, we open every day at 9 AM
-- On-site lab and results explained in your language
-- **No insurance required:** affordable, transparent pricing
-- We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax, Bayshore and nearby communities
-
-## Get your energy back today
-
-Don't get used to being tired. A vitamin B12 test takes minutes, and the solution can be as simple as a monthly injection.
-
-- **Phone:** (346) 222-1006
-- **Address:** 9606 Spencer Hwy Ste D, La Porte, TX 77571
-- **Hours:** Monday to Saturday, 9:00 AM – 9:00 PM · Sunday, 9:00 AM – 7:00 PM
-
-Call us or walk in with no appointment. We are here to care for you in Spanish.
+Clínica Hispana Nueva Salud La Porte is at 9606 Spencer Hwy Ste D, La Porte, TX 77571. Doors open at 9 in the morning all seven days; we close at 9 at night on weekdays and Saturdays, and at 7 on Sundays. We don't ask for insurance. From Deer Park, Pasadena, Shoreacres or Morgan's Point we're a short drive down Spencer Highway. Questions? Call (346) 222-1006.
