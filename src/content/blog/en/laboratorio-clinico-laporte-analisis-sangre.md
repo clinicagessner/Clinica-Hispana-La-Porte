@@ -1,6 +1,6 @@
 ---
 title: "Clinical lab in La Porte: blood tests explained"
-description: "Learn which blood tests you can get in La Porte, what they're for and how to receive same-day results in Spanish."
+description: "Learn which blood tests you can get in La Porte, what they're for and how to receive fast results in Spanish."
 date: "2026-03-30"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Lab"
@@ -35,7 +35,7 @@ Some tests require 8 to 12 hours of fasting (like glucose and cholesterol) and o
 
 ## Fast results
 
-In most cases we deliver results **the same day** and explain them in Spanish, without jargon, so you understand what they mean.
+We deliver results **quickly** and explain them in Spanish, without jargon, so you understand what they mean.
 
 ## Walk in anytime
 

@@ -46,9 +46,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "tiroides": [
     {
       question: "¿Qué prueba se usa para revisar la tiroides?",
-      answer: "Empezamos con la TSH, la más sensible. Si sale alterada, medimos T4 libre y T3 para confirmar, y anticuerpos anti-TPO si sospechamos causa autoinmune. Resultados en 24 a 48 horas.",
+      answer: "Empezamos con la TSH, la más sensible. Si sale alterada, medimos T4 libre y T3 para confirmar, y anticuerpos anti-TPO si sospechamos causa autoinmune. Los resultados salen rápido.",
       questionEn: "Which test is used to check the thyroid?",
-      answerEn: "We start with TSH, the most sensitive one. If it is abnormal, we measure free T4 and T3 to confirm, and anti-TPO antibodies if we suspect an autoimmune cause. Results in 24 to 48 hours.",
+      answerEn: "We start with TSH, the most sensitive one. If it is abnormal, we measure free T4 and T3 to confirm, and anti-TPO antibodies if we suspect an autoimmune cause. Results come back quickly.",
     },
     {
       question: "¿Necesito ayuno para el examen de tiroides?",
@@ -215,10 +215,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "1 to 2 weeks. We let you know when it arrives and, if it is abnormal, we explain it calmly and arrange follow-up.",
     },
     {
-      question: "¿Tratan las infecciones vaginales el mismo día?",
-      answer: "Sí. Tomamos el cultivo para saber si es hongos, vaginosis o tricomoniasis y en la mayoría de los casos empiezas el tratamiento en la misma visita. La promoción de salud íntima femenina por $69 incluye cultivo, consulta y examen de orina.",
-      questionEn: "Do you treat vaginal infections the same day?",
-      answerEn: "Yes. We take a culture to determine whether it is yeast, bacterial vaginosis or trichomoniasis, and in most cases you start treatment during the same visit. The $69 women's intimate health promotion includes the culture, consultation and urine test.",
+      question: "¿Tratan las infecciones vaginales rápido?",
+      answer: "Sí. Tomamos el cultivo para saber si es hongos, vaginosis o tricomoniasis y en la mayoría de los casos empiezas el tratamiento rápido. La promoción de salud íntima femenina por $69 incluye cultivo, consulta y examen de orina.",
+      questionEn: "Do you treat vaginal infections quickly?",
+      answerEn: "Yes. We take a culture to determine whether it is yeast, bacterial vaginosis or trichomoniasis, and in most cases you start treatment quickly. The $69 women's intimate health promotion includes the culture, consultation and urine test.",
     },
     {
       question: "¿Atienden a adolescentes y primeras consultas?",
@@ -248,9 +248,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Me dan el resultado el mismo día?",
-      answer: "La prueba de orina se lee en minutos, en la misma visita. La de sangre suele estar lista en 24 horas y te avisamos por teléfono o en persona, como prefieras.",
+      answer: "La prueba de orina se lee en minutos, en la misma visita. La de sangre sale rápido y te avisamos por teléfono o en persona, como prefieras.",
       questionEn: "Do I get the result the same day?",
-      answerEn: "The urine test is read in minutes, during the same visit. The blood test is usually ready within 24 hours and we notify you by phone or in person, whichever you prefer.",
+      answerEn: "The urine test is read in minutes, during the same visit. The blood test comes back quickly and we notify you by phone or in person, whichever you prefer.",
     },
     {
       question: "¿Puedo confirmar el embarazo con ultrasonido ahí mismo?",
@@ -394,15 +394,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿En cuánto tiempo están los resultados?",
-      answer: "La mayoría de las pruebas de rutina están listas en 24 a 48 horas y algunas el mismo día. Cuando llegan, un médico los revisa contigo en español y te entrega tu copia impresa.",
+      answer: "Las pruebas de rutina salen rápido. Cuando llegan, un médico los revisa contigo en español y te entrega tu copia impresa.",
       questionEn: "How soon are results ready?",
-      answerEn: "Most routine tests are ready in 24 to 48 hours, and some the same day. When they arrive, a physician reviews them with you and gives you a printed copy.",
+      answerEn: "Routine tests come back quickly. When they arrive, a physician reviews them with you and gives you a printed copy.",
     },
     {
       question: "¿Necesito una orden médica para hacerme análisis?",
-      answer: "No. Puedes pedir la prueba que necesitas directamente en la clínica. Si traes una orden de otro médico o de tu empleador, la seguimos tal cual; si no, nuestro médico te orienta sobre qué pruebas te convienen.",
+      answer: "No. Puedes pedir la prueba que necesitas directamente en la clínica. Si traes una orden de otro médico o de tu empleador, la seguimos tal cual; si no, el equipo médico de la clínica te orienta sobre qué pruebas te convienen.",
       questionEn: "Do I need a doctor's order for lab tests?",
-      answerEn: "No. You can request the test you need directly at the clinic. If you bring an order from another doctor or your employer we follow it as written; otherwise our physician helps you choose the right tests.",
+      answerEn: "No. You can request the test you need directly at the clinic. If you bring an order from another doctor or your employer we follow it as written; otherwise the clinic's medical team helps you choose the right tests.",
     },
     {
       question: "¿Cuánto cuesta un análisis de sangre sin seguro?",
@@ -425,10 +425,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "infecciones-urinarias": [
     {
-      question: "¿Puedo recibir tratamiento el mismo día?",
-      answer: "Sí. El examen general de orina tarda 15 minutos y, si hay infección, sales con el antibiótico de nuestra farmacia en la misma visita.",
-      questionEn: "Can I get treatment the same day?",
-      answerEn: "Yes. The urinalysis takes 15 minutes and, if there is an infection, you leave with the antibiotic from our pharmacy during the same visit.",
+      question: "¿Puedo recibir tratamiento rápido?",
+      answer: "Sí. El examen general de orina sale rápido y, si hay infección, empiezas el antibiótico que te entregamos en nuestra farmacia.",
+      questionEn: "Can I get treatment quickly?",
+      answerEn: "Yes. The urinalysis comes back quickly and, if there is an infection, you start the antibiotic we hand you at our pharmacy.",
     },
     {
       question: "¿Cómo debo recoger la muestra de orina?",
@@ -602,9 +602,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "Si salgo positivo, ¿me dan el tratamiento ahí mismo?",
-      answer: "En la mayoría de los casos sí: iniciamos los antibióticos en la misma visita y los tienes en nuestra farmacia. Para VIH o hepatitis te referimos con un especialista y te acompañamos.",
+      answer: "En la mayoría de los casos sí: iniciamos rápido los antibióticos y te los entregamos en nuestra farmacia. Para VIH o hepatitis te referimos con un especialista y te acompañamos.",
       questionEn: "If I test positive, do I get treatment right there?",
-      answerEn: "In most cases yes: we start antibiotics during the same visit and you can get them at our pharmacy. For HIV or hepatitis we refer you to a specialist and support you.",
+      answerEn: "In most cases yes: we start antibiotics quickly and hand them to you at our pharmacy. For HIV or hepatitis we refer you to a specialist and support you.",
     },
     {
       question: "¿Debe hacerse la prueba mi pareja también?",
@@ -774,9 +774,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuántas visitas necesito y cuánto tarda?",
-      answer: "Normalmente dos: la primera para el examen, las muestras de sangre y orina y las vacunas; la segunda, 2 a 5 días después, para revisar resultados y entregarte el sobre sellado.",
+      answer: "Normalmente dos: la primera para el examen, las muestras de sangre y orina y las vacunas; la segunda, cuando están los resultados, para revisarlos y entregarte el sobre sellado.",
       questionEn: "How many visits do I need and how long does it take?",
-      answerEn: "Usually two: the first for the exam, blood and urine samples and vaccines; the second, 2 to 5 days later, to review results and hand you the sealed envelope.",
+      answerEn: "Usually two: the first for the exam, blood and urine samples and vaccines; the second, once the results are in, to review them and hand you the sealed envelope.",
     },
     {
       question: "¿Qué vacunas me van a pedir?",

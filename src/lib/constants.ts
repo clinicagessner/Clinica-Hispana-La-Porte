@@ -350,7 +350,7 @@ El perfil de lípidos mide colesterol total, LDL (el que tapa las arterias), HDL
 
 ## Qué incluye el seguimiento
 
-- [Análisis de sangre](/services/examenes-sangre) en la clínica: glucosa, A1C, lípidos, función renal y hepática, con resultados en 24 a 48 horas
+- [Análisis de sangre](/services/examenes-sangre) en la clínica: glucosa, A1C, lípidos, función renal y hepática, con resultados rápidos
 - Revisión de [tiroides](/services/tiroides) cuando el peso o el colesterol no se explican de otra forma
 - Entrega de los medicamentos indicados en la consulta en nuestra [farmacia](/services/farmacia), con opciones económicas
 - Plan de alimentación adaptado a la comida que realmente comes en casa, no una dieta genérica
@@ -379,7 +379,7 @@ The lipid panel measures total cholesterol, LDL (the kind that clogs arteries), 
 
 ## What follow-up includes
 
-- [Blood work](/en/services/examenes-sangre) in the clinic: glucose, A1C, lipids, kidney and liver function, with results in 24 to 48 hours
+- [Blood work](/en/services/examenes-sangre) in the clinic: glucose, A1C, lipids, kidney and liver function, with fast results
 - [Thyroid](/en/services/tiroides) testing when weight or cholesterol cannot be explained otherwise
 - The medications prescribed during your visit, handed to you at our [pharmacy](/en/services/farmacia), with low-cost options
 - A meal plan adapted to the food you actually eat at home, not a generic diet
@@ -436,7 +436,7 @@ Many of our patients lost their follow-up when they changed jobs or insurance. H
 
 ## Las pruebas: TSH, T3 y T4
 
-La **TSH** es la hormona que la hipófisis manda para ordenar a la tiroides que trabaje; es la prueba más sensible y con la que empezamos. Si sale alterada, medimos la **T4 libre** y la **T3** para confirmar el diagnóstico y ver la gravedad. Cuando sospechamos una causa autoinmune, agregamos anticuerpos (anti-TPO). No necesitas ayuno para estas pruebas. Si ya tomas levotiroxina, hazte la extracción antes de la dosis de ese día. Resultados en 24 a 48 horas.
+La **TSH** es la hormona que la hipófisis manda para ordenar a la tiroides que trabaje; es la prueba más sensible y con la que empezamos. Si sale alterada, medimos la **T4 libre** y la **T3** para confirmar el diagnóstico y ver la gravedad. Cuando sospechamos una causa autoinmune, agregamos anticuerpos (anti-TPO). No necesitas ayuno para estas pruebas. Si ya tomas levotiroxina, hazte la extracción antes de la dosis de ese día. Los resultados salen rápido.
 
 ## Hipotiroidismo: tiroides lenta
 
@@ -464,7 +464,7 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 
 ## The tests: TSH, T3 and T4
 
-**TSH** is the hormone the pituitary sends to tell the thyroid to work; it is the most sensitive test and the one we start with. If it is abnormal, we measure **free T4** and **T3** to confirm the diagnosis and gauge severity. When we suspect an autoimmune cause, we add antibodies (anti-TPO). No fasting is needed for these tests. If you already take levothyroxine, have your blood drawn before that day's dose. Results in 24 to 48 hours.
+**TSH** is the hormone the pituitary sends to tell the thyroid to work; it is the most sensitive test and the one we start with. If it is abnormal, we measure **free T4** and **T3** to confirm the diagnosis and gauge severity. When we suspect an autoimmune cause, we add antibodies (anti-TPO). No fasting is needed for these tests. If you already take levothyroxine, have your blood drawn before that day's dose. Results come back quickly.
 
 ## Hypothyroidism: a slow thyroid
 
@@ -744,13 +744,13 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
       "Examen físico completo para niños y adultos",
       "Signos vitales: presión, peso, talla, pulso",
       "Formularios de escuela, equipo o trabajo llenados",
-      "Análisis de sangre y orina el mismo día si los necesitas",
+      "Análisis de sangre y orina rápidos si los necesitas",
     ],
     featuresEn: [
       "Complete physical exam for kids and adults",
       "Vitals: blood pressure, weight, height, pulse",
       "School, team or employer forms completed",
-      "Same-day blood and urine tests if needed",
+      "Fast blood and urine tests if needed",
     ],
     longDescription: `¿Buscas un examen físico cerca de ti sin cita? En Clínica Hispana Nueva Salud La Porte hacemos exámenes físicos para niños, jóvenes y adultos: para la escuela, para practicar deportes, para el trabajo o simplemente como chequeo anual. Rápido, en español y con todos los formularios listos.
 
@@ -849,11 +849,11 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
 
 El papanicolaou detecta cambios en el cuello del útero antes de que se conviertan en cáncer. Se recomienda a partir de los 21 años y hasta los 65, cada 3 años si el resultado es normal, o cada 5 años cuando se combina con la prueba de VPH después de los 30. Si nunca te lo has hecho o llevas años sin hacerlo, no pasa nada: lo importante es empezar hoy.
 
-La toma dura menos de 10 minutos. Para un resultado confiable, evita relaciones sexuales, duchas vaginales, óvulos y cremas durante las 48 horas previas, y procura no venir en los días de sangrado abundante. El resultado tarda de 1 a 2 semanas; si sale alterado, te lo explicamos con calma y organizamos el seguimiento o la referencia a colposcopia.
+La toma dura menos de 10 minutos. Para un resultado confiable, evita relaciones sexuales, duchas vaginales, óvulos y cremas durante las 48 horas previas, y procura no venir en los días de sangrado abundante. Te avisamos en cuanto llega el resultado; si sale alterado, te lo explicamos con calma y organizamos el seguimiento o la referencia a colposcopia.
 
 ## Infecciones vaginales: cultivo y tratamiento
 
-Comezón, ardor, flujo con color u olor distinto o molestias al tener relaciones suelen deberse a candidiasis (hongos), vaginosis bacteriana o tricomoniasis. Cada una se trata diferente, y usar óvulos de farmacia una y otra vez sin saber cuál tienes es la razón por la que muchas infecciones regresan. Con el cultivo identificamos la causa y en la mayoría de los casos empiezas el tratamiento el mismo día.
+Comezón, ardor, flujo con color u olor distinto o molestias al tener relaciones suelen deberse a candidiasis (hongos), vaginosis bacteriana o tricomoniasis. Cada una se trata diferente, y usar óvulos de farmacia una y otra vez sin saber cuál tienes es la razón por la que muchas infecciones regresan. Con el cultivo identificamos la causa y en la mayoría de los casos empiezas el tratamiento rápido.
 
 Nuestra promoción de [salud íntima femenina por $69](/promociones) incluye cultivo, consulta médica y examen de orina. Si el síntoma principal es ardor al orinar, puede tratarse de una [infección urinaria](/services/infecciones-urinarias), y si hubo una relación de riesgo conviene agregar [pruebas de ETS](/services/enfermedades-transmision-sexual).
 
@@ -878,11 +878,11 @@ Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita
 
 A Pap smear detects changes in the cervix before they turn into cancer. It is recommended from age 21 to 65, every 3 years if the result is normal, or every 5 years when combined with HPV testing after 30. If you have never had one or it has been years, that is fine: what matters is starting today.
 
-The test takes less than 10 minutes. For a reliable result, avoid intercourse, douching, vaginal suppositories and creams for the 48 hours before, and try not to come on heavy bleeding days. Results take 1 to 2 weeks; if something is abnormal, we explain it calmly and arrange follow-up or a colposcopy referral.
+The test takes less than 10 minutes. For a reliable result, avoid intercourse, douching, vaginal suppositories and creams for the 48 hours before, and try not to come on heavy bleeding days. We let you know as soon as the result arrives; if something is abnormal, we explain it calmly and arrange follow-up or a colposcopy referral.
 
 ## Vaginal infections: culture and treatment
 
-Itching, burning, discharge with an unusual color or odor, or discomfort during sex are usually caused by yeast (candidiasis), bacterial vaginosis or trichomoniasis. Each is treated differently, and using over-the-counter suppositories again and again without knowing which one you have is why many infections keep coming back. A culture identifies the cause, and in most cases you start treatment the same day.
+Itching, burning, discharge with an unusual color or odor, or discomfort during sex are usually caused by yeast (candidiasis), bacterial vaginosis or trichomoniasis. Each is treated differently, and using over-the-counter suppositories again and again without knowing which one you have is why many infections keep coming back. A culture identifies the cause, and in most cases you start treatment quickly.
 
 Our [women's intimate health promotion for $69](/en/promociones) includes the culture, a medical consultation and a urine test. If the main symptom is burning when urinating, it may be a [urinary tract infection](/en/services/infecciones-urinarias), and if there was a risky encounter it is worth adding [STD testing](/en/services/enfermedades-transmision-sexual).
 
@@ -1339,7 +1339,7 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `¿Necesitas análisis de sangre cerca de ti sin esperar semanas por una cita? En Clínica Hispana Nueva Salud La Porte tomamos la muestra el mismo día que llegas, sin cita, y un médico te explica los resultados en español. Sales sabiendo qué significa cada valor y qué hacer después.
+    longDescription: `¿Necesitas análisis de sangre cerca de ti sin esperar semanas por una cita? En Clínica Hispana Nueva Salud La Porte tomamos la muestra cuando llegas, sin cita, y un médico te explica los resultados en español. Sales sabiendo qué significa cada valor y qué hacer después.
 
 ## Pruebas de laboratorio que realizamos
 
@@ -1370,7 +1370,7 @@ Para glucosa, colesterol y triglicéridos necesitas entre 8 y 12 horas de ayuno;
 
 ## Resultados explicados, no solo un papel
 
-La mayoría de las pruebas de rutina están listas en 24 a 48 horas y algunas el mismo día. Cuando llegan, un médico los revisa contigo: qué está bien, qué está fuera de rango y qué significa para ti. Si algo necesita atención, iniciamos tratamiento o seguimiento en esa misma visita, sin mandarte a otro lugar. También te entregamos tu copia impresa para que la lleves a donde la necesites.
+Las pruebas de rutina salen rápido. Cuando llegan, un médico los revisa contigo: qué está bien, qué está fuera de rango y qué significa para ti. Si algo necesita atención, iniciamos tratamiento o seguimiento en esa misma visita, sin mandarte a otro lugar. También te entregamos tu copia impresa para que la lleves a donde la necesites.
 
 ## Paquetes con precio fijo
 
@@ -1385,7 +1385,7 @@ Cualquier prueba también se puede hacer por separado. Te decimos el precio exac
 ## Laboratorio en La Porte, sin seguro y en español
 
 Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, a pocos minutos de Deer Park, Pasadena y Shoreacres, en el área de Houston. Abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, así que puedes venir saliendo del trabajo o el fin de semana. No necesitas seguro médico: pagas en efectivo o con tarjeta, con el precio informado por adelantado.`,
-    longDescriptionEn: `Need blood work near you without waiting weeks for an appointment? At Clínica Hispana Nueva Salud La Porte we draw your sample the same day you walk in, no appointment needed, and a physician explains your results in Spanish or English. You leave knowing what each value means and what to do next.
+    longDescriptionEn: `Need blood work near you without waiting weeks for an appointment? At Clínica Hispana Nueva Salud La Porte we draw your sample when you walk in, no appointment needed, and a physician explains your results in Spanish or English. You leave knowing what each value means and what to do next.
 
 ## Lab tests we perform
 
@@ -1416,7 +1416,7 @@ Glucose, cholesterol and triglycerides require 8 to 12 hours of fasting; water i
 
 ## Results explained, not just a printout
 
-Most routine tests are ready in 24 to 48 hours, and some the same day. When they arrive, a physician goes over them with you: what is normal, what is out of range and what it means for you. If something needs attention, we start treatment or follow-up during that same visit, without sending you somewhere else. You also get a printed copy to take wherever you need it.
+Routine tests come back quickly. When they arrive, a physician goes over them with you: what is normal, what is out of range and what it means for you. If something needs attention, we start treatment or follow-up during that same visit, without sending you somewhere else. You also get a printed copy to take wherever you need it.
 
 ## Flat-price packages
 
@@ -1440,13 +1440,13 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Examen de orina y tratamiento rápido de infecciones urinarias, en español.",
     shortDescriptionEn:
-      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+      "Urinalysis and fast urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en La Porte, TX, el mismo día. En español, con precios accesibles.",
+      "Examen de orina y tratamiento rápido de infecciones urinarias en La Porte, TX. En español, con precios accesibles.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in La Porte, TX, same day. In Spanish, with affordable pricing.",
+      "Fast urinalysis and urinary infection treatment in La Porte, TX. In Spanish, with affordable pricing.",
     keywords: [
       "examen de orina la porte",
       "infeccion urinaria la porte",
@@ -1462,16 +1462,16 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
-      "Tratamiento el mismo día",
+      "Tratamiento rápido",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
-      "Same-day treatment",
+      "Fast treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud La Porte te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud La Porte te hacemos la prueba y, si hay infección, empezamos el tratamiento rápido.
 
 ## Cómo saber si es infección urinaria
 
@@ -1500,8 +1500,8 @@ Si tienes 3 o más infecciones al año, buscamos la causa: relaciones sexuales, 
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y sales con tu tratamiento el mismo día. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the test and, if there's an infection, we start treatment the same day.
+Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y empiezas tu tratamiento rápido. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
+    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the test and, if there's an infection, we start treatment quickly.
 
 ## How to tell if it is a urinary infection
 
@@ -1530,7 +1530,7 @@ If you have 3 or more infections a year, we look for the cause: sex, low water i
 
 ## Urinary infection treatment at a Hispanic clinic near you
 
-If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and you leave with your treatment the same day. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
+If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and you start your treatment quickly. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "examen-heces",
@@ -1598,7 +1598,7 @@ Avísanos si tomaste antibióticos, antidiarreicos, laxantes o antiácidos en la
 
 ## Resultados y tratamiento
 
-El examen general y el de parásitos suelen estar listos en 24 a 48 horas; el coprocultivo tarda 2 a 3 días. El médico revisa contigo el resultado y, si hay parásitos o bacterias, te da el tratamiento para ti y, cuando aplica, para toda la familia, disponible en nuestra [farmacia](/services/farmacia). Si la causa parece intolerancia, colon irritable o algo que requiere estudios más amplios, completamos con [análisis de sangre](/services/examenes-sangre) o un [ultrasonido abdominal](/services/ultrasonido) y te referimos si hace falta.
+El examen general, el de parásitos y el coprocultivo salen rápido; te avisamos en cuanto estén. El médico revisa contigo el resultado y, si hay parásitos o bacterias, te da el tratamiento para ti y, cuando aplica, para toda la familia, disponible en nuestra [farmacia](/services/farmacia). Si la causa parece intolerancia, colon irritable o algo que requiere estudios más amplios, completamos con [análisis de sangre](/services/examenes-sangre) o un [ultrasonido abdominal](/services/ultrasonido) y te referimos si hace falta.
 
 Si la diarrea viene con vómito y no puedes retener líquidos, también podemos hidratarte con [suero intravenoso](/services/sueros-vitaminados) en la clínica.
 
@@ -1632,7 +1632,7 @@ Let us know if you took antibiotics, anti-diarrheals, laxatives or antacids in t
 
 ## Results and treatment
 
-The general exam and parasite exam are usually ready in 24 to 48 hours; the stool culture takes 2 to 3 days. The physician reviews the result with you and, if there are parasites or bacteria, gives you treatment for yourself and, when appropriate, for the whole family, available at our [pharmacy](/en/services/farmacia). If the cause looks like an intolerance, irritable bowel or something that needs broader studies, we complete the workup with [blood work](/en/services/examenes-sangre) or an [abdominal ultrasound](/en/services/ultrasonido) and refer you if needed.
+The general exam, the parasite exam and the stool culture come back quickly; we let you know as soon as they are ready. The physician reviews the result with you and, if there are parasites or bacteria, gives you treatment for yourself and, when appropriate, for the whole family, available at our [pharmacy](/en/services/farmacia). If the cause looks like an intolerance, irritable bowel or something that needs broader studies, we complete the workup with [blood work](/en/services/examenes-sangre) or an [abdominal ultrasound](/en/services/ultrasonido) and refer you if needed.
 
 If the diarrhea comes with vomiting and you cannot keep fluids down, we can also rehydrate you with an [IV drip](/en/services/sueros-vitaminados) at the clinic.
 
@@ -1924,9 +1924,9 @@ Ten en cuenta que la clamidia, la gonorrea y el VIH en su fase inicial muchas ve
 
 Cada infección tarda un tiempo distinto en detectarse después del contacto: clamidia y gonorrea de 1 a 2 semanas, sífilis de 3 a 6 semanas y VIH de 2 a 6 semanas según el tipo de prueba. Si el contacto fue hace pocos días, te hacemos las pruebas que ya son válidas y te decimos exactamente cuándo repetir las demás.
 
-## Tratamiento el mismo día
+## Tratamiento rápido
 
-Si una prueba sale positiva, en la mayoría de los casos iniciamos el tratamiento con antibióticos en esa misma visita y te lo puedes llevar de nuestra [farmacia](/services/farmacia). Te explicamos cuánto tiempo evitar relaciones y cómo tratar también a tu pareja para que no se repita la infección. Si se trata de VIH o hepatitis, te referimos con un especialista y te acompañamos en el proceso.
+Si una prueba sale positiva, en la mayoría de los casos iniciamos rápido el tratamiento con antibióticos y te lo puedes llevar de nuestra [farmacia](/services/farmacia). Te explicamos cuánto tiempo evitar relaciones y cómo tratar también a tu pareja para que no se repita la infección. Si se trata de VIH o hepatitis, te referimos con un especialista y te acompañamos en el proceso.
 
 El ardor al orinar también puede deberse a una [infección urinaria](/services/infecciones-urinarias); con el examen de orina lo diferenciamos. Las mujeres con flujo o molestias pueden completar su revisión en [ginecología](/services/ginecologia), y los hombres en [salud del hombre](/services/salud-hombre).
 
@@ -1964,9 +1964,9 @@ Keep in mind that chlamydia, gonorrhea and early-stage HIV often cause no sympto
 
 Each infection takes a different amount of time to become detectable after exposure: chlamydia and gonorrhea 1 to 2 weeks, syphilis 3 to 6 weeks and HIV 2 to 6 weeks depending on the test. If the exposure was only a few days ago, we run the tests that are already valid and tell you exactly when to repeat the others.
 
-## Same-day treatment
+## Fast treatment
 
-If a test is positive, in most cases we start antibiotic treatment during that same visit and you can pick it up from our [pharmacy](/en/services/farmacia). We explain how long to avoid sex and how to treat your partner too so the infection does not come back. For HIV or hepatitis, we refer you to a specialist and support you through the process.
+If a test is positive, in most cases we start antibiotic treatment quickly and you can pick it up from our [pharmacy](/en/services/farmacia). We explain how long to avoid sex and how to treat your partner too so the infection does not come back. For HIV or hepatitis, we refer you to a specialist and support you through the process.
 
 Burning when urinating can also be a [urinary tract infection](/en/services/infecciones-urinarias); the urine test tells them apart. Women with discharge or discomfort can complete their checkup in [gynecology](/en/services/ginecologia), and men in [men's health](/en/services/salud-hombre).
 
@@ -2478,7 +2478,7 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
 - **Vacunas requeridas según tu edad:** influenza en temporada, Tdap, sarampión-rubéola-paperas (MMR), varicela, hepatitis B, neumococo y otras que te falten; las aplicamos aquí o registramos las que ya tienes
 - **Formulario I-693 completado y firmado**, en sobre sellado para USCIS, más una copia para ti
 
-Todo el proceso suele completarse en dos visitas: la primera para el examen, las muestras y las vacunas, y la segunda, 2 a 5 días después, para revisar los resultados de laboratorio y entregarte el sobre.
+Todo el proceso suele completarse en dos visitas: la primera para el examen, las muestras y las vacunas, y la segunda, cuando están los resultados de laboratorio, para revisarlos y entregarte el sobre.
 
 ## Qué traer
 
@@ -2518,7 +2518,7 @@ Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city
 - **Required vaccines by age:** influenza in season, Tdap, measles-mumps-rubella (MMR), varicella, hepatitis B, pneumococcal and any others you are missing; we give them here or record the ones you already have
 - **Form I-693 completed and signed**, in a sealed envelope for USCIS, plus a copy for you
 
-The whole process is usually completed in two visits: the first for the exam, samples and vaccines, and the second, 2 to 5 days later, to review the lab results and hand you the envelope.
+The whole process is usually completed in two visits: the first for the exam, samples and vaccines, and the second, once the lab results are in, to review them and hand you the envelope.
 
 ## What to bring
 

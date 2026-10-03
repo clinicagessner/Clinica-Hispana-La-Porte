@@ -60,7 +60,7 @@ Deficiency develops slowly, sometimes over years, and its symptoms get mistaken 
 - Dizziness or shortness of breath with exertion
 - Balance problems when walking
 
-If you have several of these symptoms, a simple [blood test](/services/examenes-sangre) confirms or rules out the deficiency. At our clinic we draw your sample on the spot and, in most cases, deliver results **the same day**, explained in Spanish.
+If you have several of these symptoms, a simple [blood test](/services/examenes-sangre) confirms or rules out the deficiency. At our clinic we draw your sample on the spot and, deliver results **quickly**, explained in Spanish.
 
 ## Who is most at risk of deficiency?
 

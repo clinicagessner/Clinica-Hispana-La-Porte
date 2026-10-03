@@ -60,7 +60,7 @@ La deficiencia avanza despacio, a veces durante años, y sus síntomas se confun
 - Mareos o falta de aire al hacer esfuerzos
 - Problemas de equilibrio al caminar
 
-Si tienes varios de estos síntomas, un simple [análisis de sangre](/services/examenes-sangre) confirma o descarta la deficiencia. En nuestra clínica tomamos la muestra en el momento y, en la mayoría de los casos, entregamos los resultados **el mismo día**, explicados en español.
+Si tienes varios de estos síntomas, un simple [análisis de sangre](/services/examenes-sangre) confirma o descarta la deficiencia. En nuestra clínica tomamos la muestra en el momento y, te entregamos los resultados **rápido**, explicados en español.
 
 ## ¿Quiénes tienen más riesgo de deficiencia?
 

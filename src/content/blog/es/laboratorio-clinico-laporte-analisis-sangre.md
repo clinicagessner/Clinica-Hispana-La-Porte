@@ -1,6 +1,6 @@
 ---
 title: "Laboratorio clínico en La Porte: análisis de sangre"
-description: "Conoce qué análisis de sangre puedes hacerte en La Porte, para qué sirven y cómo obtener resultados el mismo día en español."
+description: "Conoce qué análisis de sangre puedes hacerte en La Porte, para qué sirven y cómo obtener resultados rápidos en español."
 date: "2026-03-30"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Laboratorio"
@@ -35,7 +35,7 @@ Algunos estudios requieren ayuno de 8 a 12 horas (como la glucosa y el colestero
 
 ## Resultados rápidos
 
-En la mayoría de los casos entregamos resultados **el mismo día** y te los explicamos en español, sin tecnicismos, para que entiendas qué significan.
+Te entregamos los resultados **rápido** y te los explicamos en español, sin tecnicismos, para que entiendas qué significan.
 
 ## Ven sin cita
 
