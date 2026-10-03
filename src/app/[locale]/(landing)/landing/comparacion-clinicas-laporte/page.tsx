@@ -5,7 +5,8 @@ import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ContactForm } from "@/components/forms/contact-form";
 import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
-import { CONTACT_INFO, FALLBACK_TESTIMONIALS } from "@/lib/constants";
+import { CONTACT_INFO } from "@/lib/constants";
+import { getGooglePlaceData } from "@/lib/google-places";
 import { getServiceCardData } from "@/lib/services";
 import { getLandingContent } from "@/lib/landing-conquesting";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
@@ -14,7 +15,7 @@ import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
 
-const PATH = "/landing/comparacion-clinicas-la porte";
+const PATH = "/landing/comparacion-clinicas-laporte";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -47,7 +48,8 @@ export default async function ComparacionLandingPage({
     value: s.slug,
     label: s.title,
   }));
-  const reviews = FALLBACK_TESTIMONIALS.slice(0, 3);
+  // Solo reseñas reales de Google (Places). Sin textos, la sección no se muestra.
+  const reviews = (await getGooglePlaceData()).reviews.slice(0, 3);
 
   return (
     <>
@@ -193,6 +195,7 @@ export default async function ComparacionLandingPage({
       </section>
 
       {/* Reseñas */}
+      {reviews.length > 0 && (
       <section className="bg-sky-bg py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
@@ -213,7 +216,7 @@ export default async function ComparacionLandingPage({
                   ))}
                 </div>
                 <blockquote className="mt-4 flex-1 text-sm leading-relaxed text-slate-primary">
-                  {loc === "en" ? r.textEn : r.text}
+                  {r.text}
                 </blockquote>
                 <figcaption className="mt-5 border-t border-blue-light pt-4 font-heading font-bold text-slate-dark">
                   {r.author}
@@ -223,6 +226,7 @@ export default async function ComparacionLandingPage({
           </div>
         </div>
       </section>
+      )}
 
       {/* FAQ */}
       <section className="bg-cloud py-20 lg:py-24">
