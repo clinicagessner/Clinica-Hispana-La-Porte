@@ -47,11 +47,16 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   images: {
-    // Optimizador de Vercel desactivado a propósito: para no depender de la cuota
-    // de Image Optimization (/_next/image → 402 al agotarse) conforme crecen las
-    // imágenes, servimos los originales ya comprimidos a mano (WebP q80, PNG con
-    // pngquant+oxipng). Si algún día se sube el spend limit, se puede revertir.
-    unoptimized: true,
+    // Optimizador de Vercel desactivado (cuota de Image Optimization, /_next/image
+    // → 402). Loader propio (B4): sirve las variantes pregeneradas de public/images
+    // (scripts/generate-image-variants.mjs, en prebuild; manifiesto en
+    // src/lib/image-variants.json) para que next/image emita srcset y el móvil no
+    // descargue el archivo de escritorio. Lo que no está en el manifiesto (logo,
+    // remotas) se sirve tal cual.
+    loader: "custom",
+    loaderFile: "./src/lib/image-loader.ts",
+    deviceSizes: [384, 640, 828, 1080, 1376],
+    imageSizes: [128, 256, 512],
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
       { protocol: "https", hostname: "*.googleusercontent.com" },
@@ -64,6 +69,18 @@ const nextConfig: NextConfig = {
       {
         source: "/:path*",
         headers: securityHeaders,
+      },
+      // Imágenes de public/: 30 días + revalidación en segundo plano. No
+      // `immutable` porque los nombres no llevan hash y un flyer o una foto
+      // pueden reemplazarse con el mismo nombre.
+      {
+        source: "/images/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=2592000, stale-while-revalidate=86400",
+          },
+        ],
       },
     ];
   },
