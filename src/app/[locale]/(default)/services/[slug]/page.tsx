@@ -124,6 +124,7 @@ export default async function ServiceDetailPage({
               alt={l.title}
               fill
               priority
+              fetchPriority="high"
               sizes="100vw"
               className="absolute inset-0 -z-20 object-cover object-center"
             />

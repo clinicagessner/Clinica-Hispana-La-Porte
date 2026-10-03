@@ -35,6 +35,7 @@ export async function Hero() {
         alt="Equipo de Clínica Hispana Nueva Salud La Porte recibiendo a una familia hispana en la clínica"
         fill
         priority
+        fetchPriority="high"
         sizes="100vw"
         className="absolute inset-0 -z-20 object-cover object-center"
       />
