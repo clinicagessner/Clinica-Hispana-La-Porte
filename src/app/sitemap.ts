@@ -2,10 +2,11 @@ import type { MetadataRoute } from "next";
 import { SITE_CONFIG } from "@/lib/constants";
 import { getAllServiceSlugs } from "@/lib/services";
 import { getAllPosts } from "@/lib/blog";
+import { locales } from "@/i18n/config";
 
 const BASE = SITE_CONFIG.baseUrl;
 
-// Google ignora changefreq/priority pero sí usa lastmod para decidir qué
+// Sin changefreq/priority: Google los ignora. Sí usa lastmod para decidir qué
 // volver a rastrear. Las fechas deben reflejar cambios REALES de contenido:
 // actualízalas solo cuando cambie algo visible en esa página.
 const LASTMOD = {
@@ -16,7 +17,6 @@ const LASTMOD = {
   services: "2026-08-01", // FAQs y horario de domingo
   servicesIndex: "2026-08-01",
   blogIndex: "2026-08-18", // último post publicado
-  privacy: "2026-06-08",
 } as const;
 
 // Servicios actualizados después de LASTMOD.services.
@@ -53,18 +53,15 @@ const SERVICE_LASTMOD: Record<string, string> = {
   "examen-dot": "2026-09-07",
 };
 
-function entry(
-  path: string,
-  lastModified: string,
-  changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"],
-  priority: number,
-): MetadataRoute.Sitemap[number] {
+const localePath = (locale: string) => (locale === "es" ? "" : `/${locale}`);
+
+// Cada idioma lleva su propia <url> con alternates recíprocos (formato que pide
+// Google para hreflang en sitemaps). /privacy no va: tiene noindex.
+function entries(path: string, lastModified: string): MetadataRoute.Sitemap {
   const clean = path === "/" ? "" : path;
-  return {
-    url: `${BASE}${clean}`,
+  return locales.map((locale) => ({
+    url: `${BASE}${localePath(locale)}${clean}`,
     lastModified,
-    changeFrequency,
-    priority,
     alternates: {
       languages: {
         es: `${BASE}${clean}`,
@@ -72,37 +69,22 @@ function entry(
         "x-default": `${BASE}${clean}`,
       },
     },
-  };
+  }));
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPaths: MetadataRoute.Sitemap = [
-    entry("/", LASTMOD.home, "weekly", 1),
-    entry("/services", LASTMOD.servicesIndex, "weekly", 0.9),
-    entry("/promociones", LASTMOD.promociones, "weekly", 0.8),
-    entry("/blog", LASTMOD.blogIndex, "weekly", 0.7),
-    entry("/walk-in", LASTMOD.walkIn, "monthly", 0.8),
-    entry(
-      "/landing/comparacion-clinicas-laporte",
-      LASTMOD.landingComparacion,
-      "monthly",
-      0.7,
+  return [
+    ...entries("/", LASTMOD.home),
+    ...entries("/services", LASTMOD.servicesIndex),
+    ...entries("/promociones", LASTMOD.promociones),
+    ...entries("/blog", LASTMOD.blogIndex),
+    ...entries("/walk-in", LASTMOD.walkIn),
+    ...entries("/landing/comparacion-clinicas-laporte", LASTMOD.landingComparacion),
+    ...getAllServiceSlugs().flatMap((slug) =>
+      entries(`/services/${slug}`, SERVICE_LASTMOD[slug] ?? LASTMOD.services),
     ),
-    entry("/privacy", LASTMOD.privacy, "yearly", 0.3),
+    ...getAllPosts("es").flatMap((post) =>
+      entries(`/blog/${post.slug}`, post.updated ?? post.date),
+    ),
   ];
-
-  const services: MetadataRoute.Sitemap = getAllServiceSlugs().map((slug) =>
-    entry(
-      `/services/${slug}`,
-      SERVICE_LASTMOD[slug] ?? LASTMOD.services,
-      "monthly",
-      0.8,
-    ),
-  );
-
-  const posts: MetadataRoute.Sitemap = getAllPosts("es").map((post) =>
-    entry(`/blog/${post.slug}`, post.updated ?? post.date, "monthly", 0.6),
-  );
-
-  return [...staticPaths, ...services, ...posts];
 }
