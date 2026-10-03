@@ -25,9 +25,13 @@ export async function generateMetadata({
   const { locale } = await params;
   const isEn = locale === "en";
   const title = isEn
-    ? "Hispanic Clinic in La Porte, TX | Walk-Ins, No Insurance Needed"
+    ? "Hispanic Clinic in La Porte, TX | Walk-Ins, No Insurance"
     : "Clínica Hispana en La Porte, TX | Sin Cita y Sin Seguro";
-  const description = isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description;
+  // Meta de la home (landing de Ads): ≤155 caracteres. SITE_CONFIG.description
+  // sigue siendo la descripción larga del schema, llms y manifest.
+  const description = isEn
+    ? "Hispanic clinic in La Porte, TX: care in Spanish, walk-ins welcome, no insurance needed. Family medicine, lab, gynecology, DOT and immigration exams."
+    : "Clínica hispana en La Porte, TX: atención en español, sin cita y sin seguro. Medicina familiar, laboratorio, ginecología, examen DOT e inmigración.";
   return {
     title,
     description,

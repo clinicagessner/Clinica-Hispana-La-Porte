@@ -3375,7 +3375,7 @@ La farmacia entrega solo los medicamentos indicados en una consulta de la clíni
 
 ## Farmacia en La Porte, dentro de la clínica
 
-Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Es una de las pocas farmacias abiertas hasta las 9 de la noche en La Porte y con atención en español. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
+Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
     longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive to another pharmacy, wait in line and find out they do not have your medication. At Clínica Hispana Nueva Salud La Porte we hand you the medications prescribed during your visit right in the clinic, with an explanation in Spanish or English of how to take them and at affordable self-pay prices.
 
 ## What you will find at our pharmacy
@@ -3407,7 +3407,7 @@ The pharmacy only hands out the medications prescribed during a visit at the cli
 
 ## Pharmacy in La Porte, inside the clinic
 
-We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, with the same hours as the clinic: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. It is one of the few pharmacies open until 9 at night in La Porte with service in Spanish. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
+We look forward to seeing you at our medical center, at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, with the same hours as the clinic: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. We serve families from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
 ];
 

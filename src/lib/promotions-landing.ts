@@ -27,9 +27,9 @@ export interface PromotionsLandingContent {
 const CONTENT: Record<Locale, PromotionsLandingContent> = {
   es: {
     metaTitle:
-      "Promociones: Testosterona $79, Chequeo de la Mujer $179 | Clínica Hispana La Porte",
+      "Promociones del Mes | Clínica Hispana La Porte, TX",
     metaDescription:
-      "Promociones del mes en Clínica Hispana Nueva Salud La Porte: examen de testosterona por $79, chequeo completo de la mujer por $179, chequeo general completo por $99, sangre + Vitamina B12 por $99 y más. En español, sin cita y sin seguro en La Porte, TX.",
+      "Promociones del mes en Clínica Hispana Nueva Salud La Porte: chequeos y exámenes a precio fijo, en español, sin cita y sin seguro en La Porte, TX.",
     backToHome: "Volver al inicio",
     eyebrow: "Promociones del mes",
     title: "Promociones de nuestra clínica hispana",
@@ -67,9 +67,9 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
   },
   en: {
     metaTitle:
-      "Promotions: $79 Testosterone Test, $179 Women's Checkup | Hispanic Clinic La Porte",
+      "Monthly Promotions | Hispanic Clinic La Porte, TX",
     metaDescription:
-      "This month's promotions at Clínica Hispana Nueva Salud La Porte: testosterone test for $79, complete women's checkup for $179, complete general checkup for $99, blood panel + Vitamin B12 for $99 and more. In Spanish, walk-ins and no insurance needed in La Porte, TX.",
+      "This month's promotions at Clínica Hispana Nueva Salud La Porte: checkups and exams at a flat price, in Spanish, walk-ins and no insurance needed.",
     backToHome: "Back to home",
     eyebrow: "This month's offers",
     title: "Promotions at our Hispanic clinic",

@@ -21,9 +21,9 @@ import type { Locale } from "@/types";
 // COPY local bilingüe (sin message keys), propio de esta landing.
 const COPY = {
   es: {
-    metaTitle: "Clínica Sin Cita en La Porte, TX | Abierto 7 Días, en Español",
+    metaTitle: "Clínica Sin Cita en La Porte, TX | Abierto 7 Días",
     metaDescription:
-      "Atención médica sin cita previa en La Porte, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.",
+      "Atención médica sin cita en La Porte, TX, en español y sin seguro. Lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.",
     eyebrow: "Atención sin cita previa",
     title: "Clínica hispana sin cita: te atendemos hoy, en español",
     subtitle:
@@ -63,7 +63,7 @@ const COPY = {
     finalBody: "9606 Spencer Hwy Ste D, La Porte, TX 77571",
   },
   en: {
-    metaTitle: "Walk-In Clinic in La Porte, TX | Open 7 Days, Spanish Spoken",
+    metaTitle: "Walk-In Clinic in La Porte, TX | Open 7 Days",
     metaDescription:
       "Walk-in medical care in La Porte, in Spanish, with affordable pricing, no insurance required. Mon–Sat 9 AM to 9 PM; Sunday 9 AM to 7 PM.",
     eyebrow: "Walk-ins welcome",
