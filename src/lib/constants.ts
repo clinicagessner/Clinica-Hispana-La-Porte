@@ -352,7 +352,7 @@ El perfil de lípidos mide colesterol total, LDL (el que tapa las arterias), HDL
 
 - [Análisis de sangre](/services/examenes-sangre) en la clínica: glucosa, A1C, lípidos, función renal y hepática, con resultados en 24 a 48 horas
 - Revisión de [tiroides](/services/tiroides) cuando el peso o el colesterol no se explican de otra forma
-- Receta y surtido de medicamentos en nuestra [farmacia](/services/farmacia), con opciones económicas
+- Entrega de los medicamentos indicados en la consulta en nuestra [farmacia](/services/farmacia), con opciones económicas
 - Plan de alimentación adaptado a la comida que realmente comes en casa, no una dieta genérica
 - Copia de tus resultados para llevar un registro y compararlo en cada visita
 
@@ -381,7 +381,7 @@ The lipid panel measures total cholesterol, LDL (the kind that clogs arteries), 
 
 - [Blood work](/en/services/examenes-sangre) in the clinic: glucose, A1C, lipids, kidney and liver function, with results in 24 to 48 hours
 - [Thyroid](/en/services/tiroides) testing when weight or cholesterol cannot be explained otherwise
-- Prescriptions filled at our [pharmacy](/en/services/farmacia), with low-cost options
+- The medications prescribed during your visit, handed to you at our [pharmacy](/en/services/farmacia), with low-cost options
 - A meal plan adapted to the food you actually eat at home, not a generic diet
 - A copy of your results so you can keep a record and compare at each visit
 
@@ -549,7 +549,7 @@ La mayoría de las alergias se identifican con una buena historia clínica: en q
 - Gotas para los ojos con comezón
 - Inhaladores cuando hay tos o silbidos en el pecho
 - Cremas y antihistamínicos para la piel; en crisis intensas, una inyección que alivia en minutos
-- Todo se puede surtir en nuestra [farmacia](/services/farmacia)
+- Los medicamentos indicados en la consulta se entregan en nuestra [farmacia](/services/farmacia)
 
 Te explicamos cuáles son de uso diario en temporada y cuáles solo cuando hay síntomas, para que no gastes en medicamentos que no necesitas.
 
@@ -585,7 +585,7 @@ Most allergies are identified with a good history: what time of year they get wo
 - Eye drops for itchy eyes
 - Inhalers when there is cough or wheezing
 - Creams and antihistamines for the skin; for severe flare-ups, an injection that brings relief in minutes
-- Everything can be filled at our [pharmacy](/en/services/farmacia)
+- The medications prescribed during your visit are handed to you at our [pharmacy](/en/services/farmacia)
 
 We explain which ones to use daily during the season and which only when symptoms appear, so you do not spend on medication you do not need.
 
@@ -657,7 +657,7 @@ Si el dolor de garganta es lo principal, con fiebre y sin tos, agregamos la [pru
 - Faringitis y amigdalitis
 - Crisis de asma o de [alergia respiratoria](/services/alergias) que se confunden con infección
 
-Los antibióticos no sirven para virus. Solo los indicamos cuando la evaluación muestra una infección bacteriana, como sinusitis prolongada, estreptococo o una neumonía inicial, y los puedes surtir en nuestra [farmacia](/services/farmacia).
+Los antibióticos no sirven para virus. Solo los indicamos cuando la evaluación muestra una infección bacteriana, como sinusitis prolongada, estreptococo o una neumonía inicial, y te los entregamos en nuestra [farmacia](/services/farmacia).
 
 ## Cuándo no debes esperar
 
@@ -691,7 +691,7 @@ If a sore throat is the main symptom, with fever and no cough, we add a [strep t
 - Pharyngitis and tonsillitis
 - Asthma or [respiratory allergy](/en/services/alergias) flare-ups that get mistaken for infection
 
-Antibiotics do not work on viruses. We prescribe them only when the evaluation shows a bacterial infection, such as prolonged sinusitis, strep or early pneumonia, and you can fill them at our [pharmacy](/en/services/farmacia).
+Antibiotics do not work on viruses. We prescribe them only when the evaluation shows a bacterial infection, such as prolonged sinusitis, strep or early pneumonia, and we hand them to you at our [pharmacy](/en/services/farmacia).
 
 ## When not to wait
 
@@ -1701,7 +1701,7 @@ Pasamos un hisopo por el fondo de la garganta y las amígdalas durante unos segu
 
 ## Tratamiento
 
-Si la prueba es positiva, el médico indica un antibiótico, generalmente penicilina o amoxicilina durante 10 días, que puedes surtir en nuestra [farmacia](/services/farmacia). El dolor y la fiebre mejoran en 24 a 48 horas, pero es importante terminar todo el tratamiento para evitar complicaciones como la fiebre reumática o problemas en los riñones. Para el dolor recomendamos paracetamol o ibuprofeno, líquidos frescos, paletas de hielo y gárgaras con agua tibia y sal.
+Si la prueba es positiva, el médico indica un antibiótico, generalmente penicilina o amoxicilina durante 10 días, que te entregamos en nuestra [farmacia](/services/farmacia). El dolor y la fiebre mejoran en 24 a 48 horas, pero es importante terminar todo el tratamiento para evitar complicaciones como la fiebre reumática o problemas en los riñones. Para el dolor recomendamos paracetamol o ibuprofeno, líquidos frescos, paletas de hielo y gárgaras con agua tibia y sal.
 
 Después de 24 horas de antibiótico ya no contagias y puedes volver a la escuela o al trabajo si te sientes bien. Cambia el cepillo de dientes al terminar el tratamiento.
 
@@ -1738,7 +1738,7 @@ We run a swab across the back of the throat and tonsils for a few seconds. It is
 
 ## Treatment
 
-If the test is positive, the physician prescribes an antibiotic, usually penicillin or amoxicillin for 10 days, which you can fill at our [pharmacy](/en/services/farmacia). Pain and fever improve in 24 to 48 hours, but it is important to finish the full course to avoid complications such as rheumatic fever or kidney problems. For pain we recommend acetaminophen or ibuprofen, cool liquids, ice pops and warm salt-water gargles.
+If the test is positive, the physician prescribes an antibiotic, usually penicillin or amoxicillin for 10 days, which we hand to you at our [pharmacy](/en/services/farmacia). Pain and fever improve in 24 to 48 hours, but it is important to finish the full course to avoid complications such as rheumatic fever or kidney problems. For pain we recommend acetaminophen or ibuprofen, cool liquids, ice pops and warm salt-water gargles.
 
 After 24 hours on the antibiotic you are no longer contagious and can return to school or work if you feel well. Replace your toothbrush when you finish treatment.
 
@@ -2939,7 +2939,7 @@ Si el corte está abierto y es reciente, lo que necesitas son [suturas](/service
 
 ## Qué hacemos en cada curación
 
-Retiramos el vendaje anterior, medimos y fotografiamos la herida para comparar su avance, la lavamos con solución estéril, retiramos el tejido muerto si lo hay (desbridamiento) con anestesia local cuando hace falta, aplicamos el apósito adecuado y vendamos. Al final te entregamos un plan por escrito: cada cuántos días volver, qué hacer en casa y qué señales vigilar. Si la herida muestra infección, el médico indica antibiótico que puedes surtir en nuestra [farmacia](/services/farmacia), y revisamos tu [vacuna del tétanos](/services/vacunas).
+Retiramos el vendaje anterior, medimos y fotografiamos la herida para comparar su avance, la lavamos con solución estéril, retiramos el tejido muerto si lo hay (desbridamiento) con anestesia local cuando hace falta, aplicamos el apósito adecuado y vendamos. Al final te entregamos un plan por escrito: cada cuántos días volver, qué hacer en casa y qué señales vigilar. Si la herida muestra infección, el equipo médico indica un antibiótico que te entregamos en nuestra [farmacia](/services/farmacia), y revisamos tu [vacuna del tétanos](/services/vacunas).
 
 ## Apósitos según la herida
 
@@ -2971,7 +2971,7 @@ If the cut is open and recent, what you need is [stitches](/en/services/suturas-
 
 ## What we do at each visit
 
-We remove the old dressing, measure and photograph the wound to track progress, wash it with sterile solution, remove dead tissue if present (debridement) under local anesthesia when needed, apply the right dressing and bandage it. At the end you get a written plan: how often to come back, what to do at home and which signs to watch for. If the wound shows infection, the physician prescribes an antibiotic you can fill at our [pharmacy](/en/services/farmacia), and we check your [tetanus vaccine](/en/services/vacunas).
+We remove the old dressing, measure and photograph the wound to track progress, wash it with sterile solution, remove dead tissue if present (debridement) under local anesthesia when needed, apply the right dressing and bandage it. At the end you get a written plan: how often to come back, what to do at home and which signs to watch for. If the wound shows infection, the medical team prescribes an antibiotic that we hand to you at our [pharmacy](/en/services/farmacia), and we check your [tetanus vaccine](/en/services/vacunas).
 
 ## Dressings matched to the wound
 
@@ -3317,34 +3317,34 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
     shortDescriptionEn:
       "Pick up your medications right after your visit — no second stop.",
     description:
-      "Farmacia en La Porte, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
+      "Farmacia dentro de la clínica en La Porte, TX: los medicamentos indicados en tu consulta y productos de venta libre, explicados en español.",
     descriptionEn:
-      "Pharmacy in La Porte, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
+      "Pharmacy inside the clinic in La Porte, TX: the medications prescribed during your visit and over-the-counter products, explained in Spanish.",
     keywords: [
       "farmacia en la porte",
       "farmacia hispana la porte",
       "farmacia cerca de mí la porte",
-      "surtir receta la porte",
+      "medicamentos despues de la consulta la porte",
     ],
     keywordsEn: [
       "pharmacy la porte",
       "hispanic pharmacy la porte",
       "pharmacy near me la porte",
-      "fill prescription la porte",
+      "medications after doctor visit la porte",
     ],
     features: [
-      "Surtido de tu receta al instante",
+      "Medicamentos indicados en tu consulta",
       "Medicamentos de marca y genéricos",
       "Medicamentos de venta libre (OTC)",
       "Asesoría sobre tus medicamentos en español",
     ],
     featuresEn: [
-      "Prescriptions filled on the spot",
+      "Medications prescribed during your visit",
       "Brand-name and generic medications",
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Cuando terminas la consulta ya te sientes mal, es tarde o vienes con niños; lo último que quieres es manejar a otra farmacia, hacer fila y descubrir que no tienen tu medicamento. En Clínica Hispana Nueva Salud La Porte surtimos tu receta en la misma clínica, en minutos, con explicación en español de cómo tomarla y a precios accesibles sin seguro.
+    longDescription: `Cuando terminas la consulta ya te sientes mal, es tarde o vienes con niños; lo último que quieres es manejar a otra farmacia, hacer fila y descubrir que no tienen tu medicamento. En Clínica Hispana Nueva Salud La Porte te entregamos los medicamentos indicados en tu consulta en la misma clínica, con explicación en español de cómo tomarlos y a precios accesibles sin seguro.
 
 ## Qué encuentras en nuestra farmacia
 
@@ -3355,15 +3355,15 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
 - **Inyectables y vitaminas:** vitamina B12, complejo B, antiinflamatorios inyectables aplicados en la clínica
 - **Productos de venta libre:** termómetros, sueros orales para deshidratación, material de curación, glucómetros y tiras reactivas
 
-Si algo no está en existencia, te lo conseguimos o te damos la receta impresa para surtirla donde prefieras; nunca te vas sin opciones.
+Si algo no está en existencia, te damos la receta impresa para que la compres en la farmacia que prefieras; nunca te vas sin opciones.
 
 ## Cómo funciona
 
-El médico envía la receta directamente a la farmacia mientras terminas la consulta. Cuando pasas a recoger, el personal revisa contigo cada medicamento: para qué es, cuántas veces al día, con o sin comida, cuántos días y qué efectos puedes notar. Todo en español, y por escrito en la etiqueta para que no se te olvide en casa. Si tomas otros medicamentos, revisamos que no haya interacciones.
+El equipo médico de la clínica indica el tratamiento en tu consulta y la farmacia lo prepara mientras terminas. Cuando pasas a recoger, el personal revisa contigo cada medicamento: para qué es, cuántas veces al día, con o sin comida, cuántos días y qué efectos puedes notar. Todo en español, y por escrito en la etiqueta para que no se te olvide en casa. Si tomas otros medicamentos, revisamos que no haya interacciones.
 
-## Resurtidos
+## Tratamientos continuos
 
-Para tratamientos continuos, como diabetes, presión o tiroides, puedes pasar a resurtir tu receta sin volver a pagar consulta mientras esté vigente. Cuando la receta esté por vencer, te avisamos para programar el control con el médico y ajustar la dosis si hace falta.
+Para diabetes, presión o tiroides, los medicamentos se entregan en cada control con el equipo médico de la clínica, que revisa cómo vas y ajusta la dosis si hace falta.
 
 ## Precios sin seguro
 
@@ -3371,12 +3371,12 @@ Trabajamos sobre todo con genéricos, que tienen el mismo principio activo que l
 
 ## Lo que la farmacia no puede hacer
 
-No surtimos sustancias controladas ni recetas de médicos externos que no podamos verificar. Si necesitas un medicamento que no manejamos, te orientamos sobre dónde conseguirlo.
+La farmacia entrega solo los medicamentos indicados en una consulta de la clínica y productos de venta libre: no atiende recetas de otros médicos ni maneja sustancias controladas. Si necesitas un medicamento que no tenemos, te orientamos sobre dónde conseguirlo.
 
 ## Farmacia en La Porte, dentro de la clínica
 
 Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Es una de las pocas farmacias abiertas hasta las 9 de la noche en La Porte y con atención en español. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive to another pharmacy, wait in line and find out they do not have your medication. At Clínica Hispana Nueva Salud La Porte we fill your prescription right in the clinic, in minutes, with an explanation in Spanish or English of how to take it and at affordable self-pay prices.
+    longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive to another pharmacy, wait in line and find out they do not have your medication. At Clínica Hispana Nueva Salud La Porte we hand you the medications prescribed during your visit right in the clinic, with an explanation in Spanish or English of how to take them and at affordable self-pay prices.
 
 ## What you will find at our pharmacy
 
@@ -3387,15 +3387,15 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 - **Injectables and vitamins:** vitamin B12, B-complex, injectable anti-inflammatories administered at the clinic
 - **Over-the-counter products:** thermometers, oral rehydration solutions, wound-care supplies, glucose meters and test strips
 
-If something is out of stock, we get it for you or give you the printed prescription to fill wherever you prefer; you never leave without options.
+If something is out of stock, we give you the printed prescription so you can buy it at the pharmacy you prefer; you never leave without options.
 
 ## How it works
 
-The physician sends the prescription directly to the pharmacy while you finish your visit. When you come to pick it up, the staff goes over each medication with you: what it is for, how many times a day, with or without food, for how many days and what effects you may notice. All in your language, and in writing on the label so you do not forget at home. If you take other medications, we check for interactions.
+The clinic's medical team prescribes your treatment during the visit and the pharmacy prepares it while you finish. When you come to pick it up, the staff goes over each medication with you: what it is for, how many times a day, with or without food, for how many days and what effects you may notice. All in your language, and in writing on the label so you do not forget at home. If you take other medications, we check for interactions.
 
-## Refills
+## Ongoing treatments
 
-For ongoing treatments, such as diabetes, blood pressure or thyroid, you can come in to refill your prescription without paying for another visit while it is valid. When the prescription is about to expire, we let you know so you can schedule a follow-up with the physician and adjust the dose if needed.
+For diabetes, blood pressure or thyroid, medications are handed to you at each follow-up with the clinic's medical team, who checks how you are doing and adjusts the dose if needed.
 
 ## Self-pay prices
 
@@ -3403,7 +3403,7 @@ We work mostly with generics, which have the same active ingredient as the brand
 
 ## What the pharmacy cannot do
 
-We do not dispense controlled substances or prescriptions from outside doctors that we cannot verify. If you need a medication we do not carry, we guide you on where to get it.
+The pharmacy only hands out the medications prescribed during a visit at the clinic and over-the-counter products: it does not take prescriptions from other doctors or carry controlled substances. If you need a medication we do not have, we guide you on where to get it.
 
 ## Pharmacy in La Porte, inside the clinic
 
