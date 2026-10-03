@@ -438,9 +438,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuándo hacen urocultivo?",
-      answer: "Cuando la infección se repite, no mejoró con un antibiótico previo, hay embarazo o el paciente es hombre. Identifica la bacteria y el antibiótico exacto en 2 a 3 días.",
+      answer: "Cuando la infección se repite, no mejoró con un antibiótico previo, hay embarazo o el paciente es hombre. Identifica la bacteria y el antibiótico exacto, y te avisamos en cuanto está el resultado.",
       questionEn: "When do you do a urine culture?",
-      answerEn: "When the infection recurs, did not improve with a previous antibiotic, there is a pregnancy or the patient is a man. It identifies the bacterium and the exact antibiotic in 2 to 3 days.",
+      answerEn: "When the infection recurs, did not improve with a previous antibiotic, there is a pregnancy or the patient is a man. It identifies the bacterium and the exact antibiotic, and we let you know as soon as the result is in.",
     },
     {
       question: "¿En cuánto tiempo se quita el ardor?",
@@ -476,9 +476,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿En cuánto tiempo están los resultados del examen de heces?",
-      answer: "El examen general y el de parásitos en 24 a 48 horas; el coprocultivo en 2 a 3 días. El médico te los explica y, si hay infección, te da el tratamiento en la misma clínica.",
+      answer: "Salen rápido, y te avisamos en cuanto están. El médico te los explica y, si hay infección, te da el tratamiento en la misma clínica.",
       questionEn: "How soon are stool test results ready?",
-      answerEn: "The general and parasite exams in 24 to 48 hours; the stool culture in 2 to 3 days. The physician explains them and, if there is an infection, gives you treatment in the same clinic.",
+      answerEn: "They come back quickly, and we let you know as soon as they are ready. The physician explains them and, if there is an infection, gives you treatment in the same clinic.",
     },
     {
       question: "¿Puedo traer la muestra de mi hijo?",
@@ -590,9 +590,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuánto tardan los resultados?",
-      answer: "La mayoría están listos en 2 a 3 días y algunos antes. Te avisamos por teléfono o en persona, como prefieras, y te explicamos qué significa cada uno.",
+      answer: "Salen rápido. Te avisamos por teléfono o en persona, como prefieras, y te explicamos qué significa cada uno.",
       questionEn: "How long do results take?",
-      answerEn: "Most are ready in 2 to 3 days and some sooner. We notify you by phone or in person, whichever you prefer, and explain what each one means.",
+      answerEn: "They come back quickly. We notify you by phone or in person, whichever you prefer, and explain what each one means.",
     },
     {
       question: "¿Cuánto tiempo después del contacto puedo hacerme la prueba?",
