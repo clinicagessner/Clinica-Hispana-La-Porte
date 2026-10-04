@@ -5,129 +5,131 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
-**Estado de GSC (API, datos hasta 2026-09-30):** 14 de 92 indexadas · 28 descubiertas sin indexar · 7 rastreadas sin indexar · 42 desconocidas.
+<!-- tandas:auto -->
+**Estado (actualizado 2026-10-04; URL Inspection API, datos de hoy 2026-10-04):** 14 de 92 URLs del sitemap indexadas · 78 sin indexar (37 descubierta sin indexar · 31 desconocida · 10 rastreada sin indexar).
 
-Orden: primero las 78 no indexadas (español antes que inglés), después las indexadas por impresiones.
-Antes de la tanda 1, reenviar el sitemap en GSC (Sitemaps → `sitemap.xml`).
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 85 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
+Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+<!-- /tandas:auto -->
 
 ## Tanda 1
 
-- [ ] https://www.clinicahispananslaporte.com/blog  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/laboratorio-clinico-laporte-analisis-sangre  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/alergias  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/vacunas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/control-diabetes-laporte-guia-pacientes  — descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com  — cambiada 2026-10-04 · rastreada 2026-09-26 · indexada · 4625 impr.
+- [ ] https://www.clinicahispananslaporte.com/walk-in  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 180 impr.
+- [ ] https://www.clinicahispananslaporte.com/promociones  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 126 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · rastreada 2026-08-26 · indexada · 93 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-03 · rastreada 2026-09-28 · indexada · 39 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/tiroides  — cambiada 2026-10-03 · rastreada 2026-09-17 · indexada · 15 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · rastreada 2026-09-25 · indexada · 9 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-10-02 · indexada · 9 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-09-19 · indexada · 6 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 
 ## Tanda 2
 
-- [ ] https://www.clinicahispananslaporte.com/blog/examen-dot-cdl-camioneros-laporte  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/salud-mujer-laporte-servicios-ginecologia  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/landing/comparacion-clinicas-laporte  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/curacion-heridas  — descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 
 ## Tanda 3
 
-- [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/electrocardiograma  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 
 ## Tanda 4
 
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 
 ## Tanda 5
 
-- [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/vitamina-b12-beneficios-inyecciones-laporte  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/vacunas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-04 · rastreada 2026-09-27 · indexada · 71 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/promociones  — cambiada 2026-10-03 · rastreada 2026-09-18 · indexada · 18 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 9 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 1 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-03 · rastreada 2026-07-30 · rastreada sin indexar · 1 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 1 impr.
 
 ## Tanda 6
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 
 ## Tanda 7
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · desconocida · 0 impr.
 
 ## Tanda 8
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/walk-in  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — ? · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/walk-in  — indexada · 149 impr.
-- [ ] https://www.clinicahispananslaporte.com/promociones  — indexada · 97 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 
 ## Tanda 9
 
-- [ ] https://www.clinicahispananslaporte.com/blog/vitamina-b12-beneficios-inyecciones-laporte  — indexada · 66 impr.
-- [ ] https://www.clinicahispananslaporte.com/en  — indexada · 65 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-sangre  — indexada · 39 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/tiroides  — indexada · 13 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/promociones  — indexada · 11 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud  — indexada · 8 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/salud-hombre-laporte-chequeos-preventivos  — indexada · 5 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-dot  — indexada · 5 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — indexada · 4 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — indexada · 1 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/walk-in  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/examen-dot-cdl-camioneros-laporte  — descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · rastreada 2026-10-03 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — descubierta sin indexar · 0 impr.
 
 ## Tanda 10
 
-- [ ] https://www.clinicahispananslaporte.com  — indexada · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — indexada · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-03 · rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
