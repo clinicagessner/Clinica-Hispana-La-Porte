@@ -425,10 +425,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "infecciones-urinarias": [
     {
-      question: "¿Puedo recibir tratamiento rápido?",
-      answer: "Sí. El examen general de orina sale rápido y, si hay infección, empiezas el antibiótico que te entregamos en nuestra farmacia.",
-      questionEn: "Can I get treatment quickly?",
-      answerEn: "Yes. The urinalysis comes back quickly and, if there is an infection, you start the antibiotic we hand you at our pharmacy.",
+      question: "¿Puedo recibir tratamiento el mismo día?",
+      answer: "Sí. El examen general de orina se hace en la clínica y, si hay infección, sales con tu tratamiento el mismo día: el antibiótico te lo entregamos en nuestra farmacia.",
+      questionEn: "Can I get treatment the same day?",
+      answerEn: "Yes. The urinalysis is done at the clinic and, if there is an infection, you leave with your treatment the same day: we hand you the antibiotic at our pharmacy.",
     },
     {
       question: "¿Cómo debo recoger la muestra de orina?",

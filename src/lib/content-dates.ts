@@ -36,7 +36,7 @@ export const SERVICE_DATES: Record<string, string> = {
   farmacia: B1_RED,
   tiroides: B1_RED,
   "salud-hombre": B1_RED,
-  "infecciones-urinarias": B1_RED,
+  "infecciones-urinarias": "2026-10-04", // tratamiento el mismo día (regla de red)
   "examen-alcohol-drogas": B3_TANDAS,
   "examenes-inmigracion": B1_RED,
   "examen-dot": B1_RED,

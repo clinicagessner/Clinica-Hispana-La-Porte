@@ -1440,13 +1440,13 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
     shortDescription:
-      "Examen de orina y tratamiento rápido de infecciones urinarias, en español.",
+      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
-      "Urinalysis and fast urinary infection treatment, in Spanish.",
+      "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento rápido de infecciones urinarias en La Porte, TX. En español, con precios accesibles.",
+      "Examen de orina y tratamiento de infecciones urinarias el mismo día en La Porte, TX. En español, con precios accesibles.",
     descriptionEn:
-      "Fast urinalysis and urinary infection treatment in La Porte, TX. In Spanish, with affordable pricing.",
+      "Urinalysis and same-day urinary infection treatment in La Porte, TX. In Spanish, with affordable pricing.",
     keywords: [
       "examen de orina la porte",
       "infeccion urinaria la porte",
@@ -1462,16 +1462,16 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
-      "Tratamiento rápido",
+      "Tratamiento el mismo día",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
-      "Fast treatment",
+      "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud La Porte te hacemos la prueba y, si hay infección, empezamos el tratamiento rápido.
+    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud La Porte te hacemos el examen de orina en la clínica y, si hay infección, sales con tu tratamiento el mismo día.
 
 ## Cómo saber si es infección urinaria
 
@@ -1482,7 +1482,7 @@ Ardor o dolor al orinar, ganas de ir al baño cada rato aunque salga poco, urgen
 1. Recoges una muestra de orina en la clínica; te explicamos cómo tomarla del chorro medio para que no se contamine
 2. Hacemos el **examen general de orina** con tira reactiva y microscopio, con resultado en 15 minutos: leucocitos, nitritos, sangre, proteínas y glucosa
 3. Si la infección se repite, no mejora con antibiótico o eres hombre, enviamos un **urocultivo** que identifica la bacteria y el antibiótico exacto al que responde, en 2 a 3 días
-4. El equipo médico revisa tus síntomas y tu historial, y si hay infección inicias el antibiótico en esa misma visita, disponible en nuestra [farmacia](/services/farmacia)
+4. El equipo médico revisa tus síntomas y tu historial, y si hay infección inicias el antibiótico el mismo día, disponible en nuestra [farmacia](/services/farmacia)
 
 El examen de orina también detecta otras cosas: glucosa (que puede indicar diabetes), proteínas (riñón), sangre (piedras) o cetonas, y se usa para [chequeos generales](/services/examen-fisico-escolar) y para la [prueba de embarazo](/services/prueba-embarazo).
 
@@ -1500,8 +1500,8 @@ Si tienes 3 o más infecciones al año, buscamos la causa: relaciones sexuales, 
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y empiezas tu tratamiento rápido. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the test and, if there's an infection, we start treatment quickly.
+Si tienes síntomas de infección urinaria en La Porte, TX, ven a nuestra clínica hispana sin cita: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; la consulta y el examen tienen precio fijo. Atendemos a pacientes de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
+    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud La Porte we run the urine test at the clinic and, if there's an infection, you leave with your treatment the same day.
 
 ## How to tell if it is a urinary infection
 
@@ -1512,7 +1512,7 @@ Burning or pain when urinating, needing to go all the time even if little comes 
 1. You provide a urine sample at the clinic; we explain how to collect it midstream so it is not contaminated
 2. We run the **urinalysis** with a test strip and microscope, with results in 15 minutes: white cells, nitrites, blood, protein and glucose
 3. If the infection is recurrent, does not improve with antibiotics or you are a man, we send a **urine culture** that identifies the bacterium and the exact antibiotic it responds to, in 2 to 3 days
-4. The medical team reviews your symptoms and history, and if there is an infection you start the antibiotic during that same visit, available at our [pharmacy](/en/services/farmacia)
+4. The medical team reviews your symptoms and history, and if there is an infection you start the antibiotic the same day, available at our [pharmacy](/en/services/farmacia)
 
 The urine test also detects other things: glucose (which may indicate diabetes), protein (kidney), blood (stones) or ketones, and is used for [general checkups](/en/services/examen-fisico-escolar) and for [pregnancy testing](/en/services/prueba-embarazo).
 
@@ -1530,7 +1530,7 @@ If you have 3 or more infections a year, we look for the cause: sex, low water i
 
 ## Urinary infection treatment at a Hispanic clinic near you
 
-If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and you start your treatment quickly. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
+If you have urinary infection symptoms in La Porte, TX, come to our Hispanic clinic with no appointment: we run the urine test and, if there is an infection, you leave with your treatment the same day. Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, on Spencer Hwy, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. No health insurance needed; the visit and test have a flat price. We serve patients from La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point and the greater Houston area.`,
   },
   {
     slug: "examen-heces",
