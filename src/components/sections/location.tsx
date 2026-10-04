@@ -50,6 +50,8 @@ export function Location() {
                 {CONTACT_INFO.address}
                 <br />
                 {CONTACT_INFO.city}, {CONTACT_INFO.state} {CONTACT_INFO.zip}
+                <br />
+                {t("parking")}
               </InfoRow>
 
               <InfoRow icon={<Clock className="h-5 w-5" />} label={t("hoursLabel")}>
