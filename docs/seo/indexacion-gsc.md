@@ -6,26 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 15 de 92 URLs del sitemap indexadas · 77 sin indexar (42 desconocida · 26 descubierta sin indexar · 9 rastreada sin indexar).
+**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 15 de 92 URLs del sitemap indexadas · 77 sin indexar (42 desconocida · 26 descubierta sin indexar · 9 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 84 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 74 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 1  ✅ PEDIDA 05/10/2026
-
-- [x] https://www.clinicahispananslaporte.com/walk-in  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 183 impr.
-- [x] https://www.clinicahispananslaporte.com/promociones  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 127 impr.
-- [x] https://www.clinicahispananslaporte.com/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · rastreada 2026-08-26 · indexada · 96 impr.
-- [x] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-03 · rastreada 2026-09-28 · indexada · 54 impr.
-- [x] https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · rastreada 2026-09-25 · indexada · 25 impr.
-- [x] https://www.clinicahispananslaporte.com/services/tiroides  — cambiada 2026-10-03 · rastreada 2026-09-17 · indexada · 22 impr.
-- [x] https://www.clinicahispananslaporte.com/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-10-02 · indexada · 12 impr.
-- [x] https://www.clinicahispananslaporte.com/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-09-19 · indexada · 7 impr.
-- [x] https://www.clinicahispananslaporte.com/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
-
-## Tanda 2
+## Tanda 2  📨 ENVIADA 06/10/2026
 
 - [ ] https://www.clinicahispananslaporte.com/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · desconocida · 0 impr.
@@ -128,3 +116,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · rastreada 2026-10-03 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-03 · rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
+
+## Historial (tandas pedidas)
+
+## Tanda 1  ✅ PEDIDA 05/10/2026
+
+- [x] https://www.clinicahispananslaporte.com/walk-in  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 183 impr.
+- [x] https://www.clinicahispananslaporte.com/promociones  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 127 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · rastreada 2026-08-26 · indexada · 96 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-03 · rastreada 2026-09-28 · indexada · 54 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · rastreada 2026-09-25 · indexada · 25 impr.
+- [x] https://www.clinicahispananslaporte.com/services/tiroides  — cambiada 2026-10-03 · rastreada 2026-09-17 · indexada · 22 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-10-02 · indexada · 12 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-09-19 · indexada · 7 impr.
+- [x] https://www.clinicahispananslaporte.com/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
