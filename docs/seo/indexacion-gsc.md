@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chn
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1 — 📨 ENVIADA 05/10/2026
+## Tanda 1  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/walk-in  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 183 impr.
-- [ ] https://www.clinicahispananslaporte.com/promociones  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 127 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · rastreada 2026-08-26 · indexada · 96 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-03 · rastreada 2026-09-28 · indexada · 54 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · rastreada 2026-09-25 · indexada · 25 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/tiroides  — cambiada 2026-10-03 · rastreada 2026-09-17 · indexada · 22 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-10-02 · indexada · 12 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-09-19 · indexada · 7 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/walk-in  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 183 impr.
+- [x] https://www.clinicahispananslaporte.com/promociones  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 127 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · rastreada 2026-08-26 · indexada · 96 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-03 · rastreada 2026-09-28 · indexada · 54 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · rastreada 2026-09-25 · indexada · 25 impr.
+- [x] https://www.clinicahispananslaporte.com/services/tiroides  — cambiada 2026-10-03 · rastreada 2026-09-17 · indexada · 22 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-10-02 · indexada · 12 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-09-19 · indexada · 7 impr.
+- [x] https://www.clinicahispananslaporte.com/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 
 ## Tanda 2
 
