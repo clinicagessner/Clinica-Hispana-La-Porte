@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 10/10/2026
+## Tanda 3  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 
 ## Tanda 4
 
