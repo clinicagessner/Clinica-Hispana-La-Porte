@@ -6,9 +6,9 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 15 de 94 URLs del sitemap indexadas · 79 sin indexar (42 desconocida · 26 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-12; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 15 de 94 URLs del sitemap indexadas · 79 sin indexar (42 desconocida · 26 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 56 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 46 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 22 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
@@ -26,12 +26,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
 
+## Tanda 11 — cambios del 2026-10-12 (rendimiento: etiquetas tras primera interacción)
+
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-10-12
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-12
+
 ## Tanda 5
 
 - [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/vacunas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-04 · rastreada 2026-09-27 · indexada · 71 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/promociones  — cambiada 2026-10-03 · rastreada 2026-09-18 · indexada · 19 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 9 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
