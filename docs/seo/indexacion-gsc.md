@@ -13,8 +13,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 13/10/2026
+## Tanda 4
 
+- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
+
+## Tanda 11 — cambios del 2026-10-12 (rendimiento: etiquetas tras primera interacción)  📨 ENVIADA 13/10/2026
+
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-10-12
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-12
 - [ ] https://www.clinicahispananslaporte.com/blog/frentes-frios-alergia-resfriado-gripe-la-porte  — cambiada 2026-10-07 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-03 · desconocida · 0 impr.
@@ -23,13 +30,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
-
-## Tanda 11 — cambios del 2026-10-12 (rendimiento: etiquetas tras primera interacción)
-
-- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-10-12
-- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-12
 
 ## Tanda 12
 
