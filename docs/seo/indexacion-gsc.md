@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-12; URL Inspection API, datos de hoy 2026-10-12):** 26 de 94 URLs del sitemap indexadas · 68 sin indexar (36 desconocida · 24 descubierta sin indexar · 8 rastreada sin indexar).
+**Estado (actualizado 2026-10-13; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 26 de 94 URLs del sitemap indexadas · 68 sin indexar (36 desconocida · 24 descubierta sin indexar · 8 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 42 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 12/10/2026
+## Tanda 4  📨 ENVIADA 13/10/2026
 
 - [ ] https://www.clinicahispananslaporte.com/blog/frentes-frios-alergia-resfriado-gripe-la-porte  — cambiada 2026-10-07 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-03 · desconocida · 0 impr.
