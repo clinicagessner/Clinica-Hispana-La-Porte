@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-10-13
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-13
+
 ## Tanda 4
 
 - [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
