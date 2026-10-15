@@ -2,7 +2,7 @@
 title: "Heat, little water and dark urine: outdoor work in La Porte"
 description: "Working outdoors in La Porte? Dark urine means you're short on water. Why holding it in raises urinary risk, how to read the color and when to come in."
 date: "2026-10-14"
-updated: "2026-10-14"
+updated: "2026-10-15"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Health"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -77,7 +77,7 @@ Men working in industry tend to brush this off "because there's no time." A urin
 
 ## What we do at the clinic
 
-Walk in, or call (346) 222-1006 if you'd rather book: bring us that burning, those constant urges or that strange-looking urine after a week of long shifts on the roof or at the plant, and we'll collect a sample for the [urine test at the clinic and, if there is an infection, you leave with your treatment the same day](/en/services/infecciones-urinarias), plus a straight talk, in Spanish or English, about the water and rest-break routine your crew's next hot days call for. So you don't lose the afternoon hunting for another stop before heading back to the site or the night shift, medications prescribed during the visit are handed to you at the clinic, along with written instructions.
+Walk in, or call (346) 222-1006 if you'd rather book: bring us that burning, those constant urges or that strange-looking urine after a week of long shifts on the roof or at the plant, and we'll collect a sample for the [urine test at the clinic and, if there is an infection, you leave with your treatment the same day](/en/services/infecciones-urinarias), plus a straight talk, in Spanish or English, about the water and rest-break routine your crew's next hot days call for. So you don't lose the afternoon hunting for another stop before heading back to the site or the night shift, you buy what our doctor prescribed right there at the clinic's on-site pharmacy, along with written instructions.
 
 If the infection keeps coming back or doesn't improve, we send out a urine culture. That result takes a few days and shows which bacterium is involved and which treatment works against it. When the clinic's medical team suspects a stone, they may order an [ultrasound](/en/services/ultrasonido), and if it's worth checking how your kidneys are working or whether your sugar runs high, we do [blood work](/en/services/examenes-sangre). And when a result needs a more specialized look, steering you toward a urologist in the area is part of our basic urology service.
 

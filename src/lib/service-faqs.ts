@@ -19,10 +19,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "5.7 to 6.4 is prediabetes; 6.5 or higher is diabetes. If you already have diabetes, the usual goal is to keep it below 7, though the medical team adjusts it to your case.",
     },
     {
-      question: "¿Pueden recetarme y darme mis medicamentos?",
-      answer: "Sí. El equipo médico de la clínica ajusta o inicia tu tratamiento y te entregamos los medicamentos en nuestra farmacia, con opciones económicas. Trae tus medicamentos actuales o la lista con dosis.",
-      questionEn: "Can you prescribe and fill my medications?",
-      answerEn: "Yes. The clinic's medical team adjusts or starts your treatment and we hand you the medications at our pharmacy, with low-cost options. Bring your current medications or a list with doses.",
+      question: "¿Pueden recetarme y venderme mis medicamentos?",
+      answer: "Sí. El equipo médico de la clínica ajusta o inicia tu tratamiento y compras los medicamentos al terminar en nuestra farmacia en la clínica, con opciones económicas. Trae tus medicamentos actuales o la lista con dosis.",
+      questionEn: "Can you prescribe my medications and sell them to me?",
+      answerEn: "Yes. The clinic's medical team adjusts or starts your treatment and you buy the medications after the visit at our on-site pharmacy, with low-cost options. Bring your current medications or a list with doses.",
     },
     {
       question: "Perdí mi seguimiento porque ya no tengo seguro, ¿puedo retomarlo aquí?",
@@ -114,9 +114,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita o seguro para la consulta de alergias?",
-      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; la consulta tiene precio fijo y los medicamentos indicados se entregan en nuestra farmacia.",
+      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; la consulta tiene precio fijo y lo que te receta nuestro médico lo compras en nuestra farmacia en la clínica.",
       questionEn: "Do I need an appointment or insurance for an allergy visit?",
-      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the visit has a flat price and the prescribed medications are handed to you at our pharmacy.",
+      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the visit has a flat price and you buy what our doctor prescribes at our on-site pharmacy.",
     },
   ],
   "enfermedades-respiratorias": [
@@ -426,9 +426,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "infecciones-urinarias": [
     {
       question: "¿Puedo recibir tratamiento el mismo día?",
-      answer: "Sí. El examen general de orina se hace en la clínica y, si hay infección, sales con tu tratamiento el mismo día: el antibiótico te lo entregamos en nuestra farmacia.",
+      answer: "Sí. El examen general de orina se hace en la clínica y, si hay infección, sales con tu tratamiento el mismo día: el antibiótico lo compras ahí mismo en nuestra farmacia.",
       questionEn: "Can I get treatment the same day?",
-      answerEn: "Yes. The urinalysis is done at the clinic and, if there is an infection, you leave with your treatment the same day: we hand you the antibiotic at our pharmacy.",
+      answerEn: "Yes. The urinalysis is done at the clinic and, if there is an infection, you leave with your treatment the same day: you buy the antibiotic right here at our pharmacy.",
     },
     {
       question: "¿Cómo debo recoger la muestra de orina?",
@@ -532,9 +532,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita o seguro para la prueba de estreptococo?",
-      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; la consulta y la prueba tienen precio fijo y el antibiótico se entrega en nuestra farmacia.",
+      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; la consulta y la prueba tienen precio fijo y el antibiótico lo compras al terminar en nuestra farmacia.",
       questionEn: "Do I need an appointment or insurance for a strep test?",
-      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the visit and test have a flat price and the antibiotic is handed to you at our pharmacy.",
+      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the visit and test have a flat price and you buy the antibiotic after the visit at our pharmacy.",
     },
   ],
   "prueba-tuberculosis": [
@@ -602,9 +602,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "Si salgo positivo, ¿me dan el tratamiento ahí mismo?",
-      answer: "En la mayoría de los casos sí: iniciamos rápido los antibióticos y te los entregamos en nuestra farmacia. Para VIH o hepatitis te referimos con un especialista y te acompañamos.",
+      answer: "En la mayoría de los casos sí: iniciamos rápido los antibióticos y los compras ahí mismo en nuestra farmacia. Para VIH o hepatitis te referimos con un especialista y te acompañamos.",
       questionEn: "If I test positive, do I get treatment right there?",
-      answerEn: "In most cases yes: we start antibiotics quickly and hand them to you at our pharmacy. For HIV or hepatitis we refer you to a specialist and support you.",
+      answerEn: "In most cases yes: we start antibiotics quickly and you buy them right here at our pharmacy. For HIV or hepatitis we refer you to a specialist and support you.",
     },
     {
       question: "¿Debe hacerse la prueba mi pareja también?",
@@ -1071,34 +1071,28 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "farmacia": [
     {
-      question: "¿Me dan los medicamentos en la clínica?",
-      answer: "Sí. Los medicamentos indicados en tu consulta te los entregamos en nuestra farmacia al terminar, con la explicación de cómo tomarlos. Si algo no está en existencia, te damos la receta impresa para que la compres en la farmacia que prefieras.",
-      questionEn: "Do you give me the medications at the clinic?",
-      answerEn: "Yes. We hand you the medications prescribed during your visit at our pharmacy when you finish, with an explanation of how to take them. If something is out of stock, we give you the printed prescription so you can buy it at the pharmacy you prefer.",
+      question: "¿Compro mis medicamentos en la clínica?",
+      answer: "Sí. Tenemos farmacia en la clínica: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro médico, con la explicación de cómo tomarlos.",
+      questionEn: "Can I buy my medications at the clinic?",
+      answerEn: "Yes. We have an on-site pharmacy: when your visit ends you buy the medicines our doctor prescribed right here, with an explanation of how to take them.",
     },
     {
       question: "¿Atienden recetas de otros médicos?",
-      answer: "No. La farmacia entrega solo los medicamentos indicados en una consulta de la clínica y productos de venta libre, y no maneja sustancias controladas. Si necesitas un medicamento que no tenemos, te orientamos sobre dónde conseguirlo.",
+      answer: "No. La farmacia vende solo los medicamentos que receta el médico de la clínica en tu consulta. Si traes una receta de otro lugar, te ofrecemos una consulta aquí para valorar tu caso.",
       questionEn: "Do you take prescriptions from other doctors?",
-      answerEn: "No. The pharmacy only hands out the medications prescribed during a visit at the clinic and over-the-counter products, and does not carry controlled substances. If you need a medication we do not have, we guide you on where to get it.",
+      answerEn: "No. The pharmacy only sells the medications prescribed by the clinic's doctor during your visit. If you bring a prescription from elsewhere, we offer you a visit here to assess your case.",
     },
     {
       question: "¿Cuánto cuestan los medicamentos sin seguro?",
-      answer: "Trabajamos sobre todo con genéricos, a una fracción del precio de marca, y te decimos el costo antes de despachar. No necesitas seguro; aceptamos efectivo y tarjetas.",
+      answer: "Hay opciones genéricas y te decimos el costo antes de pagar. No necesitas seguro; aceptamos efectivo y tarjetas.",
       questionEn: "How much do medications cost without insurance?",
-      answerEn: "We work mostly with generics, at a fraction of the brand price, and tell you the cost before dispensing. No insurance needed; we accept cash and cards.",
+      answerEn: "Generic options are available and we tell you the cost before you pay. No insurance needed; we accept cash and cards.",
     },
     {
       question: "¿Cómo sigo con mi medicamento de diabetes o presión?",
-      answer: "En tus controles: el equipo médico de la clínica revisa cómo vas, ajusta la dosis si hace falta y la farmacia te entrega los medicamentos de ese periodo.",
+      answer: "En tus controles: el médico de la clínica revisa cómo vas, ajusta la dosis si hace falta y compras en la farmacia los medicamentos de ese periodo.",
       questionEn: "How do I continue my diabetes or blood pressure medication?",
-      answerEn: "Through your follow-up visits: the clinic's medical team checks how you are doing, adjusts the dose if needed and the pharmacy hands you the medications for that period.",
-    },
-    {
-      question: "¿Venden medicamentos sin receta?",
-      answer: "Sí, productos de venta libre: antigripales, analgésicos, antihistamínicos, sueros orales, termómetros, material de curación, glucómetros y tiras reactivas. Los medicamentos con receta, como los antibióticos, se entregan solo con consulta en la clínica.",
-      questionEn: "Do you sell over-the-counter medications?",
-      answerEn: "Yes: cold remedies, pain relievers, antihistamines, oral rehydration solutions, thermometers, wound-care supplies, glucose meters and test strips. Prescription medications, such as antibiotics, are only handed out with a visit at the clinic.",
+      answerEn: "Through your follow-up visits: the clinic's doctor checks how you are doing, adjusts the dose if needed and you buy that period's medications at the pharmacy.",
     },
     {
       question: "¿Cuál es el horario de la farmacia?",

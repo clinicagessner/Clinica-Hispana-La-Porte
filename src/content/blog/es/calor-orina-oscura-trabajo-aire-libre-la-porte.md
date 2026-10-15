@@ -2,7 +2,7 @@
 title: "Calor, poca agua y orina oscura: trabajo al sol en La Porte"
 description: "Si trabajas al sol en La Porte, la orina oscura avisa que te falta agua. Por qué aguantarse las ganas de orinar aumenta el riesgo urinario y cuándo venir."
 date: "2026-10-14"
-updated: "2026-10-14"
+updated: "2026-10-15"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Salud"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -77,7 +77,7 @@ En los hombres que trabajan en la industria esto se suele dejar pasar "porque no
 
 ## Qué hacemos en la clínica
 
-Llegas sin cita o con cita llamando al (346) 222-1006, y si vienes con ardor, ganas frecuentes o la orina rara después de una semana de turnos largos, te pedimos una muestra para hacerte el [examen de orina en la clínica y, si hay infección, sales con tu tratamiento el mismo día](/services/infecciones-urinarias), con la explicación en español de cuánta agua y cuántos descansos te convienen para la próxima jornada. Para que no pierdas la tarde buscando otra parada antes de volver a la obra o al turno de la noche, los medicamentos indicados en la consulta se entregan en la clínica, junto con las indicaciones por escrito.
+Llegas sin cita o con cita llamando al (346) 222-1006, y si vienes con ardor, ganas frecuentes o la orina rara después de una semana de turnos largos, te pedimos una muestra para hacerte el [examen de orina en la clínica y, si hay infección, sales con tu tratamiento el mismo día](/services/infecciones-urinarias), con la explicación en español de cuánta agua y cuántos descansos te convienen para la próxima jornada. Para que no pierdas la tarde buscando otra parada antes de volver a la obra o al turno de la noche, lo que te receta nuestro médico lo compras ahí mismo en la farmacia de la clínica, junto con las indicaciones por escrito.
 
 Si la infección se repite o no mejora, enviamos un urocultivo, cuyo resultado tarda unos días e indica qué bacteria es y qué tratamiento le funciona. Cuando el equipo médico de la clínica sospecha una piedra, puede pedirte un [ultrasonido](/services/ultrasonido); y si conviene revisar cómo están trabajando tus riñones o si hay azúcar alta, hacemos [análisis de sangre](/services/examenes-sangre). Y cuando un resultado pide una mirada más especializada, parte de nuestro servicio de urología básica es orientarte la referencia a un urólogo de la zona.
 
