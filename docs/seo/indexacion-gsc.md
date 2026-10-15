@@ -31,11 +31,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
 
+## Tanda 29 — cambios del 2026-10-15 (farmacia en la clínica)
+
+- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-15
+
 ## Tanda 24
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 3 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 2 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-03 · rastreada 2026-07-30 · rastreada sin indexar · 1 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
@@ -48,7 +60,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · 0 impr.
@@ -62,10 +73,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-09-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
