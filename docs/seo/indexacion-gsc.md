@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 26 de 96 URLs del sitemap indexadas · 70 sin indexar (36 desconocida · 24 descubierta sin indexar · 8 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 26 de 96 URLs del sitemap indexadas · 70 sin indexar (36 desconocida · 24 descubierta sin indexar · 8 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 34 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-14 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
+24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)
+## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)  📨 ENVIADA 17/10/2026
 
 - [ ] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — post nuevo 2026-10-14 (blog semanal)
 - [ ] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — post nuevo 2026-10-14 (blog semanal)
@@ -30,19 +30,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
-
-## Tanda 29 — cambios del 2026-10-15 (farmacia en la clínica)  ✅ PEDIDA 16/10/2026
-
-- [x] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-15
-- [x] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-15
 
 ## Tanda 30
 
@@ -149,3 +136,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-10-03 · desconocida · 0 impr.
+
+## Tanda 29 — cambios del 2026-10-15 (farmacia en la clínica)  ✅ PEDIDA 16/10/2026
+
+- [x] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-15
