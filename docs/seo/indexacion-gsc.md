@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)  📨 ENVIADA 18/10/2026
+## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — post nuevo 2026-10-14 (blog semanal)
-- [ ] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — post nuevo 2026-10-14 (blog semanal)
-- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-10-13
-- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-13
-- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/vacunas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/promociones  — cambiada 2026-10-03 · rastreada 2026-09-18 · indexada · 22 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — post nuevo 2026-10-14 (blog semanal)
+- [x] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — post nuevo 2026-10-14 (blog semanal)
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-10-13
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-13
+- [x] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/vacunas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/promociones  — cambiada 2026-10-03 · rastreada 2026-09-18 · indexada · 22 impr.
 
 ## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)
 
