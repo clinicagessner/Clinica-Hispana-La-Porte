@@ -18,18 +18,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
 
-## Tanda 34 — cambios del 2026-10-19 (títulos y metas de búsqueda: análisis de sangre, sueros, ETS, ultrasonido)  📨 ENVIADA 19/10/2026
+## Tanda 34 — cambios del 2026-10-19 (títulos y metas de búsqueda: análisis de sangre, sueros, ETS, ultrasonido)  ✅ PEDIDA 19/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-19
-- [ ] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-15 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examenes-sangre  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-19
+- [x] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-15 · desconocida · pedida 2026-10-11 · 0 impr.
 
 ## Tanda 35
 
