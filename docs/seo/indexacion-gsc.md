@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 33 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 20/10/2026
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  ✅ PEDIDA 20/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
-- [ ] https://www.clinicahispananslaporte.com  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 2506 impr.
-- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 89 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 3 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 1 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
+- [x] https://www.clinicahispananslaporte.com  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 2506 impr.
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 89 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 3 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 1 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 
 ## Tanda 35
 
