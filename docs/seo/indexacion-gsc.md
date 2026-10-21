@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-21; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 96 URLs del sitemap indexadas · 67 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar).
+**Estado (actualizado 2026-10-21; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 98 URLs del sitemap indexadas · 69 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 20 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 9 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 9 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-38 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+37 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
 ## Tanda 35  📨 ENVIADA 21/10/2026
@@ -31,7 +31,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 
-## Tanda 36
+## Tanda 39 — cambios del 2026-10-21 (ginecología: consulta inicial gratis (procede la porte))
+
+- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-21
+- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-21
+
+## Tanda 40
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
@@ -44,7 +49,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/walk-in  — cambiada 2026-10-03 · desconocida · 0 impr.
 
-## Tanda 37
+## Tanda 41
 
 - [ ] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — desconocida · 0 impr.
