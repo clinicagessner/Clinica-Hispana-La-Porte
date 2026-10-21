@@ -6,33 +6,17 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-20; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 96 URLs del sitemap indexadas · 67 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar).
+**Estado (actualizado 2026-10-21; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 96 URLs del sitemap indexadas · 67 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 28 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 9 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 20 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 9 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-33 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+38 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  ✅ PEDIDA 20/10/2026
-
-- [x] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
-- [x] https://www.clinicahispananslaporte.com  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 2506 impr.
-- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 89 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 3 impr.
-- [x] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 1 impr.
-- [x] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
-
-## Tanda 35
+## Tanda 35  📨 ENVIADA 21/10/2026
 
 - [ ] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-10-15 · desconocida · 0 impr.
-
-## Tanda 36
-
 - [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
@@ -41,11 +25,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+
+## Tanda 36
+
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
-
-## Tanda 37
-
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
@@ -54,11 +38,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/walk-in  — cambiada 2026-10-03 · desconocida · 0 impr.
+
+## Tanda 37
+
 - [ ] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — desconocida · 0 impr.
-
-## Tanda 38
-
 - [ ] https://www.clinicahispananslaporte.com/services  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
@@ -120,6 +104,19 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-10-03 · desconocida · 0 impr.
+
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  ✅ PEDIDA 20/10/2026
+
+- [x] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · rastreada 2026-08-13 · indexada · 11 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · 5 impr.
+- [x] https://www.clinicahispananslaporte.com  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 2506 impr.
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-10-19 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 89 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 3 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 1 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 
 ## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)  ✅ PEDIDA 18/10/2026
 
