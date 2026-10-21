@@ -843,7 +843,7 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud La Porte ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud La Porte ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.
 
 ## Papanicolaou: cuándo y cómo
 
@@ -872,7 +872,7 @@ Te atendemos en un consultorio privado, con puerta cerrada, y el equipo médico 
 ## Ginecología en una clínica hispana cerca de ti
 
 Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita ni seguro médico. Encuentra nuestro centro médico en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, y abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, para que puedas venir después del trabajo o el fin de semana. Atendemos a mujeres de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston, con precios accesibles que te informamos antes de la consulta.`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud La Porte we offer gynecology care in Spanish, with the privacy and respect you deserve.
+    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud La Porte we offer gynecology care in Spanish, with the privacy and respect you deserve. The initial consultation is free; tests and treatment are paid separately.
 
 ## Pap smear: when and how
 
