@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 35  📨 ENVIADA 21/10/2026
 
+- [ ] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — post nuevo 2026-10-21 (blog semanal)
+- [ ] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — post nuevo 2026-10-21 (blog semanal)
 - [ ] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-10-15 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
@@ -23,6 +25,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+
+## Tanda 38 — cambios del 2026-10-21 (devueltas de la tanda enviada el 21/10 para dejar sitio al post nuevo)
+
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
 
