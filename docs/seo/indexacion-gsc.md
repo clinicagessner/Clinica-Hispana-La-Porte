@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 37 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 35  📨 ENVIADA 21/10/2026
+## Tanda 35  ✅ PEDIDA 21/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — post nuevo 2026-10-21 (blog semanal)
-- [ ] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — post nuevo 2026-10-21 (blog semanal)
-- [ ] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-10-15 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — post nuevo 2026-10-21 (blog semanal)
+- [x] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — post nuevo 2026-10-21 (blog semanal)
+- [x] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
 
 ## Tanda 38 — cambios del 2026-10-21 (devueltas de la tanda enviada el 21/10 para dejar sitio al post nuevo)
 
