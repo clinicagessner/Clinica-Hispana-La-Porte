@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 47 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 39 — cambios del 2026-10-21 (ginecología: consulta inicial gratis (procede la porte)) 📨 ENVIADA 22/10/2026
+## Tanda 39 — cambios del 2026-10-21 (ginecología: consulta inicial gratis (procede la porte)) ✅ PEDIDA 22/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-21
-- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-21
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-21
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-21
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · 0 impr.
 
 ## Tanda 40
 
