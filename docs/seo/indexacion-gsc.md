@@ -8,9 +8,9 @@ Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chn
 <!-- tandas:auto -->
 **Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 98 URLs del sitemap indexadas · 69 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 4 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 9 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-56 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+46 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
 ## Tanda 40 📨 ENVIADA 23/10/2026
@@ -26,11 +26,29 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · rastreada 2026-10-03 · rastreada sin indexar · 0 impr.
 
-## Tanda 41
+## Tanda 42 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
 
+- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-10-23
+- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-10-23
+
+## Tanda 43
+
+- [ ] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-23 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 5 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-20 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-10-19 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · rastreada 2026-10-13 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-03 · rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
 
 ## Historial (tandas pedidas)
 
