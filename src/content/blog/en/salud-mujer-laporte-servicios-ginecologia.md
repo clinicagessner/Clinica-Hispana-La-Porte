@@ -2,7 +2,7 @@
 title: "Women's health in La Porte: gynecology services"
 description: "Women's health services at our La Porte clinic by life stage: Pap smears, birth control, pregnancy tests and infection care."
 date: "2026-04-25"
-updated: "2026-10-03"
+updated: "2026-10-23"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Women's health"
 cover: "/images/blog/salud-mujer-la porte-servicios-ginecologia.webp"
@@ -17,7 +17,7 @@ services:
   - "anticonceptivos"
 ---
 
-An 18-year-old has different needs from a 35-year-old mom or a woman heading into menopause. So instead of a flat list, here are the women's health services at Clínica Hispana Nueva Salud La Porte grouped by the stage of life you're in. All of them are provided by the clinic's general medical team, in Spanish or English.
+An 18-year-old has different needs from a 35-year-old mom or a woman heading into menopause. So instead of a flat list, here are the women's health services at Clínica Hispana Nueva Salud La Porte grouped by the stage of life you're in. Every visit is in Spanish or English.
 
 ## When you become sexually active
 

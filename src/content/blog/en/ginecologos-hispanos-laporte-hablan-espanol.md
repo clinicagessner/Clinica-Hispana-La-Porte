@@ -3,7 +3,7 @@ title: "Spanish-speaking gynecology care in La Porte: getting the most from your
 metaTitle: "Gynecology care in Spanish in La Porte: your visit"
 description: "Women's health visits in Spanish in La Porte: how to prepare, what to say and what gets checked, walk-in and private."
 date: "2026-03-05"
-updated: "2026-10-03"
+updated: "2026-10-23"
 author: "Clínica Hispana Nueva Salud La Porte Team"
 category: "Women's health"
 cover: "/images/blog/ginecologos-hispanos-la porte-hablan-espanol.webp"
@@ -20,7 +20,7 @@ services:
 
 Some symptoms go unmentioned for months simply because a woman can't find the English words, or because describing a burning sensation or an irregular period through an interpreter feels awkward. When the conversation happens in Spanish, that barrier is gone and the visit accomplishes far more.
 
-At Clínica Hispana Nueva Salud La Porte, on Spencer Highway, basic gynecology care is provided by the **clinic's general medical team**, in your language and in a private exam room. If something calls for a specialist, the referral is part of the service and we tell you where to go.
+At Clínica Hispana Nueva Salud La Porte, on Spencer Highway, we provide gynecology care in your language and in a private exam room.
 
 ## Before you come: jot down three things
 

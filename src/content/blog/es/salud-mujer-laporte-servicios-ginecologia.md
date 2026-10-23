@@ -2,7 +2,7 @@
 title: "Salud de la mujer en La Porte: servicios de ginecología"
 description: "Qué servicios de salud femenina hay en nuestra clínica de La Porte según tu etapa: papanicolaou, anticonceptivos, embarazo e infecciones."
 date: "2026-04-25"
-updated: "2026-10-03"
+updated: "2026-10-23"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
 category: "Salud de la mujer"
 cover: "/images/blog/salud-mujer-la porte-servicios-ginecologia.webp"
@@ -17,7 +17,7 @@ services:
   - "anticonceptivos"
 ---
 
-Las necesidades de una muchacha de 18 años no son las de una mamá de 35 ni las de una señora que entra a la menopausia. Por eso, en lugar de una lista suelta, aquí ordenamos los servicios de salud femenina de Clínica Hispana Nueva Salud La Porte según el momento que estás viviendo. Cada uno está a cargo del equipo médico general, y la consulta es en español.
+Las necesidades de una muchacha de 18 años no son las de una mamá de 35 ni las de una señora que entra a la menopausia. Por eso, en lugar de una lista suelta, aquí ordenamos los servicios de salud femenina de Clínica Hispana Nueva Salud La Porte según el momento que estás viviendo. La consulta es en español.
 
 ## Cuando empiezas tu vida sexual
 

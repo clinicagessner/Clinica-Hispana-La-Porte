@@ -330,9 +330,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué pasa si no se siente el implante en el brazo?",
-      answer: "No lo extraemos a ciegas. Hacemos un ultrasonido para localizarlo y, si está muy profundo, te referimos con un especialista para que se retire con seguridad. Trae tu tarjeta de colocación si la tienes.",
+      answer: "No lo extraemos a ciegas. Hacemos un ultrasonido para localizarlo y, si está muy profundo, te explicamos cómo se retira con seguridad. Trae tu tarjeta de colocación si la tienes.",
       questionEn: "What if the implant cannot be felt in my arm?",
-      answerEn: "We do not remove it blindly. We do an ultrasound to locate it and, if it is very deep, refer you to a specialist so it can be removed safely. Bring your placement card if you have it.",
+      answerEn: "We do not remove it blindly. We do an ultrasound to locate it and, if it is very deep, explain how it can be removed safely. Bring your placement card if you have it.",
     },
     {
       question: "¿Me quedan puntos o cicatriz?",
@@ -368,9 +368,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Un PSA alto significa cáncer?",
-      answer: "No necesariamente. Sube con la edad, la inflamación y el crecimiento benigno de la próstata. El equipo médico lo interpreta según tu edad y valores anteriores, y si hace falta te refiere al urólogo.",
+      answer: "No necesariamente. Sube con la edad, la inflamación y el crecimiento benigno de la próstata. El equipo médico lo interpreta según tu edad y valores anteriores, y te explica el siguiente paso.",
       questionEn: "Does a high PSA mean cancer?",
-      answerEn: "Not necessarily. It rises with age, inflammation and benign prostate enlargement. The medical team interprets it based on your age and previous values, and refers you to a urologist if needed.",
+      answerEn: "Not necessarily. It rises with age, inflammation and benign prostate enlargement. The medical team interprets it based on your age and previous values, and explains the next step.",
     },
     {
       question: "¿Cuánto cuestan los exámenes del hombre?",

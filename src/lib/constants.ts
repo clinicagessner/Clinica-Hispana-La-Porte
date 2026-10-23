@@ -849,7 +849,7 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
 
 El papanicolaou detecta cambios en el cuello del útero antes de que se conviertan en cáncer. Se recomienda a partir de los 21 años y hasta los 65, cada 3 años si el resultado es normal, o cada 5 años cuando se combina con la prueba de VPH después de los 30. Si nunca te lo has hecho o llevas años sin hacerlo, no pasa nada: lo importante es empezar hoy.
 
-La toma dura menos de 10 minutos. Para un resultado confiable, evita relaciones sexuales, duchas vaginales, óvulos y cremas durante las 48 horas previas, y procura no venir en los días de sangrado abundante. Te avisamos en cuanto llega el resultado; si sale alterado, te lo explicamos con calma y organizamos el seguimiento o la referencia a colposcopia.
+La toma dura menos de 10 minutos. Para un resultado confiable, evita relaciones sexuales, duchas vaginales, óvulos y cremas durante las 48 horas previas, y procura no venir en los días de sangrado abundante. Te avisamos en cuanto llega el resultado; si sale alterado, te lo explicamos con calma y organizamos el seguimiento.
 
 ## Infecciones vaginales: cultivo y tratamiento
 
@@ -878,7 +878,7 @@ Si buscas atención ginecológica en español en La Porte, TX, no necesitas cita
 
 A Pap smear detects changes in the cervix before they turn into cancer. It is recommended from age 21 to 65, every 3 years if the result is normal, or every 5 years when combined with HPV testing after 30. If you have never had one or it has been years, that is fine: what matters is starting today.
 
-The test takes less than 10 minutes. For a reliable result, avoid intercourse, douching, vaginal suppositories and creams for the 48 hours before, and try not to come on heavy bleeding days. We let you know as soon as the result arrives; if something is abnormal, we explain it calmly and arrange follow-up or a colposcopy referral.
+The test takes less than 10 minutes. For a reliable result, avoid intercourse, douching, vaginal suppositories and creams for the 48 hours before, and try not to come on heavy bleeding days. We let you know as soon as the result arrives; if something is abnormal, we explain it calmly and arrange follow-up.
 
 ## Vaginal infections: culture and treatment
 
@@ -956,7 +956,6 @@ Si la prueba es positiva, a partir de la sexta semana un [ultrasonido](/services
 - Calculamos las semanas de embarazo y la fecha probable de parto
 - Te explicamos lo básico para empezar bien: ácido fólico, vitaminas prenatales, qué alimentos y medicamentos evitar
 - Podemos hacer los [análisis de sangre](/services/examenes-sangre) iniciales: tipo de sangre y Rh, hemoglobina, glucosa y pruebas de infecciones
-- Te orientamos sobre las opciones de control prenatal en el área y te damos la referencia que necesites
 
 ## Si el resultado es negativo
 
@@ -984,7 +983,6 @@ If the test is positive, from the sixth week an [ultrasound](/en/services/ultras
 - We calculate how many weeks along you are and your due date
 - We explain the basics for a healthy start: folic acid, prenatal vitamins, which foods and medications to avoid
 - We can run the initial [blood work](/en/services/examenes-sangre): blood type and Rh, hemoglobin, glucose and infection screening
-- We guide you on prenatal-care options in the area and provide any referral you need
 
 ## If the result is negative
 
@@ -1161,7 +1159,7 @@ Todo el proceso toma entre 10 y 20 minutos. Si deseas un nuevo implante, te orie
 
 ## Si el implante no se palpa
 
-En pocos casos el implante queda más profundo y no se siente bajo la piel. Extraerlo a ciegas puede lesionar nervios o vasos, así que en esa situación no lo intentamos: te hacemos un [ultrasonido](/services/ultrasonido) para ubicarlo y, si está muy profundo, te referimos con un especialista. Trae la tarjeta o el registro de colocación si lo tienes: nos dice el tipo de implante y dónde se puso.
+En pocos casos el implante queda más profundo y no se siente bajo la piel. Extraerlo a ciegas puede lesionar nervios o vasos, así que en esa situación no lo intentamos: te hacemos un [ultrasonido](/services/ultrasonido) para ubicarlo y, si está muy profundo, te explicamos cómo se retira con seguridad. Trae la tarjeta o el registro de colocación si lo tienes: nos dice el tipo de implante y dónde se puso.
 
 ## Cuidados después
 
@@ -1194,7 +1192,7 @@ The whole process takes 10 to 20 minutes. If you want a new implant, we guide yo
 
 ## If the implant cannot be felt
 
-In a few cases the implant sits deeper and cannot be felt under the skin. Removing it blindly can injure nerves or blood vessels, so in that situation we do not attempt it: we do an [ultrasound](/en/services/ultrasonido) to locate it and, if it is very deep, refer you to a specialist. Bring the card or placement record if you have it: it tells us the type of implant and where it was placed.
+In a few cases the implant sits deeper and cannot be felt under the skin. Removing it blindly can injure nerves or blood vessels, so in that situation we do not attempt it: we do an [ultrasound](/en/services/ultrasonido) to locate it and, if it is very deep, explain how it can be removed safely. Bring the card or placement record if you have it: it tells us the type of implant and where it was placed.
 
 ## Aftercare
 
@@ -1256,7 +1254,7 @@ La testosterona baja gradualmente después de los 30, pero cuando cae por debajo
 
 ## Antígeno prostático (PSA)
 
-El PSA es una proteína de la próstata que sube con la edad, con la inflamación, con el crecimiento benigno y, en algunos casos, con el cáncer. Se recomienda hablar de la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Evita eyacular, andar en bicicleta y hacer ejercicio intenso 48 horas antes, porque elevan el resultado. Un PSA alto no significa cáncer: el equipo médico lo interpreta según tu edad, el tamaño de la próstata y los valores anteriores, y si hace falta te refiere al urólogo con todo documentado.
+El PSA es una proteína de la próstata que sube con la edad, con la inflamación, con el crecimiento benigno y, en algunos casos, con el cáncer. Se recomienda hablar de la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Evita eyacular, andar en bicicleta y hacer ejercicio intenso 48 horas antes, porque elevan el resultado. Un PSA alto no significa cáncer: el equipo médico lo interpreta según tu edad, el tamaño de la próstata y los valores anteriores, y te explica el siguiente paso.
 
 ## Síntomas urinarios
 
@@ -1281,7 +1279,7 @@ Testosterone declines gradually after 30, but when it drops below normal you get
 
 ## Prostate-specific antigen (PSA)
 
-PSA is a prostate protein that rises with age, with inflammation, with benign enlargement and, in some cases, with cancer. It is recommended to discuss the test from age 50, or from 45 if your father or brother had prostate cancer. Avoid ejaculation, cycling and intense exercise for 48 hours before, because they raise the result. A high PSA does not mean cancer: the medical team interprets it based on your age, prostate size and previous values, and if needed refers you to a urologist with everything documented.
+PSA is a prostate protein that rises with age, with inflammation, with benign enlargement and, in some cases, with cancer. It is recommended to discuss the test from age 50, or from 45 if your father or brother had prostate cancer. Avoid ejaculation, cycling and intense exercise for 48 hours before, because they raise the result. A high PSA does not mean cancer: the medical team interprets it based on your age, prostate size and previous values, and explains the next step.
 
 ## Urinary symptoms
 
@@ -2263,7 +2261,7 @@ El estudio dura entre 15 y 30 minutos. Se aplica un gel frío sobre la piel y se
 
 ## Ultrasonido de embarazo
 
-A partir de la sexta semana suele verse el saco gestacional y poco después el latido. Con la medición del embrión calculamos las semanas y la fecha probable de parto. Si acabas de hacerte una [prueba de embarazo](/services/prueba-embarazo) positiva, el ultrasonido es el siguiente paso para confirmar que todo va bien. También hacemos ultrasonidos de seguimiento durante el embarazo. Puedes venir acompañada y, si lo deseas, te entregamos imágenes impresas. El ultrasonido no sustituye el control prenatal completo; te orientamos para iniciarlo.
+A partir de la sexta semana suele verse el saco gestacional y poco después el latido. Con la medición del embrión calculamos las semanas y la fecha probable de parto. Si acabas de hacerte una [prueba de embarazo](/services/prueba-embarazo) positiva, el ultrasonido es el siguiente paso para confirmar que todo va bien. También hacemos ultrasonidos de seguimiento durante el embarazo. Puedes venir acompañada y, si lo deseas, te entregamos imágenes impresas. El ultrasonido no sustituye el control prenatal completo.
 
 ## Resultados en la misma visita
 
@@ -2294,7 +2292,7 @@ The exam takes 15 to 30 minutes. A cool gel is applied to the skin and the probe
 
 ## Pregnancy ultrasound
 
-From about the sixth week the gestational sac is usually visible, and the heartbeat shortly after. Measuring the embryo lets us calculate the weeks and the due date. If you just had a positive [pregnancy test](/en/services/prueba-embarazo), an ultrasound is the next step to confirm everything is going well. We also do follow-up ultrasounds during pregnancy. You are welcome to bring someone with you and, if you wish, we give you printed images. An ultrasound does not replace full prenatal care; we help you get it started.
+From about the sixth week the gestational sac is usually visible, and the heartbeat shortly after. Measuring the embryo lets us calculate the weeks and the due date. If you just had a positive [pregnancy test](/en/services/prueba-embarazo), an ultrasound is the next step to confirm everything is going well. We also do follow-up ultrasounds during pregnancy. You are welcome to bring someone with you and, if you wish, we give you printed images. An ultrasound does not replace full prenatal care.
 
 ## Results during the same visit
 
