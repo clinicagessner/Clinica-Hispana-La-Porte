@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 46 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 40 📨 ENVIADA 23/10/2026
+## Tanda 40 ✅ PEDIDA 24/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/walk-in  — cambiada 2026-10-03 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — desconocida · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · rastreada 2026-10-03 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/walk-in  — cambiada 2026-10-03 · desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — rastreada 2026-06-09 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — desconocida · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · rastreada 2026-10-03 · rastreada sin indexar · 0 impr.
 
 ## Tanda 42 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
 
