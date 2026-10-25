@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 98 URLs del sitemap indexadas · 69 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-25; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 29 de 98 URLs del sitemap indexadas · 69 sin indexar (30 desconocida · 28 descubierta sin indexar · 9 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-56 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+50 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 42 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
+## Tanda 42 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026
 
 - [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-10-23
@@ -34,6 +34,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-10-19 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-10-03 · desconocida · pedida 2026-10-11 · 0 impr.
+
+## Tanda 44
+
+- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — desconocida · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · rastreada 2026-10-13 · rastreada sin indexar · 0 impr.
 
