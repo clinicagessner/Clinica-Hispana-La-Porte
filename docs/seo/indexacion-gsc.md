@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 46 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 43 📨 ENVIADA 26/10/2026
+## Tanda 43 ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-23 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 18 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-10-20 · indexada · pedida 2026-10-20 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · desconocida · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-23 · rastreada 2026-10-18 · indexada · pedida 2026-10-18 · 18 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-10-20 · indexada · pedida 2026-10-20 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-04 · rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 
 ## Tanda 44
 
