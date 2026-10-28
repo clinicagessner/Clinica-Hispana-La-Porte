@@ -13,12 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 53 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 44 📨 ENVIADA 27/10/2026
-- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · rastreada 2026-10-13 · rastreada sin indexar · 0 impr.
+## Tanda 44 ✅ PEDIDA 28/10/2026
+- [x] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-13 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · rastreada 2026-10-13 · rastreada sin indexar · 0 impr.
 
 ## Historial (tandas pedidas)
 
