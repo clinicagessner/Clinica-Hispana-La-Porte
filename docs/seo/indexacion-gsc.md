@@ -6,19 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-28; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 40 de 100 URLs del sitemap indexadas · 60 sin indexar (30 desconocida · 22 descubierta sin indexar · 6 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-29; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 40 de 100 URLs del sitemap indexadas · 60 sin indexar (30 desconocida · 22 descubierta sin indexar · 6 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-58 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
+60 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
+Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
 <!-- /tandas:auto -->
-
-## Tanda 45 — cambios del 2026-10-28 (post del blog semanal + post corregido)  ✅ PEDIDA 28/10/2026
-
-- [x] https://www.clinicahispananslaporte.com/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
-- [x] https://www.clinicahispananslaporte.com/en/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
-- [x] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
-- [x] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
 
 ## Historial (tandas pedidas)
 
@@ -198,3 +192,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-13 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — descubierta sin indexar · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · rastreada 2026-10-13 · rastreada sin indexar · 0 impr.
+
+## Tanda 45 — cambios del 2026-10-28 (post del blog semanal + post corregido)  ✅ PEDIDA 28/10/2026
+
+- [x] https://www.clinicahispananslaporte.com/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/en/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
