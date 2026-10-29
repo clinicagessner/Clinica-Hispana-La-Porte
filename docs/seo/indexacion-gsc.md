@@ -13,12 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 58 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 45 — cambios del 2026-10-28 (post del blog semanal + post corregido)  📨 ENVIADA 28/10/2026
+## Tanda 45 — cambios del 2026-10-28 (post del blog semanal + post corregido)  ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
-- [ ] https://www.clinicahispananslaporte.com/en/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
-- [ ] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
-- [ ] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/en/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
+- [x] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28
 
 ## Historial (tandas pedidas)
 
