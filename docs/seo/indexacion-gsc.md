@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 50 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
-## Tanda 46  📨 ENVIADA 30/10/2026
+## Tanda 46  ✅ PEDIDA 30/10/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-07-30 · rastreada sin indexar · pedida 2026-10-16 · 1 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-07-30 · rastreada sin indexar · pedida 2026-10-16 · 1 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
 
 ## Historial (tandas pedidas)
 
