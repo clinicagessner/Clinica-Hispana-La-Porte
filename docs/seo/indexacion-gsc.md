@@ -13,18 +13,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-03).
 <!-- /tandas:auto -->
 
-## Tanda 47
+## Tanda 49 — cambios del 2026-11-02 (reintento: Google dio error al pedirla el 02/11)
 
-- [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/vacunas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — rastreada 2026-10-04 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-10-19 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-11-02
 
 ## Tanda 48
 
@@ -228,3 +219,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+
+## Tanda 47  ✅ PEDIDA 02/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/vacunas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — rastreada 2026-10-04 · rastreada sin indexar · 2 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-10-19 · 0 impr.
