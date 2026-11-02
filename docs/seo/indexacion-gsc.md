@@ -13,7 +13,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-03).
 <!-- /tandas:auto -->
 
-## Tanda 47  📨 ENVIADA 02/11/2026
+## Tanda 47
 
 - [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-18 · 0 impr.
