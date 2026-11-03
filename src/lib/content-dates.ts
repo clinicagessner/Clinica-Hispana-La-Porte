@@ -19,7 +19,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "enfermedades-transmision-sexual": FARMACIA_CLINICA,
   ultrasonido: B1_RED,
   "sueros-vitaminados": "2026-11-02", // suero solo de vitamina B12 (orden de red)
-  ginecologia: B1_RED,
+  ginecologia: "2026-11-02", // anuncios = referencia
   "prueba-embarazo": B1_RED,
   anticonceptivos: B1_RED,
   "condiciones-cronicas": FARMACIA_CLINICA,
@@ -36,7 +36,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "unas-encarnadas": B3_TANDAS,
   farmacia: FARMACIA_CLINICA,
   tiroides: B1_RED,
-  "salud-hombre": B1_RED,
+  "salud-hombre": "2026-11-02", // anuncios = referencia
   "infecciones-urinarias": FARMACIA_CLINICA,
   "examen-alcohol-drogas": B3_TANDAS,
   "examenes-inmigracion": B1_RED,

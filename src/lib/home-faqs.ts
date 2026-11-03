@@ -75,4 +75,10 @@ export const HOME_FAQS: ServiceFaq[] = [
     answerEn:
       "Yes. A USCIS-designated civil surgeon performs it, including the vaccines the form requires, and we hand you the sealed envelope as soon as the file is complete.",
   },
+  {
+    question: "¿Qué tipo de centro de salud es Nueva Salud La Porte?",
+    answer: "Una clínica abierta para hispanos y un centro de salud de atención médica familiar: un doctor hispano cerca de ti, atención médica confiable y una consulta médica rápida y eficaz, sin cita. La consulta médica inicial es gratis; los análisis de sangre y otros exámenes se pagan aparte. Tu salud es nuestra prioridad: agenda tu visita hoy, visítanos o llámanos.",
+    questionEn: "What kind of health center is Nueva Salud La Porte?",
+    answerEn: "A clinic open to Hispanics and a family health center: a Hispanic doctor near you, reliable medical care and a quick, effective visit, no appointment needed. The initial medical visit is free; blood work and other tests are paid separately. Your health is our priority: book your visit today, come by or call us.",
+  },
 ];

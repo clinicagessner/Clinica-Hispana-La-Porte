@@ -232,6 +232,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "Do I need an appointment or insurance for a gynecology visit?",
       answerEn: "No. We see walk-ins Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, and no health insurance is needed. If you prefer, call us to reserve a time and ask about the price.",
     },
+    {
+      question: "¿Puedo salir con la inyección anticonceptiva puesta el mismo día de la consulta?",
+      answer: "Sí, la inyección anticonceptiva se aplica en el consultorio de La Porte. Antes revisamos tu presión y, si hace falta, una prueba de embarazo. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.",
+      questionEn: "Can I leave with the birth control shot on the day of my visit?",
+      answerEn: "Yes, the birth control shot is given in the La Porte exam room. First we check your blood pressure and, when needed, a pregnancy test. The initial consultation is free; tests and treatment are paid separately.",
+    },
   ],
   "prueba-embarazo": [
     {
@@ -383,6 +389,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí. La consulta es privada y el equipo médico evalúa causas como testosterona baja, diabetes, presión alta o medicamentos, y te indica tratamiento. Nadie más se entera.",
       questionEn: "Can I talk about erectile dysfunction during the visit?",
       answerEn: "Yes. The visit is private and the medical team evaluates causes such as low testosterone, diabetes, high blood pressure or medications, and recommends treatment. No one else finds out.",
+    },
+    {
+      question: "¿La consulta de urología cuesta y atienden la vejiga hiperactiva?",
+      answer: "La consulta inicial es gratis y los exámenes se pagan aparte, al mejor precio. En la consulta de urología vemos la vejiga hiperactiva, el chorro débil y otros problemas urológicos, con examen de orina en la clínica; lo que se receta lo compras en nuestra farmacia al salir.",
+      questionEn: "Does the urology visit cost anything, and do you treat overactive bladder?",
+      answerEn: "The initial consultation is free and tests are paid separately, at the best price. At the urology visit we cover overactive bladder, a weak stream and other urological problems, with a urine test at the clinic; anything prescribed you can buy at our pharmacy on the way out.",
     },
   ],
   "examenes-sangre": [
