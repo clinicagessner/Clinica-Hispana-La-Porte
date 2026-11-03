@@ -862,21 +862,21 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Sirve el suero para la resaca o cruda?",
-      answer: "Sí. Rehidrata rápido y, si hace falta, incluimos medicamento para las náuseas y el dolor de cabeza. La mayoría de las personas se sienten mejor al terminar la sesión.",
+      answer: "Sí. Rehidrata rápido, y la mayoría de las personas se sienten mejor al terminar la sesión.",
       questionEn: "Does a drip help with a hangover?",
-      answerEn: "Yes. It rehydrates quickly and, if needed, we include medication for nausea and headache. Most people feel better by the end of the session.",
+      answerEn: "Yes. It rehydrates quickly, and most people feel better by the end of the session.",
     },
     {
       question: "¿Puedo ponerme un suero si estoy embarazada o tengo problemas de riñón?",
-      answer: "Debes comentarlo antes. El equipo médico evalúa tu caso y decide si es seguro y qué componentes usar; en insuficiencia renal o cardíaca puede no ser recomendable.",
+      answer: "Debes comentarlo antes. El equipo médico evalúa tu caso y decide si es seguro; en insuficiencia renal o cardíaca puede no ser recomendable.",
       questionEn: "Can I get a drip if I am pregnant or have kidney problems?",
-      answerEn: "You must mention it first. The medical team evaluates your case and decides whether it is safe and which ingredients to use; with kidney or heart failure it may not be advisable.",
+      answerEn: "You must mention it first. The medical team evaluates your case and decides whether it is safe; with kidney or heart failure it may not be advisable.",
     },
     {
       question: "¿Necesito cita y cuánto cuesta?",
-      answer: "No necesitas cita ni seguro. El precio es fijo según el suero; llámanos para confirmarlo. Atendemos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.",
+      answer: "No necesitas cita ni seguro. El precio es fijo; llámanos para confirmarlo. Atendemos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM.",
       questionEn: "Do I need an appointment and how much does it cost?",
-      answerEn: "No appointment or insurance needed. The price is flat depending on the drip; call us to confirm it. We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM.",
+      answerEn: "No appointment or insurance needed. The price is flat; call us to confirm it. We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM.",
     },
   ],
   "suturas-heridas": [

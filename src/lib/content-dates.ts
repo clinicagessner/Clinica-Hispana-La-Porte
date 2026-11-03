@@ -18,7 +18,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "prueba-tuberculosis": B1_RED,
   "enfermedades-transmision-sexual": FARMACIA_CLINICA,
   ultrasonido: B1_RED,
-  "sueros-vitaminados": B1_RED,
+  "sueros-vitaminados": "2026-11-02", // suero solo de vitamina B12 (orden de red)
   ginecologia: B1_RED,
   "prueba-embarazo": B1_RED,
   anticonceptivos: B1_RED,

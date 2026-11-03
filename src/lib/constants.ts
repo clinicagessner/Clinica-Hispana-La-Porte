@@ -2665,40 +2665,40 @@ No health insurance or appointment needed. Our medical center is at ${CONTACT_IN
     title: "Sueros Vitaminados (Terapia IV)",
     titleEn: "Vitamin IV Therapy",
     shortDescription:
-      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+      "Suero de vitamina B12 por vía intravenosa, aplicado por personal médico.",
     shortDescriptionEn:
-      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+      "Intravenous vitamin B12 drip, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en La Porte, TX. Hidratación y vitaminas en español, con precios accesibles.",
+      "Sueros vitaminados (terapia IV) en La Porte, TX: suero de vitamina B12 por vía intravenosa, en español y con precios accesibles.",
     descriptionEn:
-      "Vitamin IV therapy in La Porte, TX. Hydration and vitamins in Spanish, with affordable pricing.",
+      "Vitamin IV therapy in La Porte, TX: a vitamin B12 IV drip, in Spanish and with affordable pricing.",
     keywords: [
       "sueros vitaminados la porte",
       "terapia iv la porte",
       "suero de vitaminas la porte",
-      "hidratacion intravenosa la porte",
+      "suero de vitamina b12 la porte",
     ],
     keywordsEn: [
       "vitamin iv therapy la porte",
       "iv drip la porte",
-      "iv hydration la porte",
+      "vitamin b12 iv la porte",
       "vitamin drip la porte",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación médica previa",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Medical evaluation first",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados, también llamados terapia IV, llevan líquidos, vitaminas y minerales directamente a la sangre, así que el cuerpo los aprovecha de inmediato en lugar de perder parte en la digestión. En Clínica Hispana Nueva Salud La Porte los aplica personal médico después de revisar tu presión y tu historial, en un cubículo cómodo y sin cita.
+    longDescription: `El suero vitaminado, también llamado terapia IV, lleva vitamina B12 directamente a la sangre, así que el cuerpo la aprovecha de inmediato en lugar de perder parte en la digestión. En Clínica Hispana Nueva Salud La Porte lo aplica personal médico después de revisar tu presión y tu historial, en un cubículo cómodo y sin cita.
 
-## Para qué se usan
+## Para qué se usa
 
 - Deshidratación por vómito, diarrea o golpe de calor, algo frecuente en los veranos de La Porte para quienes trabajan al aire libre, en plantas o en la construcción
 - Cansancio acumulado por jornadas largas o turnos rotativos
@@ -2706,11 +2706,11 @@ No health insurance or appointment needed. Our medical center is at ${CONTACT_IN
 - Malestar por resaca o cruda
 - Refuerzo durante la temporada de gripe
 - Dolores de cabeza relacionados con deshidratación
-- Niveles bajos de vitamina B12 u otras vitaminas, como explicamos en nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-beneficios-inyecciones-laporte)
+- Niveles bajos de vitamina B12, como explicamos en nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-beneficios-inyecciones-laporte)
 
-## Qué contienen
+## Qué contiene
 
-La base es una solución salina que rehidrata. Sobre ella el equipo médico ajusta los componentes según tu caso: complejo B para energía, vitamina B12, vitamina C, magnesio y zinc. Si tienes náuseas, se puede agregar medicamento para controlarlas. No usamos fórmulas genéricas iguales para todos: lo que va en tu suero depende de lo que necesitas.
+La base es una solución salina que rehidrata, con vitamina B12. Es lo único que se agrega al suero; el equipo médico confirma en la evaluación si es adecuado para ti.
 
 ## Cómo es la sesión
 
@@ -2723,18 +2723,18 @@ Durante la infusión es normal sentir un poco de frío en el brazo o un sabor me
 
 ## Quién debe consultarlo antes
 
-Las personas con insuficiencia renal, insuficiencia cardíaca o alergias a alguna vitamina deben evaluarse con el equipo médico antes de recibir un suero, y las mujeres embarazadas deben comentarlo. Por eso la evaluación previa es parte del servicio. El suero es un apoyo, no un sustituto de una alimentación adecuada ni del tratamiento de una enfermedad.
+Las personas con insuficiencia renal, insuficiencia cardíaca o alergia a la vitamina B12 deben evaluarse con el equipo médico antes de recibir un suero, y las mujeres embarazadas deben comentarlo. Por eso la evaluación previa es parte del servicio. El suero es un apoyo, no un sustituto de una alimentación adecuada ni del tratamiento de una enfermedad.
 
 ## ¿Prefieres una inyección?
 
-Si solo necesitas vitamina B12, la inyección intramuscular es rápida y económica. Pregunta por nuestra promoción de [examen general de sangre más inyección de B12 por $99](/promociones), ideal para saber primero cómo están tus niveles.
+Si prefieres no recibir un suero, la inyección intramuscular de vitamina B12 es rápida y económica. Pregunta por nuestra promoción de [examen general de sangre más inyección de B12 por $99](/promociones), ideal para saber primero cómo están tus niveles.
 
 ## Sueros vitaminados en La Porte, sin cita
 
 Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. No necesitas seguro médico; el precio es fijo y te lo confirmamos por teléfono. Atendemos a pacientes de La Porte, Deer Park, Pasadena y comunidades cercanas del área de Houston.`,
-    longDescriptionEn: `Vitamin drips, also called IV therapy, deliver fluids, vitamins and minerals straight into your bloodstream, so your body uses them right away instead of losing part of them in digestion. At Clínica Hispana Nueva Salud La Porte they are administered by medical staff after checking your blood pressure and history, in a comfortable bay and with no appointment.
+    longDescriptionEn: `The vitamin drip, also called IV therapy, delivers vitamin B12 straight into your bloodstream, so your body uses it right away instead of losing part of it in digestion. At Clínica Hispana Nueva Salud La Porte it is administered by medical staff after checking your blood pressure and history, in a comfortable bay and with no appointment.
 
-## What they are used for
+## What it is used for
 
 - Dehydration from vomiting, diarrhea or heat exhaustion, common in La Porte summers for people who work outdoors, in plants or in construction
 - Built-up fatigue from long days or rotating shifts
@@ -2742,11 +2742,11 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 - Hangover relief
 - A boost during flu season
 - Headaches linked to dehydration
-- Low vitamin B12 or other vitamin levels, as we explain in our [vitamin B12 guide](/en/blog/vitamina-b12-beneficios-inyecciones-laporte)
+- Low vitamin B12 levels, as we explain in our [vitamin B12 guide](/en/blog/vitamina-b12-beneficios-inyecciones-laporte)
 
-## What is in them
+## What is in it
 
-The base is a saline solution that rehydrates. On top of it the medical team adjusts the ingredients to your case: B-complex for energy, vitamin B12, vitamin C, magnesium and zinc. If you feel nauseous, anti-nausea medication can be added. We do not use one generic formula for everyone: what goes in your drip depends on what you need.
+The base is a saline solution that rehydrates, with vitamin B12. That is the only thing added to the drip; the medical team confirms during the evaluation whether it is right for you.
 
 ## What the session is like
 
@@ -2759,11 +2759,11 @@ During the infusion it is normal to feel a little coolness in the arm or a brief
 
 ## Who should check first
 
-People with kidney failure, heart failure or allergies to any vitamin should be evaluated by the medical team before receiving a drip, and pregnant women should mention it. That is why the pre-evaluation is part of the service. A drip is a support, not a substitute for proper nutrition or for treating an illness.
+People with kidney failure, heart failure or an allergy to vitamin B12 should be evaluated by the medical team before receiving a drip, and pregnant women should mention it. That is why the pre-evaluation is part of the service. A drip is a support, not a substitute for proper nutrition or for treating an illness.
 
 ## Prefer a shot?
 
-If you only need vitamin B12, an intramuscular injection is quick and inexpensive. Ask about our [complete blood panel plus B12 shot for $99](/en/promociones), a good way to check your levels first.
+If you would rather not get a drip, an intramuscular vitamin B12 shot is quick and inexpensive. Ask about our [complete blood panel plus B12 shot for $99](/en/promociones), a good way to check your levels first.
 
 ## Vitamin IV drips in La Porte, no appointment needed
 
