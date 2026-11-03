@@ -10,7 +10,7 @@ Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chn
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-51 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
+48 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
 ## Tanda 49 — cambios del 2026-11-02 (reintento: Google dio error al pedirla el 02/11)
@@ -24,7 +24,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services  — cambiada 2026-11-02
 - [ ] https://www.clinicahispananslaporte.com/en/services  — cambiada 2026-11-02
 
-## Tanda 51
+## Tanda 52 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+
+- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-02
+
+## Tanda 53
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-10-20 · 5 impr.
 
