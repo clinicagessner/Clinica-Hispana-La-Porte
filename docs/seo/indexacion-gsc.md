@@ -6,20 +6,27 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-02; URL Inspection API, datos de hoy 2026-11-02):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (31 desconocida · 20 descubierta sin indexar · 5 rastreada sin indexar).
+**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (31 desconocida · 20 descubierta sin indexar · 5 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-03).
+51 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
 ## Tanda 49 — cambios del 2026-11-02 (reintento: Google dio error al pedirla el 02/11)
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-11-02
 
-## Tanda 48
+## Tanda 50 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/services  — cambiada 2026-11-02
+- [ ] https://www.clinicahispananslaporte.com/en/services  — cambiada 2026-11-02
+
+## Tanda 51
+
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-10-20 · 5 impr.
 
 ## Historial (tandas pedidas)
 
