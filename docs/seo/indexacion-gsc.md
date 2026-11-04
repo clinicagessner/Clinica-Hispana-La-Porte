@@ -6,33 +6,24 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (31 desconocida · 20 descubierta sin indexar · 5 rastreada sin indexar).
+**Estado (actualizado 2026-11-04; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (31 desconocida · 20 descubierta sin indexar · 5 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-48 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
+48 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-05).
 <!-- /tandas:auto -->
 
-## Tanda 49 — cambios del 2026-11-02 (reintento: Google dio error al pedirla el 02/11)  ✅ PEDIDA 03/11/2026
-
-- [x] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/services  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/en/services  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-02
-- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-02
-
-## Tanda 52 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+## Tanda 52 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026
 
 - [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-02
-
-## Tanda 53
-
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-10-20 · 5 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-10-15 · desconocida · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · desconocida · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-15 · desconocida · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-21 · 0 impr.
 
 ## Historial (tandas pedidas)
 
@@ -244,3 +235,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-10-03 · desconocida · pedida 2026-10-19 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — rastreada 2026-10-04 · rastreada sin indexar · 2 impr.
 - [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-10-19 · 0 impr.
+
+## Tanda 49 — cambios del 2026-11-02 (reintento: Google dio error al pedirla el 02/11)  ✅ PEDIDA 03/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/services  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/en/services  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-02
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-02
