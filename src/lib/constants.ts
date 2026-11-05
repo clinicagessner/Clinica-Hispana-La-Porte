@@ -630,13 +630,13 @@ Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONT
     ],
     features: [
       "Prueba rápida de flu y COVID",
-      "Diagnóstico el mismo día",
+      "Diagnóstico en la consulta",
       "Tratamiento de gripe, tos y bronquitis",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "Rapid flu and COVID testing",
-      "Same-day diagnosis",
+      "Diagnosis during your visit",
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
@@ -3391,7 +3391,7 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 
 ## How it works
 
-1. The clinic's doctor examines you and prescribes your treatment during the visit.
+1. The clinic's medical team examines you and prescribes your treatment during the visit.
 2. When you finish, you go to the pharmacy in the same building.
 3. You buy your medications and the staff goes over each one with you: what it is for, how many times a day, with or without food and for how many days. All in your language, and in writing on the label so you do not forget at home.
 
