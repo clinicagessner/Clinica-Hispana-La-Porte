@@ -30,6 +30,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-21 · 0 impr.
 
+## Tanda 54 — cambios del 2026-11-05 (landings de Ads: título y meta con el servicio del anuncio)
+
+- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-05
+
 ## Historial (tandas pedidas)
 
 ## Tanda 1  ✅ PEDIDA 05/10/2026
