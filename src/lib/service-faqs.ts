@@ -114,17 +114,17 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito cita o seguro para la consulta de alergias?",
-      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; la consulta tiene precio fijo y lo que te receta nuestro médico lo compras en nuestra farmacia en la clínica.",
+      answer: "No. Ven sin cita de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 7 PM. No necesitas seguro; la consulta tiene precio fijo y lo que te receta nuestro equipo médico lo compras en nuestra farmacia en la clínica.",
       questionEn: "Do I need an appointment or insurance for an allergy visit?",
-      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the visit has a flat price and you buy what our doctor prescribes at our on-site pharmacy.",
+      answerEn: "No. Walk in Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 7 PM. No insurance needed; the visit has a flat price and you buy what our medical team prescribes at our on-site pharmacy.",
     },
   ],
   "enfermedades-respiratorias": [
     {
       question: "¿Hacen prueba de flu y de COVID el mismo día?",
-      answer: "Sí. Con un solo hisopado nasal tienes el resultado de influenza A y B y de COVID-19 en unos 15 minutos, y el tratamiento sale en la misma visita.",
+      answer: "Sí. Con un solo hisopado nasal tienes el resultado de influenza A y B y de COVID-19 en pocos minutos, y el tratamiento sale en la misma visita.",
       questionEn: "Do you test for flu and COVID the same day?",
-      answerEn: "Yes. With a single nasal swab you get the result for influenza A and B and COVID-19 in about 15 minutes, and treatment is started during the same visit.",
+      answerEn: "Yes. With a single nasal swab you get the result for influenza A and B and COVID-19 within minutes, and treatment is started during the same visit.",
     },
     {
       question: "¿Cuándo debo hacerme la prueba?",
@@ -160,9 +160,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "examen-fisico-escolar": [
     {
       question: "¿Llenan el formulario de la escuela, el equipo o el trabajo?",
-      answer: "Sí. Trae el formulario de tu escuela, equipo deportivo o empleador y lo completamos durante la visita, el mismo día.",
+      answer: "Sí. Trae el formulario de tu escuela, equipo deportivo o empleador y lo completamos durante la visita.",
       questionEn: "Do you fill out the school, team or employer form?",
-      answerEn: "Yes. Bring your school, sports-team or employer form and we complete it during the visit, the same day.",
+      answerEn: "Yes. Bring your school, sports-team or employer form and we complete it during the visit.",
     },
     {
       question: "¿Hacen exámenes físicos para adultos?",
@@ -514,9 +514,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "prueba-strep": [
     {
       question: "¿Cuánto tarda el resultado del strep test?",
-      answer: "Unos 10 minutos. Si sale positivo, sales con el antibiótico en la misma visita. Si sale negativo pero los síntomas son muy claros, podemos enviar un cultivo que confirma en 24 a 48 horas.",
+      answer: "Pocos minutos, en la misma consulta. Si sale positivo, sales con el antibiótico en la misma visita. Si sale negativo pero los síntomas son muy claros, podemos enviar un cultivo para confirmarlo.",
       questionEn: "How long does the strep test take?",
-      answerEn: "About 10 minutes. If it is positive, you leave with the antibiotic during the same visit. If it is negative but symptoms are very clear, we can send a culture that confirms in 24 to 48 hours.",
+      answerEn: "Just a few minutes, during the same visit. If it is positive, you leave with the antibiotic during the same visit. If it is negative but symptoms are very clear, we can send a culture to confirm it.",
     },
     {
       question: "¿Cómo sé si mi dolor de garganta es estreptococo o un virus?",
@@ -634,9 +634,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿En cuánto tiempo tengo el resultado?",
-      answer: "La prueba rápida da resultado en 10 a 15 minutos. Si sale positiva o tu empresa exige confirmación certificada, la muestra va al laboratorio y el resultado tarda 2 a 4 días.",
+      answer: "La prueba rápida da resultado en pocos minutos. Si sale positiva o tu empresa exige confirmación certificada, la muestra va al laboratorio y el resultado tarda unos días.",
       questionEn: "How soon do I get the result?",
-      answerEn: "The rapid test gives a result in 10 to 15 minutes. If it is positive or your company requires certified confirmation, the sample goes to the lab and the result takes 2 to 4 days.",
+      answerEn: "The rapid test gives a result within minutes. If it is positive or your company requires certified confirmation, the sample goes to the lab and the result takes a few days.",
     },
     {
       question: "¿Qué drogas detecta la prueba?",
@@ -1084,15 +1084,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "farmacia": [
     {
       question: "¿Compro mis medicamentos en la clínica?",
-      answer: "Sí. Tenemos farmacia en la clínica: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro médico, con la explicación de cómo tomarlos.",
+      answer: "Sí. Tenemos farmacia en la clínica: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro equipo médico, con la explicación de cómo tomarlos.",
       questionEn: "Can I buy my medications at the clinic?",
-      answerEn: "Yes. We have an on-site pharmacy: when your visit ends you buy the medicines our doctor prescribed right here, with an explanation of how to take them.",
+      answerEn: "Yes. We have an on-site pharmacy: when your visit ends you buy the medicines our medical team prescribed right here, with an explanation of how to take them.",
     },
     {
       question: "¿Atienden recetas de otros médicos?",
-      answer: "No. La farmacia vende solo los medicamentos que receta el médico de la clínica en tu consulta. Si traes una receta de otro lugar, te ofrecemos una consulta aquí para valorar tu caso.",
+      answer: "No. La farmacia vende solo los medicamentos que receta el equipo médico de la clínica en tu consulta. Si traes una receta de otro lugar, te ofrecemos una consulta aquí para valorar tu caso.",
       questionEn: "Do you take prescriptions from other doctors?",
-      answerEn: "No. The pharmacy only sells the medications prescribed by the clinic's doctor during your visit. If you bring a prescription from elsewhere, we offer you a visit here to assess your case.",
+      answerEn: "No. The pharmacy only sells the medications prescribed by the clinic's medical team during your visit. If you bring a prescription from elsewhere, we offer you a visit here to assess your case.",
     },
     {
       question: "¿Cuánto cuestan los medicamentos sin seguro?",
@@ -1102,9 +1102,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cómo sigo con mi medicamento de diabetes o presión?",
-      answer: "En tus controles: el médico de la clínica revisa cómo vas, ajusta la dosis si hace falta y compras en la farmacia los medicamentos de ese periodo.",
+      answer: "En tus controles: el equipo médico de la clínica revisa cómo vas, ajusta la dosis si hace falta y compras en la farmacia los medicamentos de ese periodo.",
       questionEn: "How do I continue my diabetes or blood pressure medication?",
-      answerEn: "Through your follow-up visits: the clinic's doctor checks how you are doing, adjusts the dose if needed and you buy that period's medications at the pharmacy.",
+      answerEn: "Through your follow-up visits: the clinic's medical team checks how you are doing, adjusts the dose if needed and you buy that period's medications at the pharmacy.",
     },
     {
       question: "¿Cuál es el horario de la farmacia?",

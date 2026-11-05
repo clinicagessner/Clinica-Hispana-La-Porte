@@ -352,7 +352,7 @@ El perfil de lípidos mide colesterol total, LDL (el que tapa las arterias), HDL
 
 - [Análisis de sangre](/services/examenes-sangre) en la clínica: glucosa, A1C, lípidos, función renal y hepática, con resultados rápidos
 - Revisión de [tiroides](/services/tiroides) cuando el peso o el colesterol no se explican de otra forma
-- Lo que te receta nuestro médico lo compras al salir en nuestra [farmacia en la clínica](/services/farmacia), con opciones económicas
+- Lo que te receta nuestro equipo médico lo compras al salir en nuestra [farmacia en la clínica](/services/farmacia), con opciones económicas
 - Plan de alimentación adaptado a la comida que realmente comes en casa, no una dieta genérica
 - Copia de tus resultados para llevar un registro y compararlo en cada visita
 
@@ -381,7 +381,7 @@ The lipid panel measures total cholesterol, LDL (the kind that clogs arteries), 
 
 - [Blood work](/en/services/examenes-sangre) in the clinic: glucose, A1C, lipids, kidney and liver function, with fast results
 - [Thyroid](/en/services/tiroides) testing when weight or cholesterol cannot be explained otherwise
-- The medicines our doctor prescribes, which you buy on your way out at our [on-site pharmacy](/en/services/farmacia), with low-cost options
+- The medicines our medical team prescribes, which you buy on your way out at our [on-site pharmacy](/en/services/farmacia), with low-cost options
 - A meal plan adapted to the food you actually eat at home, not a generic diet
 - A copy of your results so you can keep a record and compare at each visit
 
@@ -507,13 +507,13 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
     keywords: [
       "alergias la porte",
       "tratamiento de alergias la porte",
-      "doctor de alergias español la porte",
+      "clínica de alergias en español la porte",
       "examen de alergias la porte",
     ],
     keywordsEn: [
       "allergy treatment la porte",
       "allergy testing la porte",
-      "allergy doctor la porte",
+      "allergy care la porte",
       "allergy clinic la porte",
     ],
     features: [
@@ -549,7 +549,7 @@ La mayoría de las alergias se identifican con una buena historia clínica: en q
 - Gotas para los ojos con comezón
 - Inhaladores cuando hay tos o silbidos en el pecho
 - Cremas y antihistamínicos para la piel; en crisis intensas, una inyección que alivia en minutos
-- Lo que te receta nuestro médico lo compras al terminar en nuestra [farmacia en la clínica](/services/farmacia)
+- Lo que te receta nuestro equipo médico lo compras al terminar en nuestra [farmacia en la clínica](/services/farmacia)
 
 Te explicamos cuáles son de uso diario en temporada y cuáles solo cuando hay síntomas, para que no gastes en medicamentos que no necesitas.
 
@@ -585,7 +585,7 @@ Most allergies are identified with a good history: what time of year they get wo
 - Eye drops for itchy eyes
 - Inhalers when there is cough or wheezing
 - Creams and antihistamines for the skin; for severe flare-ups, an injection that brings relief in minutes
-- What our doctor prescribes you can buy after the visit at our [on-site pharmacy](/en/services/farmacia)
+- What our medical team prescribes you can buy after the visit at our [on-site pharmacy](/en/services/farmacia)
 
 We explain which ones to use daily during the season and which only when symptoms appear, so you do not spend on medication you do not need.
 
@@ -644,7 +644,7 @@ Find our medical center at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONT
 
 ## Pruebas rápidas de flu y COVID
 
-Con un hisopado nasal obtenemos el resultado de influenza A y B y de COVID-19 en unos 15 minutos. Lo ideal es hacerte la prueba en los primeros 2 a 3 días de síntomas, cuando es más precisa y cuando los antivirales todavía funcionan. Si tu empleador o la escuela de tus hijos pide constancia del resultado, te la entregamos por escrito.
+Con un hisopado nasal obtenemos el resultado de influenza A y B y de COVID-19 en pocos minutos. Lo ideal es hacerte la prueba en los primeros 2 a 3 días de síntomas, cuando es más precisa y cuando los antivirales todavía funcionan. Si tu empleador o la escuela de tus hijos pide constancia del resultado, te la entregamos por escrito.
 
 Si el dolor de garganta es lo principal, con fiebre y sin tos, agregamos la [prueba de estreptococo](/services/prueba-strep) para saber si necesitas antibiótico.
 
@@ -678,7 +678,7 @@ Nuestro centro médico está en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, $
 
 ## Rapid flu and COVID tests
 
-A nasal swab gives us the result for influenza A and B and for COVID-19 in about 15 minutes. The best time to test is within the first 2 to 3 days of symptoms, when the test is most accurate and antivirals still work. If your employer or your children's school needs proof of the result, we give it to you in writing.
+A nasal swab gives us the result for influenza A and B and for COVID-19 within minutes. The best time to test is within the first 2 to 3 days of symptoms, when the test is most accurate and antivirals still work. If your employer or your children's school needs proof of the result, we give it to you in writing.
 
 If a sore throat is the main symptom, with fever and no cough, we add a [strep test](/en/services/prueba-strep) to find out whether you need an antibiotic.
 
@@ -768,7 +768,7 @@ Cumple los requisitos de inscripción escolar y la evaluación para practicar de
 
 ## Examen físico para adultos y para el trabajo
 
-Si tu empleador te pide un chequeo médico o un formulario de aptitud, lo completamos el mismo día. Si tu trabajo también requiere prueba de drogas, revisa nuestro [examen de alcohol y drogas](/services/examen-alcohol-drogas). Los conductores comerciales necesitan el [examen físico DOT](/services/examen-dot), que es un examen certificado aparte.
+Si tu empleador te pide un chequeo médico o un formulario de aptitud, lo completamos durante la visita. Si tu trabajo también requiere prueba de drogas, revisa nuestro [examen de alcohol y drogas](/services/examen-alcohol-drogas). Los conductores comerciales necesitan el [examen físico DOT](/services/examen-dot), que es un examen certificado aparte.
 
 ## Chequeo anual con laboratorio
 
@@ -1498,7 +1498,7 @@ Ardor o dolor al orinar, ganas de ir al baño cada rato aunque salga poco, urgen
 ## Qué hacemos en la visita
 
 1. Recoges una muestra de orina en la clínica; te explicamos cómo tomarla del chorro medio para que no se contamine
-2. Hacemos el **examen general de orina** con tira reactiva y microscopio, con resultado en 15 minutos: leucocitos, nitritos, sangre, proteínas y glucosa
+2. Hacemos el **examen general de orina** con tira reactiva y microscopio, con resultado en pocos minutos: leucocitos, nitritos, sangre, proteínas y glucosa
 3. Si la infección se repite, no mejora con antibiótico o eres hombre, enviamos un **urocultivo** que identifica la bacteria y el antibiótico exacto al que responde, en 2 a 3 días
 4. El equipo médico revisa tus síntomas y tu historial, y si hay infección inicias el antibiótico el mismo día, disponible en nuestra [farmacia](/services/farmacia)
 
@@ -1528,7 +1528,7 @@ Burning or pain when urinating, needing to go all the time even if little comes 
 ## What we do during the visit
 
 1. You provide a urine sample at the clinic; we explain how to collect it midstream so it is not contaminated
-2. We run the **urinalysis** with a test strip and microscope, with results in 15 minutes: white cells, nitrites, blood, protein and glucose
+2. We run the **urinalysis** with a test strip and microscope, with results within minutes: white cells, nitrites, blood, protein and glucose
 3. If the infection is recurrent, does not improve with antibiotics or you are a man, we send a **urine culture** that identifies the bacterium and the exact antibiotic it responds to, in 2 to 3 days
 4. The medical team reviews your symptoms and history, and if there is an infection you start the antibiotic the same day, available at our [pharmacy](/en/services/farmacia)
 
@@ -1697,7 +1697,7 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Un dolor de garganta que aparece de golpe, con fiebre y sin tos, puede ser estreptococo, y esa sí necesita antibiótico. En Clínica Hispana Nueva Salud La Porte hacemos la prueba rápida en la misma visita, te damos el resultado en 10 minutos y, si sale positiva, sales con el tratamiento. Sin cita, en español y también los fines de semana.
+    longDescription: `Un dolor de garganta que aparece de golpe, con fiebre y sin tos, puede ser estreptococo, y esa sí necesita antibiótico. En Clínica Hispana Nueva Salud La Porte hacemos la prueba rápida en la misma visita, te damos el resultado en pocos minutos y, si sale positiva, sales con el tratamiento. Sin cita, en español y también los fines de semana.
 
 ## Cómo saber si puede ser estreptococo
 
@@ -1715,7 +1715,7 @@ Si tu síntoma principal es tos, congestión o dolor de cuerpo, lo más probable
 
 ## Cómo es la prueba
 
-Pasamos un hisopo por el fondo de la garganta y las amígdalas durante unos segundos. Es incómodo pero no duele, y en niños lo hacemos rápido y con calma. El resultado de la prueba rápida está en unos 10 minutos. Si sale negativa pero los síntomas son muy sugestivos, sobre todo en niños, podemos enviar un cultivo de garganta que confirma en 24 a 48 horas, porque la prueba rápida a veces no detecta casos leves.
+Pasamos un hisopo por el fondo de la garganta y las amígdalas durante unos segundos. Es incómodo pero no duele, y en niños lo hacemos rápido y con calma. El resultado de la prueba rápida sale en pocos minutos. Si sale negativa pero los síntomas son muy sugestivos, sobre todo en niños, podemos enviar un cultivo de garganta para confirmarlo, porque la prueba rápida a veces no detecta casos leves.
 
 ## Tratamiento
 
@@ -1734,7 +1734,7 @@ Te entregamos el resultado por escrito y un justificante con los días de reposo
 ## Prueba de estreptococo en La Porte, sin cita
 
 Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, abiertos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Cuando el niño amanece con la garganta cerrada un domingo, aquí lo atendemos sin pasar por urgencias. No necesitas seguro médico; la consulta y la prueba tienen precio fijo. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `A sore throat that comes on suddenly, with fever and no cough, may be strep, and that one does need an antibiotic. At Clínica Hispana Nueva Salud La Porte we run the rapid test during the same visit, give you the result in 10 minutes and, if it is positive, you leave with treatment. No appointment, in Spanish or English, and on weekends too.
+    longDescriptionEn: `A sore throat that comes on suddenly, with fever and no cough, may be strep, and that one does need an antibiotic. At Clínica Hispana Nueva Salud La Porte we run the rapid test during the same visit, give you the result within minutes and, if it is positive, you leave with treatment. No appointment, in Spanish or English, and on weekends too.
 
 ## How to tell if it might be strep
 
@@ -1752,7 +1752,7 @@ If your main symptom is cough, congestion or body aches, a virus is more likely,
 
 ## What the test is like
 
-We run a swab across the back of the throat and tonsils for a few seconds. It is uncomfortable but not painful, and with children we do it quickly and calmly. The rapid test result is ready in about 10 minutes. If it is negative but symptoms strongly suggest strep, especially in children, we can send a throat culture that confirms in 24 to 48 hours, because the rapid test sometimes misses mild cases.
+We run a swab across the back of the throat and tonsils for a few seconds. It is uncomfortable but not painful, and with children we do it quickly and calmly. The rapid test result is ready within minutes. If it is negative but symptoms strongly suggest strep, especially in children, we can send a throat culture to confirm it, because the rapid test sometimes misses mild cases.
 
 ## Treatment
 
@@ -2044,8 +2044,8 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
 - **Panel de 5 drogas:** marihuana (THC), cocaína, anfetaminas y metanfetaminas, opiáceos y PCP; es el panel básico que piden la mayoría de los empleadores
 - **Panel de 10 drogas:** agrega benzodiacepinas, barbitúricos, metadona, propoxifeno y otros opioides sintéticos; común en plantas, puerto, transporte y construcción
 - **Prueba de alcohol:** en aliento o en orina (etilglucurónido, que detecta consumo de hasta 3 días)
-- **Prueba rápida:** resultado preliminar en la clínica en 10 a 15 minutos
-- **Confirmación de laboratorio:** cuando la prueba rápida sale positiva o tu empleador exige confirmación certificada, la muestra se envía al laboratorio y el resultado tarda 2 a 4 días
+- **Prueba rápida:** resultado preliminar en la clínica en pocos minutos
+- **Confirmación de laboratorio:** cuando la prueba rápida sale positiva o tu empleador exige confirmación certificada, la muestra se envía al laboratorio y el resultado tarda unos días
 
 Dinos qué panel pide tu empresa; si traes el formulario o la orden del empleador, seguimos exactamente lo que indica.
 
@@ -2087,8 +2087,8 @@ Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_IN
 - **5-panel drug test:** marijuana (THC), cocaine, amphetamines and methamphetamines, opiates and PCP; the basic panel most employers request
 - **10-panel drug test:** adds benzodiazepines, barbiturates, methadone, propoxyphene and other synthetic opioids; common at plants, the port, transportation and construction
 - **Alcohol test:** breath or urine (ethyl glucuronide, which detects use within the last 3 days)
-- **Rapid test:** preliminary result at the clinic in 10 to 15 minutes
-- **Lab confirmation:** when the rapid test is positive or your employer requires certified confirmation, the sample is sent to the lab and the result takes 2 to 4 days
+- **Rapid test:** preliminary result at the clinic within minutes
+- **Lab confirmation:** when the rapid test is positive or your employer requires certified confirmation, the sample is sent to the lab and the result takes a few days
 
 Tell us which panel your company requires; if you bring the employer's form or order, we follow exactly what it says.
 
@@ -3331,13 +3331,13 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
     title: "Farmacia",
     titleEn: "Pharmacy",
     shortDescription:
-      "Al salir de tu consulta, compras aquí lo que te recetó nuestro médico.",
+      "Al salir de tu consulta, compras aquí lo que te recetó nuestro equipo médico.",
     shortDescriptionEn:
-      "Buy what our doctor prescribed right here when your visit ends.",
+      "Buy what our medical team prescribed right here when your visit ends.",
     description:
-      "Farmacia en la clínica en La Porte, TX: terminas tu consulta y compras aquí mismo los medicamentos que te recetó nuestro médico, sin otra parada.",
+      "Farmacia en la clínica en La Porte, TX: terminas tu consulta y compras aquí mismo los medicamentos que te recetó nuestro equipo médico, sin otra parada.",
     descriptionEn:
-      "On-site pharmacy in La Porte, TX: when your visit ends, you buy the medicines our doctor prescribed right here, with no extra stop on the way home.",
+      "On-site pharmacy in La Porte, TX: when your visit ends, you buy the medicines our medical team prescribed right here, with no extra stop on the way home.",
     keywords: [
       "farmacia en la porte",
       "farmacia hispana la porte",
@@ -3352,21 +3352,21 @@ Our medical center is at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTAC
     ],
     features: [
       "Farmacia dentro del mismo local de la clínica",
-      "Compras lo que te recetó nuestro médico al terminar",
+      "Compras lo que te recetó nuestro equipo médico al terminar",
       "Medicamentos de marca y genéricos",
       "Explicación de cada medicamento en español",
     ],
     featuresEn: [
       "Pharmacy inside the clinic building",
-      "Buy what our doctor prescribed as soon as you finish",
+      "Buy what our medical team prescribed as soon as you finish",
       "Brand-name and generic medications",
       "Each medication explained in Spanish",
     ],
-    longDescription: `Cuando terminas la consulta ya te sientes mal, es tarde o vienes con niños; lo último que quieres es manejar a otro lado y hacer fila. Por eso Clínica Hispana Nueva Salud La Porte tiene farmacia en la clínica: al salir del consultorio compras aquí mismo los medicamentos que te recetó nuestro médico y te vas a casa con el tratamiento listo.
+    longDescription: `Cuando terminas la consulta ya te sientes mal, es tarde o vienes con niños; lo último que quieres es manejar a otro lado y hacer fila. Por eso Clínica Hispana Nueva Salud La Porte tiene farmacia en la clínica: al salir del consultorio compras aquí mismo los medicamentos que te recetó nuestro equipo médico y te vas a casa con el tratamiento listo.
 
 ## Cómo funciona
 
-1. El médico de la clínica te revisa y te receta el tratamiento en tu consulta.
+1. El equipo médico de la clínica te revisa y te receta el tratamiento en tu consulta.
 2. Al terminar pasas a la farmacia, que está en el mismo local.
 3. Compras tus medicamentos y el personal revisa contigo cada uno: para qué es, cuántas veces al día, con o sin comida y cuántos días. Todo en español, y por escrito en la etiqueta para que no se te olvide en casa.
 
@@ -3374,7 +3374,7 @@ Si tomas otros medicamentos, dilo en la consulta para revisar que no haya intera
 
 ## Tratamientos continuos
 
-Para diabetes, presión o tiroides, en cada control el médico de la clínica revisa cómo vas, ajusta la dosis si hace falta y compras en la farmacia los medicamentos de ese periodo.
+Para diabetes, presión o tiroides, en cada control el equipo médico de la clínica revisa cómo vas, ajusta la dosis si hace falta y compras en la farmacia los medicamentos de ese periodo.
 
 ## Precios sin seguro
 
@@ -3382,12 +3382,12 @@ Hay opciones genéricas, que tienen el mismo principio activo que la marca. Te d
 
 ## Solo recetas de la clínica
 
-La farmacia vende únicamente los medicamentos que receta el médico de la clínica en tu consulta. No atiende recetas de otros médicos ni de otras clínicas: si traes una, te ofrecemos una consulta aquí para valorar tu caso.
+La farmacia vende únicamente los medicamentos que receta el equipo médico de la clínica en tu consulta. No atiende recetas de otros médicos ni de otras clínicas: si traes una, te ofrecemos una consulta aquí para valorar tu caso.
 
 ## Farmacia en la clínica, en La Porte
 
 Te esperamos en nuestro centro médico, en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sobre Spencer Hwy, con el mismo horario de la clínica: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Atendemos a familias de La Porte, Deer Park, Pasadena, Shoreacres, Morgan's Point y el área de Houston.`,
-    longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive somewhere else and wait in line. That is why Clínica Hispana Nueva Salud La Porte has an on-site pharmacy: when you leave the exam room, you buy the medicines our doctor prescribed right here and head home with your treatment ready.
+    longDescriptionEn: `By the time you finish your visit you already feel sick, it is late or you have the kids with you; the last thing you want is to drive somewhere else and wait in line. That is why Clínica Hispana Nueva Salud La Porte has an on-site pharmacy: when you leave the exam room, you buy the medicines our medical team prescribed right here and head home with your treatment ready.
 
 ## How it works
 
@@ -3399,7 +3399,7 @@ If you take other medications, mention them during the visit so we can check for
 
 ## Ongoing treatments
 
-For diabetes, blood pressure or thyroid, at each follow-up the clinic's doctor checks how you are doing, adjusts the dose if needed and you buy that period's medications at the pharmacy.
+For diabetes, blood pressure or thyroid, at each follow-up the clinic's medical team checks how you are doing, adjusts the dose if needed and you buy that period's medications at the pharmacy.
 
 ## Self-pay prices
 
@@ -3407,7 +3407,7 @@ Generic options are available, with the same active ingredient as the brand. We 
 
 ## Clinic prescriptions only
 
-The pharmacy only sells the medications prescribed by the clinic's doctor during your visit. It does not take prescriptions from other doctors or other clinics: if you bring one, we offer you a visit here to assess your case.
+The pharmacy only sells the medications prescribed by the clinic's medical team during your visit. It does not take prescriptions from other doctors or other clinics: if you bring one, we offer you a visit here to assess your case.
 
 ## On-site pharmacy in La Porte
 
