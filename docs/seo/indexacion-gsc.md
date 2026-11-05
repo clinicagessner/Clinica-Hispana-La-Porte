@@ -24,9 +24,21 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-05
 - [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-05
 
+## Tanda 56 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos))
+
+- [ ] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-11-05
+
 ## Tanda 55
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-10-03 · desconocida · pedida 2026-10-22 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-22 · 0 impr.
