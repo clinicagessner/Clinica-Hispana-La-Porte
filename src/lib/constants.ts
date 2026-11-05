@@ -820,13 +820,13 @@ We look forward to seeing you at our medical center, at ${CONTACT_INFO.address},
     descriptionEn:
       "Gynecology care in La Porte, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
     keywords: [
-      "ginecologo la porte español",
+      "clinica para la mujer la porte",
       "papanicolaou la porte",
       "cultivo vaginal la porte",
       "infeccion vaginal tratamiento la porte",
     ],
     keywordsEn: [
-      "gynecologist la porte spanish",
+      "women's clinic la porte spanish",
       "pap smear la porte",
       "vaginal culture la porte",
       "vaginal infection treatment la porte",

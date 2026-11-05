@@ -66,13 +66,22 @@ export function buildSocial({
 }
 
 /**
- * <title> y meta de servicios que no son landing de Google Ads, cuando el H1 (`title`) no
- * sirve como título de búsqueda. El H1 y el texto de la página no cambian (análisis 2026-10-19).
+ * <title> y meta de servicios cuando el H1 (`title`) no sirve como título de búsqueda. El H1 y el
+ * texto de la página no cambian (análisis 2026-10-19). Ginecología y salud del hombre son landings
+ * de Google Ads: su título nombra el servicio como el anuncio (regla Ads = referencia, 2026-11-05).
  */
 export const SERVICE_META: Record<
   string,
   Partial<Record<Locale, { title?: string; description?: string }>>
 > = {
+  ginecologia: {
+    es: { title: "Clínica para la Mujer y Ginecología en La Porte, TX", description: "Clínica para la mujer en La Porte, TX: papanicolaou, cultivos, ultrasonido e inyección anticonceptiva en un mismo lugar. Consulta inicial gratis." },
+    en: { title: "Women's Clinic & Gynecology Care in La Porte, TX", description: "Women's clinic in La Porte, TX: Pap smear, cultures, ultrasound and the birth control shot in one place. Free initial consultation, care in Spanish." },
+  },
+  "salud-hombre": {
+    es: { title: "Urología y Salud del Hombre en La Porte, TX", description: "Urología y salud del hombre en La Porte, TX: PSA, examen de orina, vejiga hiperactiva y chequeo hormonal, en español. Consulta inicial gratis." },
+    en: { title: "Urology & Men's Health in La Porte, TX", description: "Urology and men's health in La Porte, TX: PSA, urine test, overactive bladder and hormone checkup, in Spanish. Free initial consultation." },
+  },
   "examenes-sangre": {
     es: { title: "Análisis de Sangre sin Cita en La Porte, TX | Laboratorio", description: "Exámenes y análisis de sangre sin cita en La Porte, TX: biometría, química, glucosa, colesterol y tiroides. Muestra en la clínica, resultados en español." },
     en: { title: "Walk-In Blood Tests in La Porte, TX | Lab Work", description: "Walk-in blood tests in La Porte, TX: CBC, chemistry, glucose, cholesterol and thyroid. Sample drawn at the clinic, results explained in your language." },
