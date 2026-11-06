@@ -392,9 +392,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿La consulta de urología cuesta y atienden la vejiga hiperactiva?",
-      answer: "La consulta inicial es gratis y los exámenes se pagan aparte, al mejor precio. En la consulta de urología vemos la vejiga hiperactiva, el chorro débil y otros problemas urológicos, con examen de orina en la clínica; lo que se receta lo compras en nuestra farmacia al salir.",
+      answer: "La consulta inicial es gratis y los exámenes se pagan aparte, a precios accesibles. En la consulta de urología vemos la vejiga hiperactiva, el chorro débil y otros problemas urológicos, con examen de orina en la clínica; lo que se receta lo compras en nuestra farmacia al salir.",
       questionEn: "Does the urology visit cost anything, and do you treat overactive bladder?",
-      answerEn: "The initial consultation is free and tests are paid separately, at the best price. At the urology visit we cover overactive bladder, a weak stream and other urological problems, with a urine test at the clinic; anything prescribed you can buy at our pharmacy on the way out.",
+      answerEn: "The initial consultation is free and tests are paid separately, at affordable prices. At the urology visit we cover overactive bladder, a weak stream and other urological problems, with a urine test at the clinic; anything prescribed you can buy at our pharmacy on the way out.",
     },
   ],
   "examenes-sangre": [

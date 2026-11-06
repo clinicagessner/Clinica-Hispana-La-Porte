@@ -873,7 +873,7 @@ Te atendemos en un consultorio privado, con puerta cerrada, y el equipo médico 
 
 ## Clínica para la mujer sobre Spencer Hwy
 
-En La Porte somos clínica para la mujer y clínica hispana de ginecología a la vez: consulta ginecológica, papanicolaou y ultrasonido se hacen en un mismo lugar, sin mandarte a otra dirección. ¿Te interesa la inyección anticonceptiva? Se aplica en el consultorio, y si prefieres otra anticoncepción hormonal, como la pastilla, también la revisamos contigo. Aquí te atendemos en un espacio cómodo, seguro y confidencial, con el mejor equipo hispano en Houston para tu bienestar, ahora en La Porte. Agenda tu cita hoy.
+En La Porte somos clínica para la mujer y clínica hispana de ginecología a la vez: consulta ginecológica, papanicolaou y ultrasonido se hacen en un mismo lugar, sin mandarte a otra dirección. ¿Te interesa la inyección anticonceptiva? Se aplica en el consultorio, y si prefieres otra anticoncepción hormonal, como la pastilla, también la revisamos contigo. Aquí te atendemos en un espacio cómodo, seguro y confidencial, con nuestro equipo médico en Houston para tu bienestar, ahora en La Porte. Agenda tu cita hoy.
 
 ## Ginecología en una clínica hispana cerca de ti
 
@@ -906,7 +906,7 @@ You are seen in a private exam room with the door closed, and the medical team e
 
 ## A women's clinic on Spencer Hwy
 
-In La Porte we are a women's clinic and a Hispanic gynecology clinic at once: the gynecology visit, Pap smear and ultrasound all happen in one place, without sending you to another address. Interested in the birth control shot? It is given in the exam room, and if you prefer another hormonal method, like the pill, we go over it with you too. Here you are seen in a comfortable, safe and confidential space, by the best Hispanic team in Houston for your well-being, now in La Porte. Book your appointment today.
+In La Porte we are a women's clinic and a Hispanic gynecology clinic at once: the gynecology visit, Pap smear and ultrasound all happen in one place, without sending you to another address. Interested in the birth control shot? It is given in the exam room, and if you prefer another hormonal method, like the pill, we go over it with you too. Here you are seen in a comfortable, safe and confidential space, by our medical team in Houston for your well-being, now in La Porte. Book your appointment today.
 
 ## Gynecology at a Hispanic clinic near you
 
@@ -1282,7 +1282,7 @@ Ven entre 9 y 10 de la mañana con 8 horas de ayuno si quieres hacer todo en una
 
 ## Servicio de urología en La Porte, TX
 
-Además del chequeo del hombre, aquí tienes consulta de urología en español, para quien busca atención urológica cerca de mí que hablen español. En el examen de urología revisamos problemas urológicos como el chorro débil, el ardor o la vejiga hiperactiva, cuyo tratamiento se indica en la misma consulta y los medicamentos los compras al salir en nuestra [farmacia](/services/farmacia). Es atención médica confiable: consulta general + exámenes al mejor precio, la consulta inicial gratis y servicios médicos accesibles y en español. Sin seguro, sin problema. Agenda tu cita o llámanos ahora.
+Además del chequeo del hombre, aquí tienes consulta de urología en español, para quien busca atención urológica cerca de mí que hablen español. En el examen de urología revisamos problemas urológicos como el chorro débil, el ardor o la vejiga hiperactiva, cuyo tratamiento se indica en la misma consulta y los medicamentos los compras al salir en nuestra [farmacia](/services/farmacia). Es atención médica confiable: consulta general + exámenes a precios accesibles, la consulta inicial gratis y servicios médicos accesibles y en español. Sin seguro, sin problema. Agenda tu cita o llámanos ahora.
 
 ## Exámenes del hombre en La Porte, sin cita
 
@@ -1311,7 +1311,7 @@ Come between 9 and 10 in the morning after 8 hours of fasting if you want everyt
 
 ## Urology services in La Porte, TX
 
-Beyond the men's checkup, here you get urology visits in Spanish, for anyone looking for urology care nearby from people who speak Spanish. At the urology exam we look at urological problems such as a weak stream, burning or an overactive bladder, whose treatment is set at the same visit, and you buy the medicines on your way out at our [pharmacy](/en/services/farmacia). It is reliable medical care: a general visit plus tests at the best price, a free initial consultation and affordable medical services in Spanish. No insurance, no problem. Book your appointment or call us now.
+Beyond the men's checkup, here you get urology visits in Spanish, for anyone looking for urology care nearby from people who speak Spanish. At the urology exam we look at urological problems such as a weak stream, burning or an overactive bladder, whose treatment is set at the same visit, and you buy the medicines on your way out at our [pharmacy](/en/services/farmacia). It is reliable medical care: a general visit plus tests at affordable prices, a free initial consultation and affordable medical services in Spanish. No insurance, no problem. Book your appointment or call us now.
 
 ## Men's health exams in La Porte, no appointment needed
 
