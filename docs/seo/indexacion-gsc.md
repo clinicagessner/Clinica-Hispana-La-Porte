@@ -37,7 +37,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05
 - [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-11-05
 
-## Tanda 59
+## Tanda 57
 
 - [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
