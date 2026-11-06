@@ -17,18 +17,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-21 · 0 impr.
 
-## Tanda 54 — cambios del 2026-11-05 (landings de Ads: título y meta con el servicio del anuncio; ginecología y salud-hombre cambiadas otra vez el 2026-11-06: sin superlativos)  📨 ENVIADA 06/11/2026
+## Tanda 54 — cambios del 2026-11-05 (landings de Ads: título y meta con el servicio del anuncio; ginecología y salud-hombre cambiadas otra vez el 2026-11-06: sin superlativos)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-06
+- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-06
+- [x] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
 
 ## Tanda 56 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos))
 
