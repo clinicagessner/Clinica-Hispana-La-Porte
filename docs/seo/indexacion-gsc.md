@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 36 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos)) (+ Tanda 53 y 5 de la Tanda 57)  📨 ENVIADA 07/11/2026
+## Tanda 56 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos)) (+ Tanda 53 y 5 de la Tanda 57)  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-11-05
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-10-30 · 0 impr.
 
 ## Tanda 57
 
