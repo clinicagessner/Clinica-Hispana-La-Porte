@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 43 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
 <!-- /tandas:auto -->
 
-## Tanda 57  📨 ENVIADA 08/11/2026
+## Tanda 57  📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-24 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · pedida 2026-10-24 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-24 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-24 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · pedida 2026-10-24 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-24 · 0 impr.
 
 ## Tanda 58
 
