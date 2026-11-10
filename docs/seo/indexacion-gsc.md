@@ -6,22 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 47 de 102 URLs del sitemap indexadas · 55 sin indexar (32 desconocida · 19 descubierta sin indexar · 4 rastreada sin indexar).
+**Estado (actualizado 2026-11-10; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 47 de 102 URLs del sitemap indexadas · 55 sin indexar (32 desconocida · 19 descubierta sin indexar · 4 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-48 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
+55 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
+Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
 <!-- /tandas:auto -->
-
-## Tanda 58  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
-
-- [x] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · pedida 2026-10-26 · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-26 · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-10-26 · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-24 · 0 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-24 · 0 impr.
 
 ## Historial (tandas pedidas)
 
@@ -298,3 +289,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-22 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-24 · 0 impr.
+
+## Tanda 58  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · pedida 2026-10-26 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-26 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-10-26 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-24 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · pedida 2026-10-24 · 0 impr.
