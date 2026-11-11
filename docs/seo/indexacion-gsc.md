@@ -6,13 +6,18 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-10; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 47 de 102 URLs del sitemap indexadas · 55 sin indexar (32 desconocida · 19 descubierta sin indexar · 4 rastreada sin indexar).
+**Estado (actualizado 2026-11-11; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 47 de 102 URLs del sitemap indexadas · 55 sin indexar (32 desconocida · 19 descubierta sin indexar · 4 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-55 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
-Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
+52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
+
+## Tanda 59  📨 ENVIADA 11/11/2026
+
+- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-28 · 0 impr.
 
 ## Historial (tandas pedidas)
 
