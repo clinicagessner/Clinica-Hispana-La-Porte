@@ -13,13 +13,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
 
-## Tanda 59  📨 ENVIADA 11/11/2026
+## Tanda 59  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/blog/cortadas-trabajo-herramientas-puntos-tetano-la-porte  — cambiada 2026-11-11 (post del blog semanal)
-- [ ] https://www.clinicahispananslaporte.com/en/blog/cortadas-trabajo-herramientas-puntos-tetano-la-porte  — cambiada 2026-11-11 (post del blog semanal)
-- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-28 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/blog/cortadas-trabajo-herramientas-puntos-tetano-la-porte  — cambiada 2026-11-11 (post del blog semanal)
+- [x] https://www.clinicahispananslaporte.com/en/blog/cortadas-trabajo-herramientas-puntos-tetano-la-porte  — cambiada 2026-11-11 (post del blog semanal)
+- [x] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-28 · 0 impr.
 
 ## Historial (tandas pedidas)
 
