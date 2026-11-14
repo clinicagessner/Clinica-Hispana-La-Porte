@@ -33,7 +33,7 @@ const postalAddress = {
 export const CLINIC_ID = `${SITE_CONFIG.baseUrl}/#clinic`;
 
 // Solo perfiles reales de la clínica (los mismos que enlaza el sitio).
-const SAME_AS = [SOCIAL_LINKS.facebook, SOCIAL_LINKS.instagram];
+const SAME_AS = [SOCIAL_LINKS.facebook, SOCIAL_LINKS.instagram, SOCIAL_LINKS.youtube];
 
 // Valores de la enumeración MedicalSpecialty de schema.org.
 const MEDICAL_SPECIALTY = [
