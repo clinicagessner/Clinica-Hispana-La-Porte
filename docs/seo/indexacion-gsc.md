@@ -13,10 +13,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 57 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
 
-## Tanda 60 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026
+## Tanda 61 — cambios del 2026-11-15 (error de GSC al pedirlas el 14/11: repetir)
 
-- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-15
+
+## Tanda 60 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Historial (tandas pedidas)
 
