@@ -16,6 +16,10 @@ Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios
 
 ## Historial (tandas pedidas)
 
+## Tanda 60 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinicahispananslaporte.com/es  — cambiada 2026-11-14
+
 ## Tanda 1  ✅ PEDIDA 05/10/2026
 
 - [x] https://www.clinicahispananslaporte.com/walk-in  — cambiada 2026-10-03 · rastreada 2026-09-23 · indexada · 183 impr.
