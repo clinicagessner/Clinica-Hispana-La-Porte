@@ -6,21 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-14; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 47 de 104 URLs del sitemap indexadas · 57 sin indexar (32 desconocida · 19 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-15; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 47 de 104 URLs del sitemap indexadas · 57 sin indexar (32 desconocida · 19 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 2 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 57 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
+Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
 <!-- /tandas:auto -->
-
-## Tanda 61 — cambios del 2026-11-15 (error de GSC al pedirlas el 14/11: repetir)  ✅ PEDIDA 14/11/2026
-
-- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-15
-
-## Tanda 60 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
-
-- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Historial (tandas pedidas)
 
@@ -315,3 +307,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-10-28 · 0 impr.
+
+## Tanda 60 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+
+## Tanda 61 — cambios del 2026-11-15 (error de GSC al pedirlas el 14/11: repetir)  ✅ PEDIDA 14/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-15
