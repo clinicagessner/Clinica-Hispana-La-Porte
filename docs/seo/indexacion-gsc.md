@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 62  📨 ENVIADA 18/11/2026
 
+- [ ] https://www.clinicahispananslaporte.com/blog/sangrado-abundante-entre-reglas-cuando-consultar-la-porte  — cambiada 2026-11-18 (post del blog semanal)
+- [ ] https://www.clinicahispananslaporte.com/en/blog/sangrado-abundante-entre-reglas-cuando-consultar-la-porte  — cambiada 2026-11-18 (post del blog semanal)
 - [ ] https://www.clinicahispananslaporte.com/services/curacion-heridas  — cambiada 2026-10-15 · desconocida · pedida 2026-11-02 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-11-02 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/suturas-heridas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
@@ -23,11 +25,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · desconocida · pedida 2026-11-02 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
 
 ## Tanda 63
 
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-11-04 · 5 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · pedida 2026-11-04 · 0 impr.
