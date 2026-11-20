@@ -13,9 +13,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 39 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
-## Tanda 64 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)
+## Tanda 64 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)  ✅ PEDIDA 20/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-21
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-21
 
 ## Tanda 62  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
