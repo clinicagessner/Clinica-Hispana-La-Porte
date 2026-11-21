@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 30 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-22).
 <!-- /tandas:auto -->
 
-## Tanda 65  📨 ENVIADA 21/11/2026
+## Tanda 65  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-06 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-06 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/condiciones-cronicas  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/enfermedades-respiratorias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-alcohol-drogas  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/examen-fisico-escolar  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/farmacia  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-06 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-06 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
 
 ## Tanda 66
 
