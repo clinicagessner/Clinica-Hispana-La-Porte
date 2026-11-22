@@ -77,8 +77,8 @@ export const HOME_FAQS: ServiceFaq[] = [
   },
   {
     question: "¿Qué tipo de centro de salud es Nueva Salud La Porte?",
-    answer: "Una clínica abierta para hispanos y un centro de salud de atención médica familiar: un doctor hispano cerca de ti, atención médica confiable y una consulta médica rápida y eficaz, sin cita. La consulta médica inicial es gratis; los análisis de sangre y otros exámenes se pagan aparte. Tu salud es nuestra prioridad: agenda tu visita hoy, visítanos o llámanos.",
+    answer: "Nueva Salud La Porte es una clínica latina abierta para hispanos que funciona como centro de salud de atención médica familiar: un doctor hispano cerca de ti que puede quedarse como tu médico primario, atención médica confiable y una consulta médica rápida y eficaz. No necesita cita. Consulta médica gratis en la primera visita; los análisis de sangre y otros exámenes se pagan aparte. Tu salud es nuestra prioridad: programa tu cita hoy, agenda tu visita, visítanos o llámanos.",
     questionEn: "What kind of health center is Nueva Salud La Porte?",
-    answerEn: "A clinic open to Hispanics and a family health center: a Hispanic doctor near you, reliable medical care and a quick, effective visit, no appointment needed. The initial medical visit is free; blood work and other tests are paid separately. Your health is our priority: book your visit today, come by or call us.",
+    answerEn: "Nueva Salud La Porte is a Latino clinic open to Hispanics that works as a family health center: a Hispanic doctor near you who can stay on as your primary care doctor, reliable medical care and a quick, effective visit. No appointment needed. Free medical consultation on your first visit; blood work and other tests are paid separately. Your health is our priority: schedule your appointment today, book your visit, come by or call us.",
   },
 ];
