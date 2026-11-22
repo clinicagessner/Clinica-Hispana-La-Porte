@@ -1,5 +1,6 @@
 ---
 title: "Fatty liver: what an abdominal ultrasound can show"
+metaTitle: "What does fatty liver look like on an ultrasound?"
 description: "Liver enzymes came back high? What an abdominal ultrasound in La Porte can and can't tell you about fatty liver, plus everyday habits that help."
 date: "2026-10-21"
 updated: "2026-10-21"

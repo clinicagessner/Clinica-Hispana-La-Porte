@@ -1,6 +1,7 @@
 ---
 title: "Hígado graso: lo que muestra el ultrasonido abdominal"
-description: "¿Te salieron alteradas las enzimas del hígado? Qué puede mostrar un ultrasonido abdominal en La Porte, qué no puede medir y qué hábitos cuidan tu hígado."
+metaTitle: "¿Cómo se ve el hígado graso en un ultrasonido?"
+description: "En el ultrasonido, el hígado graso se ve más brillante de lo normal. Qué muestra el estudio en La Porte, qué no puede medir y qué hábitos cuidan tu hígado."
 date: "2026-10-21"
 updated: "2026-10-21"
 author: "Equipo Clínica Hispana Nueva Salud La Porte"
