@@ -80,6 +80,7 @@ export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicahispanaporte",
   instagram: "https://www.instagram.com/clinicanuevasaludporte",
   youtube: "https://www.youtube.com/@NuevaSaludLaPorte",
+  x: "https://x.com/NSLaPorte",
 } as const;
 
 // Fallback de build para rating/reseñas. La data en vivo la trae

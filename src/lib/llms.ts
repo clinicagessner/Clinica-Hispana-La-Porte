@@ -98,6 +98,7 @@ function contactBlock(locale: Locale, r: GooglePlaceData): string[] {
     `- Facebook: [facebook.com/clinicahispanaporte](${SOCIAL_LINKS.facebook})`,
     `- Instagram: [instagram.com/clinicanuevasaludporte](${SOCIAL_LINKS.instagram})`,
     `- YouTube: [youtube.com/@NuevaSaludLaPorte](${SOCIAL_LINKS.youtube})`,
+    `- X: [x.com/NSLaPorte](${SOCIAL_LINKS.x})`,
     "",
     ...t.facts(r).map((f) => `- ${f}`),
     "",
