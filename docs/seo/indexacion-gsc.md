@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 30 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-22).
 <!-- /tandas:auto -->
 
+## Tanda 68 — cambios del 2026-11-21 (enlace a X @NSLaPorte (pie, sameAs, llms))
+
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-21
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-21
+
 ## Tanda 65  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
 - [x] https://www.clinicahispananslaporte.com/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
