@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 19 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
-## Tanda 69 — cambios del 2026-11-22 (frases de los anuncios activos (análisis diario))  📨 ENVIADA 24/11/2026
+## Tanda 69 — cambios del 2026-11-22 (frases de los anuncios activos (análisis diario))  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
 
-- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
-- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
-- [ ] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-22
-- [ ] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-22
-- [ ] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-22
-- [ ] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-22
-- [ ] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
-- [ ] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-11-04 · 5 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05 · rastreada 2026-07-30 · rastreada sin indexar · pedida 2026-11-06 · 1 impr.
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
+- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
+- [x] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-11-04 · 5 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05 · rastreada 2026-07-30 · rastreada sin indexar · pedida 2026-11-06 · 1 impr.
 
 ## Tanda 70
 
