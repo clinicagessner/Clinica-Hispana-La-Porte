@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-23; URL Inspection API, datos de hoy 2026-11-23):** 51 de 106 URLs del sitemap indexadas · 55 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar).
+**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 51 de 106 URLs del sitemap indexadas · 55 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 31 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 19 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
-## Tanda 69 — cambios del 2026-11-22 (frases de los anuncios activos (análisis diario))  📨 ENVIADA 23/11/2026
+## Tanda 69 — cambios del 2026-11-22 (frases de los anuncios activos (análisis diario))  📨 ENVIADA 24/11/2026
 
 - [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
 - [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
