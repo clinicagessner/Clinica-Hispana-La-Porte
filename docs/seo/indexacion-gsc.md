@@ -6,41 +6,31 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 51 de 106 URLs del sitemap indexadas · 55 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar).
+**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 51 de 106 URLs del sitemap indexadas · 55 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 31 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 34 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-19 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
+21 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 69 — cambios del 2026-11-22 (frases de los anuncios activos (análisis diario))  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
-
-- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
-- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
-- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-22
-- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-22
-- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-22
-- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-22
-- [x] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
-- [x] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
-- [x] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-11-04 · 5 impr.
-- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05 · rastreada 2026-07-30 · rastreada sin indexar · pedida 2026-11-06 · 1 impr.
-
-## Tanda 70
+## Tanda 70  📨 ENVIADA 25/11/2026
 
 - [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · pedida 2026-11-09 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/electrocardiograma  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examen-heces  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-11-11 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-11 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · pedida 2026-11-04 · 0 impr.
 
 ## Tanda 71
 
+- [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/cirugias-menores  — cambiada 2026-10-03 · desconocida · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/condiciones-cronicas  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/curacion-heridas  — cambiada 2026-10-15 · desconocida · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/drenaje-abscesos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
@@ -48,12 +38,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
 
 ## Tanda 72
 
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
@@ -61,12 +51,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
 
 ## Tanda 73
 
+- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · pedida 2026-11-09 · 0 impr.
 
 ## Historial (tandas pedidas)
@@ -401,3 +391,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananslaporte.com/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 - [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-06 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
+
+## Tanda 69 — cambios del 2026-11-22 (frases de los anuncios activos (análisis diario))  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
+- [x] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-22 (y 2026-11-21: enlace a X)
+- [x] https://www.clinicahispananslaporte.com/services/ginecologia  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/en/services/ginecologia  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/services/salud-hombre  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/en/services/salud-hombre  — cambiada 2026-11-22
+- [x] https://www.clinicahispananslaporte.com/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
+- [x] https://www.clinicahispananslaporte.com/en/blog/higado-graso-ultrasonido-abdominal-la-porte  — cambiada 2026-11-22 (título de búsqueda)
+- [x] https://www.clinicahispananslaporte.com/en/services/examen-dot  — cambiada 2026-10-03 · rastreada 2026-07-29 · rastreada sin indexar · pedida 2026-11-04 · 5 impr.
+- [x] https://www.clinicahispananslaporte.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05 · rastreada 2026-07-30 · rastreada sin indexar · pedida 2026-11-06 · 1 impr.
