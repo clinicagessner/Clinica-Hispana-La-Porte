@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 70  📨 ENVIADA 25/11/2026
 
+- [ ] https://www.clinicahispananslaporte.com/blog/chequeo-sin-cita-hombres-que-trabajan-la-porte  — cambiada 2026-11-25 (post del blog semanal)
+- [ ] https://www.clinicahispananslaporte.com/en/blog/chequeo-sin-cita-hombres-que-trabajan-la-porte  — cambiada 2026-11-25 (post del blog semanal)
 - [ ] https://www.clinicahispananslaporte.com/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/cirugias-menores  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/drenaje-abscesos  — cambiada 2026-10-03 · desconocida · pedida 2026-11-09 · 0 impr.
@@ -23,8 +25,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-11-11 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/extraccion-implantes  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-11 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
+
+## Tanda 74 — cambios del 2026-11-25 (devueltas de la tanda 70 por el post del blog semanal)
+
+- [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-11-25
+- [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-11-25
 
 ## Tanda 71
 
