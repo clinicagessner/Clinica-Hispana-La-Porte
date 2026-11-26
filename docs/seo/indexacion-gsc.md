@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 51 de 106 URLs del sitemap indexadas · 55 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar).
+**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 51 de 108 URLs del sitemap indexadas · 57 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 34 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 24 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 21 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 70  📨 ENVIADA 25/11/2026
+## Tanda 70  📨 ENVIADA 26/11/2026
 
 - [ ] https://www.clinicahispananslaporte.com/blog/chequeo-sin-cita-hombres-que-trabajan-la-porte  — cambiada 2026-11-25 (post del blog semanal)
 - [ ] https://www.clinicahispananslaporte.com/en/blog/chequeo-sin-cita-hombres-que-trabajan-la-porte  — cambiada 2026-11-25 (post del blog semanal)
@@ -31,7 +31,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-11-25
 - [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-11-25
 
-## Tanda 71
+## Tanda 75
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/anticonceptivos  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
@@ -44,7 +44,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-11-08 · 0 impr.
 
-## Tanda 72
+## Tanda 76
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-11-03 · 0 impr.
@@ -57,7 +57,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · pedida 2026-11-08 · 0 impr.
 
-## Tanda 73
+## Tanda 77
 
 - [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-11-09 · 0 impr.
