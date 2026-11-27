@@ -70,10 +70,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Hacen el examen médico de inmigración I-693?",
     answer:
-      "Sí. Lo realiza un Civil Surgeon designado por USCIS, con las vacunas que pida el formulario, y te entregamos el sobre sellado en cuanto el expediente está completo.",
+      "Sí. Lo realiza un Civil Surgeon designado por USCIS, con las vacunas que pida el formulario, y te entregamos el sobre sellado en cuanto el expediente está completo. Aviso: este servicio está temporalmente pausado hasta nuevo aviso.",
     questionEn: "Do you do the I-693 immigration medical exam?",
     answerEn:
-      "Yes. A USCIS-designated civil surgeon performs it, including the vaccines the form requires, and we hand you the sealed envelope as soon as the file is complete.",
+      "Yes. A USCIS-designated civil surgeon performs it, including the vaccines the form requires, and we hand you the sealed envelope as soon as the file is complete. Notice: this service is temporarily paused until further notice.",
   },
   {
     question: "¿Qué tipo de centro de salud es Nueva Salud La Porte?",
