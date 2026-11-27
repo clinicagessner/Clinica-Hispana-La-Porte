@@ -6,14 +6,15 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananslaporte.com/`, cuenta **clinicaporte@chnuevasalud.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 51 de 108 URLs del sitemap indexadas · 57 sin indexar (28 descubierta sin indexar · 23 desconocida · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-10-02: antiguos (2026-10-02): --sin-fetch):** 9 de 108 URLs del sitemap indexadas · 99 sin indexar (62 sin datos · 26 descubierta sin indexar · 8 desconocida · 3 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 24 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 2 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 45 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-31 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
+35 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
 ## Tanda 74 — cambios del 2026-11-25 (devueltas de la tanda 70 por el post del blog semanal)  📨 ENVIADA 27/11/2026
+
 - [ ] https://www.clinicahispananslaporte.com/services/prueba-tuberculosis  — cambiada 2026-11-25
 - [ ] https://www.clinicahispananslaporte.com/services/ultrasonido  — cambiada 2026-11-25
 - [ ] https://www.clinicahispananslaporte.com/en/services/alergias  — cambiada 2026-11-05 · desconocida · pedida 2026-11-06 · 0 impr.
@@ -25,30 +26,78 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananslaporte.com/en/services/electrocardiograma  — cambiada 2026-10-03 · desconocida · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.clinicahispananslaporte.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
 
-## Tanda 75
+## Tanda 78 — cambios del 2026-11-27 (aviso I-693 pausado)
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05 · desconocida · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/en/blog/guia-examen-medico-inmigracion-i693-laporte  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/en/blog/medicos-autorizados-uscis-laporte-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/  — cambiada 2026-11-27
+- [ ] https://www.clinicahispananslaporte.com/en  — cambiada 2026-11-27
 
-## Tanda 76
+## Tanda 79
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-inmigracion  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-11-05 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · desconocida · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · desconocida · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/frentes-frios-alergia-resfriado-gripe-la-porte  — cambiada 2026-10-07 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/vitamina-b12-beneficios-inyecciones-laporte  — cambiada 2026-10-03 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog  — cambiada 2026-10-03 · desconocida · pedida 2026-10-05 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · rastreada 2026-06-09 · rastreada sin indexar · pedida 2026-10-05 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/cortadas-trabajo-herramientas-puntos-tetano-la-porte  — cambiada 2026-11-11 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/examen-dot-cdl-camioneros-laporte  — desconocida · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/frentes-frios-alergia-resfriado-gripe-la-porte  — cambiada 2026-10-07 · sin datos de inspección · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 
-## Tanda 77
+## Tanda 80
 
-- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · desconocida · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · descubierta sin indexar · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · desconocida · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/golpes-torceduras-deporte-ninos-cuando-revisar-la-porte  — cambiada 2026-11-04 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · desconocida · pedida 2026-10-06 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · descubierta sin indexar · pedida 2026-10-06 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/promociones  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-18 · 18 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/landing/comparacion-clinicas-laporte  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-20 · 9 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-hombre-laporte-chequeos-preventivos  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-20 · 1 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-20 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/atencion-medica-sin-seguro-laporte  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-20 · 0 impr.
+
+## Tanda 81
+
+- [ ] https://www.clinicahispananslaporte.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-20 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/calor-orina-oscura-trabajo-aire-libre-la-porte  — cambiada 2026-10-28 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/control-diabetes-laporte-guia-pacientes  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-24 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/cortadas-trabajo-herramientas-puntos-tetano-la-porte  — cambiada 2026-11-11 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/examen-dot-cdl-camioneros-laporte  — sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/ginecologos-hispanos-laporte-hablan-espanol  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/golpes-torceduras-deporte-ninos-cuando-revisar-la-porte  — cambiada 2026-11-04 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/hombres-jovenes-presion-alta-trabajo-energeticas-la-porte  — cambiada 2026-10-28 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/laboratorio-clinico-laporte-analisis-sangre  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/blog/salud-mujer-laporte-servicios-ginecologia  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+
+## Tanda 82
+
+- [ ] https://www.clinicahispananslaporte.com/en/services  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-fisico-escolar  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examen-heces  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/examenes-sangre  — cambiada 2026-10-19 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/farmacia  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/infecciones-urinarias  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-strep  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/prueba-tuberculosis  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+
+## Tanda 83
+
+- [ ] https://www.clinicahispananslaporte.com/en/services/sueros-vitaminados  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/suturas-heridas  — cambiada 2026-09-07 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/tiroides  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/ultrasonido  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/unas-encarnadas  — cambiada 2026-09-07 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/services/vacunas  — cambiada 2026-09-07 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
+- [ ] https://www.clinicahispananslaporte.com/en/walk-in  — cambiada 2026-10-03 · sin datos de inspección · pedida 2026-10-24 · 0 impr.
 
 ## Historial (tandas pedidas)
 
